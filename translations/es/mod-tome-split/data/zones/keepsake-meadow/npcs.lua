@@ -1,0 +1,42 @@
+-- mod-tome/data/zones/keepsake-meadow/npcs.lua
+-- Total: 35 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("humanoid", "humanoid", "entity type")
+t("human", "human", "entity subtype")
+t("To arms!", "To arms!", "_t")
+t("Monster!", "Monster!", "_t")
+t("Die!", "Die!", "_t")
+t("You will not kill us!", "You will not kill us!", "_t")
+t("We will end this!", "We will end this!", "_t")
+t("caravan merchant", "caravan merchant", "entity name")
+t("A caravan merchant.", "A caravan merchant.", "_t")
+t("caravan guard", "caravan guard", "entity name")
+t("A caravan guard.", "A caravan guard.", "_t")
+t("caravan porter", "caravan porter", "entity name")
+t("A caravan porter.", "A caravan porter.", "_t")
+t("war dog", "war dog", "entity name")
+t("This is a large dog, bred and trained for fighting.", "This is a large dog, bred and trained for fighting.", "_t")
+t("corrupted war dog", "corrupted war dog", "entity name")
+t("This is a large dog, bred and trained for fighting. Something about the way it moves doesn't look normal.", "This is a large dog, bred and trained for fighting. Something about the way it moves doesn't look normal.", "_t")
+t("undead", "undead", "entity type")
+t("shadow", "shadow", "entity subtype")
+t("shadow claw", "shadow claw", "entity name")
+t("A shadow, almost humanoid in shape. Long claws extend in front of it as is swims through the air.", "A shadow, almost humanoid in shape. Long claws extend in front of it as is swims through the air.", "_t")
+t("shadow stalker", "shadow stalker", "entity name")
+t("A shadow, almost humanoid in shape. It seems to move carefully and with cunning before swiftly striking.", "A shadow, almost humanoid in shape. It seems to move carefully and with cunning before swiftly striking.", "_t")
+t("A shadow, almost humanoid in shape. At times its form seems to be a force of will rather than something real.", "A shadow, almost humanoid in shape. At times its form seems to be a force of will rather than something real.", "_t")
+t("thalore", "thalore", "entity subtype")
+t("Companion Warrior", "Companion Warrior", "entity name")
+t("This elf is a companion of Berethh. He's dressed in light armor and wields a sword.", "This elf is a companion of Berethh. He's dressed in light armor and wields a sword.", "_t")
+t("Companion Archer", "Companion Archer", "entity name")
+t("This elf is a companion of Berethh. He's dressed in light armor and wields a bow.", "This elf is a companion of Berethh. He's dressed in light armor and wields a bow.", "_t")
+t("Kyless", "Kyless", "entity name")
+t("This is Kyless, your old friend. He seems dirtier than you recall and a good bit more dangerous.", "This is Kyless, your old friend. He seems dirtier than you recall and a good bit more dangerous.", "_t")
+t("and fed to his corrupted dogs", "and fed to his corrupted dogs", "_t")
+t("Berethh", "Berethh", "entity name")
+t("This is Berethh, your old friend. He is dressed in well-worn leather and skillfully wields a bow. There is something noble about the way he carries himself but his expression carries no emotion.", "This is Berethh, your old friend. He is dressed in well-worn leather and skillfully wields a bow. There is something noble about the way he carries himself but his expression carries no emotion.", "_t")
+t("and quickly burned in a pyre", "and quickly burned in a pyre", "_t")
+

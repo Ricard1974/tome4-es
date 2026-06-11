@@ -1,0 +1,43 @@
+-- mod-tome/data/birth/classes/wilder.lua
+-- Total: 36 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Wilder", "Wilder", "birth descriptor name")
+t("Natural abilities can go beyond mere skill. Experience the true powers of nature to learn of its amazing gifts.", "Natural abilities can go beyond mere skill. Experience the true powers of nature to learn of its amazing gifts.", "_t")
+t("Wilders are one with nature, in one manner or another. There are as many different Wilders as there are aspects of nature.", "Wilders are one with nature, in one manner or another. There are as many different Wilders as there are aspects of nature.", "_t")
+t("They can take on the aspects of creatures, summon creatures to them, feel the druidic call, ...", "They can take on the aspects of creatures, summon creatures to them, feel the druidic call, ...", "_t")
+t("Summoner", "Summoner", "birth descriptor name")
+t("Not all might comes from within. Hear the invocations of nature, hear its calling power. See that from without we can find our true strengths.", "Not all might comes from within. Hear the invocations of nature, hear its calling power. See that from without we can find our true strengths.", "_t")
+t("Summoners never fight alone. They are always ready to summon one of their many minions to fight at their side.", "Summoners never fight alone. They are always ready to summon one of their many minions to fight at their side.", "_t")
+t("Summons can range from a combat hound to a fire drake.", "Summons can range from a combat hound to a fire drake.", "_t")
+t("Their most important stats are: Willpower and Cunning", "Their most important stats are: Willpower and Cunning", "_t")
+t("#GOLD#Stat modifiers:", "#GOLD#Stat modifiers:", "_t")
+t("#LIGHT_BLUE# * +0 Strength, +1 Dexterity, +0 Constitution", "#LIGHT_BLUE# * +0 Strength, +1 Dexterity, +0 Constitution", "_t")
+t("#LIGHT_BLUE# * +0 Magic, +5 Willpower, +3 Cunning", "#LIGHT_BLUE# * +0 Magic, +5 Willpower, +3 Cunning", "_t")
+t("#GOLD#Life per level:#LIGHT_BLUE# +0", "#GOLD#Life per level:#LIGHT_BLUE# +0", "_t")
+t("Max summons: %d", "Max summons: %d", "tformat")
+t("Wyrmic", "Wyrmic", "birth descriptor name")
+t("Sleek, majestic, powerful... In the path of dragons we walk, and their breath is our breath. See their beating hearts with your eyes and taste their majesty between your teeth.", "Sleek, majestic, powerful... In the path of dragons we walk, and their breath is our breath. See their beating hearts with your eyes and taste their majesty between your teeth.", "_t")
+t("Wyrmics are fighters who have learnt how to mimic some of the aspects of the dragons.", "Wyrmics are fighters who have learnt how to mimic some of the aspects of the dragons.", "_t")
+t("They have access to talents normally belonging to the various kind of drakes.", "They have access to talents normally belonging to the various kind of drakes.", "_t")
+t("Their most important stats are: Strength and Willpower", "Their most important stats are: Strength and Willpower", "_t")
+t("#LIGHT_BLUE# * +5 Strength, +0 Dexterity, +1 Constitution", "#LIGHT_BLUE# * +5 Strength, +0 Dexterity, +1 Constitution", "_t")
+t("#LIGHT_BLUE# * +0 Magic, +3 Willpower, +0 Cunning", "#LIGHT_BLUE# * +0 Magic, +3 Willpower, +0 Cunning", "_t")
+t("#GOLD#Life per level:#LIGHT_BLUE# +2", "#GOLD#Life per level:#LIGHT_BLUE# +2", "_t")
+t("Oozemancer", "Oozemancer", "birth descriptor name")
+t("Magic must fail, magic must lose, nothing arcane can face the ooze...", "Magic must fail, magic must lose, nothing arcane can face the ooze...", "_t")
+t("Oozemancers separate themselves from normal civilisation so that they be more in harmony with Nature. Arcane force are reviled by them, and their natural attunement to the wilds lets them do battle with abusive magic-users on an equal footing.", "Oozemancers separate themselves from normal civilisation so that they be more in harmony with Nature. Arcane force are reviled by them, and their natural attunement to the wilds lets them do battle with abusive magic-users on an equal footing.", "_t")
+t("They can spawn oozes to protect and attack from a distance while also being adept at harnessing the power of mindstars and psiblades.", "They can spawn oozes to protect and attack from a distance while also being adept at harnessing the power of mindstars and psiblades.", "_t")
+t("#LIGHT_BLUE# * +0 Strength, +0 Dexterity, +0 Constitution", "#LIGHT_BLUE# * +0 Strength, +0 Dexterity, +0 Constitution", "_t")
+t("#LIGHT_BLUE# * +0 Magic, +5 Willpower, +4 Cunning", "#LIGHT_BLUE# * +0 Magic, +5 Willpower, +4 Cunning", "_t")
+t("#GOLD#Life per level:#LIGHT_BLUE# -3", "#GOLD#Life per level:#LIGHT_BLUE# -3", "_t")
+t("Stone Warden", "Stone Warden", "birth descriptor name")
+t("Stone Wardens are dwarves trained in both the eldritch arts and the worship of nature.", "Stone Wardens are dwarves trained in both the eldritch arts and the worship of nature.", "_t")
+t("While other races are stuck in their belief that arcane forces and natural forces are meant to oppose, dwarves have found a way to combine them in harmony.", "While other races are stuck in their belief that arcane forces and natural forces are meant to oppose, dwarves have found a way to combine them in harmony.", "_t")
+t("Stone Wardens are armoured fighters, dual wielding shields to channel many of their powers.", "Stone Wardens are armoured fighters, dual wielding shields to channel many of their powers.", "_t")
+t("Their most important stats are: Strength, Magic and Willpower", "Their most important stats are: Strength, Magic and Willpower", "_t")
+t("#LIGHT_BLUE# * +2 Strength, +0 Dexterity, +0 Constitution", "#LIGHT_BLUE# * +2 Strength, +0 Dexterity, +0 Constitution", "_t")
+t("#LIGHT_BLUE# * +4 Magic, +3 Willpower, +0 Cunning", "#LIGHT_BLUE# * +4 Magic, +3 Willpower, +0 Cunning", "_t")
+

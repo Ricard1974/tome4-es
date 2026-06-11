@@ -1,0 +1,43 @@
+-- mod-tome/data/talents/chronomancy/other.lua
+-- Total: 36 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Spacetime Tuning", "Spacetime Tuning", "talent name")
+t("Spacetime Tuning", "Spacetime Tuning", "_t")
+t("What's your preferred paradox level?", "What's your preferred paradox level?", "_t")
+t("Slow", "Slow", "talent name")
+t("Spacetime Mastery", "Spacetime Mastery", "talent name")
+t("Your mastery of spacetime reduces the cooldown of Banish, Dimensional Step, Swap, and Temporal Wake by %d, and the cooldown of Wormhole by %d.  Also improves your Spellpower for purposes of hitting targets with chronomancy effects that may cause continuum destabilization (Banish, Time Skip, etc.), as well as your chance of overcoming continuum destabilization, by %d%%.", "Your mastery of spacetime reduces the cooldown of Banish, Dimensional Step, Swap, and Temporal Wake by %d, and the cooldown of Wormhole by %d.  Also improves your Spellpower for purposes of hitting targets with chronomancy effects that may cause continuum destabilization (Banish, Time Skip, etc.), as well as your chance of overcoming continuum destabilization, by %d%%.", "tformat")
+t("Quantum Feed", "Quantum Feed", "talent name")
+t("Moment of Prescience", "Moment of Prescience", "talent name")
+t("Gather the Threads", "Gather the Threads", "talent name")
+t("Entropic Field", "Entropic Field", "talent name")
+t("Fade From Time", "Fade From Time", "talent name")
+t("Paradox Clone", "Paradox Clone", "talent name")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
+t("%s's Paradox Clone", "%s's Paradox Clone", "tformat")
+t("The real %s... or so %s says.", "The real %s... or so %s says.", "tformat")
+t("Paradox Clone", "Paradox Clone", "_t")
+t("Displace Damage", "Displace Damage", "talent name")
+t("#PINK##Source# displaces some damage onto #Target#!", "#PINK##Source# displaces some damage onto #Target#!", "delayedLogMessage")
+t("Repulsion Field", "Repulsion Field", "talent name")
+t("Temporal Clone", "Temporal Clone", "talent name")
+t("Temporal Clone", "Temporal Clone", "_t")
+t("Damage Smearing", "Damage Smearing", "talent name")
+t("%s(%d smeared)#LAST#", "%s(%d smeared)#LAST#", "tformat")
+t("Phase Shift", "Phase Shift", "talent name")
+t("Phase shift yourself for %d turns; any damage greater than 10%% of your maximum life will teleport you to an adjacent tile and be reduced by 50%% (can only happen once per turn).", "Phase shift yourself for %d turns; any damage greater than 10%% of your maximum life will teleport you to an adjacent tile and be reduced by 50%% (can only happen once per turn).", "tformat")
+t("Swap", "Swap", "talent name")
+t("The spell fizzles!", "The spell fizzles!", "logSeen")
+t("%s resists the swap!", "%s resists the swap!", "logSeen")
+t("Temporal Wake", "Temporal Wake", "talent name")
+t("You do not have line of sight.", "You do not have line of sight.", "logSeen")
+t("%s resists the stun!", "%s resists the stun!", "logSeen")
+t("Carbon Spikes", "Carbon Spikes", "talent name")
+t("Destabilize", "Destabilize", "talent name")
+t("Quantum Spike", "Quantum Spike", "talent name")
+t("%s has been pulled apart at a molecular level!", "%s has been pulled apart at a molecular level!", "logSeen")
+t("%s resists the quantum spike!", "%s resists the quantum spike!", "logSeen")
+

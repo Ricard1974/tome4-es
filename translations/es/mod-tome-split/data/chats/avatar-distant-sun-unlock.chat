@@ -1,0 +1,18 @@
+-- mod-tome/data/chats/avatar-distant-sun-unlock.chat
+-- Total: 11 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Uhh, okay. Sure. Mind showing me?", "Uhh, okay. Sure. Mind showing me?", "chat")
+t("I don't take unsolicited messages from... stars.", "I don't take unsolicited messages from... stars.", "chat")
+t("#YELLOW#YOU ONLY HAD TO ASK, MY FRIEND.", "#YELLOW#YOU ONLY HAD TO ASK, MY FRIEND.", "chat")
+t("#CRIMSON#[The area around you erupts in flames, burning your foes]", "#CRIMSON#[The area around you erupts in flames, burning your foes]", "chat")
+t("If you say so.", "If you say so.", "chat")
+t("Look, I appreciate the offer, but I don't know you.", "Look, I appreciate the offer, but I don't know you.", "chat")
+t("#YELLOW#DON'T BE LIKE THAT. I KNOW YOU ARE ON A NOBLE QUEST.", "#YELLOW#DON'T BE LIKE THAT. I KNOW YOU ARE ON A NOBLE QUEST.", "chat")
+t("I'm busy at the moment, so maybe call back another time?", "I'm busy at the moment, so maybe call back another time?", "chat")
+t("#YELLOW#I AM YOUR FRIEND. NOW YOU KNOW ME. LET US BEGIN A LONG AND FRUITFUL FRIENDSHIP.", "#YELLOW#I AM YOUR FRIEND. NOW YOU KNOW ME. LET US BEGIN A LONG AND FRUITFUL FRIENDSHIP.", "chat")
+t("#YELLOW#BUSY, YOU SAY? I CAN FIX THAT, LIKE ANY GOOD FRIEND WOULD.", "#YELLOW#BUSY, YOU SAY? I CAN FIX THAT, LIKE ANY GOOD FRIEND WOULD.", "chat")
+t("#YELLOW#YOU DON'T BELIEVE ME? THEN PLEASE, ALLOW ME TO SHOW YOU A MERE FRACTION OF MY POWER.", "#YELLOW#YOU DON'T BELIEVE ME? THEN PLEASE, ALLOW ME TO SHOW YOU A MERE FRACTION OF MY POWER.", "chat")
+

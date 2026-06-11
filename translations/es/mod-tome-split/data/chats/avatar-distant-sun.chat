@@ -1,0 +1,23 @@
+-- mod-tome/data/chats/avatar-distant-sun.chat
+-- Total: 16 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("#YELLOW#YOU ARE A CURIOUS ONE.", "#YELLOW#YOU ARE A CURIOUS ONE.", "chat")
+t("[...]", "[...]", "chat")
+t("#YELLOW#YOU HAVE MADE THE RIGHT CHOICE. TOGETHER, WE SHALL BRING ABOUT THE DESTRUCTION OF OUR ENEMIES.", "#YELLOW#YOU HAVE MADE THE RIGHT CHOICE. TOGETHER, WE SHALL BRING ABOUT THE DESTRUCTION OF OUR ENEMIES.", "chat")
+t("#GOLD#[you are now an Avatar of a Distant Sun]", "#GOLD#[you are now an Avatar of a Distant Sun]", "chat")
+t("Yes, give me your power!", "Yes, give me your power!", "chat")
+t("Who... Who are you?", "Who... Who are you?", "chat")
+t("But what are you getting out of this?", "But what are you getting out of this?", "chat")
+t("That doesn't tell me anything.", "That doesn't tell me anything.", "chat")
+t("But how are you speaking to me?", "But how are you speaking to me?", "chat")
+t("#YELLOW#I AM YOUR FRIEND. IT IS GOOD TO HAVE FRIENDS, ISN'T IT?", "#YELLOW#I AM YOUR FRIEND. IT IS GOOD TO HAVE FRIENDS, ISN'T IT?", "chat")
+t("You still haven't told me who or what you are.", "You still haven't told me who or what you are.", "chat")
+t("#YELLOW#I AM GETTING PLENTY OUT OF THIS.", "#YELLOW#I AM GETTING PLENTY OUT OF THIS.", "chat")
+t("#YELLOW#I TIRE OF YOUR NAGGING QUESTIONS. TALK, TALK, TALK. YOU HAVE A SIMPLE CHOICE BEFORE YOU. WILL YOU BECOME POWERFUL? OR WILL YOU BE WEAK AND ALONE?", "#YELLOW#I TIRE OF YOUR NAGGING QUESTIONS. TALK, TALK, TALK. YOU HAVE A SIMPLE CHOICE BEFORE YOU. WILL YOU BECOME POWERFUL? OR WILL YOU BE WEAK AND ALONE?", "chat")
+t("I don't trust you. Please go away.", "I don't trust you. Please go away.", "chat")
+t("#YELLOW#I HAVE LITTLE PATIENCE FOR TIME WASTERS. THIS SHALL BE THE LAST TIME WE SPEAK.", "#YELLOW#I HAVE LITTLE PATIENCE FOR TIME WASTERS. THIS SHALL BE THE LAST TIME WE SPEAK.", "chat")
+t("#GRAY#[prodigy point refunded]", "#GRAY#[prodigy point refunded]", "chat")
+

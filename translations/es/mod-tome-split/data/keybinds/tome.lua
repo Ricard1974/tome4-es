@@ -1,0 +1,40 @@
+-- mod-tome/data/keybinds/tome.lua
+-- Total: 33 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Show character sheet (player)", "Show character sheet (player)", "_t")
+t("Show character sheet (actor @ cursor)", "Show character sheet (actor @ cursor)", "_t")
+t("Select controlled character", "Select controlled character", "_t")
+t("Switch control to character 1", "Switch control to character 1", "_t")
+t("Switch control to character 2", "Switch control to character 2", "_t")
+t("Switch control to character 3", "Switch control to character 3", "_t")
+t("Switch control to character 4", "Switch control to character 4", "_t")
+t("Switch control to character 5", "Switch control to character 5", "_t")
+t("Switch control to character 6", "Switch control to character 6", "_t")
+t("Switch control to character 7", "Switch control to character 7", "_t")
+t("Switch control to character 8", "Switch control to character 8", "_t")
+t("Give order to character 1", "Give order to character 1", "_t")
+t("Give order to character 2", "Give order to character 2", "_t")
+t("Give order to character 3", "Give order to character 3", "_t")
+t("Give order to character 4", "Give order to character 4", "_t")
+t("Give order to character 5", "Give order to character 5", "_t")
+t("Give order to character 6", "Give order to character 6", "_t")
+t("Give order to character 7", "Give order to character 7", "_t")
+t("Give order to character 8", "Give order to character 8", "_t")
+t("Toggle movement mode", "Toggle movement mode", "_t")
+t("Attack left", "Attack left", "_t")
+t("Attack right", "Attack right", "_t")
+t("Attack up", "Attack up", "_t")
+t("Attack down", "Attack down", "_t")
+t("Attack diagonally left and up", "Attack diagonally left and up", "_t")
+t("Attack diagonally right and up", "Attack diagonally right and up", "_t")
+t("Attack diagonally left and down", "Attack diagonally left and down", "_t")
+t("Attack diagonally right and down", "Attack diagonally right and down", "_t")
+t("Toggle UI display", "Toggle UI display", "_t")
+t("Locks tooltip in place", "Locks tooltip in place", "_t")
+t("Locks tooltip in place while comparing items", "Locks tooltip in place while comparing items", "_t")
+t("Toggle automatic talent usage", "Toggle automatic talent usage", "_t")
+t("Toggle automatic accept target option", "Toggle automatic accept target option", "_t")
+

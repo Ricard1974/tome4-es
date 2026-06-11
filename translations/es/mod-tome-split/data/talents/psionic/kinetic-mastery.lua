@@ -1,0 +1,13 @@
+-- mod-tome/data/talents/psionic/kinetic-mastery.lua
+-- Total: 6 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Transcendent Telekinesis", "Transcendent Telekinesis", "talent name")
+t("Kinetic Surge", "Kinetic Surge", "talent name")
+t("%s resists the stun!", "%s resists the stun!", "logSeen")
+t("#YELLOW##Source# resists #Target#'s throw!", "#YELLOW##Source# resists #Target#'s throw!", "logCombat")
+t("Deflect Projectiles", "Deflect Projectiles", "talent name")
+t("Implode", "Implode", "talent name")
+

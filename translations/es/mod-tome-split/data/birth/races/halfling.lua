@@ -1,0 +1,41 @@
+-- mod-tome/data/birth/races/halfling.lua
+-- Total: 34 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Skin", "Skin", "birth facial category")
+t("Hairs", "Hairs", "birth facial category")
+t("Special", "Special", "birth facial category")
+t("Halfling", "Halfling", "birth descriptor name")
+t("Halflings are a race of very short stature, rarely exceeding four feet in height.", "Halflings are a race of very short stature, rarely exceeding four feet in height.", "_t")
+t("They are like humans in that they can do just about anything they set their minds to, yet they excel at ordering and studying things.", "They are like humans in that they can do just about anything they set their minds to, yet they excel at ordering and studying things.", "_t")
+t("Halfling armies have brought many kingdoms to their knees and they kept a balance of power with the Human kingdoms during the Age of Allure.", "Halfling armies have brought many kingdoms to their knees and they kept a balance of power with the Human kingdoms during the Age of Allure.", "_t")
+t("Halflings are agile, lucky, and resilient but lacking in strength.", "Halflings are agile, lucky, and resilient but lacking in strength.", "_t")
+t("Skin Color 1", "Skin Color 1", "_t")
+t("Skin Color 2", "Skin Color 2", "_t")
+t("Skin Color 3", "Skin Color 3", "_t")
+t("Skin Color 4", "Skin Color 4", "_t")
+t("Skin Color 5", "Skin Color 5", "_t")
+t("Skin Color 6", "Skin Color 6", "_t")
+t("Blond Hair 1", "Blond Hair 1", "_t")
+t("Blond Hair 2", "Blond Hair 2", "_t")
+t("Blond Hair 3", "Blond Hair 3", "_t")
+t("Blond Hair 4", "Blond Hair 4", "_t")
+t("Dark Hair 1", "Dark Hair 1", "_t")
+t("Dark Hair 2", "Dark Hair 2", "_t")
+t("Dark Hair 3", "Dark Hair 3", "_t")
+t("Dark Hair 4", "Dark Hair 4", "_t")
+t("Redhead 1", "Redhead 1", "_t")
+t("Redhead 2", "Redhead 2", "_t")
+t("Redhead 3", "Redhead 3", "_t")
+t("Redhead 4", "Redhead 4", "_t")
+t("Bikini / Mankini", "Bikini / Mankini", "_t")
+t("They possess the #GOLD#Luck of the Little Folk#WHITE# which allows them to increase their critical strike chance and saves for a few turns.", "They possess the #GOLD#Luck of the Little Folk#WHITE# which allows them to increase their critical strike chance and saves for a few turns.", "_t")
+t("#GOLD#Stat modifiers:", "#GOLD#Stat modifiers:", "_t")
+t("#LIGHT_BLUE# * -3 Strength, +3 Dexterity, +1 Constitution", "#LIGHT_BLUE# * -3 Strength, +3 Dexterity, +1 Constitution", "_t")
+t("#LIGHT_BLUE# * +0 Magic, +0 Willpower, +3 Cunning", "#LIGHT_BLUE# * +0 Magic, +0 Willpower, +3 Cunning", "_t")
+t("#LIGHT_BLUE# * +5 Luck", "#LIGHT_BLUE# * +5 Luck", "_t")
+t("#GOLD#Life per level:#LIGHT_BLUE# 12", "#GOLD#Life per level:#LIGHT_BLUE# 12", "_t")
+t("#GOLD#Experience penalty:#LIGHT_BLUE# 10%", "#GOLD#Experience penalty:#LIGHT_BLUE# 10%", "_t")
+

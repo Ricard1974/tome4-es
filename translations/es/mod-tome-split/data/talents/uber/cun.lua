@@ -1,0 +1,43 @@
+-- mod-tome/data/talents/uber/cun.lua
+-- Total: 36 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Fast As Lightning", "Fast As Lightning", "talent name")
+t("#LIGHT_BLUE#%s slows from critical velocity!", "#LIGHT_BLUE#%s slows from critical velocity!", "logSeen")
+t("#LIGHT_BLUE#%s reaches critical velocity!", "#LIGHT_BLUE#%s reaches critical velocity!", "logSeen")
+t("Tricky Defenses", "Tricky Defenses", "talent name")
+t("Antimagic", "Antimagic", "_t")
+t("Endless Woes", "Endless Woes", "talent name")
+t("Have dealt over 10000 acid, blight, darkness, mind or temporal damage", "Have dealt over 10000 acid, blight, darkness, mind or temporal damage", "_t")
+t("You unleash a blast of #LIGHT_STEEL_BLUE#temporal#LAST# energy!", "You unleash a blast of #LIGHT_STEEL_BLUE#temporal#LAST# energy!", "logSeen")
+t("You unleash a blast of #DARK_GREEN#virulent blight!#LAST#!", "You unleash a blast of #DARK_GREEN#virulent blight!#LAST#!", "logSeen")
+t("You unleash a blast of #GREEN#acid#LAST#!", "You unleash a blast of #GREEN#acid#LAST#!", "logSeen")
+t("You unleash a blast of numbing #GREY#darkness#LAST#!", "You unleash a blast of numbing #GREY#darkness#LAST#!", "logSeen")
+t("You unleash a confusing blast of #YELLOW#mental#LAST# energy!", "You unleash a confusing blast of #YELLOW#mental#LAST# energy!", "logSeen")
+t("You unleash a crippling blast of earthen energy!", "You unleash a crippling blast of earthen energy!", "logSeen")
+t("(Cooldowns)", "(Cooldowns)", "_t")
+t("Secrets of Telos", "Secrets of Telos", "talent name")
+t("Possess Telos Top Half, Telos Bottom Half, and Telos Staff Crystal", "Possess Telos Top Half, Telos Bottom Half, and Telos Staff Crystal", "_t")
+t("#VIOLET#%s assembles %s!", "#VIOLET#%s assembles %s!", "logSeen")
+t("You have obtained the three parts of the Staff of Telos and studied them carefully. You believe that you can merge them back into a single highly potent staff.", "You have obtained the three parts of the Staff of Telos and studied them carefully. You believe that you can merge them back into a single highly potent staff.", "tformat")
+t("Elemental Surge", "Elemental Surge", "talent name")
+t("Have dealt over 10000 arcane, fire, cold, lightning, light or nature damage", "Have dealt over 10000 arcane, fire, cold, lightning, light or nature damage", "_t")
+t("%s surges with earthen power!", "%s surges with earthen power!", "logSeen")
+t("%s surges with #PURPLE#arcane#LAST# power!", "%s surges with #PURPLE#arcane#LAST# power!", "logSeen")
+t("%s surges with #LIGHT_RED#fiery#LAST# power!", "%s surges with #LIGHT_RED#fiery#LAST# power!", "logSeen")
+t("%s surges with #1133F3#icy#LAST# power!", "%s surges with #1133F3#icy#LAST# power!", "logSeen")
+t("%s surges with #ROYAL_BLUE#lightning#LAST# power!", "%s surges with #ROYAL_BLUE#lightning#LAST# power!", "logSeen")
+t("%s surges with #YELLOW#light#LAST# power!", "%s surges with #YELLOW#light#LAST# power!", "logSeen")
+t("%s surges with #LIGHT_GREEN#natural#LAST# power!", "%s surges with #LIGHT_GREEN#natural#LAST# power!", "logSeen")
+t("All physical criticals reduce the remaining cooldown of a random technique or cunning talent by 2.", "All physical criticals reduce the remaining cooldown of a random technique or cunning talent by 2.", "_t")
+t("All spell criticals reduce the remaining cooldown of a random spell/corruption/celestial/chronomancy talent by 2.", "All spell criticals reduce the remaining cooldown of a random spell/corruption/celestial/chronomancy talent by 2.", "_t")
+t("All mind criticals reduce the remaining cooldown of a random wild gift/psionic/afflicted talent by 2.", "All mind criticals reduce the remaining cooldown of a random wild gift/psionic/afflicted talent by 2.", "_t")
+t("Eye of the Tiger", "Eye of the Tiger", "talent name")
+t("Worldly Knowledge", "Worldly Knowledge", "talent name")
+t("Worldly Knowledge", "Worldly Knowledge", "_t")
+t("Adept", "Adept", "talent name")
+t("Tricks of the Trade", "Tricks of the Trade", "talent name")
+t("Have sided with the Assassin Lord", "Have sided with the Assassin Lord", "_t")
+

@@ -1,0 +1,40 @@
+-- mod-tome/mod/class/generator/actor/Arena.lua
+-- Total: 33 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("giant crystal rat", "giant crystal rat", "_t")
+t("Skeletal rats", "Skeletal rats", "_t")
+t("Gladiators", "Gladiators", "_t")
+t("Golden crystals", "Golden crystals", "_t")
+t("Master slingers", "Master slingers", "_t")
+t("Master Alchemist", "Master Alchemist", "_t")
+t("Multi-hued Wyrmic", "Multi-hued Wyrmic", "_t")
+t("Reaver", "Reaver", "_t")
+t("Headless horror", "Headless horror", "_t")
+t("Ryal the Towering", "Ryal the Towering", "_t")
+t("Boss fight!", "Boss fight!", "_t")
+t("Victory!!", "Victory!!", "_t")
+t("Fryjia the Hailstorm", "Fryjia the Hailstorm", "_t")
+t("Riala the Crimson", "Riala the Crimson", "_t")
+t("Valfren the Rampage", "Valfren the Rampage", "_t")
+t("%s the %s", "%s the %s", "tformat")
+t(" appear!!", " appear!!", "_t")
+t(" appears!!", " appears!!", "_t")
+t("#LIGHT_RED#%s%s", "#LIGHT_RED#%s%s", "log")
+t("#LIGHT_RED#WARNING! %s appears!!!", "#LIGHT_RED#WARNING! %s appears!!!", "log")
+t("The final fight!", "The final fight!", "_t")
+t("Congratulations!", "Congratulations!", "_t")
+t("Rej the Master of Arena", "Rej the Master of Arena", "_t")
+t("#LIGHT_RED#WARNING! Rej Arkatis, the master of the arena, appears!!!", "#LIGHT_RED#WARNING! Rej Arkatis, the master of the arena, appears!!!", "log")
+t("%s the Master of Arena", "%s the Master of Arena", "tformat")
+t("#LIGHT_RED#WARNING! %s, the master of the arena, appears!!!", "#LIGHT_RED#WARNING! %s, the master of the arena, appears!!!", "log")
+t("OVERKILL", "OVERKILL", "_t")
+t("#LIGHT_GREEN#Your powerful attack completely obliterates #WHITE#%s#LIGHT_GREEN#!", "#LIGHT_GREEN#Your powerful attack completely obliterates #WHITE#%s#LIGHT_GREEN#!", "log")
+t("#LIGHT_GREEN#The audience cheers!", "#LIGHT_GREEN#The audience cheers!", "log")
+t("#LIGHT_GREEN#You destroy #WHITE#%s#LIGHT_GREEN# in a single blow!", "#LIGHT_GREEN#You destroy #WHITE#%s#LIGHT_GREEN# in a single blow!", "log")
+t("#LIGHT_GREEN#Your score multiplier increases by #WHITE#%d#LIGHT_GREEN#!", "#LIGHT_GREEN#Your score multiplier increases by #WHITE#%d#LIGHT_GREEN#!", "log")
+t("#LIGHT_GREEN#Your score multiplier increases by #WHITE#0.1#LIGHT_GREEN#!", "#LIGHT_GREEN#Your score multiplier increases by #WHITE#0.1#LIGHT_GREEN#!", "log")
+t("#YELLOW#You defeat an experienced enemy!", "#YELLOW#You defeat an experienced enemy!", "log")
+

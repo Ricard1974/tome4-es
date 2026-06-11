@@ -1,0 +1,10 @@
+-- mod-tome/data/quests/start-archmage.lua
+-- Total: 3 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Spellblaze Fallouts", "Spellblaze Fallouts", "_t")
+t("#LIGHT_GREEN#* You have explored the expanse and closed all three wormholes.#WHITE#", "#LIGHT_GREEN#* You have explored the expanse and closed all three wormholes.#WHITE#", "_t")
+t("#SLATE#* You have closed %s wormhole(s).#WHITE#", "#SLATE#* You have closed %s wormhole(s).#WHITE#", "tformat")
+

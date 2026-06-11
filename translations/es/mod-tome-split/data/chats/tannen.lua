@@ -1,0 +1,42 @@
+-- mod-tome/data/chats/tannen.lua
+-- Total: 35 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("#LIGHT_GREEN#*Nobody answers.*#WHITE#", "#LIGHT_GREEN#*Nobody answers.*#WHITE#", "_t")
+t("[leave]", "[leave]", "_t")
+t("#LIGHT_GREEN#*Nobody answers. Tannen is probably still busy studying the orb.*#WHITE#", "#LIGHT_GREEN#*Nobody answers. Tannen is probably still busy studying the orb.*#WHITE#", "_t")
+t("How may I be of service, good @playerdescriptor.race@?", "How may I be of service, good @playerdescriptor.race@?", "_t")
+t("[Relate to him the story of the staff and the Orb of Many Ways and the portals.]", "[Relate to him the story of the staff and the Orb of Many Ways and the portals.]", "_t")
+t("I have the diamond and the athame. [Hand over the Athame and Diamond]", "I have the diamond and the athame. [Hand over the Athame and Diamond]", "_t")
+t("Thieving, murderous wretch. Prepare to die!", "Thieving, murderous wretch. Prepare to die!", "_t")
+t("How fares your research? Are we ready to create the portal?", "How fares your research? Are we ready to create the portal?", "_t")
+t("Nothing, excuse me. Bye!", "Nothing, excuse me. Bye!", "_t")
+t("Astonishing! I have heard tell of this Orb in ancient texts and legends. Might I see it?", "Astonishing! I have heard tell of this Orb in ancient texts and legends. Might I see it?", "_t")
+t("[Show him the Orb of Many Ways]", "[Show him the Orb of Many Ways]", "_t")
+t("Truly, it is the work of a great master. Perhaps Linaniil herself had a hand in its making. And you say you come bearing instructions in its usage?", "Truly, it is the work of a great master. Perhaps Linaniil herself had a hand in its making. And you say you come bearing instructions in its usage?", "_t")
+t("I do. [Show him Zemekkys's scribbled notes]", "I do. [Show him Zemekkys's scribbled notes]", "_t")
+t("#LIGHT_GREEN#*He spends a few minutes reading*#WHITE# Ah! I see. I did not at first grasp this Zemekkys's methods, but I see now that they are sound, and it is simply his penmanship that needs improvement. We can manage to reproduce his work here, but, as he says, we will need the Blood-Runed Athame and a Resonating Diamond.", "#LIGHT_GREEN#*He spends a few minutes reading*#WHITE# Ah! I see. I did not at first grasp this Zemekkys's methods, but I see now that they are sound, and it is simply his penmanship that needs improvement. We can manage to reproduce his work here, but, as he says, we will need the Blood-Runed Athame and a Resonating Diamond.", "_t")
+t("Have you any idea where they might be found?", "Have you any idea where they might be found?", "_t")
+t("If the orcs created a portal in the depths of Reknor, they must have had access to such items. And if these items cannot pass through the portal they created, then it stands to reason that they must still be in Maj'Eyal. I would search Reknor, starting near the portal itself. Perhaps they did not move the Athame and Diamond far after its creation.", "If the orcs created a portal in the depths of Reknor, they must have had access to such items. And if these items cannot pass through the portal they created, then it stands to reason that they must still be in Maj'Eyal. I would search Reknor, starting near the portal itself. Perhaps they did not move the Athame and Diamond far after its creation.", "_t")
+t("I'll get searching. Thank you.", "I'll get searching. Thank you.", "_t")
+t("One last thing. I will need to hold onto the Orb of Many Ways while you search. I lack the expertise this Chronomancer Zemekkys possesses, and have much learning on the subject to do if I am to follow in his footsteps.", "One last thing. I will need to hold onto the Orb of Many Ways while you search. I lack the expertise this Chronomancer Zemekkys possesses, and have much learning on the subject to do if I am to follow in his footsteps.", "_t")
+t("[Hand him the Orb] ", "[Hand him the Orb] ", "_t")
+t("I still require the Orb for now.", "I still require the Orb for now.", "_t")
+t("Thank you. I will treat it with the utmost care.", "Thank you. I will treat it with the utmost care.", "_t")
+t("Farewell. I'll return with the Athame and Diamond.", "Farewell. I'll return with the Athame and Diamond.", "_t")
+t("Very well. There is no hurry. But I will need to spend a number of days studying it before we can create your portal.", "Very well. There is no hurry. But I will need to spend a number of days studying it before we can create your portal.", "_t")
+t("I understand. I'll return with the Athame and Diamond.", "I understand. I'll return with the Athame and Diamond.", "_t")
+t("Thank you, and farewell.", "Thank you, and farewell.", "_t")
+t("Excellent. Are you yet willing to leave the Orb in my care for a time?", "Excellent. Are you yet willing to leave the Orb in my care for a time?", "_t")
+t("I dare not let it out of my sight. I'm sorry.", "I dare not let it out of my sight. I'm sorry.", "_t")
+t("Here it is. Guard it carefully. I must return to the Far East soon.", "Here it is. Guard it carefully. I must return to the Far East soon.", "_t")
+t("#LIGHT_GREEN#*The old man sighs*#WHITE# Very well. I suppose I must make do with a cursory examination under your supervision.", "#LIGHT_GREEN#*The old man sighs*#WHITE# Very well. I suppose I must make do with a cursory examination under your supervision.", "_t")
+t("[Hand him the orb]", "[Hand him the orb]", "_t")
+t("Thank you. Give me a few minutes. #LIGHT_GREEN#*He begins to pace back and forth absently, staring at the Orb.*#WHITE#", "Thank you. Give me a few minutes. #LIGHT_GREEN#*He begins to pace back and forth absently, staring at the Orb.*#WHITE#", "_t")
+t("[Wait]", "[Wait]", "_t")
+t("#LIGHT_GREEN#*He stops pacing and returns the Orb to you.*#WHITE# I believe I know most of what I need to. But I need a few details cleared up. You'll have to return to this Elven Chronomancer and ask him whether he meant an inverted probabilistic field or a reverted probabilistic field. I dare not guess, as the result could be quite unpleasant for you.", "#LIGHT_GREEN#*He stops pacing and returns the Orb to you.*#WHITE# I believe I know most of what I need to. But I need a few details cleared up. You'll have to return to this Elven Chronomancer and ask him whether he meant an inverted probabilistic field or a reverted probabilistic field. I dare not guess, as the result could be quite unpleasant for you.", "_t")
+t("I'll return with the answer.", "I'll return with the answer.", "_t")
+t("What in the...", "What in the...", "_t")
+

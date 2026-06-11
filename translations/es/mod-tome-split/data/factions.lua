@@ -1,0 +1,12 @@
+-- mod-tome/data/factions.lua
+-- Total: 5 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Neutral", "Neutral", "faction name")
+t("Unaligned", "Unaligned", "faction name")
+t("Merchant Caravan", "Merchant Caravan", "faction name")
+t("Point Zero Onslaught", "Point Zero Onslaught", "faction name")
+t("Point Zero Guardians", "Point Zero Guardians", "faction name")
+

@@ -88,6 +88,25 @@ def build_addon():
     print("  Construyendo addon tome-spanish...")
     print("=" * 60)
 
+    # Si existen archivos divididos, mergear primero
+    split_dir = TRANS_DIR / "mod-tome-split"
+    if split_dir.exists():
+        merge_script = Path(__file__).parent / "merge_sections.py"
+        if merge_script.exists():
+            print("  📂 Detectados archivos divididos, mergeando...")
+            import subprocess
+
+            result = subprocess.run(
+                [sys.executable, str(merge_script)], capture_output=True, text=True
+            )
+            if result.returncode == 0:
+                # Extraer número de secciones del output
+                for line in result.stdout.split("\n"):
+                    if "Merge completado" in line:
+                        print(f"     {line.strip()}")
+            else:
+                print(f"  ⚠ Error en merge: {result.stderr}")
+
     # Crear directorios
     LOCALE_DIR.mkdir(parents=True, exist_ok=True)
     ENGINE_LOCALE_DIR.mkdir(parents=True, exist_ok=True)

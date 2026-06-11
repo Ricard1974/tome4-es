@@ -1,0 +1,43 @@
+-- mod-tome/data/general/objects/egos/digger.lua
+-- Total: 36 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t(" of delving", " of delving", "entity name")
+t("delving", "delving", "entity keyword")
+t(" of endurance", " of endurance", "entity name")
+t("endurance", "endurance", "entity keyword")
+t("miner's ", "miner's ", "entity name")
+t("miner", "miner", "entity keyword")
+t("woodsman's ", "woodsman's ", "entity name")
+t("woodsman", "woodsman", "entity keyword")
+t(" of the Iron Throne", " of the Iron Throne", "entity name")
+t("iron.throne", "iron.throne", "entity keyword")
+t(" of Reknor", " of Reknor", "entity name")
+t("reknor", "reknor", "entity keyword")
+t("brutal ", "brutal ", "entity name")
+t("brutal", "brutal", "entity keyword")
+t("dream-smith's ", "dream-smith's ", "entity name")
+t("smiths", "smiths", "entity keyword")
+t("soldier's ", "soldier's ", "entity name")
+t("soldier", "soldier", "entity keyword")
+t("bloodhexed ", "bloodhexed ", "entity name")
+t("bloodhexed", "bloodhexed", "entity keyword")
+t("crystalomancer's ", "crystalomancer's ", "entity name")
+t("crystal", "crystal", "entity keyword")
+t("shattering ", "shattering ", "entity name")
+t("shattering", "shattering", "entity keyword")
+t("sapper's ", "sapper's ", "entity name")
+t("sapper", "sapper", "entity keyword")
+t("dwarven ", "dwarven ", "entity name")
+t("dwarven", "dwarven", "entity keyword")
+t(" of quickening", " of quickening", "entity name")
+t("quickening", "quickening", "entity keyword")
+t(" of predation", " of predation", "entity name")
+t("predation", "predation", "entity keyword")
+t(" of deeplife", " of deeplife", "entity name")
+t("deeplife", "deeplife", "entity keyword")
+t(" of wreckage", " of wreckage", "entity name")
+t("wreckage", "wreckage", "entity keyword")
+

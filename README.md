@@ -95,20 +95,64 @@ python3 scripts/build_addon.py --package
 
 ```
 tome4-es/
-├── tome-spanish/              # Addon para ToME4
-│   ├── init.lua               # Metadatos del addon
-│   ├── data/locales/          # Archivos de locale
-│   │   ├── es.lua             # Traducciones del módulo principal
-│   │   └── engine/es.lua      # Traducciones del engine
+├── tome-spanish/                  # Addon para ToME4
+│   ├── init.lua                   # Metadatos del addon
+│   ├── data/locales/              # Archivos de locale
+│   │   ├── es.lua                 # Traducciones del módulo principal
+│   │   └── engine/es.lua          # Traducciones del engine
 │   └── README.md
-├── translations/              # Archivos fuente de traducción
-│   ├── es/                    # Traducciones al español
-│   └── extracted-text/        # Textos extraídos del juego (referencia)
-├── scripts/                   # Scripts de utilidad
-│   ├── count_translations.py  # Contador de progreso
-│   └── build_addon.py         # Constructor del addon
-├── CONTRIBUTING.md            # Guía para contribuir
-└── README.md                  # Este archivo
+├── translations/                  # Archivos fuente de traducción
+│   ├── es/                        # Traducciones al español
+│   │   ├── engine.lua             # Engine (UI, keybinds) — 637 cadenas
+│   │   ├── mod-boot.lua           # Boot (razas, clases) — 265 cadenas
+│   │   ├── mod-tome.lua           # Módulo principal (AUTOGENERADO)
+│   │   ├── mod-tome-split/        # 📂 SECCIONES DIVIDIDAS (editar aquí)
+│   │   │   ├── data/
+│   │   │   │   ├── achievements/
+│   │   │   │   ├── birth/
+│   │   │   │   ├── talents/
+│   │   │   │   ├── lore/
+│   │   │   │   ├── quests/
+│   │   │   │   ├── chats/
+│   │   │   │   ├── general/
+│   │   │   │   │   ├── objects/
+│   │   │   │   │   ├── npcs/
+│   │   │   │   │   └── ...
+│   │   │   │   ├── zones/
+│   │   │   │   └── ...
+│   │   │   ├── mod/
+│   │   │   │   ├── class/
+│   │   │   │   └── dialogs/
+│   │   │   └── ... (1.208 archivos en total)
+│   │   ├── tome-addon-dev.lua      # Addon de desarrollo — 92 cadenas
+│   │   └── tome-items-vault.lua    # Bóveda de objetos — 64 cadenas
+│   └── extracted-text/             # Textos extraídos del juego (referencia)
+├── scripts/                        # Scripts de utilidad
+│   ├── count_translations.py       # Contador de progreso
+│   ├── build_addon.py              # Constructor del addon (auto-mergea si procede)
+│   ├── merge_sections.py           # Mergea archivos divididos → mod-tome.lua
+│   ├── split_sections.py           # Divide mod-tome.lua en archivos individuales
+│   ├── translate_safe.py           # Traducciones seguras del diccionario
+│   └── extract_strings.py          # Extrae cadenas únicas para análisis
+├── CONTRIBUTING.md                 # Guía para contribuir
+└── README.md                       # Este archivo
+```
+
+### Flujo de trabajo recomendado
+
+```
+1️⃣  Editar archivos en translations/es/mod-tome-split/data/...
+    (cada sección es un archivo independiente)
+
+2️⃣  Mergear los cambios:
+    python3 scripts/build_addon.py
+    (esto auto-mergea y construye el addon)
+
+3️⃣  Ver progreso:
+    python3 scripts/count_translations.py
+
+4️⃣  Probar en el juego:
+    Copiar tome-spanish/ a game/addons/
 ```
 
 ## Licencia

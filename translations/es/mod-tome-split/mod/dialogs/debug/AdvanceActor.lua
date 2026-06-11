@@ -1,0 +1,40 @@
+-- mod-tome/mod/dialogs/debug/AdvanceActor.lua
+-- Total: 33 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("DEBUG -- Levelup Actor: [%s] %s", "DEBUG -- Levelup Actor: [%s] %s", "tformat")
+t(" Advance to Level: ", " Advance to Level: ", "_t")
+t("Restore: %s (v%d)", "Restore: %s (v%d)", "tformat")
+t("Restore: none", "Restore: none", "_t")
+t("#LIGHT_BLUE#Restoring [%s]%s from backup version %d", "#LIGHT_BLUE#Restoring [%s]%s from backup version %d", "log")
+t("Gain points for stats, talents, and prodigies (unlimited respec)", "Gain points for stats, talents, and prodigies (unlimited respec)", "_t")
+t(" Force all BASE stats to: ", " Force all BASE stats to: ", "_t")
+t("", "", "_t")
+t(" Force all BONUS stats to: ", " Force all BONUS stats to: ", "_t")
+t("Learn Talents ", "Learn Talents ", "_t")
+t("Unlock & Learn all available talents to level: ", "Unlock & Learn all available talents to level: ", "_t")
+t("maximum allowed", "maximum allowed", "_t")
+t("Ignore requirements", "Ignore requirements", "_t")
+t("Force all talent mastery levels to (0.1-5.0): ", "Force all talent mastery levels to (0.1-5.0): ", "_t")
+t("no change", "no change", "_t")
+t("Unlock all talent types (slow)", "Unlock all talent types (slow)", "_t")
+t("Accept", "Accept", "_t")
+t("Cancel", "Cancel", "_t")
+t("#LIGHT_BLUE#AdvanceActor inputs: %s", "#LIGHT_BLUE#AdvanceActor inputs: %s", "log")
+t("%s #GOLD#Forcing all Base Stats to %s", "%s #GOLD#Forcing all Base Stats to %s", "log")
+t("%s #GOLD#Resetting all talents_types_mastery to %s", "%s #GOLD#Resetting all talents_types_mastery to %s", "log")
+t("%s #GOLD#Unlocking All Talent Types", "%s #GOLD#Unlocking All Talent Types", "log")
+t("#LIGHT_BLUE#%s -- %s", "#LIGHT_BLUE#%s -- %s", "log")
+t("#GOLD#Checking %s Talents (%s)", "#GOLD#Checking %s Talents (%s)", "log")
+t("#LIGHT_BLUE#Talent %s learned to level %d", "#LIGHT_BLUE#Talent %s learned to level %d", "log")
+t("%s #GOLD#Forcing all Bonus Stats to %s", "%s #GOLD#Forcing all Bonus Stats to %s", "log")
+t("%d stat point(s)", "%d stat point(s)", "tformat")
+t("%d class talent point(s)", "%d class talent point(s)", "tformat")
+t("%d generic talent point(s)", "%d generic talent point(s)", "tformat")
+t("%d category point(s)", "%d category point(s)", "tformat")
+t("#ORCHID#%d prodigy point(s)#LAST#", "#ORCHID#%d prodigy point(s)#LAST#", "tformat")
+t("#LIGHT_BLUE#%s has %s to spend", "#LIGHT_BLUE#%s has %s to spend", "log")
+t(", and ", ", and ", "_t")
+

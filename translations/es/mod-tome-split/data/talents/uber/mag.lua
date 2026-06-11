@@ -1,0 +1,41 @@
+-- mod-tome/data/talents/uber/mag.lua
+-- Total: 34 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Spectral Shield", "Spectral Shield", "talent name")
+t("Know the Block talent, have cast 100 spells, and have a block value over 200", "Know the Block talent, have cast 100 spells, and have a block value over 200", "_t")
+t("By infusing your shield with raw magic, your block can now block any damage type.", "By infusing your shield with raw magic, your block can now block any damage type.", "tformat")
+t("Ethereal Form", "Ethereal Form", "talent name")
+t("Have an effective defense of at least 40", "Have an effective defense of at least 40", "_t")
+t("Aether Permeation", "Aether Permeation", "talent name")
+t("Have been exposed to the void of space", "Have been exposed to the void of space", "_t")
+t("#ORCHID#Aether Permeation protects %s from a dispel!", "#ORCHID#Aether Permeation protects %s from a dispel!", "logSeen")
+t("Mystical Cunning", "Mystical Cunning", "talent name")
+t("Know how to either prepare traps or apply poisons", "Know how to either prepare traps or apply poisons", "_t")
+t("Arcane Might", "Arcane Might", "talent name")
+t("Temporal Form", "Temporal Form", "talent name")
+t("Have cast over 1000 spells and visited a zone outside of time", "Have cast over 1000 spells and visited a zone outside of time", "_t")
+t("Blighted Summoning", "Blighted Summoning", "talent name")
+t("Have summoned at least 100 creatures. More permanent summons may count as more than 1.", "Have summoned at least 100 creatures. More permanent summons may count as more than 1.", "_t")
+t("Revisionist History", "Revisionist History", "talent name")
+t("Have time-travelled at least once", "Have time-travelled at least once", "_t")
+t("Unfold History", "Unfold History", "talent name")
+t("Rewrite the recent past to go back to when you cast Revisionist History.", "Rewrite the recent past to go back to when you cast Revisionist History.", "tformat")
+t("Cauterize", "Cauterize", "talent name")
+t("Have received at least 3500 fire damage and have cast at least 1000 spells", "Have received at least 3500 fire damage and have cast at least 1000 spells", "_t")
+t("Lich", "Lich", "talent name")
+t("Is a living creature that knows necromancy", "Is a living creature that knows necromancy", "_t")
+t("Have completed the ritual", "Have completed the ritual", "_t")
+t("#GREY#As you turn into a powerful undead you feel your body violently rejecting the Blood of Life.", "#GREY#As you turn into a powerful undead you feel your body violently rejecting the Blood of Life.", "log")
+t("Lichform", "Lichform", "_t")
+t("Lich Cosmetic Options", "Lich Cosmetic Options", "_t")
+t("Customize Appearance", "Customize Appearance", "_t")
+t("Use Default", "Use Default", "_t")
+t("#GREY#You feel your life slip away, only to be replaced by pure arcane forces! Your flesh starts to rot on your bones, and your eyes fall apart as you are reborn into a Lich!", "#GREY#You feel your life slip away, only to be replaced by pure arcane forces! Your flesh starts to rot on your bones, and your eyes fall apart as you are reborn into a Lich!", "_t")
+t("#DARK_ORCHID#You are on your way to Lichdom. #{bold}#Your next death will finish the ritual.#{normal}#", "#DARK_ORCHID#You are on your way to Lichdom. #{bold}#Your next death will finish the ritual.#{normal}#", "say")
+t("High Thaumaturgist", "High Thaumaturgist", "talent name")
+t("Unlocked the High Thaumaturgist evolution", "Unlocked the High Thaumaturgist evolution", "_t")
+t("High Thaumaturgist", "High Thaumaturgist", "_t")
+

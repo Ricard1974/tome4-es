@@ -1,0 +1,50 @@
+-- mod-tome/data/talents/misc/misc.lua
+-- Total: 41 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("base", "base", "talent category")
+t("class", "class", "talent type")
+t("The basic talents defining a class.", "The basic talents defining a class.", "_t")
+t("race", "race", "talent type")
+t("The various racial bonuses a character can have.", "The various racial bonuses a character can have.", "_t")
+t("inscriptions", "inscriptions", "talent category")
+t("infusions", "infusions", "talent type")
+t("Infusions are not class abilities, you must find them or learn them from other people.", "Infusions are not class abilities, you must find them or learn them from other people.", "_t")
+t("runes", "runes", "talent type")
+t("Runes are not class abilities, you must find them or learn them from other people.", "Runes are not class abilities, you must find them or learn them from other people.", "_t")
+t("taints", "taints", "talent type")
+t("Taints are not class abilities, you must find them or learn them from other people.", "Taints are not class abilities, you must find them or learn them from other people.", "_t")
+t("Attack", "Attack", "talent name")
+t("#Source# attacks empty space.", "#Source# attacks empty space.", "logCombat")
+t("Hack and slash, baby!", "Hack and slash, baby!", "tformat")
+t("Psi Pool", "Psi Pool", "talent name")
+t("Feedback Pool", "Feedback Pool", "talent name")
+t("Mana Pool", "Mana Pool", "talent name")
+t("Soul Pool", "Soul Pool", "talent name")
+t("Vim Pool", "Vim Pool", "talent name")
+t("Stamina Pool", "Stamina Pool", "talent name")
+t("Equilibrium Pool", "Equilibrium Pool", "talent name")
+t("Positive Pool", "Positive Pool", "talent name")
+t("Negative Pool", "Negative Pool", "talent name")
+t("Hate Pool", "Hate Pool", "talent name")
+t("#F53CBE#You have taken the life of an experienced foe!", "#F53CBE#You have taken the life of an experienced foe!", "_t")
+t("#F53CBE#Your hate has conquered a great adversary!", "#F53CBE#Your hate has conquered a great adversary!", "_t")
+t("#F53CBE#An elite foe has fallen to your hate!", "#F53CBE#An elite foe has fallen to your hate!", "_t")
+t("Paradox Pool", "Paradox Pool", "talent name")
+t("Hunted!", "Hunted!", "talent name")
+t("Teleport: Angolwen", "Teleport: Angolwen", "talent name")
+t("The spell fizzles...", "The spell fizzles...", "logPlayer")
+t("There are creatures that could be watching you; you cannot take the risk.", "There are creatures that could be watching you; you cannot take the risk.", "log")
+t("Timeport: Point Zero", "Timeport: Point Zero", "talent name")
+t("Relentless Pursuit", "Relentless Pursuit", "talent name")
+t("%s: Reducing duration of %s, using %s, by %d", "%s: Reducing duration of %s, using %s, by %d", "tformat")
+t("\
+%s effect durations -%d turns", "\
+%s effect durations -%d turns", "tformat")
+t("Teleport to the ground", "Teleport to the ground", "talent name")
+t("You cannot teleport there.", "You cannot teleport there.", "log")
+t("Fire a blast of energy", "Fire a blast of energy", "talent name")
+t("High Planetary Orbit", "High Planetary Orbit", "talent name")
+

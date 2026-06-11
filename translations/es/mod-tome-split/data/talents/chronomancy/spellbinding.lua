@@ -1,0 +1,12 @@
+-- mod-tome/data/talents/chronomancy/spellbinding.lua
+-- Total: 5 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Empower", "Empower", "talent name")
+t("None", "None", "_t")
+t("Extension", "Extension", "talent name")
+t("Matrix", "Matrix", "talent name")
+t("Quicken", "Quicken", "talent name")
+

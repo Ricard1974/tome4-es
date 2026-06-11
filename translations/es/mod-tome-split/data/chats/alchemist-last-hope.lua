@@ -1,0 +1,41 @@
+-- mod-tome/data/chats/alchemist-last-hope.lua
+-- Total: 34 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Damn it all. You're too late. %s has already finished. But I suppose you did your best, so I'll take these and keep my end of the bargian.", "Damn it all. You're too late. %s has already finished. But I suppose you did your best, so I'll take these and keep my end of the bargian.", "tformat")
+t("Great work! And you're still in one piece, I see. Always nice. I feel the same way after safely brewing up a particularly tricky mixture. I've near blown my face clean off several times. Oh, while you were gone a little bird told me that %s has managed to create a %s. Don't let him finish before me!", "Great work! And you're still in one piece, I see. Always nice. I feel the same way after safely brewing up a particularly tricky mixture. I've near blown my face clean off several times. Oh, while you were gone a little bird told me that %s has managed to create a %s. Don't let him finish before me!", "tformat")
+t("Always.", "Always.", "_t")
+t("[leave]", "[leave]", "_t")
+t("What do you propose?", "What do you propose?", "_t")
+t("I propose that I give you a list of monster parts to fetch, then you go and fetch them, then I make some blindingly amazing brews with said monster parts, then I get accepted into the Brotherhood of Alchemists.", "I propose that I give you a list of monster parts to fetch, then you go and fetch them, then I make some blindingly amazing brews with said monster parts, then I get accepted into the Brotherhood of Alchemists.", "_t")
+t("Sounds like a plan.", "Sounds like a plan.", "_t")
+t("I make excellent plans. And brews, which the Brotherhood will no doubt make me call 'elixirs' once I'm in. And I'll obey, because they have ways of getting what they want. Now, where were we?", "I make excellent plans. And brews, which the Brotherhood will no doubt make me call 'elixirs' once I'm in. And I'll obey, because they have ways of getting what they want. Now, where were we?", "_t")
+t("Aiding you with getting into some Brotherhood. What's in it for me?", "Aiding you with getting into some Brotherhood. What's in it for me?", "_t")
+t("Oh, easy. You get a swig of each brew, of course. They'll put hair on your chest, and possibly your eyelids and fingernails. And, if your aid proves the deciding factor, then I've got a real treat for you: perhaps the last Taint of Purging left in Maj'Eyal.", "Oh, easy. You get a swig of each brew, of course. They'll put hair on your chest, and possibly your eyelids and fingernails. And, if your aid proves the deciding factor, then I've got a real treat for you: perhaps the last Taint of Purging left in Maj'Eyal.", "_t")
+t("I accept.", "I accept.", "_t")
+t("I cannot aid you at this time.", "I cannot aid you at this time.", "_t")
+t("One last thing. There's a few other fellows angling for the same slot in the Brotherhood that I am. They're not going to be sitting on their hands while we're at work here, so best move quick-like. Now, which of these do you want to help me with first: the Brew of Brawn, the Brew of Stoneskin, or the Brew of Foundations? Or Elixirs, rather. Not Brews. Best get in the habit now, I suppose.", "One last thing. There's a few other fellows angling for the same slot in the Brotherhood that I am. They're not going to be sitting on their hands while we're at work here, so best move quick-like. Now, which of these do you want to help me with first: the Brew of Brawn, the Brew of Stoneskin, or the Brew of Foundations? Or Elixirs, rather. Not Brews. Best get in the habit now, I suppose.", "_t")
+t("The %s.", "The %s.", "tformat")
+t("Right, here's the list. Oh, one more thing. Got me some fellas already out hunting for this stuff, and I'll not play favorites. One of them brings me those ingredients before you do, and you're out of luck. Hurry back.", "Right, here's the list. Oh, one more thing. Got me some fellas already out hunting for this stuff, and I'll not play favorites. One of them brings me those ingredients before you do, and you're out of luck. Hurry back.", "_t")
+t("I'll be off.", "I'll be off.", "_t")
+t("Well, I'll see if I can help.", "Well, I'll see if I can help.", "_t")
+t("I'm here for profit, not errands - I have the list and will work on it; sort your own sidejobs out.", "I'm here for profit, not errands - I have the list and will work on it; sort your own sidejobs out.", "_t")
+t("#LIGHT_GREEN#*The door is locked and nobody responds to your knocks*#WHITE#", "#LIGHT_GREEN#*The door is locked and nobody responds to your knocks*#WHITE#", "_t")
+t("[Leave]", "[Leave]", "_t")
+t("I've returned with the ingredients for the %s.", "I've returned with the ingredients for the %s.", "tformat")
+t("I've come to offer more aid.", "I've come to offer more aid.", "_t")
+t("[Give him the monster bits.]", "[Give him the monster bits.]", "_t")
+t("[Give him the monster bits]", "[Give him the monster bits]", "_t")
+t("Give me an hour or so to make with the alchemy. Don't go anywhere.", "Give me an hour or so to make with the alchemy. Don't go anywhere.", "_t")
+t("[Wait]", "[Wait]", "_t")
+t("I'd invite you inside while you wait, but the she-dwarf's in there, and I've grown fond of you.", "I'd invite you inside while you wait, but the she-dwarf's in there, and I've grown fond of you.", "_t")
+t("Thank you. I'll be off.", "Thank you. I'll be off.", "_t")
+t("Bless you adventurers. Which will it be?", "Bless you adventurers. Which will it be?", "_t")
+t("Here's a list of the creature bits I need. Good luck with the murdering!", "Here's a list of the creature bits I need. Good luck with the murdering!", "_t")
+t("Er, it seems that while you were out, somebody else managed to bring me the ingredients. I've got no reward for you! Sorry about that, but when time is of the essence, 'first come, first served' is the only sensible policy.", "Er, it seems that while you were out, somebody else managed to bring me the ingredients. I've got no reward for you! Sorry about that, but when time is of the essence, 'first come, first served' is the only sensible policy.", "_t")
+t("Hrmph.", "Hrmph.", "_t")
+t("I'll do what I can.", "I'll do what I can.", "_t")
+t("He points out the location of the graveyard on your map.", "He points out the location of the graveyard on your map.", "log")
+

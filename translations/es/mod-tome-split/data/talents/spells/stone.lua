@@ -1,0 +1,11 @@
+-- mod-tome/data/talents/spells/stone.lua
+-- Total: 4 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Earthen Missiles", "Earthen Missiles", "talent name")
+t("Body of Stone", "Body of Stone", "talent name")
+t("Earthquake", "Earthquake", "talent name")
+t("Crystalline Focus", "Crystalline Focus", "talent name")
+

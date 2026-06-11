@@ -1,0 +1,42 @@
+-- mod-tome/data/general/encounters/maj-eyal.lua
+-- Total: 35 cadenas
+-- Estado: ⏳ Pendiente
+-- Ultima actualizacion: --
+-- Traductor: --
+
+t("Novice mage", "Novice mage", "entity name")
+t("harmless", "harmless", "entity type")
+t("special", "special", "entity subtype")
+t("Novice mage", "Novice mage", "_t")
+t("Lost merchant", "Lost merchant", "entity name")
+t("hostile", "hostile", "entity type")
+t("Encounter", "Encounter", "_t")
+t("You find a hidden trap door, and hear cries for help from within...", "You find a hidden trap door, and hear cries for help from within...", "_t")
+t("#LIGHT_BLUE#You carefully get away without making a sound.", "#LIGHT_BLUE#You carefully get away without making a sound.", "logPlayer")
+t("#LIGHT_RED#You carefully open the trap door and enter the underground tunnels...", "#LIGHT_RED#You carefully open the trap door and enter the underground tunnels...", "logPlayer")
+t("#LIGHT_RED#As you enter you notice the trap door has no visible handle on the inside. You are stuck here!", "#LIGHT_RED#As you enter you notice the trap door has no visible handle on the inside. You are stuck here!", "logPlayer")
+t("Enter the tunnels", "Enter the tunnels", "_t")
+t("Leave carefully", "Leave carefully", "_t")
+t("Sect of Kryl-Faijan", "Sect of Kryl-Faijan", "entity name")
+t("#LIGHT_RED#You carefully open the door and enter the underground crypt...", "#LIGHT_RED#You carefully open the door and enter the underground crypt...", "logPlayer")
+t("#LIGHT_RED#As you enter you notice the door has no visible handle on the inside. You are stuck here!", "#LIGHT_RED#As you enter you notice the door has no visible handle on the inside. You are stuck here!", "logPlayer")
+t("Enter the crypt", "Enter the crypt", "_t")
+t("Lost kitten", "Lost kitten", "entity name")
+t("Lost Kitty", "Lost Kitty", "_t")
+t("Ancient Elven Ruins", "Ancient Elven Ruins", "entity name")
+t("Entrance to some ancient elven ruins", "Entrance to some ancient elven ruins", "_t")
+t("Cursed Village", "Cursed Village", "entity name")
+t("Half-dead lumberjack", "Half-dead lumberjack", "_t")
+t("Ruined Dungeon", "Ruined Dungeon", "entity name")
+t("Entrance to a ruined dungeon", "Entrance to a ruined dungeon", "_t")
+t("Mark of the Spellblaze", "Mark of the Spellblaze", "entity name")
+t("Mark of the Spellblaze", "Mark of the Spellblaze", "_t")
+t("Golem Graveyard", "Golem Graveyard", "entity name")
+t("Golem Graveyard", "Golem Graveyard", "_t")
+t("Agrimley the Hermit", "Agrimley the Hermit", "entity name")
+t("Agrimley the Hermit", "Agrimley the Hermit", "_t")
+t("Ring of Blood", "Ring of Blood", "entity name")
+t("Hidden compound", "Hidden compound", "_t")
+t("Tranquil Meadow", "Tranquil Meadow", "entity name")
+t("tranquil meadow", "tranquil meadow", "_t")
+
