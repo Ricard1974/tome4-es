@@ -1,0 +1,12 @@
+long_name = "Traducción al Español del Menú Principal"
+short_name = "es"
+for_module = "boot"
+version = {1,7,6}
+addon_version = {1,0,0}
+weight = 6969
+author = { "Ricard1974", "ricard1974@example.com" }
+homepage = "https://github.com/Ricard1974/tome4-es"
+tags = { 'boot', 'espanol', 'spanish', 'translation' }
+description = [[Traducción al español del menú principal de ToME4.]]
+hooks = true
+data = true
