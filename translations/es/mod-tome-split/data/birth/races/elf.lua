@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Skin", "Skin", "birth facial category")
-t("Hairs", "Hairs", "birth facial category")
-t("Special", "Special", "birth facial category")
-t("Elf", "Elf", "birth descriptor name")
+t("Skin", "Piel", "birth facial category")
+t("Hairs", "Pelo", "birth facial category")
+t("Special", "Especial", "birth facial category")
+t("Elf", "Elfo", "birth descriptor name")
 t("The elven races are usually named as a whole 'elves', but this is incorrect.", "The elven races are usually named as a whole 'elves', but this is incorrect.", "_t")
 t("Elves are split into three separate races - albeit related - of which only two remain in the current age.", "Elves are split into three separate races - albeit related - of which only two remain in the current age.", "_t")
 t("Elves usually live about one thousand years, except for the Shaloren who magically sustain themselves forever.", "Elves usually live about one thousand years, except for the Shaloren who magically sustain themselves forever.", "_t")
@@ -41,7 +41,7 @@ t("Shalore", "Shalore", "birth descriptor name")
 t("Shaloren elves have close ties with the magic of the world, and produced in the past many great mages.", "Shaloren elves have close ties with the magic of the world, and produced in the past many great mages.", "_t")
 t("Yet they remain quiet and try to hide their magic from the world, for they remember too well the Spellblaze - and the Spellhunt that followed.", "Yet they remain quiet and try to hide their magic from the world, for they remember too well the Spellblaze - and the Spellhunt that followed.", "_t")
 t("They possess the #GOLD#Grace of the Eternals#WHITE# talent which allows them a boost of speed every once in a while.", "They possess the #GOLD#Grace of the Eternals#WHITE# talent which allows them a boost of speed every once in a while.", "_t")
-t("#GOLD#Stat modifiers:", "#GOLD#Stat modifiers:", "_t")
+t("#GOLD#Stat modifiers:", "#GOLD#Modificadores de atributos:", "_t")
 t("#LIGHT_BLUE# * -2 Strength, +1 Dexterity, +0 Constitution", "#LIGHT_BLUE# * -2 Strength, +1 Dexterity, +0 Constitution", "_t")
 t("#LIGHT_BLUE# * +2 Magic, +3 Willpower, +1 Cunning", "#LIGHT_BLUE# * +2 Magic, +3 Willpower, +1 Cunning", "_t")
 t("#GOLD#Life per level:#LIGHT_BLUE# 9", "#GOLD#Life per level:#LIGHT_BLUE# 9", "_t")

@@ -53,7 +53,7 @@ t("#AQUAMARINE#With Grgglck's death its tentacle also falls lifeless on the grou
 t("#AQUAMARINE#As #Source# falls you notice that #Target# seems to shudder in pain!", "#AQUAMARINE#As #Source# falls you notice that #Target# seems to shudder in pain!", "logCombat")
 t("Ak'Gishil", "Ak'Gishil", "entity name")
 t("This Blade Horror has been infused with intense temporal magic, causing its power to increase dramatically. Rifts in space open around it constantly, summoning and banishing blades before vanishing as quickly as they appear.", "This Blade Horror has been infused with intense temporal magic, causing its power to increase dramatically. Rifts in space open around it constantly, summoning and banishing blades before vanishing as quickly as they appear.", "_t")
-t("construct", "construct", "entity type")
+t("construct", "constructo", "entity type")
 t("weapon", "weapon", "entity subtype")
 t("Animated Sword", "Animated Sword", "entity name")
 t("Time seems to warp and bend around this floating weapon.", "Time seems to warp and bend around this floating weapon.", "_t")

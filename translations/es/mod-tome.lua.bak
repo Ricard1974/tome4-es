@@ -17344,7 +17344,7 @@ t("Nothing for now. Sorry to have taken your time. Farewell, my lady.", "Nothing
 t("I need to prepare myself. I will be back soon.", "I need to prepare myself. I will be back soon.", "_t")
 t("I am ready. Send me. I will not let the good people of Derth down.", "I am ready. Send me. I will not let the good people of Derth down.", "_t")
 t("Good luck to thee. Thou hast the blessings of Angolwen.", "Good luck to thee. Thou hast the blessings of Angolwen.", "_t")
-t("Thank you.", "Gracias.", "_t")
+t("Thank you.", "Thank you.", "_t")
 t("I see the storm is calmed.  Take this rune as a token of my appreciation.", "I see the storm is calmed.  Take this rune as a token of my appreciation.", "_t")
 --]==]
 
@@ -17764,7 +17764,7 @@ section "mod-tome/data/chats/escort-quest.lua"
 -- new text
 --[==[
 t("There you go. Farewell!", "There you go. Farewell!", "_t")
-t("Thank you.", "Gracias.", "_t")
+t("Thank you.", "Thank you.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -17933,7 +17933,7 @@ section "mod-tome/data/chats/last-hope-elder.lua"
 t("Welcome, @playername@, to Last Hope. Traveler, please be quick as my time is precious.", "Welcome, @playername@, to Last Hope. Traveler, please be quick as my time is precious.", "_t")
 t("I have found a strange staff in my travels (#LIGHT_GREEN#*describe it in detail*#LAST#)  It looked very old and very powerful. I dared not use it.", "I have found a strange staff in my travels (#LIGHT_GREEN#*describe it in detail*#LAST#)  It looked very old and very powerful. I dared not use it.", "_t")
 t("The hunt for the staff took me to a continent far to the east, accessible only by magic portal. I've recently returned by just such a portal, and I come bearing instructions on how to construct a similar portal here in Last Hope to make the return journey possible. I'm sure the Elves there would welcome trade with the west.", "The hunt for the staff took me to a continent far to the east, accessible only by magic portal. I've recently returned by just such a portal, and I come bearing instructions on how to construct a similar portal here in Last Hope to make the return journey possible. I'm sure the Elves there would welcome trade with the west.", "_t")
-t("Nothing, excuse me. Bye!", "Nada, disculpa. ¡Adiós!", "_t")
+t("Nothing, excuse me. Bye!", "Nothing, excuse me. Bye!", "_t")
 t("Here it is. #LIGHT_GREEN#*Tell him about the encounter with the orcs*#LAST# You should keep it. I can feel its power and it would be safer if it were guarded by the armies of the kingdom.", "Here it is. #LIGHT_GREEN#*Tell him about the encounter with the orcs*#LAST# You should keep it. I can feel its power and it would be safer if it were guarded by the armies of the kingdom.", "_t")
 t("I am afraid I lost it. #LIGHT_GREEN#*Tell him about the encounter with the orcs*", "I am afraid I lost it. #LIGHT_GREEN#*Tell him about the encounter with the orcs*", "_t")
 t("I had it briefly but have lost it somehow.  It could have been some orcs I encountered ...", "I had it briefly but have lost it somehow.  It could have been some orcs I encountered ...", "_t")
@@ -17943,7 +17943,7 @@ t("That's extraordinary! I know a number of merchant princes who will salivate a
 t("The staff is recovered and the culprits slain. They will trouble us no more. [tell him the whole story]", "The staff is recovered and the culprits slain. They will trouble us no more. [tell him the whole story]", "_t")
 t("The hunt continues. The construction of this portal will be of great assistance in the staff's recovery.", "The hunt continues. The construction of this portal will be of great assistance in the staff's recovery.", "_t")
 t("Excellent! Well then, concerning this fascinating portal, I'm afraid that men have largely forgotten whatever they once knew about the great magics of old. I know of only one man in these lands who might be able to help you, a wise man and recent arrival to Last Hope named Tannen. He claims to hail from Angolwen, a supposed haven for practitioners of magic and mysticism. He arrived just months ago with fabulous wealth and has already constructed his own tower in the northern part of the city. I know little of him, but if he is to be believed, then he is your best hope.", "Excellent! Well then, concerning this fascinating portal, I'm afraid that men have largely forgotten whatever they once knew about the great magics of old. I know of only one man in these lands who might be able to help you, a wise man and recent arrival to Last Hope named Tannen. He claims to hail from Angolwen, a supposed haven for practitioners of magic and mysticism. He arrived just months ago with fabulous wealth and has already constructed his own tower in the northern part of the city. I know little of him, but if he is to be believed, then he is your best hope.", "_t")
-t("Thank you.", "Gracias.", "_t")
+t("Thank you.", "Thank you.", "_t")
 t("In that case, let us proceed as quickly as possible. Now, concerning this fascinating portal. I'm afraid that men have largely forgotten whatever they once knew about the great magics of old. I know of only one man in these lands who might be able to help you, a wise man and recent arrival to Last Hope named Tannen. He claims to hail from Angolwen, a supposed haven for practitioners of magic and mysticism. He arrived just months ago with fabulous wealth and has already constructed his own tower in the northern part of the city. I know little of him, but if he is to be believed, then he is your best hope.", "In that case, let us proceed as quickly as possible. Now, concerning this fascinating portal. I'm afraid that men have largely forgotten whatever they once knew about the great magics of old. I know of only one man in these lands who might be able to help you, a wise man and recent arrival to Last Hope named Tannen. He claims to hail from Angolwen, a supposed haven for practitioners of magic and mysticism. He arrived just months ago with fabulous wealth and has already constructed his own tower in the northern part of the city. I know little of him, but if he is to be believed, then he is your best hope.", "_t")
 --]==]
 
@@ -18009,7 +18009,7 @@ t("Hi, I would like to talk to Melinda please.", "Hi, I would like to talk to Me
 t("Melinda", "Melinda", "_t")
 t("Sorry, I have to go!", "Sorry, I have to go!", "chat_last-hope-melinda-father")
 t("Please take this. It is nothing compared to the life of my child. Oh, and she wanted to thank you in person; I will call her.", "Please take this. It is nothing compared to the life of my child. Oh, and she wanted to thank you in person; I will call her.", "_t")
-t("Thank you.", "Gracias.", "_t")
+t("Thank you.", "Thank you.", "_t")
 t("Melinda's father gives you: %s", "Melinda's father gives you: %s", "logPlayer")
 t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "_t")
 t("@playername@! #LIGHT_GREEN#*She jumps for joy and hugs you while her father returns to his shop.*#WHITE#", "@playername@! #LIGHT_GREEN#*She jumps for joy and hugs you while her father returns to his shop.*#WHITE#", "_t")
@@ -18575,7 +18575,7 @@ t("[Relate to him the story of the staff and the Orb of Many Ways and the portal
 t("I have the diamond and the athame. [Hand over the Athame and Diamond]", "I have the diamond and the athame. [Hand over the Athame and Diamond]", "_t")
 t("Thieving, murderous wretch. Prepare to die!", "Thieving, murderous wretch. Prepare to die!", "_t")
 t("How fares your research? Are we ready to create the portal?", "How fares your research? Are we ready to create the portal?", "_t")
-t("Nothing, excuse me. Bye!", "Nada, disculpa. ¡Adiós!", "_t")
+t("Nothing, excuse me. Bye!", "Nothing, excuse me. Bye!", "_t")
 t("Astonishing! I have heard tell of this Orb in ancient texts and legends. Might I see it?", "Astonishing! I have heard tell of this Orb in ancient texts and legends. Might I see it?", "_t")
 t("[Show him the Orb of Many Ways]", "[Show him the Orb of Many Ways]", "_t")
 t("Truly, it is the work of a great master. Perhaps Linaniil herself had a hand in its making. And you say you come bearing instructions in its usage?", "Truly, it is the work of a great master. Perhaps Linaniil herself had a hand in its making. And you say you come bearing instructions in its usage?", "_t")
@@ -18707,7 +18707,7 @@ If this is your first time with the game, you will find the selection of races a
 \
 Now go boldly and remember: #GOLD#have fun!#WHITE#\
 Press #GOLD#Escape#WHITE#, then select #GOLD#Save and Exit#WHITE#, and create a new character!", "_t")
-t("Thank you.", "Gracias.", "_t")
+t("Thank you.", "Thank you.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -18884,7 +18884,7 @@ t("[Hold up the orb]", "[Hold up the orb]", "_t")
 t("May I come in?", "May I come in?", "_t")
 t("Where can I find all that?", "Where can I find all that?", "_t")
 t("Try your purse for the 100 gold. As for an Athame and a Resonating Diamond, I assume the orcs have some if they're cooking up portals to use that Orb on. Try the Vor Armory. It so happens that I know a back way in. Never mind why.", "Try your purse for the 100 gold. As for an Athame and a Resonating Diamond, I assume the orcs have some if they're cooking up portals to use that Orb on. Try the Vor Armory. It so happens that I know a back way in. Never mind why.", "_t")
-t("Thank you.", "Gracias.", "_t")
+t("Thank you.", "Thank you.", "_t")
 t("Of course there was no Resonating Diamond. What makes you think Briagh would let one loose for even a second?", "Of course there was no Resonating Diamond. What makes you think Briagh would let one loose for even a second?", "_t")
 t("Briagh?", "Briagh?", "_t")
 t("Briagh the Great Sand Wyrm. Where do you think Resonating Diamonds come from? They're just regular diamonds until they get stuck between Briagh's scales for a few centuries and get infused with his life rhythms. He sleeps on a hoard of precious gems and metals, you see.", "Briagh the Great Sand Wyrm. Where do you think Resonating Diamonds come from? They're just regular diamonds until they get stuck between Briagh's scales for a few centuries and get infused with his life rhythms. He sleeps on a hoard of precious gems and metals, you see.", "_t")

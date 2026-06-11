@@ -11,6 +11,6 @@ t("Nothing for now. Sorry to have taken your time. Farewell, my lady.", "Nothing
 t("I need to prepare myself. I will be back soon.", "I need to prepare myself. I will be back soon.", "_t")
 t("I am ready. Send me. I will not let the good people of Derth down.", "I am ready. Send me. I will not let the good people of Derth down.", "_t")
 t("Good luck to thee. Thou hast the blessings of Angolwen.", "Good luck to thee. Thou hast the blessings of Angolwen.", "_t")
-t("Thank you.", "Thank you.", "_t")
+t("Thank you.", "Gracias.", "_t")
 t("I see the storm is calmed.  Take this rune as a token of my appreciation.", "I see the storm is calmed.  Take this rune as a token of my appreciation.", "_t")
 

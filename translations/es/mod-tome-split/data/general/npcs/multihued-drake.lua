@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dragon", "dragon", "entity type")
+t("dragon", "dragón", "entity type")
 t("multihued", "multihued", "entity subtype")
 t("multi-hued drake hatchling", "multi-hued drake hatchling", "entity name")
 t("A drake hatchling. Not too powerful by itself, but it usually comes with its brothers and sisters.", "A drake hatchling. Not too powerful by itself, but it usually comes with its brothers and sisters.", "_t")

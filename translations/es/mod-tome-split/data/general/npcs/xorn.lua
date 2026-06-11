@@ -16,7 +16,7 @@ t("The Fragmented Essence of Harkor'Zun", "The Fragmented Essence of Harkor'Zun"
 t("Fragmented essence... maybe it'd be best if it stayed fragmented.", "Fragmented essence... maybe it'd be best if it stayed fragmented.", "_t")
 t("#AQUAMARINE#%s absorbs the energy of the destroyed fragment!", "#AQUAMARINE#%s absorbs the energy of the destroyed fragment!", "logSeen")
 t("#AQUAMARINE#%s is infused with all the energies of the fragments. The real Harkor'Zun is reconstituted!", "#AQUAMARINE#%s is infused with all the energies of the fragments. The real Harkor'Zun is reconstituted!", "logSeen")
-t("demon", "demon", "entity type")
+t("demon", "demonio", "entity type")
 t("major", "major", "entity subtype")
 t("Harkor'Zun", "Harkor'Zun", "entity name")
 t("A gigantic demon composed of elemental Earth, resembling a twisted Xaren but much, much larger.  It doesn't seem pleased with your presence.", "A gigantic demon composed of elemental Earth, resembling a twisted Xaren but much, much larger.  It doesn't seem pleased with your presence.", "_t")

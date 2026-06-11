@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Skin", "Skin", "birth facial category")
-t("Hairs", "Hairs", "birth facial category")
-t("Special", "Special", "birth facial category")
-t("Halfling", "Halfling", "birth descriptor name")
+t("Skin", "Piel", "birth facial category")
+t("Hairs", "Pelo", "birth facial category")
+t("Special", "Especial", "birth facial category")
+t("Halfling", "Mediano", "birth descriptor name")
 t("Halflings are a race of very short stature, rarely exceeding four feet in height.", "Halflings are a race of very short stature, rarely exceeding four feet in height.", "_t")
 t("They are like humans in that they can do just about anything they set their minds to, yet they excel at ordering and studying things.", "They are like humans in that they can do just about anything they set their minds to, yet they excel at ordering and studying things.", "_t")
 t("Halfling armies have brought many kingdoms to their knees and they kept a balance of power with the Human kingdoms during the Age of Allure.", "Halfling armies have brought many kingdoms to their knees and they kept a balance of power with the Human kingdoms during the Age of Allure.", "_t")
@@ -32,7 +32,7 @@ t("Redhead 3", "Redhead 3", "_t")
 t("Redhead 4", "Redhead 4", "_t")
 t("Bikini / Mankini", "Bikini / Mankini", "_t")
 t("They possess the #GOLD#Luck of the Little Folk#WHITE# which allows them to increase their critical strike chance and saves for a few turns.", "They possess the #GOLD#Luck of the Little Folk#WHITE# which allows them to increase their critical strike chance and saves for a few turns.", "_t")
-t("#GOLD#Stat modifiers:", "#GOLD#Stat modifiers:", "_t")
+t("#GOLD#Stat modifiers:", "#GOLD#Modificadores de atributos:", "_t")
 t("#LIGHT_BLUE# * -3 Strength, +3 Dexterity, +1 Constitution", "#LIGHT_BLUE# * -3 Strength, +3 Dexterity, +1 Constitution", "_t")
 t("#LIGHT_BLUE# * +0 Magic, +0 Willpower, +3 Cunning", "#LIGHT_BLUE# * +0 Magic, +0 Willpower, +3 Cunning", "_t")
 t("#LIGHT_BLUE# * +5 Luck", "#LIGHT_BLUE# * +5 Luck", "_t")

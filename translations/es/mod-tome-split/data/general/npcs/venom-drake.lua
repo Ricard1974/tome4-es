@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dragon", "dragon", "entity type")
+t("dragon", "dragón", "entity type")
 t("venom", "venom", "entity subtype")
 t("venom drake hatchling", "venom drake hatchling", "entity name")
 t("A corrosive venom drake hatchling; not too powerful by itself, but it usually comes with its brothers and sisters.", "A corrosive venom drake hatchling; not too powerful by itself, but it usually comes with its brothers and sisters.", "_t")

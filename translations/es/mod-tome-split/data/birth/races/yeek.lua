@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Skin", "Skin", "birth facial category")
-t("Hairs", "Hairs", "birth facial category")
-t("Facial features", "Facial features", "birth facial category")
+t("Skin", "Piel", "birth facial category")
+t("Hairs", "Pelo", "birth facial category")
+t("Facial features", "Rasgos faciales", "birth facial category")
 t("Tatoos", "Tatoos", "birth facial category")
-t("Special", "Special", "birth facial category")
+t("Special", "Especial", "birth facial category")
 t("Yeek", "Yeek", "birth descriptor name")
 t("One race, one mind, one way. Our oppression shall end, and we shall inherit Eyal. Do not presume we are weak - our way is true, and only those who help us shall see our strength.", "One race, one mind, one way. Our oppression shall end, and we shall inherit Eyal. Do not presume we are weak - our way is true, and only those who help us shall see our strength.", "_t")
 t("Yeeks are a mysterious race of small humanoids native to the tropical island of Rel.", "Yeeks are a mysterious race of small humanoids native to the tropical island of Rel.", "_t")
@@ -70,7 +70,7 @@ t("Yeeks are a mysterious race native to the tropical island of Rel.", "Yeeks ar
 t("Although they are now nearly unheard of in Maj'Eyal, they spent many centuries as secret slaves to the Halfling nation of Nargol.", "Although they are now nearly unheard of in Maj'Eyal, they spent many centuries as secret slaves to the Halfling nation of Nargol.", "_t")
 t("They possess the #GOLD#Dominant Will#WHITE# talent which allows them to temporarily subvert the mind of a lesser creature. When the effect ends, the creature dies.", "They possess the #GOLD#Dominant Will#WHITE# talent which allows them to temporarily subvert the mind of a lesser creature. When the effect ends, the creature dies.", "_t")
 t("While Yeeks are not amphibians, they still have an affinity for water, allowing them to survive longer without breathing.", "While Yeeks are not amphibians, they still have an affinity for water, allowing them to survive longer without breathing.", "_t")
-t("#GOLD#Stat modifiers:", "#GOLD#Stat modifiers:", "_t")
+t("#GOLD#Stat modifiers:", "#GOLD#Modificadores de atributos:", "_t")
 t("#LIGHT_BLUE# * -3 Strength, -2 Dexterity, -5 Constitution", "#LIGHT_BLUE# * -3 Strength, -2 Dexterity, -5 Constitution", "_t")
 t("#LIGHT_BLUE# * +0 Magic, +6 Willpower, +4 Cunning", "#LIGHT_BLUE# * +0 Magic, +6 Willpower, +4 Cunning", "_t")
 t("#GOLD#Life per level:#LIGHT_BLUE# 7", "#GOLD#Life per level:#LIGHT_BLUE# 7", "_t")

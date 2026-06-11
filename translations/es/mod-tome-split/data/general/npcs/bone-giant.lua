@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("undead", "undead", "entity type")
-t("giant", "giant", "entity subtype")
+t("giant", "gigante", "entity subtype")
 t("bone giant", "bone giant", "entity name")
 t("A towering creature, made from the bones of dozens of dead bodies. It is covered by an unholy aura.", "A towering creature, made from the bones of dozens of dead bodies. It is covered by an unholy aura.", "_t")
 t("eternal bone giant", "eternal bone giant", "entity name")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("human", "human", "entity subtype")
 t("cutpurse", "cutpurse", "entity name")
 t("The lowest of the thieves, this cutpurse is just learning the tricks of the trade.", "The lowest of the thieves, this cutpurse is just learning the tricks of the trade.", "_t")

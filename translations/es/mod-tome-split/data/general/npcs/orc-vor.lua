@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("orc", "orc", "entity subtype")
 t("orc pyromancer", "orc pyromancer", "entity name")
 t("An orc dressed in bright red robes. He mumbles in a harsh tongue.", "An orc dressed in bright red robes. He mumbles in a harsh tongue.", "_t")

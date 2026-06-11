@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("shalore", "shalore", "entity subtype")
 t("elven guard", "elven guard", "entity name")
 t("An elven guard.", "An elven guard.", "_t")

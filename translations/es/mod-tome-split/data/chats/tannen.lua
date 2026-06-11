@@ -12,7 +12,7 @@ t("[Relate to him the story of the staff and the Orb of Many Ways and the portal
 t("I have the diamond and the athame. [Hand over the Athame and Diamond]", "I have the diamond and the athame. [Hand over the Athame and Diamond]", "_t")
 t("Thieving, murderous wretch. Prepare to die!", "Thieving, murderous wretch. Prepare to die!", "_t")
 t("How fares your research? Are we ready to create the portal?", "How fares your research? Are we ready to create the portal?", "_t")
-t("Nothing, excuse me. Bye!", "Nothing, excuse me. Bye!", "_t")
+t("Nothing, excuse me. Bye!", "Nada, disculpa. ¡Adiós!", "_t")
 t("Astonishing! I have heard tell of this Orb in ancient texts and legends. Might I see it?", "Astonishing! I have heard tell of this Orb in ancient texts and legends. Might I see it?", "_t")
 t("[Show him the Orb of Many Ways]", "[Show him the Orb of Many Ways]", "_t")
 t("Truly, it is the work of a great master. Perhaps Linaniil herself had a hand in its making. And you say you come bearing instructions in its usage?", "Truly, it is the work of a great master. Perhaps Linaniil herself had a hand in its making. And you say you come bearing instructions in its usage?", "_t")

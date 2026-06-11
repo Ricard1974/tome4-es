@@ -12,7 +12,7 @@ t("A thought can inspire; a thought can kill. After centuries of oppression, yea
 t("Mindslayers specialize in direct and brutal application of mental forces to their immediate surroundings.", "Mindslayers specialize in direct and brutal application of mental forces to their immediate surroundings.", "_t")
 t("When Mindslayers do battle, they will most often be found in the thick of the fighting, vast energies churning around them and telekinetically-wielded weapons hewing nearby foes at the speed of thought.", "When Mindslayers do battle, they will most often be found in the thick of the fighting, vast energies churning around them and telekinetically-wielded weapons hewing nearby foes at the speed of thought.", "_t")
 t("Their most important stats are: Willpower and Cunning", "Their most important stats are: Willpower and Cunning", "_t")
-t("#GOLD#Stat modifiers:", "#GOLD#Stat modifiers:", "_t")
+t("#GOLD#Stat modifiers:", "#GOLD#Modificadores de atributos:", "_t")
 t("#LIGHT_BLUE# * +1 Strength, +0 Dexterity, +0 Constitution", "#LIGHT_BLUE# * +1 Strength, +0 Dexterity, +0 Constitution", "_t")
 t("#LIGHT_BLUE# * +0 Magic, +4 Willpower, +4 Cunning", "#LIGHT_BLUE# * +0 Magic, +4 Willpower, +4 Cunning", "_t")
 t("#GOLD#Life per level:#LIGHT_BLUE# -2", "#GOLD#Life per level:#LIGHT_BLUE# -2", "_t")

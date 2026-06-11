@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("demon", "demon", "entity type")
+t("demon", "demonio", "entity type")
 t("minor", "minor", "entity subtype")
 t("fire imp", "fire imp", "entity name")
 t("A small demon, lobbing spells at you.", "A small demon, lobbing spells at you.", "_t")

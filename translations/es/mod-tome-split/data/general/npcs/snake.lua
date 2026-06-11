@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("animal", "animal", "entity type")
-t("snake", "snake", "entity subtype")
+t("snake", "serpiente", "entity subtype")
 t("large brown snake", "large brown snake", "entity name")
 t("This large snake hisses at you, angry at being disturbed.", "This large snake hisses at you, angry at being disturbed.", "_t")
 t("large white snake", "large white snake", "entity name")

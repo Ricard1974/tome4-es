@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("insect", "insect", "entity type")
+t("insect", "insecto", "entity type")
 t("ant", "ant", "entity subtype")
 t("giant white ant", "giant white ant", "entity name")
 t("It's a large white ant.", "It's a large white ant.", "_t")

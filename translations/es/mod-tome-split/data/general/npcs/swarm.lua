@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("insect", "insect", "entity type")
+t("insect", "insecto", "entity type")
 t("swarms", "swarms", "entity subtype")
 t("Buzzzzzzzzzzzzzzzzzzzzzzzzzzz.", "Buzzzzzzzzzzzzzzzzzzzzzzzzzzz.", "_t")
 t("midge swarm", "midge swarm", "entity name")

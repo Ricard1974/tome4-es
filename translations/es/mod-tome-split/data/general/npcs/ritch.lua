@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("insect", "insect", "entity type")
+t("insect", "insecto", "entity type")
 t("ritch", "ritch", "entity subtype")
 t("ritch larva", "ritch larva", "entity name")
 t("ritch hunter", "ritch hunter", "entity name")

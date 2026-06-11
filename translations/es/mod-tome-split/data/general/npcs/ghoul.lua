@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("undead", "undead", "entity type")
-t("ghoul", "ghoul", "entity subtype")
-t("ghoul", "ghoul", "entity name")
+t("ghoul", "ghul", "entity subtype")
+t("ghoul", "ghul", "entity name")
 t("Flesh is falling off in chunks from this decaying abomination.", "Flesh is falling off in chunks from this decaying abomination.", "_t")
 t("ghast", "ghast", "entity name")
 t("This vile abomination is a relative of ghouls, and often leads packs of them. It smells foul, and its bite carries a rotting disease.", "This vile abomination is a relative of ghouls, and often leads packs of them. It smells foul, and its bite carries a rotting disease.", "_t")

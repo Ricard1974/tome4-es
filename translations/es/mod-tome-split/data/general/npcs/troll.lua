@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("giant", "giant", "entity type")
-t("troll", "troll", "entity subtype")
+t("giant", "gigante", "entity type")
+t("troll", "trol", "entity subtype")
 t("forest troll", "forest troll", "entity name")
 t("Green-skinned and ugly, this massive humanoid glares at you, clenching wart-covered green fists.", "Green-skinned and ugly, this massive humanoid glares at you, clenching wart-covered green fists.", "_t")
 t("stone troll", "stone troll", "entity name")

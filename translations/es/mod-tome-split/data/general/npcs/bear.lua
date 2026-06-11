@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("animal", "animal", "entity type")
-t("bear", "bear", "entity subtype")
+t("bear", "oso", "entity subtype")
 t("brown bear", "brown bear", "entity name")
 t("The weakest of bears, covered in brown shaggy fur.", "The weakest of bears, covered in brown shaggy fur.", "_t")
 t("black bear", "black bear", "entity name")

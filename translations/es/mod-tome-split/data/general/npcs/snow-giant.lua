@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("giant", "giant", "entity type")
+t("giant", "gigante", "entity type")
 t("ice", "ice", "entity subtype")
 t("snow giant", "snow giant", "entity name")
 t("A towering creature, humanoid but huge. It wields a giant maul and does not look friendly.", "A towering creature, humanoid but huge. It wields a giant maul and does not look friendly.", "_t")

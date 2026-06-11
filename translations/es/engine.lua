@@ -708,10 +708,10 @@ section "engine/engine/dialogs/GetQuantity.lua"
 -- new text
 --[==[
 t("Quantity", "Quantity", "_t")
-t("Accept", "Accept", "_t")
+t("Accept", "Aceptar", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Error", "Error", "_t")
-t("Enter a quantity.", "Enter a quantity.", "_t")
+t("Enter a quantity.", "Introduce una cantidad.", "_t")
 --]==]
 
 
@@ -722,10 +722,10 @@ section "engine/engine/dialogs/GetQuantitySlider.lua"
 -- new text
 --[==[
 t("Quantity", "Quantity", "_t")
-t("Accept", "Accept", "_t")
+t("Accept", "Aceptar", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Error", "Error", "_t")
-t("Enter a quantity.", "Enter a quantity.", "_t")
+t("Enter a quantity.", "Introduce una cantidad.", "_t")
 --]==]
 
 
@@ -736,7 +736,7 @@ section "engine/engine/dialogs/GetText.lua"
 -- new text
 --[==[
 t("", "", "_t")
-t("Accept", "Accept", "_t")
+t("Accept", "Aceptar", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Error", "Error", "_t")
 t("Must be between %i and %i characters.", "Debe tener entre %i y %i caracteres.", "tformat")
@@ -751,8 +751,8 @@ section "engine/engine/dialogs/KeyBinder.lua"
 --[==[
 t("Key bindings", "Key bindings", "_t")
 t("      Press a key (escape to cancel, backspace to remove) for: %s", "      Press a key (escape to cancel, backspace to remove) for: %s", "tformat")
-t("Bind key", "Bind key", "_t")
-t("Bind alternate key", "Bind alternate key", "_t")
+t("Bind key", "Asignar tecla", "_t")
+t("Bind alternate key", "Asignar tecla alternativa", "_t")
 t("Make gesture (using right mouse button) or type it (or escape) for: %s", "Make gesture (using right mouse button) or type it (or escape) for: %s", "tformat")
 t("Gesture", "Gesture", "_t")
 --]==]
@@ -776,11 +776,11 @@ section "engine/engine/dialogs/ShowAchievements.lua"
 --[==[
 t("Achievements(%s/%s)", "Achievements(%s/%s)", "tformat")
 t("Yours only", "Yours only", "_t")
-t("All achieved", "All achieved", "_t")
+t("All achieved", "Todo conseguido", "_t")
 t("Everything", "Everything", "_t")
 t("", "", "_t")
-t("Achievement", "Achievement", "_t")
-t("Category", "Category", "_t")
+t("Achievement", "Logro", "_t")
+t("Category", "Categoría", "_t")
 t("When", "When", "_t")
 t("Who", "Who", "_t")
 t([[#GOLD#Also achieved by your current character#LAST#
@@ -795,7 +795,7 @@ t([[#GOLD#Achieved on:#LAST# %s
 #GOLD#Description:#LAST# %s]], "tformat")
 t("Progress: ", "Progress: ", "_t")
 t("???", "???", "_t")
-t("-- Unknown --", "-- Unknown --", "_t")
+t("-- Unknown --", "-- Desconocido --", "_t")
 --]==]
 
 
@@ -807,7 +807,7 @@ section "engine/engine/dialogs/ShowEquipInven.lua"
 --[==[
 t("Inventory", "Inventario", "_t")
 t("", "", "_t")
-t("Category", "Category", "_t")
+t("Category", "Categoría", "_t")
 t("Enc.", "Enc.", "_t")
 t("Equipment", "Equipment", "_t")
 t("Hotkey %s assigned", "Hotkey %s assigned", "tformat")
@@ -823,7 +823,7 @@ section "engine/engine/dialogs/ShowEquipment.lua"
 --[==[
 t("Equipment", "Equipment", "_t")
 t("", "", "_t")
-t("Category", "Category", "_t")
+t("Category", "Categoría", "_t")
 t("Enc.", "Enc.", "_t")
 --]==]
 
@@ -852,7 +852,7 @@ t("What happened?: ", "What happened?: ", "_t")
 t("", "", "_t")
 t("Send", "Enviar", "_t")
 t("Close", "Cerrar", "_t")
-t("Close All", "Close All", "_t")
+t("Close All", "Cerrar todo", "_t")
 t("Log saved to file (click to copy to clipboard):#LIGHT_BLUE#%s", "Log saved to file (click to copy to clipboard):#LIGHT_BLUE#%s", "tformat")
 t("File location copied to clipboard.", "Ubicación del archivo copiada al portapapeles.", "log")
 t("#YELLOW#Error report sent, thank you.", "#YELLOW#Informe de error enviado, gracias.", "log")
@@ -867,7 +867,7 @@ section "engine/engine/dialogs/ShowInventory.lua"
 --[==[
 t("Inventory", "Inventario", "_t")
 t("", "", "_t")
-t("Category", "Category", "_t")
+t("Category", "Categoría", "_t")
 t("Enc.", "Enc.", "_t")
 --]==]
 
@@ -879,10 +879,10 @@ section "engine/engine/dialogs/ShowPickupFloor.lua"
 -- new text
 --[==[
 t("Pickup", "Pickup", "_t")
-t("(*) Take all", "(*) Take all", "_t")
+t("(*) Take all", "(*) Tomar todo", "_t")
 t("", "", "_t")
-t("Item", "Item", "_t")
-t("Category", "Category", "_t")
+t("Item", "Objeto", "_t")
+t("Category", "Categoría", "_t")
 t("Enc.", "Enc.", "_t")
 --]==]
 
@@ -905,10 +905,10 @@ section "engine/engine/dialogs/ShowStore.lua"
 
 -- new text
 --[==[
-t("Store", "Store", "_t")
+t("Store", "Tienda", "_t")
 t("", "", "_t")
 t("Inventory", "Inventario", "_t")
-t("Category", "Category", "_t")
+t("Category", "Categoría", "_t")
 t("Price", "Price", "_t")
 --]==]
 
@@ -944,8 +944,8 @@ This will remove all saves from the cloud cloud (but not your local copy). Only 
 This will remove all saves from the cloud cloud (but not your local copy). Only use if you somehow encounter storage problems on it (which should not happen, the game automatically manages it for you).#WHITE#]], "_t")
 t("#GOLD##{bold}#Purge Cloud Saves#WHITE##{normal}#", "#GOLD##{bold}#Purgar guardado en la nube#WHITE##{normal}#", "_t")
 t("Steam Cloud Purge", "Steam Cloud Purge", "_t")
-t("Confirm purge?", "Confirm purge?", "_t")
-t("All data purged from the cloud.", "All data purged from the cloud.", "_t")
+t("Confirm purge?", "¿Confirmar purga?", "_t")
+t("All data purged from the cloud.", "Todos los datos purgados de la nube.", "_t")
 --]==]
 
 
@@ -957,7 +957,7 @@ section "engine/engine/dialogs/Talkbox.lua"
 --[==[
 t("Say: ", "Say: ", "_t")
 t("", "", "_t")
-t("Accept", "Accept", "_t")
+t("Accept", "Aceptar", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Target: ", "Target: ", "_t")
 t("Channel: %s", "Channel: %s", "tformat")
@@ -993,7 +993,7 @@ section "engine/engine/dialogs/UserInfo.lua"
 -- new text
 --[==[
 t("User: %s", "User: %s", "tformat")
-t("Currently playing: ", "Currently playing: ", "_t")
+t("Currently playing: ", "Jugando actualmente: ", "_t")
 t("unknown", "desconocido", "_t")
 t("Game: ", "Game: ", "_t")
 t("Validation: ", "Validation: ", "_t")
@@ -1012,7 +1012,7 @@ section "engine/engine/dialogs/VideoOptions.lua"
 --[==[
 t("Video Options", "Opciones de vídeo", "_t")
 t("", "", "_t")
-t("Display resolution.", "Display resolution.", "_t")
+t("Display resolution.", "Resolución de pantalla.", "_t")
 t("#GOLD##{bold}#Resolution#WHITE##{normal}#", "#GOLD##{bold}#Resolución#WHITE##{normal}#", "_t")
 t("If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#", "If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#", "_t")
 t("#GOLD##{bold}#Screen Zoom#WHITE##{normal}#", "#GOLD##{bold}#Zoom de pantalla#WHITE##{normal}#", "_t")
@@ -1124,7 +1124,7 @@ t("Window Origin: Y-Coordinate", "Window Origin: Y-Coordinate", "_t")
 t("Enter the y-coordinate", "Enter the y-coordinate", "_t")
 t("Position changed.", "Position changed.", "_t")
 t("Save position?", "Save position?", "_t")
-t("Accept", "Accept", "_t")
+t("Accept", "Aceptar", "_t")
 t("Revert", "Revert", "_t")
 --]==]
 
@@ -1212,8 +1212,8 @@ t("%0.2f %s", "%0.2f %s", "tformat")
 t("%d coins", "%d monedas", "tformat")
 t("#{bold}#TOTAL#{normal}#", "#{bold}#TOTAL#{normal}#", "_t")
 t("  (%d items in cart, %s)", "  (%d items in cart, %s)", "tformat")
-t("Cart", "Cart", "_t")
-t("Cart is empty!", "Cart is empty!", "_t")
+t("Cart", "Carrito", "_t")
+t("Cart is empty!", "¡El carrito está vacío!", "_t")
 t([[In-game browser is inoperant or disabled, impossible to auto-install shimmer pack.
 Please go to https://te4.org/ to download it manually.]], [[In-game browser is inoperant or disabled, impossible to auto-install shimmer pack.
 Please go to https://te4.org/ to download it manually.]], "_t")
@@ -1229,11 +1229,11 @@ t("Payment", "Payment", "_t")
 t([[Payment accepted.
 %s]], [[Payment accepted.
 %s]], "tformat")
-t("Connecting to Steam", "Connecting to Steam", "_t")
+t("Connecting to Steam", "Conectando a Steam", "_t")
 t("Steam Overlay should appear, if it does not please make sure it you have not disabled it.", "Steam Overlay should appear, if it does not please make sure it you have not disabled it.", "_t")
 t("Finalizing transaction with Steam servers...", "Finalizing transaction with Steam servers...", "_t")
 t("Payment refused, you have not been billed.", "Payment refused, you have not been billed.", "_t")
-t("Connecting to server", "Connecting to server", "_t")
+t("Connecting to server", "Conectando al servidor", "_t")
 t("Please wait...", "Please wait...", "_t")
 t("You have enough coins to instantly purchase those options. Confirm?", "You have enough coins to instantly purchase those options. Confirm?", "_t")
 t("Cancel", "Cancelar", "_t")
@@ -1265,7 +1265,7 @@ section "engine/engine/dialogs/microtxn/UsePurchased.lua"
 t("%s #GOLD#Purchased Options#LAST#", "%s #GOLD#Purchased Options#LAST#", "tformat")
 t("#YELLOW#-- connecting to server... --", "#YELLOW#-- conectando al servidor... --", "_t")
 t("Name", "Nombre", "_t")
-t("Available", "Available", "_t")
+t("Available", "Disponible", "_t")
 t("Please use purchased options when not on the worldmap.", "Please use purchased options when not on the worldmap.", "_t")
 t("This option may only be used once per character to prevent wasting it.", "This option may only be used once per character to prevent wasting it.", "_t")
 t([[This option requires you to accept to receive events from the server.
@@ -1350,7 +1350,7 @@ t("missing dependency", "missing dependency", "_t")
 t("is not %s", "is not %s", "tformat")
 t("unknown talent type", "unknown talent type", "_t")
 t("not enough talents of this type known", "not enough talents of this type known", "_t")
-t("- Talent category known", "- Talent category known", "_t")
+t("- Talent category known", "- Categoría de talento conocida", "_t")
 t("- Lower talents of the same category: %d", "- Lower talents of the same category: %d", "tformat")
 t("- Level %d", "- Level %d", "tformat")
 t("- Talent %s (not known)", "- Talent %s (not known)", "tformat")
@@ -1368,7 +1368,7 @@ section "engine/engine/interface/GameTargeting.lua"
 --[==[
 t("Tactical display disabled. Press shift+'t' to enable.", "Tactical display disabled. Press shift+'t' to enable.", "_t")
 t("Target yourself?", "Target yourself?", "_t")
-t("Are you sure you want to target yourself?", "Are you sure you want to target yourself?", "_t")
+t("Are you sure you want to target yourself?", "¿Seguro que quieres apuntarte a ti mismo?", "_t")
 t("No", "No", "_t")
 t("Yes", "Sí", "_t")
 t("Tactical display enabled. Press shift+'t' to disable.", "Tactical display enabled. Press shift+'t' to disable.", "_t")
@@ -1484,7 +1484,7 @@ t("Close", "Cerrar", "_t")
 t("Yes", "Sí", "_t")
 t("No", "No", "_t")
 t("Cancel", "Cancelar", "_t")
-t("Copy URL", "Copy URL", "_t")
+t("Copy URL", "Copiar URL", "_t")
 t("URL copied to your clipboard.", "URL copied to your clipboard.", "_t")
 --]==]
 
@@ -1530,7 +1530,7 @@ section "engine/engine/ui/Inventory.lua"
 --[==[
 t("", "", "_t")
 t("Inventory", "Inventario", "_t")
-t("Category", "Category", "_t")
+t("Category", "Categoría", "_t")
 t("Enc.", "Enc.", "_t")
 --]==]
 
@@ -1541,13 +1541,13 @@ section "engine/engine/ui/WebView.lua"
 
 -- new text
 --[==[
-t("Download: ", "Download: ", "tformat")
+t("Download: ", "Descarga: ", "tformat")
 t("Cancel", "Cancelar", "_t")
-t("Confirm addon install/update", "Confirm addon install/update", "_t")
+t("Confirm addon install/update", "Confirmar instalación/actualización de addon", "_t")
 t("Are you sure you want to install this addon: #LIGHT_GREEN##{bold}#%s#{normal}##LAST# ?", "Are you sure you want to install this addon: #LIGHT_GREEN##{bold}#%s#{normal}##LAST# ?", "_t")
-t("Confirm module install/update", "Confirm module install/update", "_t")
+t("Confirm module install/update", "Confirmar instalación/actualización de módulo", "_t")
 t("Are you sure you want to install this module: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "Are you sure you want to install this module: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "tformat")
-t("Addon installed!", "Addon installed!", "_t")
+t("Addon installed!", "¡Addon instalado!", "_t")
 t("Addon installation successful. New addons are only active for new characters.", "Addon installation successful. New addons are only active for new characters.", "_t")
 t("Game installed!", "Game installed!", "_t")
 t("Game installation successful. Have fun!", "Game installation successful. Have fun!", "_t")

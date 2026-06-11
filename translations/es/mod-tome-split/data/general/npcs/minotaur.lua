@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("giant", "giant", "entity type")
+t("giant", "gigante", "entity type")
 t("minotaur", "minotaur", "entity subtype")
 t("minotaur", "minotaur", "entity name")
 t("It is a cross between a human and a bull.", "It is a cross between a human and a bull.", "_t")

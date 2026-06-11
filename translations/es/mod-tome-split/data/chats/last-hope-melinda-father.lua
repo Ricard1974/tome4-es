@@ -11,7 +11,7 @@ t("Hi, I would like to talk to Melinda please.", "Hi, I would like to talk to Me
 t("Melinda", "Melinda", "_t")
 t("Sorry, I have to go!", "Sorry, I have to go!", "chat_last-hope-melinda-father")
 t("Please take this. It is nothing compared to the life of my child. Oh, and she wanted to thank you in person; I will call her.", "Please take this. It is nothing compared to the life of my child. Oh, and she wanted to thank you in person; I will call her.", "_t")
-t("Thank you.", "Thank you.", "_t")
+t("Thank you.", "Gracias.", "_t")
 t("Melinda's father gives you: %s", "Melinda's father gives you: %s", "logPlayer")
 t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "_t")
 t("@playername@! #LIGHT_GREEN#*She jumps for joy and hugs you while her father returns to his shop.*#WHITE#", "@playername@! #LIGHT_GREEN#*She jumps for joy and hugs you while her father returns to his shop.*#WHITE#", "_t")

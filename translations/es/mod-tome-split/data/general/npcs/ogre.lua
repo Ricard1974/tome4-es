@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("giant", "giant", "entity type")
+t("giant", "gigante", "entity type")
 t("ogre", "ogre", "entity subtype")
 t("ogre guard", "ogre guard", "entity name")
 t("A maul-wield ogre. Ready to CRUSH!", "A maul-wield ogre. Ready to CRUSH!", "_t")

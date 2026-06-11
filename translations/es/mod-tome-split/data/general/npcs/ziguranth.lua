@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("human", "human", "entity subtype")
 t("and burned on a pyre", "and burned on a pyre", "_t")
 t("ziguranth warrior", "ziguranth warrior", "entity name")

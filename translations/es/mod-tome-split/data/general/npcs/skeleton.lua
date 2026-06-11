@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("undead", "undead", "entity type")
-t("skeleton", "skeleton", "entity subtype")
+t("skeleton", "esqueleto", "entity subtype")
 t("degenerated skeleton warrior", "degenerated skeleton warrior", "entity name")
 t("A haphazard collection of crumbling bones, with jerky movements that remind you of a child playing with a marionette.  It only has one arm, but that's all it needs to hold a sword.", "A haphazard collection of crumbling bones, with jerky movements that remind you of a child playing with a marionette.  It only has one arm, but that's all it needs to hold a sword.", "_t")
 t("degenerated skeleton archer", "degenerated skeleton archer", "entity name")

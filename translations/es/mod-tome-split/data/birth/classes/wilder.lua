@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Wilder", "Wilder", "birth descriptor name")
+t("Wilder", "Salvaje", "birth descriptor name")
 t("Natural abilities can go beyond mere skill. Experience the true powers of nature to learn of its amazing gifts.", "Natural abilities can go beyond mere skill. Experience the true powers of nature to learn of its amazing gifts.", "_t")
 t("Wilders are one with nature, in one manner or another. There are as many different Wilders as there are aspects of nature.", "Wilders are one with nature, in one manner or another. There are as many different Wilders as there are aspects of nature.", "_t")
 t("They can take on the aspects of creatures, summon creatures to them, feel the druidic call, ...", "They can take on the aspects of creatures, summon creatures to them, feel the druidic call, ...", "_t")
-t("Summoner", "Summoner", "birth descriptor name")
+t("Summoner", "Invocador", "birth descriptor name")
 t("Not all might comes from within. Hear the invocations of nature, hear its calling power. See that from without we can find our true strengths.", "Not all might comes from within. Hear the invocations of nature, hear its calling power. See that from without we can find our true strengths.", "_t")
 t("Summoners never fight alone. They are always ready to summon one of their many minions to fight at their side.", "Summoners never fight alone. They are always ready to summon one of their many minions to fight at their side.", "_t")
 t("Summons can range from a combat hound to a fire drake.", "Summons can range from a combat hound to a fire drake.", "_t")
 t("Their most important stats are: Willpower and Cunning", "Their most important stats are: Willpower and Cunning", "_t")
-t("#GOLD#Stat modifiers:", "#GOLD#Stat modifiers:", "_t")
+t("#GOLD#Stat modifiers:", "#GOLD#Modificadores de atributos:", "_t")
 t("#LIGHT_BLUE# * +0 Strength, +1 Dexterity, +0 Constitution", "#LIGHT_BLUE# * +0 Strength, +1 Dexterity, +0 Constitution", "_t")
 t("#LIGHT_BLUE# * +0 Magic, +5 Willpower, +3 Cunning", "#LIGHT_BLUE# * +0 Magic, +5 Willpower, +3 Cunning", "_t")
 t("#GOLD#Life per level:#LIGHT_BLUE# +0", "#GOLD#Life per level:#LIGHT_BLUE# +0", "_t")

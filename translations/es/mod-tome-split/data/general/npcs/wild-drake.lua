@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dragon", "dragon", "entity type")
+t("dragon", "dragón", "entity type")
 t("wild", "wild", "entity subtype")
 t("spire dragon", "spire dragon", "entity name")
 t("A monstrous, coiled wyrm, patient and hateful. Its hide, studded with spikes and crests and blades, turns aside steel and sorcery with equal ease.", "A monstrous, coiled wyrm, patient and hateful. Its hide, studded with spikes and crests and blades, turns aside steel and sorcery with equal ease.", "_t")

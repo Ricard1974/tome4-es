@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("orc", "orc", "entity subtype")
 t("orc warrior", "orc warrior", "entity name")
 t("He is a hardy, well-weathered survivor.", "He is a hardy, well-weathered survivor.", "_t")

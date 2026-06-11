@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dragon", "dragon", "entity type")
+t("dragon", "dragón", "entity type")
 t("cold", "cold", "entity subtype")
 t("cold drake hatchling", "cold drake hatchling", "entity name")
 t("A drake hatchling. Not too powerful by itself, but it usually comes with its brothers and sisters.", "A drake hatchling. Not too powerful by itself, but it usually comes with its brothers and sisters.", "_t")

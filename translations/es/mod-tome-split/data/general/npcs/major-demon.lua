@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("demon", "demon", "entity type")
+t("demon", "demonio", "entity type")
 t("major", "major", "entity subtype")
 t("dolleg", "dolleg", "entity name")
 t("A monstrous demon, covered in acidic thorns.", "A monstrous demon, covered in acidic thorns.", "_t")

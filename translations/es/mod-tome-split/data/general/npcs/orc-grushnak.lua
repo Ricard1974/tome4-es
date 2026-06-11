@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("orc", "orc", "entity subtype")
 t("orc fighter", "orc fighter", "entity name")
 t("An orc clad in massive armour, wielding a shield and a deadly axe.", "An orc clad in massive armour, wielding a shield and a deadly axe.", "_t")

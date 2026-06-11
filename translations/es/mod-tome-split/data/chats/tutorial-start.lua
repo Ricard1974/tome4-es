@@ -30,5 +30,5 @@ If this is your first time with the game, you will find the selection of races a
 \
 Now go boldly and remember: #GOLD#have fun!#WHITE#\
 Press #GOLD#Escape#WHITE#, then select #GOLD#Save and Exit#WHITE#, and create a new character!", "_t")
-t("Thank you.", "Thank you.", "_t")
+t("Thank you.", "Gracias.", "_t")
 

@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("spiderkin", "spiderkin", "entity type")
-t("spider", "spider", "entity subtype")
+t("spider", "araña", "entity subtype")
 t("Arachnophobia...", "Arachnophobia...", "_t")
 t("giant spider", "giant spider", "entity name")
 t("A huge arachnid, it produces even bigger webs.", "A huge arachnid, it produces even bigger webs.", "_t")

@@ -11,7 +11,7 @@ t("A huge worm coloured as the sand it inhabits. It seems quite unhappy about yo
 t("sandworm destroyer", "sandworm destroyer", "entity name")
 t("A huge worm coloured as the sand it inhabits. This particular sandworm seems to have been bred for one purpose only: the eradication of everything that is non-sandworm, such as... you.", "A huge worm coloured as the sand it inhabits. This particular sandworm seems to have been bred for one purpose only: the eradication of everything that is non-sandworm, such as... you.", "_t")
 t("sand-drake", "sand-drake", "entity name")
-t("dragon", "dragon", "entity type")
+t("dragon", "dragón", "entity type")
 t("sand", "sand", "entity subtype")
 t("This unholy creature looks like a wingless dragon in shape, but it is sand-colored, making it all the more dangerous for its prey.", "This unholy creature looks like a wingless dragon in shape, but it is sand-colored, making it all the more dangerous for its prey.", "_t")
 t("gigantic sandworm tunneler", "gigantic sandworm tunneler", "entity name")

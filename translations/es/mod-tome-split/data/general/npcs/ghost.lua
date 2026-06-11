@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("undead", "undead", "entity type")
-t("ghost", "ghost", "entity subtype")
+t("ghost", "fantasma", "entity subtype")
 t("dread", "dread", "entity name")
 t("It is a form that screams its presence against the eye. Death incarnate, its hideous black body seems to struggle against reality as the universe itself strives to banish it.", "It is a form that screams its presence against the eye. Death incarnate, its hideous black body seems to struggle against reality as the universe itself strives to banish it.", "_t")
 t("dreadmaster", "dreadmaster", "entity name")

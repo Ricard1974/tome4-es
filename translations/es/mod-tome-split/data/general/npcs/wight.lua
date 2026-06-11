@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("undead", "undead", "entity type")
-t("wight", "wight", "entity subtype")
+t("wight", "espectro", "entity subtype")
 t("These be white wights.", "These be white wights.", "_t")
 t("forest wight", "forest wight", "entity name")
 t("It is a ghostly apparition with a humanoid form.", "It is a ghostly apparition with a humanoid form.", "_t")
