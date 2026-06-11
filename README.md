@@ -8,11 +8,11 @@ Addon oficial de traducción para el mejor roguelike de la actualidad.
 
 | Componente                                         | Cadenas    | Traducidas | %      |
 | -------------------------------------------------- | ---------- | ---------- | ------ |
-| Engine (UI, keybinds)                              | 637        | 0          | 0%     |
-| Módulo principal (logros, objetos, talentos, lore) | 19.521     | 0          | 0%     |
+| Engine (UI, keybinds)                              | 637        | 117        | 18.4%  |
+| Módulo principal (logros, objetos, talentos, lore) | 19.531     | 83         | 0.4%   |
 | Boot (raza, clase, daños)                          | 266        | 0          | 0%     |
-| Otros (addons, ejemplos)                           | 258        | 0          | 0%     |
-| **TOTAL**                                          | **20.682** | **0**      | **0%** |
+| Otros (addons, ejemplos)                           | 248        | 0          | 0%     |
+| **TOTAL**                                          | **20.682** | **200**    | **1%** |
 
 📊 Estado actualizado: [Último reporte](https://github.com/Ricard1974/tome4-es/actions)
 
