@@ -594,7 +594,7 @@ section "engine/engine/dialogs/ChatChannels.lua"
 t("Chat channels", "Canales de chat", "_t")
 t("Global", "Global", "_t")
 t(" [spoilers]", " [spoilers]", "_t")
-t("Select which channels to listen to. You can join new channels by typing '/join <channelname>' in the talkbox and leave channels by typing '/part <channelname>'", "Select which channels to listen to. You can join new channels by typing '/join <channelname>' in the talkbox and leave channels by typing '/part <channelname>'", "_t")
+t("Select which channels to listen to. You can join new channels by typing '/join <channelname>' in the talkbox and leave channels by typing '/part <channelname>'", "Selecciona qué canales escuchar. Usa '/join <canal>' para unirte y '/part <canal>' para salir.", "_t")
 --]==]
 
 
@@ -750,10 +750,10 @@ section "engine/engine/dialogs/KeyBinder.lua"
 -- new text
 --[==[
 t("Key bindings", "Teclas", "_t")
-t("      Press a key (escape to cancel, backspace to remove) for: %s", "      Press a key (escape to cancel, backspace to remove) for: %s", "tformat")
+t("      Press a key (escape to cancel, backspace to remove) for: %s", "Pulsa una tecla (escape=cancelar, retroceso=quitar) para: %s", "tformat")
 t("Bind key", "Asignar tecla", "_t")
 t("Bind alternate key", "Asignar tecla alternativa", "_t")
-t("Make gesture (using right mouse button) or type it (or escape) for: %s", "Make gesture (using right mouse button) or type it (or escape) for: %s", "tformat")
+t("Make gesture (using right mouse button) or type it (or escape) for: %s", "Haz un gesto (clic derecho) o escríbelo (escape=cancelar) para: %s", "tformat")
 t("Gesture", "Gesto", "_t")
 --]==]
 
@@ -835,10 +835,10 @@ section "engine/engine/dialogs/ShowErrorStack.lua"
 -- new text
 --[==[
 t("Lua Error", "Error de Lua", "_t")
-t("If you already reported that error, you do not have to do it again (unless you feel the situation is different).", "If you already reported that error, you do not have to do it again (unless you feel the situation is different).", "_t")
-t("You #LIGHT_GREEN#already reported#WHITE# that error, you do not have to do it again (unless you feel the situation is different).", "You #LIGHT_GREEN#already reported#WHITE# that error, you do not have to do it again (unless you feel the situation is different).", "_t")
-t("You have already got this error but #LIGHT_RED#never reported#WHITE# it, please do.", "You have already got this error but #LIGHT_RED#never reported#WHITE# it, please do.", "_t")
-t("You have #LIGHT_RED#never seen#WHITE# that error, please report it.", "You have #LIGHT_RED#never seen#WHITE# that error, please report it.", "_t")
+t("If you already reported that error, you do not have to do it again (unless you feel the situation is different).", "Si ya reportaste ese error, no hace falta que lo hagas de nuevo (a menos que creas que es diferente).", "_t")
+t("You #LIGHT_GREEN#already reported#WHITE# that error, you do not have to do it again (unless you feel the situation is different).", "#LIGHT_GREEN#Ya reportaste#WHITE# ese error, no hace falta repetirlo (a menos que sea diferente).", "_t")
+t("You have already got this error but #LIGHT_RED#never reported#WHITE# it, please do.", "Ya tuviste este error pero #LIGHT_RED#nunca lo reportaste#WHITE#, por favor hazlo.", "_t")
+t("You have #LIGHT_RED#never seen#WHITE# that error, please report it.", "#LIGHT_RED#Nunca has visto#WHITE# este error, por favor repórtalo.", "_t")
 t([[#{bold}#Oh my! It seems there was an error!
 The game might still work but this is suspect, please type in your current situation and click on "Send" to send an error report to the game creator.
 If you are not currently connected to the internet, please report this bug when you can on the forums at http://forums.te4.org/
@@ -853,7 +853,7 @@ t("", "", "_t")
 t("Send", "Enviar", "_t")
 t("Close", "Cerrar", "_t")
 t("Close All", "Cerrar todo", "_t")
-t("Log saved to file (click to copy to clipboard):#LIGHT_BLUE#%s", "Log saved to file (click to copy to clipboard):#LIGHT_BLUE#%s", "tformat")
+t("Log saved to file (click to copy to clipboard):#LIGHT_BLUE#%s", "Log guardado (clic para copiar):#LIGHT_BLUE#%s", "tformat")
 t("File location copied to clipboard.", "Ubicación del archivo copiada al portapapeles.", "log")
 t("#YELLOW#Error report sent, thank you.", "#YELLOW#Informe de error enviado, gracias.", "log")
 --]==]
@@ -943,7 +943,7 @@ t([[Purge all Steam Cloud saves.
 This will remove all saves from the cloud cloud (but not your local copy). Only use if you somehow encounter storage problems on it (which should not happen, the game automatically manages it for you).#WHITE#]], [[Purge all Steam Cloud saves.
 This will remove all saves from the cloud cloud (but not your local copy). Only use if you somehow encounter storage problems on it (which should not happen, the game automatically manages it for you).#WHITE#]], "_t")
 t("#GOLD##{bold}#Purge Cloud Saves#WHITE##{normal}#", "#GOLD##{bold}#Purgar guardado en la nube#WHITE##{normal}#", "_t")
-t("Steam Cloud Purge", "Steam Cloud Purge", "_t")
+t("Steam Cloud Purge", "Purgar nube de Steam", "_t")
 t("Confirm purge?", "¿Confirmar purga?", "_t")
 t("All data purged from the cloud.", "Todos los datos purgados de la nube.", "_t")
 --]==]
@@ -955,14 +955,14 @@ section "engine/engine/dialogs/Talkbox.lua"
 
 -- new text
 --[==[
-t("Say: ", "Say: ", "_t")
+t("Say: ", "Decir: ", "_t")
 t("", "", "_t")
 t("Accept", "Aceptar", "_t")
 t("Cancel", "Cancelar", "_t")
-t("Target: ", "Target: ", "_t")
-t("Channel: %s", "Channel: %s", "tformat")
-t("Friend: %s", "Friend: %s", "tformat")
-t("User: %s", "User: %s", "tformat")
+t("Target: ", "Objetivo: ", "_t")
+t("Channel: %s", "Canal: %s", "tformat")
+t("Friend: %s", "Amigo: %s", "tformat")
+t("User: %s", "Usuario: %s", "tformat")
 --]==]
 
 
@@ -972,14 +972,14 @@ section "engine/engine/dialogs/UseTalents.lua"
 
 -- new text
 --[==[
-t("Use Talents: ", "Use Talents: ", "tformat")
+t("Use Talents: ", "Usar talentos: ", "tformat")
 t([[You can bind a talent to a hotkey be pressing the corresponding hotkey while selecting a talent.
 Check out the keybinding screen in the game menu to bind hotkeys to a key (default is 1-0 plus control or shift).
 ]], [[You can bind a talent to a hotkey be pressing the corresponding hotkey while selecting a talent.
 Check out the keybinding screen in the game menu to bind hotkeys to a key (default is 1-0 plus control or shift).
 ]], "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
+t("Talent", "Talento", "_t")
 t("Status", "Estado", "_t")
 t("Hotkey %s assigned", "Tecla %s asignada", "tformat")
 t("%s assigned to hotkey %s", "%s asignado a tecla %s", "tformat")
@@ -992,15 +992,15 @@ section "engine/engine/dialogs/UserInfo.lua"
 
 -- new text
 --[==[
-t("User: %s", "User: %s", "tformat")
+t("User: %s", "Usuario: %s", "tformat")
 t("Currently playing: ", "Jugando actualmente: ", "_t")
 t("unknown", "desconocido", "_t")
-t("Game: ", "Game: ", "_t")
-t("Validation: ", "Validation: ", "_t")
-t("Game has been validated by the server", "Game has been validated by the server", "_t")
-t("Game is not validated by the server", "Game is not validated by the server", "_t")
-t("Go to online profile", "Go to online profile", "_t")
-t("Go to online charsheet", "Go to online charsheet", "_t")
+t("Game: ", "Juego: ", "_t")
+t("Validation: ", "Validación: ", "_t")
+t("Game has been validated by the server", "El juego ha sido validado por el servidor", "_t")
+t("Game is not validated by the server", "El juego NO ha sido validado por el servidor", "_t")
+t("Go to online profile", "Ir al perfil online", "_t")
+t("Go to online charsheet", "Ir a la ficha online", "_t")
 --]==]
 
 
@@ -1014,23 +1014,23 @@ t("Video Options", "Opciones de vídeo", "_t")
 t("", "", "_t")
 t("Display resolution.", "Resolución de pantalla.", "_t")
 t("#GOLD##{bold}#Resolution#WHITE##{normal}#", "#GOLD##{bold}#Resolución#WHITE##{normal}#", "_t")
-t("If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#", "If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#", "_t")
+t("If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#", "Si tienes una pantalla de alto DPI, sube este valor. Requiere reiniciar.#WHITE#", "_t")
 t("#GOLD##{bold}#Screen Zoom#WHITE##{normal}#", "#GOLD##{bold}#Zoom de pantalla#WHITE##{normal}#", "_t")
-t("Enter Zoom %", "Enter Zoom %", "_t")
-t("From 50 to 400", "From 50 to 400", "_t")
+t("Enter Zoom %", "Introduce % de zoom", "_t")
+t("From 50 to 400", "De 50 a 400", "_t")
 t([[Request this display refresh rate.
 Set it lower to reduce CPU load, higher to increase interface responsiveness.#WHITE#]], [[Request this display refresh rate.
 Set it lower to reduce CPU load, higher to increase interface responsiveness.#WHITE#]], "_t")
 t("#GOLD##{bold}#Requested FPS#WHITE##{normal}#", "#GOLD##{bold}#FPS deseados#WHITE##{normal}#", "_t")
-t("Enter density", "Enter density", "_t")
-t("From 5 to 60", "From 5 to 60", "_t")
+t("Enter density", "Introduce densidad", "_t")
+t("From 5 to 60", "De 5 a 60", "_t")
 t([[Controls the particle effects density.
 This option allows to change the density of the many particle effects in the game.
 If the game is slow when displaying spell effects try to lower this setting.#WHITE#]], [[Controls the particle effects density.
 This option allows to change the density of the many particle effects in the game.
 If the game is slow when displaying spell effects try to lower this setting.#WHITE#]], "_t")
 t("#GOLD##{bold}#Particle effects density#WHITE##{normal}#", "#GOLD##{bold}#Densidad de partículas#WHITE##{normal}#", "_t")
-t("From 0 to 100", "From 0 to 100", "_t")
+t("From 0 to 100", "De 0 a 100", "_t")
 t([[Activates antialiased texts.
 Texts will look nicer but it can be slower on some computers.
 
@@ -1045,8 +1045,8 @@ t([[Apply a global scaling to all fonts.
 Applies after restarting the game]], [[Apply a global scaling to all fonts.
 Applies after restarting the game]], "_t")
 t("#GOLD##{bold}#Font Scale#WHITE##{normal}#", "#GOLD##{bold}#Escala de fuente#WHITE##{normal}#", "_t")
-t("Font Scale %", "Font Scale %", "_t")
-t("From 50 to 300", "From 50 to 300", "_t")
+t("Font Scale %", "% de escala de fuente", "_t")
+t("From 50 to 300", "De 50 a 300", "_t")
 t([[Activates framebuffers.
 This option allows for some special graphical effects.
 If you encounter weird graphical glitches try to disable it.
@@ -1099,7 +1099,7 @@ t([[Gamma correction setting.
 Increase this to get a brighter display.#WHITE#]], [[Gamma correction setting.
 Increase this to get a brighter display.#WHITE#]], "_t")
 t("#GOLD##{bold}#Gamma correction#WHITE##{normal}#", "#GOLD##{bold}#Corrección gamma#WHITE##{normal}#", "_t")
-t("Gamma correction", "Gamma correction", "_t")
+t("Gamma correction", "Corrección gamma", "_t")
 t([[Enable/disable usage of tilesets.
 In some rare cases on very slow machines with bad GPUs/drivers it can be detrimental.]], [[Enable/disable usage of tilesets.
 In some rare cases on very slow machines with bad GPUs/drivers it can be detrimental.]], "_t")
@@ -1118,14 +1118,14 @@ The default origin is (0,0).
 
 Note: This value will automatically revert after ten seconds if not confirmed by the user.#WHITE#]], "_t")
 t("#GOLD##{bold}#Requested Window Position#WHITE##{normal}#", "#GOLD##{bold}#Posición de ventana#WHITE##{normal}#", "_t")
-t("Window Origin: X-Coordinate", "Window Origin: X-Coordinate", "_t")
-t("Enter the x-coordinate", "Enter the x-coordinate", "_t")
-t("Window Origin: Y-Coordinate", "Window Origin: Y-Coordinate", "_t")
-t("Enter the y-coordinate", "Enter the y-coordinate", "_t")
-t("Position changed.", "Position changed.", "_t")
-t("Save position?", "Save position?", "_t")
+t("Window Origin: X-Coordinate", "Origen ventana: Coordenada X", "_t")
+t("Enter the x-coordinate", "Introduce la coordenada X", "_t")
+t("Window Origin: Y-Coordinate", "Origen ventana: Coordenada Y", "_t")
+t("Enter the y-coordinate", "Introduce la coordenada Y", "_t")
+t("Position changed.", "Posición cambiada.", "_t")
+t("Save position?", "¿Guardar posición?", "_t")
 t("Accept", "Aceptar", "_t")
-t("Revert", "Revert", "_t")
+t("Revert", "Revertir", "_t")
 --]==]
 
 
@@ -1135,7 +1135,7 @@ section "engine/engine/dialogs/ViewHighScores.lua"
 
 -- new text
 --[==[
-t("High Scores", "High Scores", "_t")
+t("High Scores", "Puntuaciones", "_t")
 --]==]
 
 
@@ -1145,8 +1145,8 @@ section "engine/engine/dialogs/microtxn/MTXMain.lua"
 
 -- new text
 --[==[
-t("%s #GOLD#Purchasables#LAST#", "%s #GOLD#Purchasables#LAST#", "tformat")
-t("Online Store", "Online Store", "_t")
+t("%s #GOLD#Purchasables#LAST#", "%s #GOLD#Comprables#LAST#", "tformat")
+t("Online Store", "Tienda online", "_t")
 t([[Welcome!
 
 I am #{italic}##ANTIQUE_WHITE#DarkGod#LAST##{normal}#, the creator of the game and before you go on your merry way I wish to take a few seconds of your time to explain why there are microtransactions in the game.
@@ -1187,57 +1187,57 @@ section "engine/engine/dialogs/microtxn/ShowPurchasable.lua"
 
 -- new text
 --[==[
-t("#{italic}##UMBER#Bonus vault slots from this order: #ROYAL_BLUE#%d#{normal}#", "#{italic}##UMBER#Bonus vault slots from this order: #ROYAL_BLUE#%d#{normal}#", "_t")
+t("#{italic}##UMBER#Bonus vault slots from this order: #ROYAL_BLUE#%d#{normal}#", "#{italic}##UMBER#Espacios extra de bóveda: #ROYAL_BLUE#%d#{normal}#", "_t")
 t([[For every purchase of #{italic}##GREY#%s#LAST##{normal}# you gain a permanent additional vault slot.
 #GOLD##{italic}#Because why not!#{normal}#]], [[For every purchase of #{italic}##GREY#%s#LAST##{normal}# you gain a permanent additional vault slot.
 #GOLD##{italic}#Because why not!#{normal}#]], "_t")
-t("#{italic}##UMBER#Voratun Coins available from your donations: #ROYAL_BLUE#%d#{normal}#", "#{italic}##UMBER#Voratun Coins available from your donations: #ROYAL_BLUE#%d#{normal}#", "_t")
+t("#{italic}##UMBER#Voratun Coins available from your donations: #ROYAL_BLUE#%d#{normal}#", "#{italic}##UMBER#Monedas Voratún disponibles: #ROYAL_BLUE#%d#{normal}#", "_t")
 t([[For every donations you've ever made you have earned voratun coins. These can be spent purchasing expansions or options on the online store. This is the amount you have left, if your purchase total is below this number you'll instantly get your purchase validated, if not you'll need to donate some more first.
 #GOLD##{italic}#Thanks for your support, every little bit helps the game survive for years on!#{normal}#]], [[For every donations you've ever made you have earned voratun coins. These can be spent purchasing expansions or options on the online store. This is the amount you have left, if your purchase total is below this number you'll instantly get your purchase validated, if not you'll need to donate some more first.
 #GOLD##{italic}#Thanks for your support, every little bit helps the game survive for years on!#{normal}#]], "_t")
-t("%s #GOLD#Online Store#LAST#", "%s #GOLD#Online Store#LAST#", "tformat")
+t("%s #GOLD#Online Store#LAST#", "%s #GOLD#Tienda online#LAST#", "tformat")
 t("#YELLOW#-- connecting to server... --", "#YELLOW#-- conectando al servidor... --", "_t")
-t("Purchase", "Purchase", "_t")
+t("Purchase", "Comprar", "_t")
 t("Name", "Nombre", "_t")
 t("Price", "Precio", "_t")
-t("Qty", "Qty", "_t")
-t("Online Store", "Online Store", "_t")
-t("You need to be logged in before using the store. Please go back to the main menu and login.", "You need to be logged in before using the store. Please go back to the main menu and login.", "_t")
-t("Steam users need to link their profiles to their steam account. This is very easy in just a few clicks. Once this is done, simply restart the game.", "Steam users need to link their profiles to their steam account. This is very easy in just a few clicks. Once this is done, simply restart the game.", "_t")
-t("Let's do it! (Opens in your browser)", "Let's do it! (Opens in your browser)", "_t")
-t("Not now", "Not now", "_t")
-t("The Online Store (and expansions) are only purchasable by players that bought the game. Plaese go have a look at the donation page for more explanations.", "The Online Store (and expansions) are only purchasable by players that bought the game. Plaese go have a look at the donation page for more explanations.", "_t")
-t("Let's go! (Opens in your browser)", "Let's go! (Opens in your browser)", "_t")
+t("Qty", "Cant", "_t")
+t("Online Store", "Tienda online", "_t")
+t("You need to be logged in before using the store. Please go back to the main menu and login.", "Necesitas iniciar sesión para usar la tienda. Ve al menú principal e inicia sesión.", "_t")
+t("Steam users need to link their profiles to their steam account. This is very easy in just a few clicks. Once this is done, simply restart the game.", "Los usuarios de Steam deben vincular su perfil. Es muy fácil en unos pocos clics. Luego reinicia el juego.", "_t")
+t("Let's do it! (Opens in your browser)", "¡Hagámoslo! (Se abre en tu navegador)", "_t")
+t("Not now", "Ahora no", "_t")
+t("The Online Store (and expansions) are only purchasable by players that bought the game. Plaese go have a look at the donation page for more explanations.", "La tienda online y expansiones solo están disponibles para quienes compraron el juego. Visita la página de donaciones para más información.", "_t")
+t("Let's go! (Opens in your browser)", "¡Vamos! (Se abre en tu navegador)", "_t")
 t("%0.2f %s", "%0.2f %s", "tformat")
 t("%d coins", "%d monedas", "tformat")
 t("#{bold}#TOTAL#{normal}#", "#{bold}#TOTAL#{normal}#", "_t")
-t("  (%d items in cart, %s)", "  (%d items in cart, %s)", "tformat")
+t("  (%d items in cart, %s)", "  (%d artículos en carrito, %s)", "tformat")
 t("Cart", "Carrito", "_t")
 t("Cart is empty!", "¡El carrito está vacío!", "_t")
 t([[In-game browser is inoperant or disabled, impossible to auto-install shimmer pack.
 Please go to https://te4.org/ to download it manually.]], [[In-game browser is inoperant or disabled, impossible to auto-install shimmer pack.
 Please go to https://te4.org/ to download it manually.]], "_t")
-t("Shimmer pack installed!", "Shimmer pack installed!", "_t")
+t("Shimmer pack installed!", "¡Paquete Shimmer instalado!", "_t")
 t([[Could not dynamically link addon to current character, maybe the installation weng wrong.
 You can fix that by manually downloading the addon from https://te4.org/ and placing it in game/addons/ folder.]], [[Could not dynamically link addon to current character, maybe the installation weng wrong.
 You can fix that by manually downloading the addon from https://te4.org/ and placing it in game/addons/ folder.]], "_t")
-t("Downloading cosmetic pack: #LIGHT_GREEN#%s", "Downloading cosmetic pack: #LIGHT_GREEN#%s", "tformat")
-t("- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: The pack should be downloading or even finished by now.", "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: The pack should be downloading or even finished by now.", "tformat")
-t("- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: You can now trigger it whenever you are ready.", "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: You can now trigger it whenever you are ready.", "tformat")
-t("- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Your available vault space has increased.", "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Your available vault space has increased.", "tformat")
-t("Payment", "Payment", "_t")
+t("Downloading cosmetic pack: #LIGHT_GREEN#%s", "Descargando paquete cosmético: #LIGHT_GREEN#%s", "tformat")
+t("- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: The pack should be downloading or even finished by now.", "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: El paquete debería estar descargándose o ya terminó.", "tformat")
+t("- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: You can now trigger it whenever you are ready.", "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Puedes activarlo cuando quieras.", "tformat")
+t("- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Your available vault space has increased.", "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Tu espacio de bóveda ha aumentado.", "tformat")
+t("Payment", "Pago", "_t")
 t([[Payment accepted.
 %s]], [[Payment accepted.
 %s]], "tformat")
 t("Connecting to Steam", "Conectando a Steam", "_t")
-t("Steam Overlay should appear, if it does not please make sure it you have not disabled it.", "Steam Overlay should appear, if it does not please make sure it you have not disabled it.", "_t")
-t("Finalizing transaction with Steam servers...", "Finalizing transaction with Steam servers...", "_t")
-t("Payment refused, you have not been billed.", "Payment refused, you have not been billed.", "_t")
+t("Steam Overlay should appear, if it does not please make sure it you have not disabled it.", "Debería aparecer la superposición de Steam. Si no, asegúrate de no haberla desactivado.", "_t")
+t("Finalizing transaction with Steam servers...", "Finalizando transacción con servidores de Steam...", "_t")
+t("Payment refused, you have not been billed.", "Pago rechazado, no se te ha cobrado.", "_t")
 t("Connecting to server", "Conectando al servidor", "_t")
-t("Please wait...", "Please wait...", "_t")
-t("You have enough coins to instantly purchase those options. Confirm?", "You have enough coins to instantly purchase those options. Confirm?", "_t")
+t("Please wait...", "Espera por favor...", "_t")
+t("You have enough coins to instantly purchase those options. Confirm?", "Tienes suficientes monedas para comprar esas opciones. ¿Confirmar?", "_t")
 t("Cancel", "Cancelar", "_t")
-t("You need %s more coins to purchase those options. Do you want to go to the donation page now?", "You need %s more coins to purchase those options. Do you want to go to the donation page now?", "tformat")
+t("You need %s more coins to purchase those options. Do you want to go to the donation page now?", "Necesitas %s monedas mas para comprar esas opciones. ?Quieres ir a la pagina de donaciones?", "tformat")
 t([[#{bold}##GOLD#Community Online Event#WHITE##{normal}#: Once you have purchased a community event you will be able to trigger it at any later date, on whichever character you choose.
 Community events once triggered will activate for #{bold}#every player currently logged on#{normal}# including yourself. Every player receiving it will know you sent it and thus that you are to thank for it.
 To activate it you will need to have your online events option set to "all" (which is the default value).]], [[#{bold}##GOLD#Community Online Event#WHITE##{normal}#: Once you have purchased a community event you will be able to trigger it at any later date, on whichever character you choose.
@@ -1252,7 +1252,7 @@ t([[#{bold}##GOLD#Shimmer Pack#WHITE##{normal}#: Once purchased the game will au
 #LIGHT_GREEN#Bonus perk:#LAST# purchasing any shimmer pack will also give your characters a portable Mirror of Reflection to be able to change your appearance anywhere, anytime!]], [[#{bold}##GOLD#Shimmer Pack#WHITE##{normal}#: Once purchased the game will automatically install the shimmer pack to your game and enable it for your current character too (you will still need to use the Mirror of Reflection to switch them on).
 #LIGHT_GREEN#Bonus perk:#LAST# purchasing any shimmer pack will also give your characters a portable Mirror of Reflection to be able to change your appearance anywhere, anytime!]], "_t")
 t("#{bold}##GOLD#UI Pack#WHITE##{normal}#: Once purchased the game will automatically install the UI pack to your game.", "#{bold}##GOLD#UI Pack#WHITE##{normal}#: Once purchased the game will automatically install the UI pack to your game.", "_t")
-t("#{bold}##GOLD#Vault Space#WHITE##{normal}#: Once purchased your vault space is permanently increased.", "#{bold}##GOLD#Vault Space#WHITE##{normal}#: Once purchased your vault space is permanently increased.", "_t")
+t("#{bold}##GOLD#Vault Space#WHITE##{normal}#: Once purchased your vault space is permanently increased.", "#{bold}##GOLD#Espacio de boveda#WHITE##{normal}#: Aumenta permanentemente.", "_t")
 --]==]
 
 
@@ -1262,12 +1262,12 @@ section "engine/engine/dialogs/microtxn/UsePurchased.lua"
 
 -- new text
 --[==[
-t("%s #GOLD#Purchased Options#LAST#", "%s #GOLD#Purchased Options#LAST#", "tformat")
+t("%s #GOLD#Purchased Options#LAST#", "%s #GOLD#Opciones compradas#LAST#", "tformat")
 t("#YELLOW#-- connecting to server... --", "#YELLOW#-- conectando al servidor... --", "_t")
 t("Name", "Nombre", "_t")
 t("Available", "Disponible", "_t")
-t("Please use purchased options when not on the worldmap.", "Please use purchased options when not on the worldmap.", "_t")
-t("This option may only be used once per character to prevent wasting it.", "This option may only be used once per character to prevent wasting it.", "_t")
+t("Please use purchased options when not on the worldmap.", "Usa las opciones compradas cuando no estés en el mapa mundial.", "_t")
+t("This option may only be used once per character to prevent wasting it.", "Esta opción solo puede usarse una vez por personaje.", "_t")
 t([[This option requires you to accept to receive events from the server.
 Either you have the option currently disabled or you are playing a campaign that can not support these kind of events (mainly the Arena).
 Make sure you have #GOLD##{bold}#Allow online events#WHITE##{normal}# in the #GOLD##{bold}#Online#WHITE##{normal}# section of the game options set to "all". You can set it back to your own setting once you have received the event.
@@ -1275,15 +1275,15 @@ Make sure you have #GOLD##{bold}#Allow online events#WHITE##{normal}# in the #GO
 Either you have the option currently disabled or you are playing a campaign that can not support these kind of events (mainly the Arena).
 Make sure you have #GOLD##{bold}#Allow online events#WHITE##{normal}# in the #GOLD##{bold}#Online#WHITE##{normal}# section of the game options set to "all". You can set it back to your own setting once you have received the event.
 ]], "_t")
-t("This pack is already installed and in use for your character.", "This pack is already installed and in use for your character.", "_t")
-t("You are about to use a charge of this option. You currently have %d charges remaining.", "You are about to use a charge of this option. You currently have %d charges remaining.", "tformat")
-t("Please wait while contacting the server...", "Please wait while contacting the server...", "_t")
-t("The option has been activated.", "The option has been activated.", "_t")
-t("There was an error from the server: %s", "There was an error from the server: %s", "tformat")
-t("Online Store", "Online Store", "_t")
+t("This pack is already installed and in use for your character.", "Este paquete ya está instalado y en uso.", "_t")
+t("You are about to use a charge of this option. You currently have %d charges remaining.", "Vas a usar una carga. Te quedan %d cargas.", "tformat")
+t("Please wait while contacting the server...", "Espera mientras contactamos con el servidor...", "_t")
+t("The option has been activated.", "La opción ha sido activada.", "_t")
+t("There was an error from the server: %s", "Hubo un error del servidor: %s", "tformat")
+t("Online Store", "Tienda online", "_t")
 t("#LIGHT_GREEN#Installed", "#LIGHT_GREEN#Instalado", "_t")
 t("#YELLOW#Installable", "#YELLOW#Instalable", "_t")
-t("You have not purchased any usable options yet. Would you like to see the store?", "You have not purchased any usable options yet. Would you like to see the store?", "_t")
+t("You have not purchased any usable options yet. Would you like to see the store?", "Aún no has comprado opciones. ¿Quieres ver la tienda?", "_t")
 --]==]
 
 
@@ -1298,20 +1298,20 @@ t("%s has no room for: %s.", "%s no tiene sitio para: %s.", "logSeen")
 t("There is nothing to pick up here.", "No hay nada que recoger aquí.", "logSeen")
 t("There is nothing to drop.", "No hay nada que soltar.", "logSeen")
 t("%s drops on the floor: %s.", "%s suelta en el suelo: %s.", "logSeen")
-t("wrong equipment slot", "wrong equipment slot", "_t")
-t("not enough stat", "not enough stat", "_t")
-t("missing %s (level %s )", "missing %s (level %s )", "tformat")
-t("missing %s", "missing %s", "tformat")
-t("not enough levels", "not enough levels", "_t")
-t("missing dependency", "missing dependency", "_t")
-t("cannot use currently due to an other worn object", "cannot use currently due to an other worn object", "_t")
-t("%s is not wearable.", "%s is not wearable.", "logSeen")
-t("%s can not wear %s.", "%s can not wear %s.", "logSeen")
-t("%s can not wear (%s): %s (%s).", "%s can not wear (%s): %s (%s).", "logSeen")
+t("wrong equipment slot", "espacio de equipo incorrecto", "_t")
+t("not enough stat", "atributo insuficiente", "_t")
+t("missing %s (level %s )", "falta %s (nivel %s)", "tformat")
+t("missing %s", "falta %s", "tformat")
+t("not enough levels", "niveles insuficientes", "_t")
+t("missing dependency", "dependencia faltante", "_t")
+t("cannot use currently due to an other worn object", "no se puede usar por otro objeto equipado", "_t")
+t("%s is not wearable.", "%s no es equipable.", "logSeen")
+t("%s can not wear %s.", "%s no puede equipar %s.", "logSeen")
+t("%s can not wear (%s): %s (%s).", "%s no puede equipar (%s): %s (%s).", "logSeen")
 t("%s wears: %s.", "%s se equipa: %s.", "logSeen")
-t("%s wears (offslot): %s.", "%s wears (offslot): %s.", "logSeen")
-t("%s wears (replacing %s): %s.", "%s wears (replacing %s): %s.", "logSeen")
-t("%s can not wear: %s.", "%s can not wear: %s.", "logSeen")
+t("%s wears (offslot): %s.", "%s equipa (secundario): %s.", "logSeen")
+t("%s wears (replacing %s): %s.", "%s equipa (reemplazando %s): %s.", "logSeen")
+t("%s can not wear: %s.", "%s no puede equipar: %s.", "logSeen")
 --]==]
 
 
@@ -1322,8 +1322,8 @@ section "engine/engine/interface/ActorLife.lua"
 -- new text
 --[==[
 t("#{bold}#%s killed %s!#{normal}#", "#{bold}#%s mató a %s!#{normal}#", "logSeen")
-t("something", "something", "_t")
-t("%s attacks %s.", "%s attacks %s.", "logSeen")
+t("something", "algo", "_t")
+t("%s attacks %s.", "%s ataca a %s.", "logSeen")
 --]==]
 
 
@@ -1334,29 +1334,29 @@ section "engine/engine/interface/ActorTalents.lua"
 -- new text
 --[==[
 t("%s is still on cooldown for %d turns.", "%s sigue en enfriamiento por %d turnos.", "logPlayer")
-t("Talent Use Confirmation", "Talent Use Confirmation", "_t")
-t("Use %s?", "Use %s?", "tformat")
+t("Talent Use Confirmation", "Confirmación de uso de talento", "_t")
+t("Use %s?", "¿Usar %s?", "tformat")
 t("Cancel", "Cancelar", "_t")
 t("Continue", "Continuar", "_t")
 t("unknown", "desconocido", "entity name")
 t("%s", "%s", "logSeen")
 t("%s %s %s.", "%s %s %s.", "logSeen")
-t("deactivates", "deactivates", "_t")
-t("activates", "activates", "_t")
+t("deactivates", "desactiva", "_t")
+t("activates", "activa", "_t")
 t("%s uses %s.", "%s usa %s.", "logSeen")
-t("not enough stat: %s", "not enough stat: %s", "tformat")
-t("not enough levels", "not enough levels", "_t")
-t("missing dependency", "missing dependency", "_t")
-t("is not %s", "is not %s", "tformat")
-t("unknown talent type", "unknown talent type", "_t")
-t("not enough talents of this type known", "not enough talents of this type known", "_t")
+t("not enough stat: %s", "atributo insuficiente: %s", "tformat")
+t("not enough levels", "niveles insuficientes", "_t")
+t("missing dependency", "dependencia faltante", "_t")
+t("is not %s", "no está %s", "tformat")
+t("unknown talent type", "tipo de talento desconocido", "_t")
+t("not enough talents of this type known", "no hay suficientes talentos de este tipo conocidos", "_t")
 t("- Talent category known", "- Categoría de talento conocida", "_t")
-t("- Lower talents of the same category: %d", "- Lower talents of the same category: %d", "tformat")
-t("- Level %d", "- Level %d", "tformat")
-t("- Talent %s (not known)", "- Talent %s (not known)", "tformat")
-t("- Talent %s (%d)", "- Talent %s (%d)", "tformat")
-t("- Talent %s", "- Talent %s", "tformat")
-t("- Is %s", "- Is %s", "tformat")
+t("- Lower talents of the same category: %d", "- Talentos inferiores de la misma categoría: %d", "tformat")
+t("- Level %d", "- Nivel %d", "tformat")
+t("- Talent %s (not known)", "- Talento %s (no conocido)", "tformat")
+t("- Talent %s (%d)", "- Talento %s (%d)", "tformat")
+t("- Talent %s", "- Talento %s", "tformat")
+t("- Is %s", "- Es %s", "tformat")
 --]==]
 
 
@@ -1366,12 +1366,12 @@ section "engine/engine/interface/GameTargeting.lua"
 
 -- new text
 --[==[
-t("Tactical display disabled. Press shift+'t' to enable.", "Tactical display disabled. Press shift+'t' to enable.", "_t")
-t("Target yourself?", "Target yourself?", "_t")
+t("Tactical display disabled. Press shift+'t' to enable.", "Pantalla táctica desactivada. Presiona shift+'t' para activar.", "_t")
+t("Target yourself?", "¿Apuntarte a ti mismo?", "_t")
 t("Are you sure you want to target yourself?", "¿Seguro que quieres apuntarte a ti mismo?", "_t")
 t("No", "No", "_t")
 t("Yes", "Sí", "_t")
-t("Tactical display enabled. Press shift+'t' to disable.", "Tactical display enabled. Press shift+'t' to disable.", "_t")
+t("Tactical display enabled. Press shift+'t' to disable.", "Pantalla táctica activada. Presiona shift+'t' para desactivar.", "_t")
 --]==]
 
 
@@ -1381,10 +1381,10 @@ section "engine/engine/interface/ObjectActivable.lua"
 
 -- new text
 --[==[
-t("It can be used to %s, with %d charges out of %d.", "It can be used to %s, with %d charges out of %d.", "tformat")
-t("It can be used to %s, costing %d power out of %d/%d.", "It can be used to %s, costing %d power out of %d/%d.", "tformat")
-t("It can be used to activate talent: %s (level %d).", "It can be used to activate talent: %s (level %d).", "tformat")
-t("It can be used to activate talent: %s (level %d), costing %d power out of %d/%d.", "It can be used to activate talent: %s (level %d), costing %d power out of %d/%d.", "tformat")
+t("It can be used to %s, with %d charges out of %d.", "Se puede usar para %s, con %d cargas de %d.", "tformat")
+t("It can be used to %s, costing %d power out of %d/%d.", "Se puede usar para %s, costando %d de poder de %d/%d.", "tformat")
+t("It can be used to activate talent: %s (level %d).", "Se puede usar para activar talento: %s (nivel %d).", "tformat")
+t("It can be used to activate talent: %s (level %d), costing %d power out of %d/%d.", "Activa talento: %s (nivel %d), costando %d poder de %d/%d.", "tformat")
 t("%s is still recharging.", "%s sigue recargándose.", "logPlayer")
 t("%s can not be used anymore.", "%s ya no se puede usar.", "logPlayer")
 --]==]
@@ -1396,9 +1396,9 @@ section "engine/engine/interface/PlayerExplore.lua"
 
 -- new text
 --[==[
-t("Running...", "Running...", "_t")
-t("You are exploring, press any key to stop.", "You are exploring, press any key to stop.", "_t")
-t("the path is blocked", "the path is blocked", "_t")
+t("Running...", "Ejecutando...", "_t")
+t("You are exploring, press any key to stop.", "Estás explorando, presiona cualquier tecla para parar.", "_t")
+t("the path is blocked", "el camino está bloqueado", "_t")
 --]==]
 
 
@@ -1408,10 +1408,10 @@ section "engine/engine/interface/PlayerHotkeys.lua"
 
 -- new text
 --[==[
-t("Hotkey not defined", "Hotkey not defined", "_t")
+t("Hotkey not defined", "Tecla no definida", "_t")
 t("You may define a hotkey by pressing 'm' and following the instructions there.", "You may define a hotkey by pressing 'm' and following the instructions there.", "_t")
-t("Item not found", "Item not found", "_t")
-t("You do not have any %s .", "You do not have any %s .", "tformat")
+t("Item not found", "Objeto no encontrado", "_t")
+t("You do not have any %s .", "No tienes ningún %s.", "tformat")
 --]==]
 
 
@@ -1431,10 +1431,10 @@ section "engine/engine/interface/PlayerRest.lua"
 
 -- new text
 --[==[
-t("resting", "resting", "_t")
-t("rested", "rested", "_t")
+t("resting", "descansando", "_t")
+t("rested", "descansado", "_t")
 t("%s...", "%s...", "tformat")
-t("You are %s, press Enter to stop.", "You are %s, press Enter to stop.", "tformat")
+t("You are %s, press Enter to stop.", "Estás %s, presiona Enter para parar.", "tformat")
 t("%s starts...", "%s comienza...", "log")
 t("%s for %d turns (stop reason: %s).", "%s durante %d turnos (motivo de parada: %s).", "log")
 t("%s for %d turns.", "%s durante %d turnos.", "log")
@@ -1447,16 +1447,16 @@ section "engine/engine/interface/PlayerRun.lua"
 
 -- new text
 --[==[
-t("Running...", "Running...", "_t")
-t("You are running, press Enter to stop.", "You are running, press Enter to stop.", "_t")
+t("Running...", "Ejecutando...", "_t")
+t("You are running, press Enter to stop.", "Estás corriendo, presiona Enter para parar.", "_t")
 t("You don't see how to get there...", "No ves cómo llegar allí...", "logPlayer")
-t("You are running, press any key to stop.", "You are running, press any key to stop.", "_t")
-t("didn't move", "didn't move", "_t")
-t("trap spotted", "trap spotted", "_t")
-t("terrain change on the left", "terrain change on the left", "_t")
-t("terrain change on the right", "terrain change on the right", "_t")
-t("at %s", "at %s", "tformat")
-t("Ran for %d turns (stop reason: %s).", "Ran for %d turns (stop reason: %s).", "log")
+t("You are running, press any key to stop.", "Estás corriendo, presiona cualquier tecla para parar.", "_t")
+t("didn't move", "no se movió", "_t")
+t("trap spotted", "trampa detectada", "_t")
+t("terrain change on the left", "cambio de terreno a la izquierda", "_t")
+t("terrain change on the right", "cambio de terreno a la derecha", "_t")
+t("at %s", "en %s", "tformat")
+t("Ran for %d turns (stop reason: %s).", "Corrió durante %d turnos (motivo: %s).", "log")
 --]==]
 
 
@@ -1466,11 +1466,11 @@ section "engine/engine/interface/WorldAchievements.lua"
 
 -- new text
 --[==[
-t("#%s#Personal New Achievement: %s!", "#%s#Personal New Achievement: %s!", "log")
-t("Personal New Achievement: #%s#%s", "Personal New Achievement: #%s#%s", "tformat")
-t("#%s#New Achievement: %s!", "#%s#New Achievement: %s!", "log")
+t("#%s#Personal New Achievement: %s!", "#%s#Logro personal nuevo: %s!", "log")
+t("Personal New Achievement: #%s#%s", "Logro personal nuevo: #%s#%s", "tformat")
+t("#%s#New Achievement: %s!", "#%s#Nuevo logro: %s!", "log")
 t("New Achievement: #%s#%s", "New Achievement: #%s#%s", "tformat")
-t("New Achievement", "New Achievement", "_t")
+t("New Achievement", "Nuevo logro", "_t")
 --]==]
 
 
@@ -1485,7 +1485,7 @@ t("Yes", "Sí", "_t")
 t("No", "No", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Copy URL", "Copiar URL", "_t")
-t("URL copied to your clipboard.", "URL copied to your clipboard.", "_t")
+t("URL copied to your clipboard.", "URL copiada al portapapeles.", "_t")
 --]==]
 
 
@@ -1495,7 +1495,7 @@ section "engine/engine/ui/Gestures.lua"
 
 -- new text
 --[==[
-t("Mouse Gestures", "Mouse Gestures", "_t")
+t("Mouse Gestures", "Gestos de ratón", "_t")
 t([[You have started to draw a mouse gesture for the first time!
 Gestures allow you to use talents or keyboard action by a simple movement of the mouse. To draw one you simply #{bold}#hold right click + move#{normal}#.
 By default no bindings are done for gesture so if you want to use them go to the Keybinds and add some, it's easy and fun!
@@ -1549,8 +1549,8 @@ t("Confirm module install/update", "Confirmar instalación/actualización de mó
 t("Are you sure you want to install this module: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "Are you sure you want to install this module: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "tformat")
 t("Addon installed!", "¡Addon instalado!", "_t")
 t("Addon installation successful. New addons are only active for new characters.", "Addon installation successful. New addons are only active for new characters.", "_t")
-t("Game installed!", "Game installed!", "_t")
-t("Game installation successful. Have fun!", "Game installation successful. Have fun!", "_t")
+t("Game installed!", "¡Juego instalado!", "_t")
+t("Game installation successful. Have fun!", "Instalación completada. ¡Diviértete!", "_t")
 --]==]
 
 
@@ -1564,18 +1564,18 @@ t("%dth", "%dth", "_t")
 t("%dst", "%dst", "_t")
 t("%dnd", "%dnd", "_t")
 t("%drd", "%drd", "_t")
-t("an ", "an ", "_t")
-t("a ", "a ", "_t")
-t("she", "she", "_t")
-t("it", "it", "_t")
-t("he", "he", "_t")
-t("her", "her", "_t")
-t("its", "its", "_t")
-t("his", "his", "_t")
-t("him", "him", "_t")
-t("herself", "herself", "_t")
-t("itself", "itself", "_t")
-t("himself", "himself", "_t")
+t("an ", "un ", "_t")
+t("a ", "un ", "_t")
+t("she", "ella", "_t")
+t("it", "ello", "_t")
+t("he", "él", "_t")
+t("her", "ella", "_t")
+t("its", "su", "_t")
+t("his", "su", "_t")
+t("him", "él", "_t")
+t("herself", "sí misma", "_t")
+t("itself", "sí mismo", "_t")
+t("himself", "sí mismo", "_t")
 --]==]
 
 

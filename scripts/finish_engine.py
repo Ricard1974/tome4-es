@@ -1,182 +1,214 @@
 #!/usr/bin/env python3
 """
-Traduce TODAS las cadenas restantes de engine.lua (UI, menús, opciones, chat).
-Cubre el 100% de las cadenas que quedan.
-
-Uso: python3 scripts/finish_engine.py
+Traduce TODAS las cadenas restantes de engine.lua.
+Última pasada para completar engine.lua.
 """
 
 import re
 from pathlib import Path
 
-ENGINE_FILE = Path(__file__).parent.parent / "translations" / "es" / "engine.lua"
+ENGINE = Path(__file__).parent.parent / "translations" / "es" / "engine.lua"
 
 DICT = {
-    # === Chat ===
-    "Global": "Global",
-    "Chat filters": "Filtros de chat",
-    "Public chat": "Chat público",
-    "Private whispers": "Susurros privados",
-    "Join/part messages": "Mensajes de entrada/salida",
-    "First time achievements (recommended to keep them on)": "Logros por primera vez (recomendado mantenerlos)",
-    "Important achievements (recommended to keep them on)": "Logros importantes (recomendado mantenerlos)",
-    "Other achievements": "Otros logros",
-    "Select which types of chat events to see or not.": "Selecciona qué tipos de eventos de chat ver o no.",
-    "Chat ignore list": "Lista de ignorados del chat",
-    "Stop ignoring": "Dejar de ignorar",
-    "Click a user to stop ignoring her/his messages.": "Click en un usuario para dejar de ignorar sus mensajes.",
-    "[spoilers]": "[spoilers]",
-    # === Video / Resolución ===
-    "Switch Resolution": "Cambiar resolución",
-    "Engine Restart Required": "Requiere reinicio del motor",
-    "Reset Window Position?": "¿Restablecer posición de ventana?",
-    "Simply restart or restart+reset window position?": "¿Solo reiniciar o reiniciar + restablecer posición?",
-    "Restart": "Reiniciar",
-    "Restart with reset": "Reiniciar y restablecer",
-    "Display Resolution": "Resolución de pantalla",
-    "Video Options": "Opciones de vídeo",
-    "Show Achievements": "Mostrar logros",
-    "No": "No",
-    # === Menú del juego ===
-    "Game Menu": "Menú del juego",
-    "Developer Mode": "Modo desarrollador",
-    "Disable developer mode?": "¿Desactivar modo desarrollador?",
-    "Enable developer mode?": "¿Activar modo desarrollador?",
-    # === Opciones de juego ===
-    "Game Options": "Opciones del juego",
-    "Audio Options": "Opciones de audio",
-    "Video Options": "Opciones de vídeo",
-    "Interface Options": "Opciones de interfaz",
-    "Keybind Options": "Opciones de teclas",
-    "Chat Options": "Opciones de chat",
-    "Accessibility Options": "Opciones de accesibilidad",
-    "Misc Options": "Opciones varias",
-    "Mouse Options": "Opciones de ratón",
-    "Keyboard Options": "Opciones de teclado",
-    "Tooltip Options": "Opciones de tooltips",
-    "UI Options": "Opciones de interfaz",
-    # === Opciones varias ===
-    "Enable music": "Activar música",
-    "Enable sound": "Activar sonido",
-    "Music volume": "Volumen de música",
-    "Sound volume": "Volumen de sonido",
-    "Ambient volume": "Volumen ambiente",
-    "Effects volume": "Volumen de efectos",
-    "Master volume": "Volumen general",
-    "Auto-explore": "Autoexplorar",
-    "Auto-rest": "Autodescansar",
-    "Auto-pickup": "Auto-recoger",
-    "Auto-save": "Autoguardar",
-    "Auto-explore stops when item seen": "Autoexplorar para al ver objeto",
-    "Auto-explore stops when attackable seen": "Autoexplorar para al ver atacable",
-    "Lua Console": "Consola Lua",
-    "Remove": "Eliminar",
-    "Add": "Añadir",
-    "Edit": "Editar",
-    "Up": "Arriba",
-    "Down": "Abajo",
-    # === Misc ===
     "???": "???",
+    "No": "No",
     "Error": "Error",
-    "(progress will be saved)": "(el progreso se guardará)",
     "Global": "Global",
-    "English": "Inglés",
-    "Chat": "Chat",
-    "Message": "Mensaje",
-    "Messages": "Mensajes",
-    "Input": "Entrada",
-    "Output": "Salida",
-    "All": "Todo",
-    "None": "Ninguno",
-    "OK": "Aceptar",
-    # === Keybinds que faltan ===
-    "Copy": "Copiar",
-    "Paste": "Pegar",
-    "Cut": "Cortar",
-    "Undo": "Deshacer",
-    "Redo": "Rehacer",
-    "Select all": "Seleccionar todo",
-    "Deselect": "Deseleccionar",
-    "Find": "Buscar",
-    "Find next": "Buscar siguiente",
-    "Find previous": "Buscar anterior",
-    "Replace": "Reemplazar",
-    "Replace all": "Reemplazar todo",
-    "Go to line": "Ir a línea",
-    "Toggle comment": "Comentar/descomentar",
-    "Indent": "Indentar",
-    "Unindent": "Desindentar",
-    # === Opciones del juego ===
-    "Difficulty": "Dificultad",
-    "Permadeath": "Muerte permanente",
-    "Campaign": "Campaña",
-    "Main Campaign": "Campaña principal",
-    "Arena": "Arena",
-    "Infinite Dungeon": "Mazmorra infinita",
-    "Adventure": "Aventura",
-    "Roguelike": "Roguelike",
-    "Exploration": "Exploración",
-    "Normal": "Normal",
-    "Nightmare": "Pesadilla",
-    "Insane": "Insano",
-    "Madness": "Locura",
+    "[spoilers]": "[spoilers]",
+    "Select which channels to listen to. You can join new channels by typing '/join <channelname>' in the talkbox and leave channels by typing '/part <channelname>'": "Selecciona qué canales escuchar. Usa '/join <canal>' para unirte y '/part <canal>' para salir.",
+    "      Press a key (escape to cancel, backspace to remove) for: %s": "Pulsa una tecla (escape=cancelar, retroceso=quitar) para: %s",
+    "Make gesture (using right mouse button) or type it (or escape) for: %s": "Haz un gesto (clic derecho) o escríbelo (escape=cancelar) para: %s",
+    "If you already reported that error, you do not have to do it again (unless you feel the situation is different).": "Si ya reportaste ese error, no hace falta que lo hagas de nuevo (a menos que creas que es diferente).",
+    "You #LIGHT_GREEN#already reported#WHITE# that error, you do not have to do it again (unless you feel the situation is different).": "#LIGHT_GREEN#Ya reportaste#WHITE# ese error, no hace falta repetirlo (a menos que sea diferente).",
+    "You have already got this error but #LIGHT_RED#never reported#WHITE# it, please do.": "Ya tuviste este error pero #LIGHT_RED#nunca lo reportaste#WHITE#, por favor hazlo.",
+    "You have #LIGHT_RED#never seen#WHITE# that error, please report it.": "#LIGHT_RED#Nunca has visto#WHITE# este error, por favor repórtalo.",
+    "Log saved to file (click to copy to clipboard):#LIGHT_BLUE#%s": "Log guardado (clic para copiar):#LIGHT_BLUE#%s",
+    "Steam Cloud Purge": "Purgar nube de Steam",
+    "Say: ": "Decir: ",
+    "Target: ": "Objetivo: ",
+    "Channel: %s": "Canal: %s",
+    "Friend: %s": "Amigo: %s",
+    "User: %s": "Usuario: %s",
+    "Use Talents: ": "Usar talentos: ",
+    "Talent": "Talento",
+    "Game: ": "Juego: ",
+    "Validation: ": "Validación: ",
+    "Game has been validated by the server": "El juego ha sido validado por el servidor",
+    "Game is not validated by the server": "El juego NO ha sido validado por el servidor",
+    "Go to online profile": "Ir al perfil online",
+    "Go to online charsheet": "Ir a la ficha online",
+    "If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#": "Si tienes una pantalla de alto DPI, sube este valor. Requiere reiniciar.#WHITE#",
+    "Enter Zoom %": "Introduce % de zoom",
+    "From 50 to 400": "De 50 a 400",
+    "Enter density": "Introduce densidad",
+    "From 5 to 60": "De 5 a 60",
+    "From 0 to 100": "De 0 a 100",
+    "Font Scale %": "% de escala de fuente",
+    "From 50 to 300": "De 50 a 300",
+    "#GOLD##{bold}#Framebuffers#WHITE##{normal}#": "#GOLD##{bold}#Framebuffers#WHITE##{normal}#",
+    "Gamma correction": "Corrección gamma",
+    "Window Origin: X-Coordinate": "Origen ventana: Coordenada X",
+    "Enter the x-coordinate": "Introduce la coordenada X",
+    "Window Origin: Y-Coordinate": "Origen ventana: Coordenada Y",
+    "Enter the y-coordinate": "Introduce la coordenada Y",
+    "Position changed.": "Posición cambiada.",
+    "Save position?": "¿Guardar posición?",
+    "Revert": "Revertir",
+    "High Scores": "Puntuaciones",
+    "%s #GOLD#Purchasables#LAST#": "%s #GOLD#Comprables#LAST#",
+    "Online Store": "Tienda online",
+    "#{italic}##UMBER#Bonus vault slots from this order: #ROYAL_BLUE#%d#{normal}#": "#{italic}##UMBER#Espacios extra de bóveda: #ROYAL_BLUE#%d#{normal}#",
+    "#{italic}##UMBER#Voratun Coins available from your donations: #ROYAL_BLUE#%d#{normal}#": "#{italic}##UMBER#Monedas Voratún disponibles: #ROYAL_BLUE#%d#{normal}#",
+    "%s #GOLD#Online Store#LAST#": "%s #GOLD#Tienda online#LAST#",
+    "Purchase": "Comprar",
+    "Qty": "Cant",
+    "You need to be logged in before using the store. Please go back to the main menu and login.": "Necesitas iniciar sesión para usar la tienda. Ve al menú principal e inicia sesión.",
+    "Steam users need to link their profiles to their steam account. This is very easy in just a few clicks. Once this is done, simply restart the game.": "Los usuarios de Steam deben vincular su perfil. Es muy fácil en unos pocos clics. Luego reinicia el juego.",
+    "Let's do it! (Opens in your browser)": "¡Hagámoslo! (Se abre en tu navegador)",
+    "Not now": "Ahora no",
+    "The Online Store (and expansions) are only purchasable by players that bought the game. Plaese go have a look at the donation page for more explanations.": "La tienda online y expansiones solo están disponibles para quienes compraron el juego. Visita la página de donaciones para más información.",
+    "Let's go! (Opens in your browser)": "¡Vamos! (Se abre en tu navegador)",
+    "%0.2f %s": "%0.2f %s",
+    "#{bold}#TOTAL#{normal}#": "#{bold}#TOTAL#{normal}#",
+    "  (%d items in cart, %s)": "  (%d artículos en carrito, %s)",
+    "Shimmer pack installed!": "¡Paquete Shimmer instalado!",
+    "Downloading cosmetic pack: #LIGHT_GREEN#%s": "Descargando paquete cosmético: #LIGHT_GREEN#%s",
+    "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: The pack should be downloading or even finished by now.": "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: El paquete debería estar descargándose o ya terminó.",
+    "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: You can now trigger it whenever you are ready.": "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Puedes activarlo cuando quieras.",
+    "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Your available vault space has increased.": "- #{bold}##ROYAL_BLUE#%s #SLATE#x%d#WHITE##{normal}#: Tu espacio de bóveda ha aumentado.",
+    "Payment": "Pago",
+    "Steam Overlay should appear, if it does not please make sure it you have not disabled it.": "Debería aparecer la superposición de Steam. Si no, asegúrate de no haberla desactivado.",
+    "Finalizing transaction with Steam servers...": "Finalizando transacción con servidores de Steam...",
+    "New Achievement": "Nuevo logro",
+    "Mouse Gestures": "Gestos de ratón",
+    "Running...": "Ejecutando...",
+    "Please wait...": "Espera por favor...",
+    "Game installed!": "¡Juego instalado!",
+    "Item not found": "Objeto no encontrado",
+    "Hotkey not defined": "Tecla no definida",
+    "a ": "un ",
+    "an ": "un ",
+    "activates": "activa",
+    "deactivates": "desactiva",
+    "didn't move": "no se movió",
+    "Target yourself?": "¿Apuntarte a ti mismo?",
+    "Saving...": "Guardando...",
+    "Payment refused, you have not been billed.": "Pago rechazado, no se te ha cobrado.",
+    "You have enough coins to instantly purchase those options. Confirm?": "Tienes suficientes monedas para comprar esas opciones. ¿Confirmar?",
+    "%s #GOLD#Purchased Options#LAST#": "%s #GOLD#Opciones compradas#LAST#",
+    "Please use purchased options when not on the worldmap.": "Usa las opciones compradas cuando no estés en el mapa mundial.",
+    "This option may only be used once per character to prevent wasting it.": "Esta opción solo puede usarse una vez por personaje.",
+    "This pack is already installed and in use for your character.": "Este paquete ya está instalado y en uso.",
+    "Please wait while contacting the server...": "Espera mientras contactamos con el servidor...",
+    "The option has been activated.": "La opción ha sido activada.",
+    "There was an error from the server: %s": "Hubo un error del servidor: %s",
+    "You have not purchased any usable options yet. Would you like to see the store?": "Aún no has comprado opciones. ¿Quieres ver la tienda?",
+    "wrong equipment slot": "espacio de equipo incorrecto",
+    "not enough stat": "atributo insuficiente",
+    "missing %s (level %s )": "falta %s (nivel %s)",
+    "missing %s": "falta %s",
+    "not enough levels": "niveles insuficientes",
+    "missing dependency": "dependencia faltante",
+    "cannot use currently due to an other worn object": "no se puede usar por otro objeto equipado",
+    "%s is not wearable.": "%s no es equipable.",
+    "%s can not wear %s.": "%s no puede equipar %s.",
+    "%s can not wear (%s): %s (%s).": "%s no puede equipar (%s): %s (%s).",
+    "%s wears (offslot): %s.": "%s equipa (secundario): %s.",
+    "%s wears (replacing %s): %s.": "%s equipa (reemplazando %s): %s.",
+    "%s can not wear: %s.": "%s no puede equipar: %s.",
+    "something": "algo",
+    "%s attacks %s.": "%s ataca a %s.",
+    "wrong slot": "espacio incorrecto",
+    "not enough %s": "%s insuficiente",
+    "this item belongs to someone else": "este objeto pertenece a otro",
+    "the chest is empty": "el cofre está vacío",
+    "the chest is locked": "el cofre está cerrado",
+    "the container is empty": "el contenedor está vacío",
+    "You can not use this while running.": "No puedes usar esto mientras corres.",
+    "You can not use this while resting.": "No puedes usar esto mientras descansas.",
+    "You can not use this while exploring.": "No puedes usar esto mientras exploras.",
+    "You can not use this while auto-exploring": "No puedes usar esto mientras autoexploras",
+    "message": "mensaje",
+    "Player": "Jugador",
+    "Players": "Jugadores",
+    "Gender": "Género",
+    "Male": "Masculino",
+    "Female": "Femenino",
+    "Tactical display enabled. Press shift+'t' to disable.": "Pantalla táctica activada. Presiona shift+'t' para desactivar.",
+    "Tactical display disabled. Press shift+'t' to enable.": "Pantalla táctica desactivada. Presiona shift+'t' para activar.",
+    "Error report sent, thank you.": "Informe de error enviado, gracias.",
+    "#YELLOW#Error report sent, thank you.": "#YELLOW#Informe de error enviado, gracias.",
+    "Game installation successful. Have fun!": "Instalación completada. ¡Diviértete!",
+    "Talent Use Confirmation": "Confirmación de uso de talento",
+    "URL copied to your clipboard.": "URL copiada al portapapeles.",
+    "Use %s?": "¿Usar %s?",
+    "You are %s, press Enter to stop.": "Estás %s, presiona Enter para parar.",
+    "You are exploring, press any key to stop.": "Estás explorando, presiona cualquier tecla para parar.",
+    "You are running, press Enter to stop.": "Estás corriendo, presiona Enter para parar.",
+    "You are running, press any key to stop.": "Estás corriendo, presiona cualquier tecla para parar.",
+    "You do not have any %s .": "No tienes ningún %s.",
+    "at %s": "en %s",
+    "is not %s": "no está %s",
+    "not enough stat: %s": "atributo insuficiente: %s",
+    "not enough talents of this type known": "no hay suficientes talentos de este tipo conocidos",
+    "- Is %s": "- Es %s",
+    "- Level %d": "- Nivel %d",
+    "- Lower talents of the same category: %d": "- Talentos inferiores de la misma categoría: %d",
+    "- Talent %s": "- Talento %s",
+    "- Talent %s (%d)": "- Talento %s (%d)",
+    "- Talent %s (not known)": "- Talento %s (no conocido)",
+    "It can be used to %s, costing %d power out of %d/%d.": "Se puede usar para %s, costando %d de poder de %d/%d.",
+    "It can be used to %s, with %d charges out of %d.": "Se puede usar para %s, con %d cargas de %d.",
+    "It can be used to activate talent: %s (level %d).": "Se puede usar para activar talento: %s (nivel %d).",
+    "Ran for %d turns (stop reason: %s).": "Corrió durante %d turnos (motivo: %s).",
+    "rested": "descansado",
+    "resting": "descansando",
+    "terrain change on the left": "cambio de terreno a la izquierda",
+    "terrain change on the right": "cambio de terreno a la derecha",
+    "the path is blocked": "el camino está bloqueado",
+    "trap spotted": "trampa detectada",
+    "unknown talent type": "tipo de talento desconocido",
+    "he": "él",
+    "him": "él",
+    "his": "su",
+    "himself": "sí mismo",
+    "she": "ella",
+    "her": "ella",
+    "herself": "sí misma",
+    "it": "ello",
+    "its": "su",
+    "itself": "sí mismo",
+    "%s...": "%s...",
+    "%s %s %s.": "%s %s %s.",
+    "Player": "Jugador",
+    "message": "mensaje",
+    "something": "algo",
+    "a ": "un ",
+    "an ": "un ",
 }
 
 
-def finish_engine():
-    with open(ENGINE_FILE, "r", encoding="utf-8") as f:
+def main():
+    with open(ENGINE, "r", encoding="utf-8") as f:
         content = f.read()
 
     count = 0
-    lines = content.split("\n")
-    new_lines = []
+    for orig, trans in sorted(DICT.items(), key=lambda x: -len(x[0])):
+        old = f't("{orig}", "{orig}",'
+        new = f't("{orig}", "{trans}",'
+        if old in content:
+            content = content.replace(old, new)
+            count += 1
 
-    for line in lines:
-        m = re.match(
-            r'^(\s*)t\("((?:[^"\\]|\\.)*)"\s*,\s*"((?:[^"\\]|\\.)*)"\s*,\s*"((?:[^"\\]|\\.)*)"\s*\)',
-            line,
-        )
-        if m:
-            indent = m.group(1)
-            original = m.group(2)
-            current = m.group(3)
-            type_ = m.group(4)
+    with open(ENGINE, "w", encoding="utf-8") as f:
+        f.write(content)
 
-            if original != current:
-                new_lines.append(line)
-                continue
-
-            if original in DICT:
-                trans = DICT[original]
-                safe = trans.replace('"', '\\"')
-                new_lines.append(f'{indent}t("{original}", "{safe}", "{type_}")')
-                count += 1
-            else:
-                new_lines.append(line)
-        else:
-            new_lines.append(line)
-
-    with open(ENGINE_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(new_lines))
-
-    return count
-
-
-def main():
-    print("=" * 60)
-    print("  COMPLETANDO ENGINE.LUA (UI y menús)")
-    print("=" * 60)
-
-    count = finish_engine()
-    print(f"\n  ✅ {count} cadenas traducidas")
-
-    with open(ENGINE_FILE) as f:
-        content = f.read()
-    untranslated = sum(
-        1 for line in content.split("\n") if re.match(r't\("([^"]*)",\s*"\1"', line)
-    )
-    print(f"  📊 Quedan {untranslated} sin traducir en engine.lua")
+    print(f"✅ engine.lua: +{count} traducciones")
     print()
+
+    # Mostrar cuántas quedan
+    remaining = len(re.findall(r't\("([^"]*)",\s*"\1"', content))
+    print(f"📊 Quedan {remaining} sin traducir en engine.lua")
 
 
 if __name__ == "__main__":
