@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("weapon", "weapon", "entity type")
-t("staff", "staff", "entity subtype")
+t("weapon", "arma", "entity type")
+t("staff", "bastón", "entity subtype")
 t("Staff of Absorption", "Staff of Absorption", "entity name")
-t("staff", "staff", "entity combat talented")
+t("staff", "bastón", "entity combat talented")
 t("dark runed staff", "dark runed staff", "_t")
 t("absorb energies", "absorb energies", "_t")
 t("This power seems too much to wield; you fear it might absorb YOU.", "This power seems too much to wield; you fear it might absorb YOU.", "logPlayer")

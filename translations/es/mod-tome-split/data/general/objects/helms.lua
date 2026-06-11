@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("head", "head", "entity subtype")
+t("armor", "armadura", "entity type")
+t("head", "cabeza", "entity subtype")
 t("A large helmet that can protect the entire head. Ventilation and bad vision can be a problem, however.", "A large helmet that can protect the entire head. Ventilation and bad vision can be a problem, however.", "_t")
-t("iron helm", "iron helm", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron helm", "yelmo de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
 t("dwarven-steel helm", "dwarven-steel helm", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("voratun helm", "voratun helm", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 

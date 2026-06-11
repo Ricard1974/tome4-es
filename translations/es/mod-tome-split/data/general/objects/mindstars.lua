@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("mindstar", "mindstar", "entity subtype")
 t("mindstar", "mindstar", "entity combat talented")
 t("mossy mindstar", "mossy mindstar", "entity name")

@@ -5,11 +5,11 @@
 -- Traductor: --
 
 t(" of the dragon", " of the dragon", "entity name")
-t("dragon", "dragon", "entity keyword")
+t("dragon", "dragón", "entity keyword")
 t("impenetrable ", "impenetrable ", "entity name")
 t("impenetrable", "impenetrable", "entity keyword")
 t("hardened ", "hardened ", "entity name")
-t("hardened", "hardened", "entity keyword")
+t("hardened", "endurecido", "entity keyword")
 t("fearforged ", "fearforged ", "entity name")
 t("fearforged", "fearforged", "entity keyword")
 t(" of implacability", " of implacability", "entity name")

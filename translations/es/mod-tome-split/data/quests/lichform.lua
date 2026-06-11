@@ -19,6 +19,6 @@ t("#SLATE#* Use the control orb of Yiilkgur to begin the ceremony.#WHITE#", "#SL
 t("#SLATE#* Your lair must amass enough energy to use in your rebirth (40 energy).#WHITE#", "#SLATE#* Your lair must amass enough energy to use in your rebirth (40 energy).#WHITE#", "_t")
 t("#SLATE#* The ceremony will require a suitable location, secluded and given to the channelling of energy#WHITE#", "#SLATE#* The ceremony will require a suitable location, secluded and given to the channelling of energy#WHITE#", "_t")
 t("#CRIMSON#* You have ascended to Lichdom!#WHITE#", "#CRIMSON#* You have ascended to Lichdom!#WHITE#", "_t")
-t("Lichform", "Lichform", "_t")
+t("Lichform", "Forma de Liche", "_t")
 t("The secrets of death lay open to you! You are to become a Lich upon your next death!", "The secrets of death lay open to you! You are to become a Lich upon your next death!", "_t")
 

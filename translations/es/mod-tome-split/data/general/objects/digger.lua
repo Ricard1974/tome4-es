@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("tool", "tool", "entity type")
-t("digger", "digger", "entity subtype")
+t("tool", "herramienta", "entity type")
+t("digger", "excavadora", "entity subtype")
 t("Allows you to dig a wall, remove a tree, create ways.", "Allows you to dig a wall, remove a tree, create ways.", "_t")
-t("iron pickaxe", "iron pickaxe", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron pickaxe", "pico de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
 t("dwarven-steel pickaxe", "dwarven-steel pickaxe", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("voratun pickaxe", "voratun pickaxe", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 

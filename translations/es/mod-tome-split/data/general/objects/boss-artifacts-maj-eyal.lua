@@ -77,7 +77,7 @@ t("%s taps %s %s, summoning a vampire thrall!", "%s taps %s %s, summoning a vamp
 t("elder vampire", "elder vampire", "_t")
 t("A terrible robed undead figure, this creature has existed in its unlife for many centuries by stealing the life of others. It can summon the very shades of its victims from beyond the grave to come enslaved to its aid.", "A terrible robed undead figure, this creature has existed in its unlife for many centuries by stealing the life of others. It can summon the very shades of its victims from beyond the grave to come enslaved to its aid.", "_t")
 t("Vampire", "Vampire", "_t")
-t("gem", "gem", "entity type")
+t("gem", "gema", "entity type")
 t("Runed Skull", "Runed Skull", "entity name")
 t("human skull", "human skull", "_t")
 t("Dull red runes are etched all over this blackened skull.", "Dull red runes are etched all over this blackened skull.", "_t")

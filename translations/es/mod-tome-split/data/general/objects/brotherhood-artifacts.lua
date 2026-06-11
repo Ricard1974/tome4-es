@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("potion", "potion", "entity type")
-t("potion", "potion", "entity subtype")
+t("potion", "poción", "entity type")
+t("potion", "poción", "entity subtype")
 t("Elixir of the Fox", "Elixir of the Fox", "entity name")
 t("vial of pink fluid", "vial of pink fluid", "_t")
 t("A vial of pink, airy fluid.", "A vial of pink, airy fluid.", "_t")

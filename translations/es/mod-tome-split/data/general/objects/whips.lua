@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("whip", "whip", "entity subtype")
 t("whip", "whip", "entity combat talented")
 t("Sharp, long and deadly.", "Sharp, long and deadly.", "_t")

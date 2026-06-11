@@ -12442,20 +12442,20 @@ section "mod-tome/data/general/objects/2haxes.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("battleaxe", "battleaxe", "entity subtype")
-t("axe", "axe", "entity combat talented")
+t("axe", "hacha", "entity combat talented")
 t("Massive two-handed battleaxes.", "Massive two-handed battleaxes.", "_t")
-t("iron battleaxe", "iron battleaxe", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel battleaxe", "steel battleaxe", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron battleaxe", "hacha de batalla de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel battleaxe", "hacha de batalla de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel battleaxe", "dwarven-steel battleaxe", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite battleaxe", "stralite battleaxe", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun battleaxe", "voratun battleaxe", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -12464,20 +12464,20 @@ section "mod-tome/data/general/objects/2hmaces.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("greatmaul", "greatmaul", "entity subtype")
-t("mace", "mace", "entity combat talented")
+t("mace", "maza", "entity combat talented")
 t("Massive two-handed mauls.", "Massive two-handed mauls.", "_t")
 t("iron greatmaul", "iron greatmaul", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron", "hierro", "entity short_name")
 t("steel greatmaul", "steel greatmaul", "entity name")
-t("steel", "steel", "entity short_name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel greatmaul", "dwarven-steel greatmaul", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite greatmaul", "stralite greatmaul", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun greatmaul", "voratun greatmaul", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -12486,20 +12486,20 @@ section "mod-tome/data/general/objects/2hswords.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("greatsword", "greatsword", "entity subtype")
-t("sword", "sword", "entity combat talented")
+t("weapon", "arma", "entity type")
+t("greatsword", "espada bastarda", "entity subtype")
+t("sword", "espada", "entity combat talented")
 t("Massive two-handed swords.", "Massive two-handed swords.", "_t")
-t("iron greatsword", "iron greatsword", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel greatsword", "steel greatsword", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron greatsword", "espada bastarda de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel greatsword", "espada bastarda de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel greatsword", "dwarven-steel greatsword", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite greatsword", "stralite greatsword", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun greatsword", "voratun greatsword", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -12508,15 +12508,15 @@ section "mod-tome/data/general/objects/2htridents.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("trident", "trident", "entity subtype")
-t("trident", "trident", "entity combat talented")
+t("weapon", "arma", "entity type")
+t("trident", "tridente", "entity subtype")
+t("trident", "tridente", "entity combat talented")
 t("coral trident", "coral trident", "entity name")
 t("coral", "coral", "entity short_name")
 t("blue-steel trident", "blue-steel trident", "entity name")
 t("b.steel", "b.steel", "entity short_name")
 t("deep-steel trident", "deep-steel trident", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("orite trident", "orite trident", "entity name")
 t("orite", "orite", "entity short_name")
 t("orichalcum trident", "orichalcum trident", "entity name")
@@ -12529,20 +12529,20 @@ section "mod-tome/data/general/objects/axes.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("waraxe", "waraxe", "entity subtype")
-t("axe", "axe", "entity combat talented")
-t("One-handed war axes.", "One-handed war axes.", "_t")
-t("iron waraxe", "iron waraxe", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel waraxe", "steel waraxe", "entity name")
-t("steel", "steel", "entity short_name")
-t("dwarven-steel waraxe", "dwarven-steel waraxe", "entity name")
-t("d.steel", "d.steel", "entity short_name")
-t("stralite waraxe", "stralite waraxe", "entity name")
-t("stralite", "stralite", "entity short_name")
-t("voratun waraxe", "voratun waraxe", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("weapon", "arma", "entity type")
+t("waraxe", "hacha de guerra", "entity subtype")
+t("axe", "hacha", "entity combat talented")
+t("One-handed war axes.", "Hachas de guerra de una mano.", "_t")
+t("iron waraxe", "hacha de guerra de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel waraxe", "hacha de guerra de acero", "entity name")
+t("steel", "acero", "entity short_name")
+t("dwarven-steel waraxe", "hacha de guerra de acero enano", "entity name")
+t("d.steel", "ac.dw", "entity short_name")
+t("stralite waraxe", "hacha de guerra de estralita", "entity name")
+t("stralite", "estralita", "entity short_name")
+t("voratun waraxe", "hacha de guerra de voratún", "entity name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -12683,7 +12683,7 @@ t("%s taps %s %s, summoning a vampire thrall!", "%s taps %s %s, summoning a vamp
 t("elder vampire", "elder vampire", "_t")
 t("A terrible robed undead figure, this creature has existed in its unlife for many centuries by stealing the life of others. It can summon the very shades of its victims from beyond the grave to come enslaved to its aid.", "A terrible robed undead figure, this creature has existed in its unlife for many centuries by stealing the life of others. It can summon the very shades of its victims from beyond the grave to come enslaved to its aid.", "_t")
 t("Vampire", "Vampire", "_t")
-t("gem", "gem", "entity type")
+t("gem", "gema", "entity type")
 t("Runed Skull", "Runed Skull", "entity name")
 t("human skull", "human skull", "_t")
 t("Dull red runes are etched all over this blackened skull.", "Dull red runes are etched all over this blackened skull.", "_t")
@@ -12809,24 +12809,24 @@ section "mod-tome/data/general/objects/bows.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("longbow", "longbow", "entity subtype")
-t("bow", "bow", "entity combat talented")
+t("bow", "arco", "entity combat talented")
 t("Longbows are used to shoot arrows at your foes.", "Longbows are used to shoot arrows at your foes.", "_t")
-t("elm longbow", "elm longbow", "entity name")
-t("elm", "elm", "entity short_name")
+t("elm longbow", "arco largo de olmo", "entity name")
+t("elm", "olmo", "entity short_name")
 t("ash longbow", "ash longbow", "entity name")
-t("ash", "ash", "entity short_name")
+t("ash", "fresno", "entity short_name")
 t("yew longbow", "yew longbow", "entity name")
-t("yew", "yew", "entity short_name")
+t("yew", "tejo", "entity short_name")
 t("elven-wood longbow", "elven-wood longbow", "entity name")
 t("e.wood", "e.wood", "entity short_name")
 t("dragonbone longbow", "dragonbone longbow", "entity name")
-t("dragonbone", "dragonbone", "entity short_name")
-t("ammo", "ammo", "entity type")
+t("dragonbone", "dragón", "entity short_name")
+t("ammo", "munición", "entity type")
 t("arrow", "arrow", "entity subtype")
 t("Arrows are used with bows to pierce your foes to death.", "Arrows are used with bows to pierce your foes to death.", "_t")
-t("quiver of elm arrows", "quiver of elm arrows", "entity name")
+t("quiver of elm arrows", "carcaj de flechas de olmo", "entity name")
 t("quiver of ash arrows", "quiver of ash arrows", "entity name")
 t("quiver of yew arrows", "quiver of yew arrows", "entity name")
 t("quiver of elven-wood arrows", "quiver of elven-wood arrows", "entity name")
@@ -12839,8 +12839,8 @@ section "mod-tome/data/general/objects/brotherhood-artifacts.lua"
 
 -- new text
 --[==[
-t("potion", "potion", "entity type")
-t("potion", "potion", "entity subtype")
+t("potion", "poción", "entity type")
+t("potion", "poción", "entity subtype")
 t("Elixir of the Fox", "Elixir of the Fox", "entity name")
 t("vial of pink fluid", "vial of pink fluid", "_t")
 t("A vial of pink, airy fluid.", "A vial of pink, airy fluid.", "_t")
@@ -12921,11 +12921,11 @@ section "mod-tome/data/general/objects/cloak.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("cloak", "cloak", "entity subtype")
+t("armor", "armadura", "entity type")
+t("cloak", "capa", "entity subtype")
 t("A cloth coat typically worn as a loose outer garment. It is spacious enough to be worn even over bulky metal armour.", "A cloth coat typically worn as a loose outer garment. It is spacious enough to be worn even over bulky metal armour.", "_t")
-t("linen cloak", "linen cloak", "entity name")
-t("linen", "linen", "entity short_name")
+t("linen cloak", "capa de lino", "entity name")
+t("linen", "lino", "entity short_name")
 t("cashmere cloak", "cashmere cloak", "entity name")
 t("cashmere", "cashmere", "entity short_name")
 t("elven-silk cloak", "elven-silk cloak", "entity name")
@@ -12938,17 +12938,17 @@ section "mod-tome/data/general/objects/cloth-armors.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("cloth", "cloth", "entity subtype")
+t("armor", "armadura", "entity type")
+t("cloth", "tela", "entity subtype")
 t("A cloth vestment. It offers no intrinsic protection but can be enchanted.", "A cloth vestment. It offers no intrinsic protection but can be enchanted.", "_t")
 t("linen robe", "linen robe", "entity name")
-t("linen", "linen", "entity short_name")
-t("woollen robe", "woollen robe", "entity name")
+t("linen", "lino", "entity short_name")
+t("woollen robe", "túnica de lana", "entity name")
 t("woollen", "woollen", "entity short_name")
 t("cashmere robe", "cashmere robe", "entity name")
 t("cashmere", "cashmere", "entity short_name")
-t("silk robe", "silk robe", "entity name")
-t("silk", "silk", "entity short_name")
+t("silk robe", "túnica de seda", "entity name")
+t("silk", "seda", "entity short_name")
 t("elven-silk robe", "elven-silk robe", "entity name")
 t("e.silk", "e.silk", "entity short_name")
 --]==]
@@ -12959,15 +12959,15 @@ section "mod-tome/data/general/objects/digger.lua"
 
 -- new text
 --[==[
-t("tool", "tool", "entity type")
-t("digger", "digger", "entity subtype")
+t("tool", "herramienta", "entity type")
+t("digger", "excavadora", "entity subtype")
 t("Allows you to dig a wall, remove a tree, create ways.", "Allows you to dig a wall, remove a tree, create ways.", "_t")
-t("iron pickaxe", "iron pickaxe", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron pickaxe", "pico de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
 t("dwarven-steel pickaxe", "dwarven-steel pickaxe", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("voratun pickaxe", "voratun pickaxe", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -13208,7 +13208,7 @@ t("dampening", "dampening", "entity keyword")
 t("blurring ", "blurring ", "entity name")
 t("blurring", "blurring", "entity keyword")
 t("reinforced ", "reinforced ", "entity name")
-t("reinforced", "reinforced", "entity keyword")
+t("reinforced", "reforzado", "entity keyword")
 t(" of transcendence", " of transcendence", "entity name")
 t("transcend", "transcend", "entity keyword")
 t(" of the mystic", " of the mystic", "entity name")
@@ -13292,7 +13292,7 @@ t("wanderer", "wanderer", "entity keyword")
 t("undeterred ", "undeterred ", "entity name")
 t("undeterred", "undeterred", "entity keyword")
 t("reinforced ", "reinforced ", "entity name")
-t("reinforced", "reinforced", "entity keyword")
+t("reinforced", "reforzado", "entity keyword")
 t("eldritch ", "eldritch ", "entity name")
 t("eldritch", "eldritch", "entity keyword")
 t(" of massiveness", " of massiveness", "entity name")
@@ -13479,7 +13479,7 @@ t("soldier", "soldier", "entity keyword")
 t("bloodhexed ", "bloodhexed ", "entity name")
 t("bloodhexed", "bloodhexed", "entity keyword")
 t("crystalomancer's ", "crystalomancer's ", "entity name")
-t("crystal", "crystal", "entity keyword")
+t("crystal", "cristal", "entity keyword")
 t("shattering ", "shattering ", "entity name")
 t("shattering", "shattering", "entity keyword")
 t("sapper's ", "sapper's ", "entity name")
@@ -13537,7 +13537,7 @@ t("steady", "steady", "entity keyword")
 t(" of war-making", " of war-making", "entity name")
 t("war", "war", "entity keyword")
 t(" of the iron hand", " of the iron hand", "entity name")
-t("iron", "iron", "entity keyword")
+t("iron", "hierro", "entity keyword")
 t("alchemist's ", "alchemist's ", "entity name")
 t("alchemist", "alchemist", "entity keyword")
 t("brawler's ", "brawler's ", "entity name")
@@ -13579,7 +13579,7 @@ section "mod-tome/data/general/objects/egos/heavy-armor.lua"
 t("impenetrable ", "impenetrable ", "entity name")
 t("impenetrable", "impenetrable", "entity keyword")
 t("hardened ", "hardened ", "entity name")
-t("hardened", "hardened", "entity keyword")
+t("hardened", "endurecido", "entity keyword")
 t("fearforged ", "fearforged ", "entity name")
 t("fearforged", "fearforged", "entity keyword")
 t(" of implacability", " of implacability", "entity name")
@@ -13763,11 +13763,11 @@ section "mod-tome/data/general/objects/egos/massive-armor.lua"
 -- new text
 --[==[
 t(" of the dragon", " of the dragon", "entity name")
-t("dragon", "dragon", "entity keyword")
+t("dragon", "dragón", "entity keyword")
 t("impenetrable ", "impenetrable ", "entity name")
 t("impenetrable", "impenetrable", "entity keyword")
 t("hardened ", "hardened ", "entity name")
-t("hardened", "hardened", "entity keyword")
+t("hardened", "endurecido", "entity keyword")
 t("fearforged ", "fearforged ", "entity name")
 t("fearforged", "fearforged", "entity keyword")
 t(" of implacability", " of implacability", "entity name")
@@ -13957,7 +13957,7 @@ t("nature", "nature", "entity keyword")
 t(" of lightning (#RESIST#)", " of lightning (#RESIST#)", "entity name")
 t("lightning", "lightning", "entity keyword")
 t(" of light (#RESIST#)", " of light (#RESIST#)", "entity name")
-t("light", "light", "entity keyword")
+t("light", "luz", "entity keyword")
 t(" of darkness (#RESIST#)", " of darkness (#RESIST#)", "entity name")
 t("darkness", "darkness", "entity keyword")
 t(" of corrosion (#RESIST#)", " of corrosion (#RESIST#)", "entity name")
@@ -14035,7 +14035,7 @@ t("nature", "nature", "entity keyword")
 t(" of lightning (#RESIST#)", " of lightning (#RESIST#)", "entity name")
 t("lightning", "lightning", "entity keyword")
 t(" of light (#RESIST#)", " of light (#RESIST#)", "entity name")
-t("light", "light", "entity keyword")
+t("light", "luz", "entity keyword")
 t(" of darkness (#RESIST#)", " of darkness (#RESIST#)", "entity name")
 t("darkness", "darkness", "entity keyword")
 t(" of corrosion (#RESIST#)", " of corrosion (#RESIST#)", "entity name")
@@ -14152,7 +14152,7 @@ t("Deals #YELLOW#%d#LAST# cold damage and freezes enemies in radius 4 to the gro
 t("windwalling ", "windwalling ", "entity name")
 t("windwalling", "windwalling", "entity keyword")
 t("reinforced ", "reinforced ", "entity name")
-t("reinforced", "reinforced", "entity keyword")
+t("reinforced", "reforzado", "entity keyword")
 t(" of resilience", " of resilience", "entity name")
 t("resilience", "resilience", "entity keyword")
 t("living ", "living ", "entity name")
@@ -14502,7 +14502,7 @@ t("nature", "nature", "entity keyword")
 t(" of lightning (#RESIST#)", " of lightning (#RESIST#)", "entity name")
 t("lightning", "lightning", "entity keyword")
 t(" of light (#RESIST#)", " of light (#RESIST#)", "entity name")
-t("light", "light", "entity keyword")
+t("light", "luz", "entity keyword")
 t(" of darkness (#RESIST#)", " of darkness (#RESIST#)", "entity name")
 t("darkness", "darkness", "entity keyword")
 t(" of corrosion (#RESIST#)", " of corrosion (#RESIST#)", "entity name")
@@ -14626,7 +14626,7 @@ t("Looks much like any other rock, though this one was recently sentient and try
 t("warg claw", "warg claw", "entity name")
 t("Unpleasantly large and sharp for a canine's claw.", "Unpleasantly large and sharp for a canine's claw.", "_t")
 t("pouch of faeros ash", "pouch of faeros ash", "entity name")
-t("ash", "ash", "_t")
+t("ash", "fresno", "_t")
 t("Unremarkable grey ash.", "Unremarkable grey ash.", "_t")
 t("wretchling eyeball", "wretchling eyeball", "entity name")
 t("eyeball", "eyeball", "_t")
@@ -14650,15 +14650,15 @@ section "mod-tome/data/general/objects/gauntlets.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("hands", "hands", "entity subtype")
+t("armor", "armadura", "entity type")
+t("hands", "manos", "entity subtype")
 t("Metal gloves protecting the hands up to the middle of the lower arm.", "Metal gloves protecting the hands up to the middle of the lower arm.", "_t")
-t("iron gauntlets", "iron gauntlets", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron gauntlets", "guanteletes de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
 t("dwarven-steel gauntlets", "dwarven-steel gauntlets", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("voratun gauntlets", "voratun gauntlets", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14667,13 +14667,13 @@ section "mod-tome/data/general/objects/gem.lua"
 
 -- new text
 --[==[
-t("gem", "gem", "entity type")
+t("gem", "gema", "entity type")
 t("white", "white", "entity subtype")
 t("Gems can be sold for money or used in arcane rituals.", "Gems can be sold for money or used in arcane rituals.", "_t")
 t("color", "color", "entity subtype")
 t("..", "..", "entity name")
 t("alchemist-gem", "alchemist-gem", "entity type")
-t("diamond", "diamond", "entity name")
+t("diamond", "diamante", "entity name")
 t("alchemist diamond", "alchemist diamond", "entity name")
 t("pearl", "pearl", "entity name")
 t("alchemist pearl", "alchemist pearl", "entity name")
@@ -14685,9 +14685,9 @@ t("alchemist fire opal", "alchemist fire opal", "entity name")
 t("red", "red", "entity subtype")
 t("bloodstone", "bloodstone", "entity name")
 t("alchemist bloodstone", "alchemist bloodstone", "entity name")
-t("ruby", "ruby", "entity name")
+t("ruby", "rubí", "entity name")
 t("alchemist ruby", "alchemist ruby", "entity name")
-t("amber", "amber", "entity name")
+t("amber", "ámbar", "entity name")
 t("alchemist amber", "alchemist amber", "entity name")
 t("yellow", "yellow", "entity subtype")
 t("turquoise", "turquoise", "entity name")
@@ -14696,12 +14696,12 @@ t("green", "green", "entity subtype")
 t("jade", "jade", "entity name")
 t("alchemist jade", "alchemist jade", "entity name")
 t("Slows by 17%", "Slows by 17%", "_t")
-t("sapphire", "sapphire", "entity name")
+t("sapphire", "zafiro", "entity name")
 t("alchemist sapphire", "alchemist sapphire", "entity name")
 t("blue", "blue", "entity subtype")
-t("quartz", "quartz", "entity name")
+t("quartz", "cuarzo", "entity name")
 t("alchemist quartz", "alchemist quartz", "entity name")
-t("emerald", "emerald", "entity name")
+t("emerald", "esmeralda", "entity name")
 t("alchemist emerald", "alchemist emerald", "entity name")
 t("lapis lazuli", "lapis lazuli", "entity name")
 t("alchemist lapis lazuli", "alchemist lapis lazuli", "entity name")
@@ -14710,10 +14710,10 @@ t("alchemist garnet", "alchemist garnet", "entity name")
 t("onyx", "onyx", "entity name")
 t("alchemist onyx", "alchemist onyx", "entity name")
 t("black", "black", "entity subtype")
-t("amethyst", "amethyst", "entity name")
+t("amethyst", "amatista", "entity name")
 t("alchemist amethyst", "alchemist amethyst", "entity name")
 t("violet", "violet", "entity subtype")
-t("opal", "opal", "entity name")
+t("opal", "ópalo", "entity name")
 t("alchemist opal", "alchemist opal", "entity name")
 t("topaz", "topaz", "entity name")
 t("alchemist topaz", "alchemist topaz", "entity name")
@@ -14738,15 +14738,15 @@ section "mod-tome/data/general/objects/gloves.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("hands", "hands", "entity subtype")
+t("armor", "armadura", "entity type")
+t("hands", "manos", "entity subtype")
 t("Light gloves which do not seriously hinder finger movements, while still protecting the hands somewhat.", "Light gloves which do not seriously hinder finger movements, while still protecting the hands somewhat.", "_t")
-t("rough leather gloves", "rough leather gloves", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough leather gloves", "guantes de cuero basto", "entity name")
+t("rough", "basto", "entity short_name")
 t("hardened leather gloves", "hardened leather gloves", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("drakeskin leather gloves", "drakeskin leather gloves", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14755,19 +14755,19 @@ section "mod-tome/data/general/objects/heavy-armors.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
+t("armor", "armadura", "entity type")
 t("heavy", "heavy", "entity subtype")
 t("A suit of armour made of mail.", "A suit of armour made of mail.", "_t")
-t("iron mail armour", "iron mail armour", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel mail armour", "steel mail armour", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron mail armour", "cota de malla de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel mail armour", "cota de malla de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel mail armour", "dwarven-steel mail armour", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite mail armour", "stralite mail armour", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun mail armour", "voratun mail armour", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14776,15 +14776,15 @@ section "mod-tome/data/general/objects/heavy-boots.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("feet", "feet", "entity subtype")
+t("armor", "armadura", "entity type")
+t("feet", "pies", "entity subtype")
 t("Heavy boots, with metal strips at the toes, heels and other vulnerable parts, to better protect the wearer's feet from harm.", "Heavy boots, with metal strips at the toes, heels and other vulnerable parts, to better protect the wearer's feet from harm.", "_t")
 t("pair of iron boots", "pair of iron boots", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron", "hierro", "entity short_name")
 t("pair of dwarven-steel boots", "pair of dwarven-steel boots", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("pair of voratun boots", "pair of voratun boots", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14793,15 +14793,15 @@ section "mod-tome/data/general/objects/helms.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("head", "head", "entity subtype")
+t("armor", "armadura", "entity type")
+t("head", "cabeza", "entity subtype")
 t("A large helmet that can protect the entire head. Ventilation and bad vision can be a problem, however.", "A large helmet that can protect the entire head. Ventilation and bad vision can be a problem, however.", "_t")
-t("iron helm", "iron helm", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron helm", "yelmo de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
 t("dwarven-steel helm", "dwarven-steel helm", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("voratun helm", "voratun helm", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14810,25 +14810,25 @@ section "mod-tome/data/general/objects/jewelry.lua"
 
 -- new text
 --[==[
-t("jewelry", "jewelry", "entity type")
-t("ring", "ring", "entity subtype")
+t("jewelry", "joyería", "entity type")
+t("ring", "anillo", "entity subtype")
 t("Rings make your fingers look great!", "Rings make your fingers look great!", "_t")
-t("amulet", "amulet", "entity subtype")
+t("amulet", "amuleto", "entity subtype")
 t("Amulets make your neck look great!", "Amulets make your neck look great!", "_t")
 t("copper ring", "copper ring", "entity name")
-t("copper", "copper", "entity short_name")
+t("copper", "cobre", "entity short_name")
 t("copper ring", "copper ring", "_t")
 t("steel ring", "steel ring", "entity name")
-t("steel", "steel", "entity short_name")
+t("steel", "acero", "entity short_name")
 t("steel ring", "steel ring", "_t")
 t("gold ring", "gold ring", "entity name")
-t("gold", "gold", "entity short_name")
+t("gold", "oro", "entity short_name")
 t("gold ring", "gold ring", "_t")
 t("stralite ring", "stralite ring", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("stralite ring", "stralite ring", "_t")
 t("voratun ring", "voratun ring", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 t("voratun ring", "voratun ring", "_t")
 t("copper amulet", "copper amulet", "entity name")
 t("copper amulet", "copper amulet", "_t")
@@ -14848,20 +14848,20 @@ section "mod-tome/data/general/objects/knifes.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("dagger", "dagger", "entity subtype")
-t("knife", "knife", "entity combat talented")
+t("weapon", "arma", "entity type")
+t("dagger", "daga", "entity subtype")
+t("knife", "cuchillo", "entity combat talented")
 t("Sharp, short and deadly.", "Sharp, short and deadly.", "_t")
-t("iron dagger", "iron dagger", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel dagger", "steel dagger", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron dagger", "daga de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel dagger", "daga de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel dagger", "dwarven-steel dagger", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite dagger", "stralite dagger", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun dagger", "voratun dagger", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14870,15 +14870,15 @@ section "mod-tome/data/general/objects/leather-belt.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("belt", "belt", "entity subtype")
+t("armor", "armadura", "entity type")
+t("belt", "cinturón", "entity subtype")
 t("A belt that goes around your waist.", "A belt that goes around your waist.", "_t")
 t("rough leather belt", "rough leather belt", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough", "basto", "entity short_name")
 t("hardened leather belt", "hardened leather belt", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("drakeskin leather belt", "drakeskin leather belt", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14887,15 +14887,15 @@ section "mod-tome/data/general/objects/leather-boots.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("feet", "feet", "entity subtype")
-t("A pair of boots made of leather.", "A pair of boots made of leather.", "_t")
-t("pair of rough leather boots", "pair of rough leather boots", "entity name")
-t("rough", "rough", "entity short_name")
-t("pair of hardened leather boots", "pair of hardened leather boots", "entity name")
-t("hardened", "hardened", "entity short_name")
-t("pair of drakeskin leather boots", "pair of drakeskin leather boots", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("armor", "armadura", "entity type")
+t("feet", "pies", "entity subtype")
+t("A pair of boots made of leather.", "Un par de botas de cuero.", "_t")
+t("pair of rough leather boots", "par de botas de cuero basto", "entity name")
+t("rough", "basto", "entity short_name")
+t("pair of hardened leather boots", "par de botas de cuero endurecido", "entity name")
+t("hardened", "endurecido", "entity short_name")
+t("pair of drakeskin leather boots", "par de botas de cuero de dragón", "entity name")
+t("drakeskin", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14904,15 +14904,15 @@ section "mod-tome/data/general/objects/leather-caps.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("head", "head", "entity subtype")
+t("armor", "armadura", "entity type")
+t("head", "cabeza", "entity subtype")
 t("A cap made of leather.", "A cap made of leather.", "_t")
-t("rough leather cap", "rough leather cap", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough leather cap", "gorro de cuero basto", "entity name")
+t("rough", "basto", "entity short_name")
 t("hardened leather cap", "hardened leather cap", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("drakeskin leather cap", "drakeskin leather cap", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14921,19 +14921,19 @@ section "mod-tome/data/general/objects/light-armors.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("light", "light", "entity subtype")
+t("armor", "armadura", "entity type")
+t("light", "luz", "entity subtype")
 t("A suit of armour made of leather.", "A suit of armour made of leather.", "_t")
 t("rough leather armour", "rough leather armour", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough", "basto", "entity short_name")
 t("cured leather armour", "cured leather armour", "entity name")
 t("cured", "cured", "entity short_name")
 t("hardened leather armour", "hardened leather armour", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("reinforced leather armour", "reinforced leather armour", "entity name")
-t("reinforced", "reinforced", "entity short_name")
+t("reinforced", "reforzado", "entity short_name")
 t("drakeskin leather armour", "drakeskin leather armour", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -14945,10 +14945,10 @@ section "mod-tome/data/general/objects/lites.lua"
 t("lite", "lite", "entity type")
 t("lite", "lite", "entity subtype")
 t("Light up the dark places of the world!", "Light up the dark places of the world!", "_t")
-t("brass lantern", "brass lantern", "entity name")
+t("brass lantern", "linterna de latón", "entity name")
 t("brass", "brass", "entity short_name")
 t("A brass container with a wick emerging from it, protected from draughts by a sheet of greased paper. It can be carried by a handle.", "A brass container with a wick emerging from it, protected from draughts by a sheet of greased paper. It can be carried by a handle.", "_t")
-t("alchemist's lamp", "alchemist's lamp", "entity name")
+t("alchemist's lamp", "lámpara de alquimista", "entity name")
 t("alchemist", "alchemist", "entity short_name")
 t("A normal brass lantern, enhanced by alchemy to make it brighter.", "A normal brass lantern, enhanced by alchemy to make it brighter.", "_t")
 t("dwarven lantern", "dwarven lantern", "entity name")
@@ -15038,20 +15038,20 @@ section "mod-tome/data/general/objects/maces.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("mace", "mace", "entity subtype")
-t("mace", "mace", "entity combat talented")
+t("weapon", "arma", "entity type")
+t("mace", "maza", "entity subtype")
+t("mace", "maza", "entity combat talented")
 t("Blunt and deadly.", "Blunt and deadly.", "_t")
-t("iron mace", "iron mace", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel mace", "steel mace", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron mace", "maza de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel mace", "maza de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel mace", "dwarven-steel mace", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite mace", "stralite mace", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun mace", "voratun mace", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15060,19 +15060,19 @@ section "mod-tome/data/general/objects/massive-armors.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
+t("armor", "armadura", "entity type")
 t("massive", "massive", "entity subtype")
 t("A suit of armour made of metal plates.", "A suit of armour made of metal plates.", "_t")
-t("iron plate armour", "iron plate armour", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel plate armour", "steel plate armour", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron plate armour", "armadura de placas de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel plate armour", "armadura de placas de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel plate armour", "dwarven-steel plate armour", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite plate armour", "stralite plate armour", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun plate armour", "voratun plate armour", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15081,7 +15081,7 @@ section "mod-tome/data/general/objects/mindstars.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("mindstar", "mindstar", "entity subtype")
 t("mindstar", "mindstar", "entity combat talented")
 t("mossy mindstar", "mossy mindstar", "entity name")
@@ -15102,7 +15102,7 @@ section "mod-tome/data/general/objects/misc-tools.lua"
 
 -- new text
 --[==[
-t("tool", "tool", "entity type")
+t("tool", "herramienta", "entity type")
 t("misc", "misc", "entity subtype")
 t("A miscellaneous tool.", "A miscellaneous tool.", "_t")
 --]==]
@@ -15139,7 +15139,7 @@ section "mod-tome/data/general/objects/mummy-wrappings.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
+t("armor", "armadura", "entity type")
 t("mummy", "mummy", "entity subtype")
 t("Decaying mummy wrappings.", "Decaying mummy wrappings.", "_t")
 t("mummy wrappings", "mummy wrappings", "entity name")
@@ -15163,10 +15163,10 @@ section "mod-tome/data/general/objects/potions.lua"
 
 -- new text
 --[==[
-t("potion", "potion", "entity type")
-t("potion", "potion", "entity subtype")
-t("potion", "potion", "_t")
-t("Magical potions can have wildly different effects, from healing to killing you -- beware! Most of them function better with a high Magic score.", "Magical potions can have wildly different effects, from healing to killing you -- beware! Most of them function better with a high Magic score.", "_t")
+t("potion", "poción", "entity type")
+t("potion", "poción", "entity subtype")
+t("potion", "poción", "_t")
+t("Magical potions can have wildly different effects, from healing to killing you -- beware! Most of them function better with a high Magic score.", "Las pociones mágicas pueden tener efectos muy diversos, desde curarte hasta matarte. La mayoría funcionan mejor con una puntuación de Magia alta.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -15175,10 +15175,10 @@ section "mod-tome/data/general/objects/quest-artifacts.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("staff", "staff", "entity subtype")
+t("weapon", "arma", "entity type")
+t("staff", "bastón", "entity subtype")
 t("Staff of Absorption", "Staff of Absorption", "entity name")
-t("staff", "staff", "entity combat talented")
+t("staff", "bastón", "entity combat talented")
 t("dark runed staff", "dark runed staff", "_t")
 t("absorb energies", "absorb energies", "_t")
 t("This power seems too much to wield; you fear it might absorb YOU.", "This power seems too much to wield; you fear it might absorb YOU.", "logPlayer")
@@ -15260,7 +15260,7 @@ t("arcane melee", "arcane melee", "entity name")
 t("poison melee", "poison melee", "entity name")
 t("def", "def", "entity name")
 t("rdef", "rdef", "entity name")
-t("armor", "armor", "entity name")
+t("armor", "armadura", "entity name")
 t("stat str", "stat str", "entity name")
 t("stat dex", "stat dex", "entity name")
 t("stat mag", "stat mag", "entity name")
@@ -15634,9 +15634,9 @@ section "mod-tome/data/general/objects/scrolls.lua"
 
 -- new text
 --[==[
-t("scroll", "scroll", "entity type")
-t("scroll", "scroll", "entity subtype")
-t("scroll", "scroll", "_t")
+t("scroll", "pergamino", "entity type")
+t("scroll", "pergamino", "entity subtype")
+t("scroll", "pergamino", "_t")
 t("Magical scrolls can have wildly different effects!", "Magical scrolls can have wildly different effects!", "_t")
 t("infusion", "infusion", "entity subtype")
 t("infusion", "infusion", "_t")
@@ -15650,8 +15650,8 @@ t("taint", "taint", "entity subtype")
 t("taint", "taint", "_t")
 t("Corrupted taints may be inscribed onto your body, granting you an on-demand ability.", "Corrupted taints may be inscribed onto your body, granting you an on-demand ability.", "_t")
 t("inscribe your skin with the taint", "inscribe your skin with the taint", "_t")
-t("lore", "lore", "entity type")
-t("lore", "lore", "entity subtype")
+t("lore", "texto histórico", "entity type")
+t("lore", "texto histórico", "entity subtype")
 t("This parchment contains some lore.", "This parchment contains some lore.", "_t")
 t("read it", "read it", "_t")
 t("healing infusion", "healing infusion", "entity name")
@@ -15684,19 +15684,19 @@ section "mod-tome/data/general/objects/shields.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
+t("armor", "armadura", "entity type")
 t("shield", "shield", "entity subtype")
 t("Handheld deflection devices.", "Handheld deflection devices.", "_t")
-t("iron shield", "iron shield", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel shield", "steel shield", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron shield", "escudo de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel shield", "escudo de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel shield", "dwarven-steel shield", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite shield", "stralite shield", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun shield", "voratun shield", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15705,33 +15705,33 @@ section "mod-tome/data/general/objects/slings.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("sling", "sling", "entity subtype")
-t("sling", "sling", "entity combat talented")
+t("weapon", "arma", "entity type")
+t("sling", "honda", "entity subtype")
+t("sling", "honda", "entity combat talented")
 t("Slings are used to hurl stones or metal shots at your foes.", "Slings are used to hurl stones or metal shots at your foes.", "_t")
 t("rough leather sling", "rough leather sling", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough", "basto", "entity short_name")
 t("cured leather sling", "cured leather sling", "entity name")
 t("cured", "cured", "entity short_name")
 t("hardened leather sling", "hardened leather sling", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("reinforced leather sling", "reinforced leather sling", "entity name")
-t("reinforced", "reinforced", "entity short_name")
+t("reinforced", "reforzado", "entity short_name")
 t("drakeskin leather sling", "drakeskin leather sling", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
-t("ammo", "ammo", "entity type")
+t("drakeskin", "dragón", "entity short_name")
+t("ammo", "munición", "entity type")
 t("shot", "shot", "entity subtype")
 t("Shots are used with slings to pummel your foes to death.", "Shots are used with slings to pummel your foes to death.", "_t")
-t("pouch of iron shots", "pouch of iron shots", "entity name")
-t("iron", "iron", "entity short_name")
+t("pouch of iron shots", "saco de proyectiles de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
 t("pouch of steel shots", "pouch of steel shots", "entity name")
-t("steel", "steel", "entity short_name")
+t("steel", "acero", "entity short_name")
 t("pouch of dwarven-steel shots", "pouch of dwarven-steel shots", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("pouch of stralite shots", "pouch of stralite shots", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("pouch of voratun shots", "pouch of voratun shots", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15753,20 +15753,20 @@ section "mod-tome/data/general/objects/staves.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
-t("staff", "staff", "entity subtype")
-t("staff", "staff", "entity combat talented")
+t("weapon", "arma", "entity type")
+t("staff", "bastón", "entity subtype")
+t("staff", "bastón", "entity combat talented")
 t("Staves designed for wielders of magic, by the greats of the art.", "Staves designed for wielders of magic, by the greats of the art.", "_t")
 t("elm staff", "elm staff", "entity name")
-t("elm", "elm", "entity short_name")
+t("elm", "olmo", "entity short_name")
 t("ash staff", "ash staff", "entity name")
-t("ash", "ash", "entity short_name")
+t("ash", "fresno", "entity short_name")
 t("yew staff", "yew staff", "entity name")
-t("yew", "yew", "entity short_name")
+t("yew", "tejo", "entity short_name")
 t("elven-wood staff", "elven-wood staff", "entity name")
 t("e.wood", "e.wood", "entity short_name")
 t("dragonbone staff", "dragonbone staff", "entity name")
-t("dragonbone", "dragonbone", "entity short_name")
+t("dragonbone", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15775,20 +15775,20 @@ section "mod-tome/data/general/objects/swords.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("longsword", "longsword", "entity subtype")
-t("sword", "sword", "entity combat talented")
+t("sword", "espada", "entity combat talented")
 t("Sharp, long, and deadly.", "Sharp, long, and deadly.", "_t")
-t("iron longsword", "iron longsword", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel longsword", "steel longsword", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron longsword", "espada larga de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel longsword", "espada larga de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel longsword", "dwarven-steel longsword", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite longsword", "stralite longsword", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun longsword", "voratun longsword", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15802,15 +15802,15 @@ t("torque", "torque", "entity subtype")
 t("torque", "torque", "_t")
 t("Torques are made by powerful psionics to store psionic powers.", "Torques are made by powerful psionics to store psionic powers.", "_t")
 t("iron torque", "iron torque", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron", "hierro", "entity short_name")
 t("steel torque", "steel torque", "entity name")
-t("steel", "steel", "entity short_name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel torque", "dwarven-steel torque", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite torque", "stralite torque", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun torque", "voratun torque", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15824,15 +15824,15 @@ t("totem", "totem", "entity subtype")
 t("totem", "totem", "_t")
 t("Natural totems are made by powerful wilders to store nature power.", "Natural totems are made by powerful wilders to store nature power.", "_t")
 t("elm totem", "elm totem", "entity name")
-t("elm", "elm", "entity short_name")
+t("elm", "olmo", "entity short_name")
 t("ash totem", "ash totem", "entity name")
-t("ash", "ash", "entity short_name")
+t("ash", "fresno", "entity short_name")
 t("yew totem", "yew totem", "entity name")
-t("yew", "yew", "entity short_name")
+t("yew", "tejo", "entity short_name")
 t("elven-wood totem", "elven-wood totem", "entity name")
 t("e.wood", "e.wood", "entity short_name")
 t("dragonbone totem", "dragonbone totem", "entity name")
-t("dragonbone", "dragonbone", "entity short_name")
+t("dragonbone", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15842,19 +15842,19 @@ section "mod-tome/data/general/objects/wands.lua"
 -- new text
 --[==[
 t("charm", "charm", "entity type")
-t("wand", "wand", "entity subtype")
-t("wand", "wand", "_t")
+t("wand", "varita", "entity subtype")
+t("wand", "varita", "_t")
 t("Magical wands are made by powerful Alchemists and Archmagi to store spells. Anybody can use them to release the spells.", "Magical wands are made by powerful Alchemists and Archmagi to store spells. Anybody can use them to release the spells.", "_t")
 t("elm wand", "elm wand", "entity name")
-t("elm", "elm", "entity short_name")
+t("elm", "olmo", "entity short_name")
 t("ash wand", "ash wand", "entity name")
-t("ash", "ash", "entity short_name")
+t("ash", "fresno", "entity short_name")
 t("yew wand", "yew wand", "entity name")
-t("yew", "yew", "entity short_name")
+t("yew", "tejo", "entity short_name")
 t("elven-wood wand", "elven-wood wand", "entity name")
 t("e.wood", "e.wood", "entity short_name")
 t("dragonbone wand", "dragonbone wand", "entity name")
-t("dragonbone", "dragonbone", "entity short_name")
+t("dragonbone", "dragón", "entity short_name")
 --]==]
 
 ------------------------------------------------
@@ -15863,7 +15863,7 @@ section "mod-tome/data/general/objects/whips.lua"
 
 -- new text
 --[==[
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("whip", "whip", "entity subtype")
 t("whip", "whip", "entity combat talented")
 t("Sharp, long and deadly.", "Sharp, long and deadly.", "_t")
@@ -15875,11 +15875,11 @@ section "mod-tome/data/general/objects/wizard-hat.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("head", "head", "entity subtype")
+t("armor", "armadura", "entity type")
+t("head", "cabeza", "entity subtype")
 t("A pointy cloth hat, very wizardly...", "A pointy cloth hat, very wizardly...", "_t")
 t("linen wizard hat", "linen wizard hat", "entity name")
-t("linen", "linen", "entity short_name")
+t("linen", "lino", "entity short_name")
 t("cashmere wizard hat", "cashmere wizard hat", "entity name")
 t("cashmere", "cashmere", "entity short_name")
 t("elven-silk wizard hat", "elven-silk wizard hat", "entity name")
@@ -16142,8 +16142,8 @@ t("Dúathedlen Heart", "Dúathedlen Heart", "entity name")
 t("a dark, fleshy mass", "a dark, fleshy mass", "_t")
 t("This dark red heart still beats despite being separated from its owner.  It also snuffs out any light source that comes near it.", "This dark red heart still beats despite being separated from its owner.  It also snuffs out any light source that comes near it.", "_t")
 t("The heart seems to absorb light when you deal darkness damage. Standing on unlit tiles, you feel stronger.", "The heart seems to absorb light when you deal darkness damage. Standing on unlit tiles, you feel stronger.", "_t")
-t("potion", "potion", "entity type")
-t("potion", "potion", "entity subtype")
+t("potion", "poción", "entity type")
+t("potion", "poción", "entity subtype")
 t("Blood of Life", "Blood of Life", "entity name")
 t("bloody phial", "bloody phial", "_t")
 t("quaff the Blood of Life to grant an extra life", "quaff the Blood of Life to grant an extra life", "_t")
@@ -16562,7 +16562,7 @@ t("This massive stone pillar drips with a viscous slime. Nature's power flows th
 t("#Source# uses %s to summon a natural guardian!", "#Source# uses %s to summon a natural guardian!", "logCombat")
 t("Cloth of Dreams", "Cloth of Dreams", "entity name")
 t("Touching this cloak of otherworldly fabric makes you feel both drowsy yet completely aware.", "Touching this cloak of otherworldly fabric makes you feel both drowsy yet completely aware.", "_t")
-t("wand", "wand", "entity subtype")
+t("wand", "varita", "entity subtype")
 t("Void Shard", "Void Shard", "entity name")
 t("strange jagged shape", "strange jagged shape", "_t")
 t("This jagged shape looks like a hole in space, yet it is solid, though light in weight.", "This jagged shape looks like a hole in space, yet it is solid, though light in weight.", "_t")
@@ -27352,13 +27352,13 @@ section "mod-tome/data/quests/arena.lua"
 -- new text
 --[==[
 t("The Arena", "La Arena", "_t")
-t("Seeking wealth, glory, and a great fight, you challenge the Arena!", "Seeking wealth, glory, and a great fight, you challenge the Arena!", "_t")
-t("Can you defeat your foes and become Master of Arena?", "Can you defeat your foes and become Master of Arena?", "_t")
-t("Winner", "Winner", "_t")
-t("#GOLD#Well done! You have won the Arena: Challenge of the Master#WHITE#", "#GOLD#Well done! You have won the Arena: Challenge of the Master#WHITE#", "_t")
+t("Seeking wealth, glory, and a great fight, you challenge the Arena!", "Buscando riqueza, gloria y una gran batalla, ¡desafías a la Arena!", "_t")
+t("Can you defeat your foes and become Master of Arena?", "¿Puedes derrotar a tus enemigos y convertirte en Maestro de la Arena?", "_t")
+t("Winner", "Ganador", "_t")
+t("#GOLD#Well done! You have won the Arena: Challenge of the Master#WHITE#", "#GOLD#¡Bien hecho! Has ganado la Arena: Desafío del Maestro#WHITE#", "_t")
 t("", "", "_t")
-t("You valiantly fought every creature the arena could throw at you and you emerged victorious!", "You valiantly fought every creature the arena could throw at you and you emerged victorious!", "_t")
-t("Glory to you, you are now the new master and your future characters will challenge you.", "Glory to you, you are now the new master and your future characters will challenge you.", "_t")
+t("You valiantly fought every creature the arena could throw at you and you emerged victorious!", "¡Luchaste valientemente contra todas las criaturas de la Arena y saliste victorioso!", "_t")
+t("Glory to you, you are now the new master and your future characters will challenge you.", "Gloria a ti, ahora eres el nuevo maestro y tus futuros personajes te desafiarán.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27367,7 +27367,7 @@ section "mod-tome/data/quests/brotherhood-of-alchemists.lua"
 
 -- new text
 --[==[
-t("The Brotherhood of Alchemists", "The Brotherhood of Alchemists", "_t")
+t("The Brotherhood of Alchemists", "La Hermandad de Alquimistas", "_t")
 t("#LIGHT_GREEN#Thanks to your timely aid, %s is the newest member of the Brotherhood of Alchemists.#WHITE#", "#LIGHT_GREEN#Thanks to your timely aid, %s is the newest member of the Brotherhood of Alchemists.#WHITE#", "tformat")
 t("#RED#You aided various denizens of Maj'Eyal in their attempts to join the Brotherhood of Alchemists, though you did not prove the deciding factor for any. This year's new member is %s.#WHITE#", "#RED#You aided various denizens of Maj'Eyal in their attempts to join the Brotherhood of Alchemists, though you did not prove the deciding factor for any. This year's new member is %s.#WHITE#", "tformat")
 t("#LIGHT_BLUE#Various alchemists around Maj'Eyal are competing to gain entry into the great Brotherhood of Alchemists, and one or more have enlisted your aid.#WHITE#", "#LIGHT_BLUE#Various alchemists around Maj'Eyal are competing to gain entry into the great Brotherhood of Alchemists, and one or more have enlisted your aid.#WHITE#", "_t")
@@ -27433,10 +27433,10 @@ section "mod-tome/data/quests/dreadfell.lua"
 
 -- new text
 --[==[
-t("The Island of Dread", "The Island of Dread", "_t")
-t("You have heard that near the Charred Scar, to the south, lies a ruined tower known as the Dreadfell.", "You have heard that near the Charred Scar, to the south, lies a ruined tower known as the Dreadfell.", "_t")
-t("There are disturbing rumors of greater undead, and nobody who reached it ever returned.", "There are disturbing rumors of greater undead, and nobody who reached it ever returned.", "_t")
-t("Perhaps you should explore it and find the truth, and the treasures, for yourself!", "Perhaps you should explore it and find the truth, and the treasures, for yourself!", "_t")
+t("The Island of Dread", "La Isla del Pavor", "_t")
+t("You have heard that near the Charred Scar, to the south, lies a ruined tower known as the Dreadfell.", "Has oído que cerca de la Cicatriz Carbonizada, al sur, hay una torre en ruinas conocida como la Pavorosa.", "_t")
+t("There are disturbing rumors of greater undead, and nobody who reached it ever returned.", "Hay rumores perturbadores de no-muertos poderosos, y nadie que llegó allí regresó jamás.", "_t")
+t("Perhaps you should explore it and find the truth, and the treasures, for yourself!", "¡Quizás deberías explorarla y descubrir la verdad, y los tesoros, por ti mismo!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27520,7 +27520,7 @@ t("#LIGHT_RED#As you enter the level you hear a familiar voice.", "#LIGHT_RED#As
 t("#LIGHT_RED#Fallen Sun Paladin Aeryn: '%s YOU BROUGHT ONLY DESTRUCTION TO THE SUNWALL! YOU WILL PAY!'", "#LIGHT_RED#Fallen Sun Paladin Aeryn: '%s YOU BROUGHT ONLY DESTRUCTION TO THE SUNWALL! YOU WILL PAY!'", "logPlayer")
 t("Ruins of the Gates of Morning", "Ruins of the Gates of Morning", "_t")
 t("The Sunwall was destroyed while you were trapped in the High Peak.", "The Sunwall was destroyed while you were trapped in the High Peak.", "_t")
-t("Winner", "Winner", "_t")
+t("Winner", "Ganador", "_t")
 t("#GOLD#Well done! You have won the Tales of Maj'Eyal: The Age of Ascendancy#WHITE#", "#GOLD#Well done! You have won the Tales of Maj'Eyal: The Age of Ascendancy#WHITE#", "_t")
 t("", "", "_t")
 t("The Sorcerers are dead, and the Orc Pride lies in ruins, thanks to your efforts.", "The Sorcerers are dead, and the Orc Pride lies in ruins, thanks to your efforts.", "_t")
@@ -27551,7 +27551,7 @@ section "mod-tome/data/quests/infinite-dungeon.lua"
 
 -- new text
 --[==[
-t("The Infinite Dungeon", "The Infinite Dungeon", "_t")
+t("The Infinite Dungeon", "La Mazmorra Infinita", "_t")
 t("You have entered the Infinite Dungeon. There is no going back now.", "You have entered the Infinite Dungeon. There is no going back now.", "_t")
 t("Go deep, fight, win or die in a blaze of glory!", "Go deep, fight, win or die in a blaze of glory!", "_t")
 --]==]
@@ -27631,7 +27631,7 @@ t("#SLATE#* Use the control orb of Yiilkgur to begin the ceremony.#WHITE#", "#SL
 t("#SLATE#* Your lair must amass enough energy to use in your rebirth (40 energy).#WHITE#", "#SLATE#* Your lair must amass enough energy to use in your rebirth (40 energy).#WHITE#", "_t")
 t("#SLATE#* The ceremony will require a suitable location, secluded and given to the channelling of energy#WHITE#", "#SLATE#* The ceremony will require a suitable location, secluded and given to the channelling of energy#WHITE#", "_t")
 t("#CRIMSON#* You have ascended to Lichdom!#WHITE#", "#CRIMSON#* You have ascended to Lichdom!#WHITE#", "_t")
-t("Lichform", "Lichform", "_t")
+t("Lichform", "Forma de Liche", "_t")
 t("The secrets of death lay open to you! You are to become a Lich upon your next death!", "The secrets of death lay open to you! You are to become a Lich upon your next death!", "_t")
 --]==]
 
@@ -27745,7 +27745,7 @@ section "mod-tome/data/quests/orb-command.lua"
 
 -- new text
 --[==[
-t("The Orbs of Command", "The Orbs of Command", "_t")
+t("The Orbs of Command", "Los Orbes de Mando", "_t")
 t("You have found an orb of command that seems to be used to open the shield protecting the High Peak.", "You have found an orb of command that seems to be used to open the shield protecting the High Peak.", "_t")
 t("There seems to be a total of four of them. The more you have the weaker the shield will be.", "There seems to be a total of four of them. The more you have the weaker the shield will be.", "_t")
 t("#LIGHT_BLUE#There is a loud crack. The way is open.", "#LIGHT_BLUE#There is a loud crack. The way is open.", "logPlayer")
@@ -27864,7 +27864,7 @@ section "mod-tome/data/quests/shertul-fortress.lua"
 
 -- new text
 --[==[
-t("Sher'Tul Fortress", "Sher'Tul Fortress", "_t")
+t("Sher'Tul Fortress", "Fortaleza Sher'Tul", "_t")
 t("You found notes from an explorer inside the Old Forest. He spoke about Sher'Tul ruins sunken below the surface of the lake of Nur, at the forest's center.", "You found notes from an explorer inside the Old Forest. He spoke about Sher'Tul ruins sunken below the surface of the lake of Nur, at the forest's center.", "_t")
 t("With one of the notes there was a small gem that looks like a key.", "With one of the notes there was a small gem that looks like a key.", "_t")
 t("#LIGHT_GREEN#* You used the key inside the ruins of Nur and found a way into the fortress of old.#WHITE#", "#LIGHT_GREEN#* You used the key inside the ruins of Nur and found a way into the fortress of old.#WHITE#", "_t")
@@ -28101,7 +28101,7 @@ section "mod-tome/data/quests/temple-of-creation.lua"
 
 -- new text
 --[==[
-t("The Temple of Creation", "The Temple of Creation", "_t")
+t("The Temple of Creation", "El Templo de la Creación", "_t")
 t("Ukllmswwik asked you to take his portal to the Temple of Creation and kill Slasul who has turned mad.", "Ukllmswwik asked you to take his portal to the Temple of Creation and kill Slasul who has turned mad.", "_t")
 t("Slasul told you his side of the story. Now you must decide: which of them is corrupt?", "Slasul told you his side of the story. Now you must decide: which of them is corrupt?", "_t")
 t("Slasul bound his lifeforce to yours and gave your a powerful trident in return.", "Slasul bound his lifeforce to yours and gave your a powerful trident in return.", "_t")

@@ -4,18 +4,18 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("weapon", "weapon", "entity type")
-t("dagger", "dagger", "entity subtype")
-t("knife", "knife", "entity combat talented")
+t("weapon", "arma", "entity type")
+t("dagger", "daga", "entity subtype")
+t("knife", "cuchillo", "entity combat talented")
 t("Sharp, short and deadly.", "Sharp, short and deadly.", "_t")
-t("iron dagger", "iron dagger", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel dagger", "steel dagger", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron dagger", "daga de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel dagger", "daga de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel dagger", "dwarven-steel dagger", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite dagger", "stralite dagger", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun dagger", "voratun dagger", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 

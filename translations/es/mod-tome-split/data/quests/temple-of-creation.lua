@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("The Temple of Creation", "The Temple of Creation", "_t")
+t("The Temple of Creation", "El Templo de la Creación", "_t")
 t("Ukllmswwik asked you to take his portal to the Temple of Creation and kill Slasul who has turned mad.", "Ukllmswwik asked you to take his portal to the Temple of Creation and kill Slasul who has turned mad.", "_t")
 t("Slasul told you his side of the story. Now you must decide: which of them is corrupt?", "Slasul told you his side of the story. Now you must decide: which of them is corrupt?", "_t")
 t("Slasul bound his lifeforce to yours and gave your a powerful trident in return.", "Slasul bound his lifeforce to yours and gave your a powerful trident in return.", "_t")

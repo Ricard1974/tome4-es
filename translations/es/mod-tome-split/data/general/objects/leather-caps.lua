@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("head", "head", "entity subtype")
+t("armor", "armadura", "entity type")
+t("head", "cabeza", "entity subtype")
 t("A cap made of leather.", "A cap made of leather.", "_t")
-t("rough leather cap", "rough leather cap", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough leather cap", "gorro de cuero basto", "entity name")
+t("rough", "basto", "entity short_name")
 t("hardened leather cap", "hardened leather cap", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("drakeskin leather cap", "drakeskin leather cap", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 

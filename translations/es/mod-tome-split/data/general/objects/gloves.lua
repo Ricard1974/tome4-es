@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("hands", "hands", "entity subtype")
+t("armor", "armadura", "entity type")
+t("hands", "manos", "entity subtype")
 t("Light gloves which do not seriously hinder finger movements, while still protecting the hands somewhat.", "Light gloves which do not seriously hinder finger movements, while still protecting the hands somewhat.", "_t")
-t("rough leather gloves", "rough leather gloves", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough leather gloves", "guantes de cuero basto", "entity name")
+t("rough", "basto", "entity short_name")
 t("hardened leather gloves", "hardened leather gloves", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("drakeskin leather gloves", "drakeskin leather gloves", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 

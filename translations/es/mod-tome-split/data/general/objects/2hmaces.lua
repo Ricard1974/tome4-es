@@ -4,18 +4,18 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("weapon", "weapon", "entity type")
+t("weapon", "arma", "entity type")
 t("greatmaul", "greatmaul", "entity subtype")
-t("mace", "mace", "entity combat talented")
+t("mace", "maza", "entity combat talented")
 t("Massive two-handed mauls.", "Massive two-handed mauls.", "_t")
 t("iron greatmaul", "iron greatmaul", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron", "hierro", "entity short_name")
 t("steel greatmaul", "steel greatmaul", "entity name")
-t("steel", "steel", "entity short_name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel greatmaul", "dwarven-steel greatmaul", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite greatmaul", "stralite greatmaul", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun greatmaul", "voratun greatmaul", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 

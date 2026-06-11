@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("tool", "tool", "entity type")
+t("tool", "herramienta", "entity type")
 t("misc", "misc", "entity subtype")
 t("A miscellaneous tool.", "A miscellaneous tool.", "_t")
 

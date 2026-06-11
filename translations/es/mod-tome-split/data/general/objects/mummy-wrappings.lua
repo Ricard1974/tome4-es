@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
+t("armor", "armadura", "entity type")
 t("mummy", "mummy", "entity subtype")
 t("Decaying mummy wrappings.", "Decaying mummy wrappings.", "_t")
 t("mummy wrappings", "mummy wrappings", "entity name")

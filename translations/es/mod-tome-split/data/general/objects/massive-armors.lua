@@ -4,17 +4,17 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
+t("armor", "armadura", "entity type")
 t("massive", "massive", "entity subtype")
 t("A suit of armour made of metal plates.", "A suit of armour made of metal plates.", "_t")
-t("iron plate armour", "iron plate armour", "entity name")
-t("iron", "iron", "entity short_name")
-t("steel plate armour", "steel plate armour", "entity name")
-t("steel", "steel", "entity short_name")
+t("iron plate armour", "armadura de placas de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
+t("steel plate armour", "armadura de placas de acero", "entity name")
+t("steel", "acero", "entity short_name")
 t("dwarven-steel plate armour", "dwarven-steel plate armour", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("stralite plate armour", "stralite plate armour", "entity name")
-t("stralite", "stralite", "entity short_name")
+t("stralite", "estralita", "entity short_name")
 t("voratun plate armour", "voratun plate armour", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 

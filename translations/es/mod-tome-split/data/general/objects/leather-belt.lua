@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("belt", "belt", "entity subtype")
+t("armor", "armadura", "entity type")
+t("belt", "cinturón", "entity subtype")
 t("A belt that goes around your waist.", "A belt that goes around your waist.", "_t")
 t("rough leather belt", "rough leather belt", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough", "basto", "entity short_name")
 t("hardened leather belt", "hardened leather belt", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("drakeskin leather belt", "drakeskin leather belt", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 

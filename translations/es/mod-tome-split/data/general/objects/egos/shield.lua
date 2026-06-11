@@ -46,7 +46,7 @@ t("Deals #YELLOW#%d#LAST# cold damage and freezes enemies in radius 4 to the gro
 t("windwalling ", "windwalling ", "entity name")
 t("windwalling", "windwalling", "entity keyword")
 t("reinforced ", "reinforced ", "entity name")
-t("reinforced", "reinforced", "entity keyword")
+t("reinforced", "reforzado", "entity keyword")
 t(" of resilience", " of resilience", "entity name")
 t("resilience", "resilience", "entity keyword")
 t("living ", "living ", "entity name")

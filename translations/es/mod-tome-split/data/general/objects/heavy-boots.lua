@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("feet", "feet", "entity subtype")
+t("armor", "armadura", "entity type")
+t("feet", "pies", "entity subtype")
 t("Heavy boots, with metal strips at the toes, heels and other vulnerable parts, to better protect the wearer's feet from harm.", "Heavy boots, with metal strips at the toes, heels and other vulnerable parts, to better protect the wearer's feet from harm.", "_t")
 t("pair of iron boots", "pair of iron boots", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron", "hierro", "entity short_name")
 t("pair of dwarven-steel boots", "pair of dwarven-steel boots", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("pair of voratun boots", "pair of voratun boots", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 

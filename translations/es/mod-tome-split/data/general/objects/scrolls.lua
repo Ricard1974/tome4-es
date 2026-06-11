@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("scroll", "scroll", "entity type")
-t("scroll", "scroll", "entity subtype")
-t("scroll", "scroll", "_t")
+t("scroll", "pergamino", "entity type")
+t("scroll", "pergamino", "entity subtype")
+t("scroll", "pergamino", "_t")
 t("Magical scrolls can have wildly different effects!", "Magical scrolls can have wildly different effects!", "_t")
 t("infusion", "infusion", "entity subtype")
 t("infusion", "infusion", "_t")
@@ -20,8 +20,8 @@ t("taint", "taint", "entity subtype")
 t("taint", "taint", "_t")
 t("Corrupted taints may be inscribed onto your body, granting you an on-demand ability.", "Corrupted taints may be inscribed onto your body, granting you an on-demand ability.", "_t")
 t("inscribe your skin with the taint", "inscribe your skin with the taint", "_t")
-t("lore", "lore", "entity type")
-t("lore", "lore", "entity subtype")
+t("lore", "texto histórico", "entity type")
+t("lore", "texto histórico", "entity subtype")
 t("This parchment contains some lore.", "This parchment contains some lore.", "_t")
 t("read it", "read it", "_t")
 t("healing infusion", "healing infusion", "entity name")

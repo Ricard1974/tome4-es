@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("hands", "hands", "entity subtype")
+t("armor", "armadura", "entity type")
+t("hands", "manos", "entity subtype")
 t("Metal gloves protecting the hands up to the middle of the lower arm.", "Metal gloves protecting the hands up to the middle of the lower arm.", "_t")
-t("iron gauntlets", "iron gauntlets", "entity name")
-t("iron", "iron", "entity short_name")
+t("iron gauntlets", "guanteletes de hierro", "entity name")
+t("iron", "hierro", "entity short_name")
 t("dwarven-steel gauntlets", "dwarven-steel gauntlets", "entity name")
-t("d.steel", "d.steel", "entity short_name")
+t("d.steel", "ac.dw", "entity short_name")
 t("voratun gauntlets", "voratun gauntlets", "entity name")
-t("voratun", "voratun", "entity short_name")
+t("voratun", "voratún", "entity short_name")
 

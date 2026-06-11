@@ -95,7 +95,7 @@ t("Looks much like any other rock, though this one was recently sentient and try
 t("warg claw", "warg claw", "entity name")
 t("Unpleasantly large and sharp for a canine's claw.", "Unpleasantly large and sharp for a canine's claw.", "_t")
 t("pouch of faeros ash", "pouch of faeros ash", "entity name")
-t("ash", "ash", "_t")
+t("ash", "fresno", "_t")
 t("Unremarkable grey ash.", "Unremarkable grey ash.", "_t")
 t("wretchling eyeball", "wretchling eyeball", "entity name")
 t("eyeball", "eyeball", "_t")

@@ -4,17 +4,17 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("light", "light", "entity subtype")
+t("armor", "armadura", "entity type")
+t("light", "luz", "entity subtype")
 t("A suit of armour made of leather.", "A suit of armour made of leather.", "_t")
 t("rough leather armour", "rough leather armour", "entity name")
-t("rough", "rough", "entity short_name")
+t("rough", "basto", "entity short_name")
 t("cured leather armour", "cured leather armour", "entity name")
 t("cured", "cured", "entity short_name")
 t("hardened leather armour", "hardened leather armour", "entity name")
-t("hardened", "hardened", "entity short_name")
+t("hardened", "endurecido", "entity short_name")
 t("reinforced leather armour", "reinforced leather armour", "entity name")
-t("reinforced", "reinforced", "entity short_name")
+t("reinforced", "reforzado", "entity short_name")
 t("drakeskin leather armour", "drakeskin leather armour", "entity name")
-t("drakeskin", "drakeskin", "entity short_name")
+t("drakeskin", "dragón", "entity short_name")
 
