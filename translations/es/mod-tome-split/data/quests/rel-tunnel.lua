@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Light at the end of the tunnel", "Light at the end of the tunnel", "_t")
+t("Light at the end of the tunnel", "Luz al final del túnel", "_t")
 

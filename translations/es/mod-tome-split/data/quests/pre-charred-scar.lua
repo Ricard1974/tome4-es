@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Important news", "Important news", "_t")
-t("Orcs were spotted with the staff you seek in an arid waste in the southern desert.", "Orcs were spotted with the staff you seek in an arid waste in the southern desert.", "_t")
-t("You should go investigate what is happening there.", "You should go investigate what is happening there.", "_t")
+t("Important news", "Importantes noticias", "_t")
+t("Orcs were spotted with the staff you seek in an arid waste in the southern desert.", "Los orcos fueron vistos con el personal que busca en un desperdicio árido en el desierto meridional.", "_t")
+t("You should go investigate what is happening there.", "Deberías ir a investigar lo que está pasando ahí.", "_t")
 t("High Sun Paladin Aeryn", "High Sun Paladin Aeryn", "_t")
-t("Aeryn explained where the orcs were spotted.", "Aeryn explained where the orcs were spotted.", "logPlayer")
+t("Aeryn explained where the orcs were spotted.", "Aeryn explicó dónde se vieron los orcos.", "logPlayer")
 

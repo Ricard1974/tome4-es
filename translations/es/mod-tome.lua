@@ -27307,18 +27307,18 @@ section "mod-tome/data/quests/anti-antimagic.lua"
 
 -- new text
 --[==[
-t("The fall of Zigur", "The fall of Zigur", "_t")
-t("You decided to side with the Grand Corruptor and joined forces to assault the Ziguranth main base of power.", "You decided to side with the Grand Corruptor and joined forces to assault the Ziguranth main base of power.", "_t")
-t("The Grand Corruptor died during the attack before he had time to teach you his ways.", "The Grand Corruptor died during the attack before he had time to teach you his ways.", "_t")
-t("The defenders of Zigur were crushed, the Ziguranth scattered and weakened.", "The defenders of Zigur were crushed, the Ziguranth scattered and weakened.", "_t")
-t("In the aftermath you turned against the Grand Corruptor and dispatched him.", "In the aftermath you turned against the Grand Corruptor and dispatched him.", "_t")
-t("Select the party member to receive the hexes generic talent tree:", "Select the party member to receive the hexes generic talent tree:", "_t")
+t("The fall of Zigur", "La caída de Zigur", "_t")
+t("You decided to side with the Grand Corruptor and joined forces to assault the Ziguranth main base of power.", "Usted decidió unirse con el Gran Corruptor y se unió a las fuerzas para atacar la base principal del poder de Ziguranth.", "_t")
+t("The Grand Corruptor died during the attack before he had time to teach you his ways.", "El Gran Corruptor murió durante el ataque antes de tener tiempo para enseñarles sus caminos.", "_t")
+t("The defenders of Zigur were crushed, the Ziguranth scattered and weakened.", "Los defensores de Zigur fueron aplastados, el Ziguranth esparcido y debilitado.", "_t")
+t("In the aftermath you turned against the Grand Corruptor and dispatched him.", "Después se volvió contra el Gran Corruptor y lo despachó.", "_t")
+t("Select the party member to receive the hexes generic talent tree:", "Seleccione el miembro del partido para recibir el árbol de talento genérico hexes:", "_t")
 t("Grand Corruptor", "Grand Corruptor", "_t")
-t("#LIGHT_GREEN#The Grand Corruptor gazes upon you. You feel knowledge flowing in your mind. You can now train some corruption powers.", "#LIGHT_GREEN#The Grand Corruptor gazes upon you. You feel knowledge flowing in your mind. You can now train some corruption powers.", "_t")
-t("Victory is mine!", "Victory is mine!", "_t")
-t("While you were in the Far East, the Grand Corruptor was busy in Maj'Eyal.", "While you were in the Far East, the Grand Corruptor was busy in Maj'Eyal.", "_t")
-t("With the fall of Zigur he was able to attack and take control of Elvala, the Shaloren capital city.", "With the fall of Zigur he was able to attack and take control of Elvala, the Shaloren capital city.", "_t")
-t("His plans however do not stop there.", "His plans however do not stop there.", "_t")
+t("#LIGHT_GREEN#The Grand Corruptor gazes upon you. You feel knowledge flowing in your mind. You can now train some corruption powers.", "El Gran Corredor te mira. Usted siente conocimiento fluyendo en su mente. Ahora puedes entrenar algunos poderes de corrupción.", "_t")
+t("Victory is mine!", "¡La victoria es mía!", "_t")
+t("While you were in the Far East, the Grand Corruptor was busy in Maj'Eyal.", "Mientras estabas en el Lejano Oriente, el Gran Corruptor estaba ocupado en Maj'Eyal.", "_t")
+t("With the fall of Zigur he was able to attack and take control of Elvala, the Shaloren capital city.", "Con la caída de Zigur fue capaz de atacar y tomar el control de Elvala, la capital de Shaloren.", "_t")
+t("His plans however do not stop there.", "Sus planes, sin embargo, no se detienen allí.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27327,11 +27327,11 @@ section "mod-tome/data/quests/antimagic.lua"
 
 -- new text
 --[==[
-t("The Curse of Magic", "The Curse of Magic", "_t")
-t("You have been invited to join a group called the Ziguranth, dedicated to opposing magic.", "You have been invited to join a group called the Ziguranth, dedicated to opposing magic.", "_t")
-t("Grim-looking fighter", "Grim-looking fighter", "_t")
-t("#VIOLET#A foe is summoned to the arena!", "#VIOLET#A foe is summoned to the arena!", "logSeen")
-t("#VIOLET#Another foe is summoned to the arena!", "#VIOLET#Another foe is summoned to the arena!", "logSeen")
+t("The Curse of Magic", "La maldición de la magia", "_t")
+t("You have been invited to join a group called the Ziguranth, dedicated to opposing magic.", "Usted ha sido invitado a unirse a un grupo llamado el Ziguranth, dedicado a la magia opuesta.", "_t")
+t("Grim-looking fighter", "Luchador de aspecto lúgubre", "_t")
+t("#VIOLET#A foe is summoned to the arena!", "¡Un enemigo es convocado a la arena!", "logSeen")
+t("#VIOLET#Another foe is summoned to the arena!", "#VIOLET #Otro enemigo es convocado a la arena!", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -27340,9 +27340,9 @@ section "mod-tome/data/quests/arena-unlock.lua"
 
 -- new text
 --[==[
-t("The agent of the arena", "The agent of the arena", "_t")
-t("You were asked to prove your worth as a fighter by a rogue, in order to participate in the arena", "You were asked to prove your worth as a fighter by a rogue, in order to participate in the arena", "_t")
-t("You succesfully defeated your adversaries and gained access to the arena!", "You succesfully defeated your adversaries and gained access to the arena!", "_t")
+t("The agent of the arena", "El agente de la arena", "_t")
+t("You were asked to prove your worth as a fighter by a rogue, in order to participate in the arena", "Se le pidió que demostrara su valía como luchador por un pícaro, para participar en la arena", "_t")
+t("You succesfully defeated your adversaries and gained access to the arena!", "¡Derrotaste con éxito a tus adversarios y ganaste acceso a la arena!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27368,30 +27368,30 @@ section "mod-tome/data/quests/brotherhood-of-alchemists.lua"
 -- new text
 --[==[
 t("The Brotherhood of Alchemists", "La Hermandad de Alquimistas", "_t")
-t("#LIGHT_GREEN#Thanks to your timely aid, %s is the newest member of the Brotherhood of Alchemists.#WHITE#", "#LIGHT_GREEN#Thanks to your timely aid, %s is the newest member of the Brotherhood of Alchemists.#WHITE#", "tformat")
-t("#RED#You aided various denizens of Maj'Eyal in their attempts to join the Brotherhood of Alchemists, though you did not prove the deciding factor for any. This year's new member is %s.#WHITE#", "#RED#You aided various denizens of Maj'Eyal in their attempts to join the Brotherhood of Alchemists, though you did not prove the deciding factor for any. This year's new member is %s.#WHITE#", "tformat")
-t("#LIGHT_BLUE#Various alchemists around Maj'Eyal are competing to gain entry into the great Brotherhood of Alchemists, and one or more have enlisted your aid.#WHITE#", "#LIGHT_BLUE#Various alchemists around Maj'Eyal are competing to gain entry into the great Brotherhood of Alchemists, and one or more have enlisted your aid.#WHITE#", "_t")
-t("#GREEN#You have aided %s in creating an %s.#WHITE#", "#GREEN#You have aided %s in creating an %s.#WHITE#", "tformat")
-t("#RED#%s has completed an %s without your aid.#WHITE#", "#RED#%s has completed an %s without your aid.#WHITE#", "tformat")
-t("#SLATE#Having failed to gain admittance to the Brotherhood of the Alchemists, %s no longer needs your help making the %s.", "#SLATE#Having failed to gain admittance to the Brotherhood of the Alchemists, %s no longer needs your help making the %s.", "tformat")
-t("%s needs your help making an %s. He has given you some notes on the ingredients:", "%s needs your help making an %s. He has given you some notes on the ingredients:", "tformat")
-t("#SLATE#  * 'Needed: one %s. %s'#WHITE#", "#SLATE#  * 'Needed: one %s. %s'#WHITE#", "tformat")
-t("#LIGHT_GREEN#  * You've found the needed %s.#WHITE#", "#LIGHT_GREEN#  * You've found the needed %s.#WHITE#", "tformat")
-t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "_t")
-t("#VIOLET#You can check the ingredients you possess by pressing Escape and selecting 'Show ingredients'.", "#VIOLET#You can check the ingredients you possess by pressing Escape and selecting 'Show ingredients'.", "log")
-t("You receive: %s", "You receive: %s", "logPlayer")
-t("elixir of the fox", "elixir of the fox", "_t")
-t("elixir of avoidance", "elixir of avoidance", "_t")
-t("elixir of precision", "elixir of precision", "_t")
-t("elixir of mysticism", "elixir of mysticism", "_t")
-t("elixir of the savior", "elixir of the savior", "_t")
-t("elixir of mastery", "elixir of mastery", "_t")
-t("elixir of explosive force", "elixir of explosive force", "_t")
-t("elixir of serendipity", "elixir of serendipity", "_t")
-t("elixir of focus", "elixir of focus", "_t")
-t("elixir of brawn", "elixir of brawn", "_t")
-t("elixir of stoneskin", "elixir of stoneskin", "_t")
-t("elixir of foundations", "elixir of foundations", "_t")
+t("#LIGHT_GREEN#Thanks to your timely aid, %s is the newest member of the Brotherhood of Alchemists.#WHITE#", "#LIGHT GREEN#Gracias a tu ayuda oportuna,   PH0   es el miembro más nuevo de la Hermandad de los Alquimistas. #WHITE#", "tformat")
+t("#RED#You aided various denizens of Maj'Eyal in their attempts to join the Brotherhood of Alchemists, though you did not prove the deciding factor for any. This year's new member is %s.#WHITE#", "#RED#Auxiliaste a varios habitantes de Maj'Eyal en sus intentos de unirse a la Hermandad de los Alquimistas, aunque no demostraste el factor decisivo para ninguno. El nuevo miembro de este año es   PH0  ", "tformat")
+t("#LIGHT_BLUE#Various alchemists around Maj'Eyal are competing to gain entry into the great Brotherhood of Alchemists, and one or more have enlisted your aid.#WHITE#", "#LIGHT BLUE#Various alchemists around Maj'Eyal están compitiendo para entrar en la gran Hermandad de los Alquimistas, y uno o más han alistado su ayuda. #WHITE#", "_t")
+t("#GREEN#You have aided %s in creating an %s.#WHITE#", "#GREEN# You have aided   PH0     in creating an   PH1   .#WHITE#", "tformat")
+t("#RED#%s has completed an %s without your aid.#WHITE#", "#RED#  PH0   ha completado un   PH1    sin tu ayuda", "tformat")
+t("#SLATE#Having failed to gain admittance to the Brotherhood of the Alchemists, %s no longer needs your help making the %s.", "#SLATE# Haber fallado en admitir a la Hermandad de los Alquimistas,   PH0   ya no necesita tu ayuda para hacer el   PH1   .", "tformat")
+t("%s needs your help making an %s. He has given you some notes on the ingredients:", " PH0  Necesita tu ayuda para hacer un   PH1   . Te ha dado algunas notas sobre los ingredientes:", "tformat")
+t("#SLATE#  * 'Needed: one %s. %s'#WHITE#", "#SLATE# ## Needed: one   PH0   .   PH1    #", "tformat")
+t("#LIGHT_GREEN#  * You've found the needed %s.#WHITE#", "Has encontrado lo necesario", "tformat")
+t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Tu timetravel no tiene efecto en los resultados predeterminados como este.", "_t")
+t("#VIOLET#You can check the ingredients you possess by pressing Escape and selecting 'Show ingredients'.", "#VIOLET#Puedes comprobar los ingredientes que posees pulsando Escape y seleccionando 'Mostrar ingredientes'.", "log")
+t("You receive: %s", "Usted recibe:   PH0  ", "logPlayer")
+t("elixir of the fox", "elixir del zorro", "_t")
+t("elixir of avoidance", "elixir de evitación", "_t")
+t("elixir of precision", "elixir de precisión", "_t")
+t("elixir of mysticism", "elixir del misticismo", "_t")
+t("elixir of the savior", "elixir del salvador", "_t")
+t("elixir of mastery", "elixir de maestría", "_t")
+t("elixir of explosive force", "elixir de la fuerza explosiva", "_t")
+t("elixir of serendipity", "elixir de la serendipidad", "_t")
+t("elixir of focus", "elixir de enfoque", "_t")
+t("elixir of brawn", "elixir de brawn", "_t")
+t("elixir of stoneskin", "elixir de stonekin", "_t")
+t("elixir of foundations", "elixir de fundaciones", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27400,18 +27400,17 @@ section "mod-tome/data/quests/charred-scar.lua"
 
 -- new text
 --[==[
-t("The Doom of the World!", "The Doom of the World!", "_t")
-t("You were sent to the Charred Scar at the heart of which lies a huge volcano. In the Age of Pyre it destroyed the old Sher'Tul ruins that stood there, absorbing much of their latent magic.", "You were sent to the Charred Scar at the heart of which lies a huge volcano. In the Age of Pyre it destroyed the old Sher'Tul ruins that stood there, absorbing much of their latent magic.", "_t")
-t("This place is still full of that power and the orcs intend to absorb this power using the Staff of Absorption!", "This place is still full of that power and the orcs intend to absorb this power using the Staff of Absorption!", "_t")
-t("Whatever their plan may be, they must be stopped at all cost.", "Whatever their plan may be, they must be stopped at all cost.", "_t")
-t("The volcano is attacked by orcs. A few Sun Paladins made it there with you. They will hold the line at the cost of their lives to buy you some time.", "The volcano is attacked by orcs. A few Sun Paladins made it there with you. They will hold the line at the cost of their lives to buy you some time.", "_t")
-t("Honor their sacrifice; do not let the orcs finish their work!", "Honor their sacrifice; do not let the orcs finish their work!", "_t")
+t("The Doom of the World!", "¡La condena del mundo!", "_t")
+t("You were sent to the Charred Scar at the heart of which lies a huge volcano. In the Age of Pyre it destroyed the old Sher'Tul ruins that stood there, absorbing much of their latent magic.", "Fuiste enviado a la Bufanda Carrada en el corazón del cual se encuentra un volcán enorme. En la Era de Pyre destruyó las viejas ruinas de Sher'Tul que estaban allí, absorbiendo gran parte de su magia latente.", "_t")
+t("This place is still full of that power and the orcs intend to absorb this power using the Staff of Absorption!", "Este lugar todavía está lleno de ese poder y los orcos tienen la intención de absorber este poder usando el Staff of Absorption!", "_t")
+t("Whatever their plan may be, they must be stopped at all cost.", "Sea cual sea su plan, deben detenerse a toda costa.", "_t")
+t("The volcano is attacked by orcs. A few Sun Paladins made it there with you. They will hold the line at the cost of their lives to buy you some time.", "El volcán es atacado por orcos. Algunos Sun Paladins llegaron allí contigo. Ellos mantendrán la línea a costa de sus vidas para comprarte algún tiempo.", "_t")
+t("Honor their sacrifice; do not let the orcs finish their work!", "Honra su sacrificio; no dejes que los orcos terminen su trabajo!", "_t")
 t("", "", "_t")
-t("You arrived too late. The place has been drained of its power and the sorcerers have left.", "You arrived too late. The place has been drained of its power and the sorcerers have left.", "_t")
-t("Use the portal to go back to the Far East. You *MUST* stop them, no matter the cost.", "Use the portal to go back to the Far East. You *MUST* stop them, no matter the cost.", "_t")
-t("You arrived in time and interrupted the ritual. The sorcerers have departed.", "You arrived in time and interrupted the ritual. The sorcerers have departed.", "_t")
-t("#VIOLET#A portal activates in the distance. You hear the orcs shout, 'The Sorcerers have departed! Follow them!'", "#VIOLET#A portal activates in the distance. You hear the orcs shout, 'The Sorcerers have departed! Follow them!'", "logPlayer")
-t("#VIOLET#The Sorcerers flee through a portal. As you prepare to follow them, a huge faeros appears to block the way.", "#VIOLET#The Sorcerers flee through a portal. As you prepare to follow them, a huge faeros appears to block the way.", "logPlayer")
+t("You arrived too late. The place has been drained of its power and the sorcerers have left.", "Llegaste demasiado tarde. El lugar ha sido drenado de su poder y los hechiceros se han ido.", "_t")
+t("Use the portal to go back to the Far East. You *MUST* stop them, no matter the cost.", "Usa el portal para volver al Lejano Oriente. Usted debe detenerlos, no importa el costo.", "_t")
+t("You arrived in time and interrupted the ritual. The sorcerers have departed.", "Llegaste a tiempo e interrumpiste el ritual. Los hechiceros se han ido.", "_t")
+t("#VIOLET#The Sorcerers flee through a portal. As you prepare to follow them, a huge faeros appears to block the way.", "Los hechiceros huyen por un portal. Mientras te preparas para seguirlos, un gran faeros parece bloquear el camino.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27420,11 +27419,11 @@ section "mod-tome/data/quests/deep-bellow.lua"
 
 -- new text
 --[==[
-t("From bellow, it devours", "From bellow, it devours", "_t")
-t("Your escape from Reknor got your heart pounding and your desire for wealth and power increased tenfold.", "Your escape from Reknor got your heart pounding and your desire for wealth and power increased tenfold.", "_t")
-t("Maybe it is time for you to start an adventurer's career. Deep below the Iron Throne mountains lies the Deep Bellow.", "Maybe it is time for you to start an adventurer's career. Deep below the Iron Throne mountains lies the Deep Bellow.", "_t")
-t("It has been long sealed away but still, from time to time adventurers go there looking for wealth.", "It has been long sealed away but still, from time to time adventurers go there looking for wealth.", "_t")
-t("None that you know of has come back yet, but you did survive Reknor. You are great.", "None that you know of has come back yet, but you did survive Reknor. You are great.", "_t")
+t("From bellow, it devours", "Desde el vientre, devora", "_t")
+t("Your escape from Reknor got your heart pounding and your desire for wealth and power increased tenfold.", "Tu escape de Reknor consiguió tu corazón golpeando y tu deseo de riqueza y poder aumentó diez veces.", "_t")
+t("Maybe it is time for you to start an adventurer's career. Deep below the Iron Throne mountains lies the Deep Bellow.", "Quizás sea hora de que empieces la carrera de un aventurero. Bajo las montañas del Trono de Hierro se encuentra el Huevo Profundo.", "_t")
+t("It has been long sealed away but still, from time to time adventurers go there looking for wealth.", "Ha sido sellado hace mucho tiempo, pero todavía, de vez en cuando los aventureros van allí buscando riqueza.", "_t")
+t("None that you know of has come back yet, but you did survive Reknor. You are great.", "Nada de lo que sepas ha vuelto, pero sobreviviste a Reknor. Eres genial.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27445,22 +27444,22 @@ section "mod-tome/data/quests/east-portal.lua"
 
 -- new text
 --[==[
-t("Back and there again", "Back and there again", "_t")
-t("You have created a portal back to Maj'Eyal. You should try to talk to someone in Last Hope about establishing a link back.", "You have created a portal back to Maj'Eyal. You should try to talk to someone in Last Hope about establishing a link back.", "_t")
-t("You talked to the Elder in Last Hope who in turn told you to talk to Tannen, who lives in the north of the city.", "You talked to the Elder in Last Hope who in turn told you to talk to Tannen, who lives in the north of the city.", "_t")
-t("You gave the Orb of Many Ways to Tannen to study while you look for the athame and diamond in Reknor.", "You gave the Orb of Many Ways to Tannen to study while you look for the athame and diamond in Reknor.", "_t")
-t("You kept the Orb of Many Ways despite Tannen's request to study it. You must now look for the athame and diamond in Reknor.", "You kept the Orb of Many Ways despite Tannen's request to study it. You must now look for the athame and diamond in Reknor.", "_t")
-t("You brought back the diamond and athame to Tannen who asked you to check the tower of Telmur, looking for a text of portals, although he is not sure it is even there. He told you to come back in a few days.", "You brought back the diamond and athame to Tannen who asked you to check the tower of Telmur, looking for a text of portals, although he is not sure it is even there. He told you to come back in a few days.", "_t")
-t("You brought back the diamond and athame to Tannen who asked you to contact Zemekkys to ask some delicate questions.", "You brought back the diamond and athame to Tannen who asked you to contact Zemekkys to ask some delicate questions.", "_t")
-t("You brought back the diamond and athame to Tannen who asked you to come back in a few days.", "You brought back the diamond and athame to Tannen who asked you to come back in a few days.", "_t")
-t("Tannen has tricked you! He swapped the orb for a false one that brought you to a demonic plane. Find the exit, and get revenge!", "Tannen has tricked you! He swapped the orb for a false one that brought you to a demonic plane. Find the exit, and get revenge!", "_t")
-t("Tannen revealed himself as the vile scum he really is and trapped you in his tower.", "Tannen revealed himself as the vile scum he really is and trapped you in his tower.", "_t")
+t("Back and there again", "Atrás y allá de nuevo", "_t")
+t("You have created a portal back to Maj'Eyal. You should try to talk to someone in Last Hope about establishing a link back.", "Has creado un portal de vuelta a Maj'Eyal. Deberías tratar de hablar con alguien de Last Hope acerca de establecer un enlace.", "_t")
+t("You talked to the Elder in Last Hope who in turn told you to talk to Tannen, who lives in the north of the city.", "Hablaste con el Anciano en la Última Esperanza que a su vez te dijo que hablaras con Tannen, que vive en el norte de la ciudad.", "_t")
+t("You gave the Orb of Many Ways to Tannen to study while you look for the athame and diamond in Reknor.", "Le diste al Orbe de muchas maneras a Tannen para estudiar mientras buscas el athame y el diamante en Reknor.", "_t")
+t("You kept the Orb of Many Ways despite Tannen's request to study it. You must now look for the athame and diamond in Reknor.", "Guardaste el Orbo de muchas maneras a pesar de la petición de Tannen de estudiarlo. Ahora debes buscar el athame y el diamante en Reknor.", "_t")
+t("You brought back the diamond and athame to Tannen who asked you to check the tower of Telmur, looking for a text of portals, although he is not sure it is even there. He told you to come back in a few days.", "Trajiste el diamante y el atoma a Tannen que te pidió que revisaras la torre de Telmur, buscando un texto de portales, aunque él no está seguro de que esté allí. Te dijo que volvieras en unos días.", "_t")
+t("You brought back the diamond and athame to Tannen who asked you to contact Zemekkys to ask some delicate questions.", "Trajiste el diamante y el athame a Tannen que te pidió que contactes con Zemekkys para hacer algunas preguntas delicadas.", "_t")
+t("You brought back the diamond and athame to Tannen who asked you to come back in a few days.", "Trajiste el diamante y el athame a Tannen que te pidió que volvieras en unos días.", "_t")
+t("Tannen has tricked you! He swapped the orb for a false one that brought you to a demonic plane. Find the exit, and get revenge!", "¡Tannen te ha engañado! Intercambió el orbe por una falsa que te trajo a un avión demoníaco. ¡Encuentra la salida y vengate!", "_t")
+t("Tannen revealed himself as the vile scum he really is and trapped you in his tower.", "Tannen se reveló como la escoria vil que realmente es y te atrapó en su torre.", "_t")
 t("", "", "_t")
-t("#LIGHT_GREEN#* The portal to the Far East is now functional and can be used to go back.#WHITE#", "#LIGHT_GREEN#* The portal to the Far East is now functional and can be used to go back.#WHITE#", "_t")
-t("Tannen points to the location of Telmur on your map.", "Tannen points to the location of Telmur on your map.", "logPlayer")
-t("A portal appears in the center of the tower!", "A portal appears in the center of the tower!", "_t")
+t("#LIGHT_GREEN#* The portal to the Far East is now functional and can be used to go back.#WHITE#", "#LIGHT GREEN # El portal al Lejano Oriente es ahora funcional y se puede utilizar para regresar. #WHITE#", "_t")
+t("Tannen points to the location of Telmur on your map.", "Tannen apunta a la ubicación de Telmur en su mapa.", "logPlayer")
+t("A portal appears in the center of the tower!", "¡Un portal aparece en el centro de la torre!", "_t")
 t("Meranas, Herald of Angolwen", "Meranas, Herald of Angolwen", "_t")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back in Last Hope.", "#VIOLET#You enter the swirling portal and in the blink of an eye you are back in Last Hope.", "logPlayer")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back in Last Hope.", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos estás de vuelta en Last Hope.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27470,17 +27469,17 @@ section "mod-tome/data/quests/escort-duty.lua"
 -- new text
 --[==[
 t("", "", "_t")
-t("You successfully escorted the %s to the recall portal on level %s.", "You successfully escorted the %s to the recall portal on level %s.", "tformat")
-t("As a reward you %s.", "As a reward you %s.", "tformat")
-t("You abandoned %s, to death.", "You abandoned %s, to death.", "tformat")
-t("You failed to protect the %s from death by %s.", "You failed to protect the %s from death by %s.", "tformat")
-t("???", "???", "_t")
-t("Escort the %s to the recall portal on level %s.", "Escort the %s to the recall portal on level %s.", "tformat")
-t("#LIGHT_RED#%s is dead, quest failed!", "#LIGHT_RED#%s is dead, quest failed!", "logPlayer")
-t("something", "something", "_t")
+t("You successfully escorted the %s to the recall portal on level %s.", "Con éxito escoltaste el   PH0   al portal de memoria a nivel   PH1   .", "tformat")
+t("As a reward you %s.", "Como recompensa   PH0  .", "tformat")
+t("You abandoned %s, to death.", "Abandonaste hasta la muerte.", "tformat")
+t("You failed to protect the %s from death by %s.", "Usted no pudo proteger el   PH0   de la muerte por   PH1   .", "tformat")
+t("???", "??", "_t")
+t("Escort the %s to the recall portal on level %s.", "Escort the   PH0    al portal de memoria a nivel   PH1   .", "tformat")
+t("#LIGHT_RED#%s is dead, quest failed!", "#LIGHT RED #         está muerto, la búsqueda falló!", "logPlayer")
+t("something", "algo", "_t")
 t("Recall Portal", "Recall Portal", "_t")
-t("%s of %s", "%s of %s", "tformat")
-t("Escort: %s (level %s)", "Escort: %s (level %s)", "tformat")
+t("%s of %s", " PH0    de   PH1  ", "tformat")
+t("Escort: %s (level %s)", "Escort:   PH0   (level   PH1  )", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -27489,12 +27488,12 @@ section "mod-tome/data/quests/grave-necromancer.lua"
 
 -- new text
 --[==[
-t("And now for a grave", "And now for a grave", "_t")
-t("Ungrol of Last Hope asked you to look for his wife's friend Celia, who has been reported missing. She frequently visits her late husband's mausoleum, in the graveyard near Last Hope.", "Ungrol of Last Hope asked you to look for his wife's friend Celia, who has been reported missing. She frequently visits her late husband's mausoleum, in the graveyard near Last Hope.", "_t")
-t("You searched for Celia in the graveyard near Last Hope, and found a note. In it, Celia reveals that she has been conducting experiments in the dark arts, in an attempt to extend her life... also, she is pregnant.", "You searched for Celia in the graveyard near Last Hope, and found a note. In it, Celia reveals that she has been conducting experiments in the dark arts, in an attempt to extend her life... also, she is pregnant.", "_t")
-t("You have tracked Celia to her husband's mausoleum in the graveyard near Last Hope. It seems she has taken some liberties with the corpses there.", "You have tracked Celia to her husband's mausoleum in the graveyard near Last Hope. It seems she has taken some liberties with the corpses there.", "_t")
-t("You have laid Celia to rest, putting an end to her gruesome experiments.", "You have laid Celia to rest, putting an end to her gruesome experiments.", "_t")
-t("You have laid Celia to rest, putting an end to her failed experiments. You have taken her heart, for your own experiments. You do not plan to fail as she did.", "You have laid Celia to rest, putting an end to her failed experiments. You have taken her heart, for your own experiments. You do not plan to fail as she did.", "_t")
+t("And now for a grave", "Y ahora para una tumba", "_t")
+t("Ungrol of Last Hope asked you to look for his wife's friend Celia, who has been reported missing. She frequently visits her late husband's mausoleum, in the graveyard near Last Hope.", "Ungrol de Last Hope te pidió que buscaras a la amiga de su esposa Celia, que ha sido reportada desaparecida. Con frecuencia visita el mausoleo de su difunto marido, en el cementerio cerca de la última esperanza.", "_t")
+t("You searched for Celia in the graveyard near Last Hope, and found a note. In it, Celia reveals that she has been conducting experiments in the dark arts, in an attempt to extend her life... also, she is pregnant.", "Buscaste a Celia en el cementerio cerca de Last Hope, y encontraste una nota. En él, Celia revela que ha estado realizando experimentos en las artes oscuras, en un intento de extender su vida... también, está embarazada.", "_t")
+t("You have tracked Celia to her husband's mausoleum in the graveyard near Last Hope. It seems she has taken some liberties with the corpses there.", "Has rastreado a Celia al mausoleo de su marido en el cementerio cerca de Last Hope. Parece que ha tomado algunas libertades con los cadáveres allí.", "_t")
+t("You have laid Celia to rest, putting an end to her gruesome experiments.", "Has puesto a Celia a descansar, poniendo fin a sus horribles experimentos.", "_t")
+t("You have laid Celia to rest, putting an end to her failed experiments. You have taken her heart, for your own experiments. You do not plan to fail as she did.", "Has puesto a Celia a descansar, poniendo fin a sus experimentos fallidos. Has tomado su corazón, por tus propios experimentos. No planeas fallar como ella.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27503,46 +27502,46 @@ section "mod-tome/data/quests/high-peak.lua"
 
 -- new text
 --[==[
-t("Falling Toward Apotheosis", "Falling Toward Apotheosis", "_t")
-t("You have vanquished the masters of the Orc Pride. Now you must venture inside the most dangerous place of this world: the High Peak.", "You have vanquished the masters of the Orc Pride. Now you must venture inside the most dangerous place of this world: the High Peak.", "_t")
-t("Seek the Sorcerers and stop them before they bend the world to their will.", "Seek the Sorcerers and stop them before they bend the world to their will.", "_t")
-t("To enter, you will need the four orbs of command to remove the shield over the peak.", "To enter, you will need the four orbs of command to remove the shield over the peak.", "_t")
-t("The entrance to the peak passes through a place called 'the slime tunnels', probably located inside or near Grushnak Pride.", "The entrance to the peak passes through a place called 'the slime tunnels', probably located inside or near Grushnak Pride.", "_t")
-t("You have reached the summit of the High Peak, entered the sanctum of the Sorcerers and destroyed them, freeing the world from the threat of evil.", "You have reached the summit of the High Peak, entered the sanctum of the Sorcerers and destroyed them, freeing the world from the threat of evil.", "_t")
-t("You have won the game!", "You have won the game!", "_t")
-t("#LIGHT_GREEN#* You encountered Sun Paladin Aeryn who blamed you for the loss of the Sunwall. You were forced to kill her.#LAST#", "#LIGHT_GREEN#* You encountered Sun Paladin Aeryn who blamed you for the loss of the Sunwall. You were forced to kill her.#LAST#", "_t")
-t("#LIGHT_GREEN#* You encountered Sun Paladin Aeryn who blamed you for the loss of the Sunwall, but you spared her.#LAST#", "#LIGHT_GREEN#* You encountered Sun Paladin Aeryn who blamed you for the loss of the Sunwall, but you spared her.#LAST#", "_t")
-t("#LIGHT_GREEN#* You defeated the Sorcerers before the Void portal could open.#LAST#", "#LIGHT_GREEN#* You defeated the Sorcerers before the Void portal could open.#LAST#", "_t")
-t("#LIGHT_GREEN#* You defeated the Sorcerers and Aeryn sacrificed herself to close the Void portal.#LAST#", "#LIGHT_GREEN#* You defeated the Sorcerers and Aeryn sacrificed herself to close the Void portal.#LAST#", "_t")
-t("#LIGHT_GREEN#* You defeated the Sorcerers and sacrificed yourself to close the Void portal.#LAST#", "#LIGHT_GREEN#* You defeated the Sorcerers and sacrificed yourself to close the Void portal.#LAST#", "_t")
+t("Falling Toward Apotheosis", "Cayendo hacia la apoteosis", "_t")
+t("You have vanquished the masters of the Orc Pride. Now you must venture inside the most dangerous place of this world: the High Peak.", "Has vencido a los maestros del Orc Pride. Ahora usted debe aventurarse dentro del lugar más peligroso de este mundo: el pico alto.", "_t")
+t("Seek the Sorcerers and stop them before they bend the world to their will.", "Busquen a los Hechiceros y detenganlos antes de doblar el mundo a su voluntad.", "_t")
+t("To enter, you will need the four orbs of command to remove the shield over the peak.", "Para entrar, necesitará los cuatro orbes de comando para eliminar el escudo sobre el pico.", "_t")
+t("The entrance to the peak passes through a place called 'the slime tunnels', probably located inside or near Grushnak Pride.", "La entrada al pico pasa a través de un lugar llamado 'los túneles slime', probablemente ubicado dentro o cerca de Grushnak Pride.", "_t")
+t("You have reached the summit of the High Peak, entered the sanctum of the Sorcerers and destroyed them, freeing the world from the threat of evil.", "Ustedes han llegado a la cumbre del Alto Peak, entraron en el santuario de los Hechiceros y los destruyeron, liberando al mundo de la amenaza del mal.", "_t")
+t("You have won the game!", "¡Has ganado el juego!", "_t")
+t("#LIGHT_GREEN#* You encountered Sun Paladin Aeryn who blamed you for the loss of the Sunwall. You were forced to kill her.#LAST#", "#LIGHT GREEN#* Has encontrado a Sun Paladin Aeryn quien te culpó por la pérdida del Sunwall. Te obligaron a matarla. #LAST#", "_t")
+t("#LIGHT_GREEN#* You encountered Sun Paladin Aeryn who blamed you for the loss of the Sunwall, but you spared her.#LAST#", "#LIGHT GREEN#* Has encontrado a Sun Paladin Aeryn quien te culpó por la pérdida del Sunwall, pero la perdonaste. #LAST#", "_t")
+t("#LIGHT_GREEN#* You defeated the Sorcerers before the Void portal could open.#LAST#", "#LIGHT GREEN# Derrotaste a los Hechiceros antes de que el portal Void pudiera abrirse. #LAST#", "_t")
+t("#LIGHT_GREEN#* You defeated the Sorcerers and Aeryn sacrificed herself to close the Void portal.#LAST#", "#LIGHT GREEN#* Has derrotado a los Hechiceros y Aeryn se ha sacrificado para cerrar el portal Void. #LAST#", "_t")
+t("#LIGHT_GREEN#* You defeated the Sorcerers and sacrificed yourself to close the Void portal.#LAST#", "#LIGHT GREEN#* Has derrotado a los Hechiceros y te has sacrificado para cerrar el portal Void. #LAST#", "_t")
 t("Endgame", "Endgame", "_t")
-t("#LIGHT_RED#As you enter the level you hear a familiar voice.", "#LIGHT_RED#As you enter the level you hear a familiar voice.", "logPlayer")
-t("#LIGHT_RED#Fallen Sun Paladin Aeryn: '%s YOU BROUGHT ONLY DESTRUCTION TO THE SUNWALL! YOU WILL PAY!'", "#LIGHT_RED#Fallen Sun Paladin Aeryn: '%s YOU BROUGHT ONLY DESTRUCTION TO THE SUNWALL! YOU WILL PAY!'", "logPlayer")
-t("Ruins of the Gates of Morning", "Ruins of the Gates of Morning", "_t")
-t("The Sunwall was destroyed while you were trapped in the High Peak.", "The Sunwall was destroyed while you were trapped in the High Peak.", "_t")
+t("#LIGHT_RED#As you enter the level you hear a familiar voice.", "#LIGHT RED#A medida que entras al nivel escuchas una voz familiar.", "logPlayer")
+t("#LIGHT_RED#Fallen Sun Paladin Aeryn: '%s YOU BROUGHT ONLY DESTRUCTION TO THE SUNWALL! YOU WILL PAY!'", "#LIGHT RED #Fallen Sun Paladin Aeryn: '  PH0  ¡Trajiste solamente la destrucción al infierno! ¡Pagarás", "logPlayer")
+t("Ruins of the Gates of Morning", "Ruinas de las puertas de la mañana", "_t")
+t("The Sunwall was destroyed while you were trapped in the High Peak.", "El Sunwall fue destruido mientras estabas atrapado en el High Peak.", "_t")
 t("Winner", "Ganador", "_t")
-t("#GOLD#Well done! You have won the Tales of Maj'Eyal: The Age of Ascendancy#WHITE#", "#GOLD#Well done! You have won the Tales of Maj'Eyal: The Age of Ascendancy#WHITE#", "_t")
+t("#GOLD#Well done! You have won the Tales of Maj'Eyal: The Age of Ascendancy#WHITE#", "¡Bien hecho! Has ganado los Tales de Maj'Eyal: La Era de la Ascendencia#WHITE#", "_t")
 t("", "", "_t")
-t("The Sorcerers are dead, and the Orc Pride lies in ruins, thanks to your efforts.", "The Sorcerers are dead, and the Orc Pride lies in ruins, thanks to your efforts.", "_t")
-t("Your patron's plan worked. As your body was crushed by the raw forces of the void portal it opened wide. In an instant the connection was made and waves of heat came through.", "Your patron's plan worked. As your body was crushed by the raw forces of the void portal it opened wide. In an instant the connection was made and waves of heat came through.", "_t")
-t("The mad sun brought forth all its power through the portal, turning the High Peak into a giant searing needle!", "The mad sun brought forth all its power through the portal, turning the High Peak into a giant searing needle!", "_t")
-t("A few minutes later the whole world was set ablaze, nothing survived except Faeros elementals.", "A few minutes later the whole world was set ablaze, nothing survived except Faeros elementals.", "_t")
-t("In the aftermath of the battle the Distant Sun tried to force you to open the portal to bring it forth onto Eyal.", "In the aftermath of the battle the Distant Sun tried to force you to open the portal to bring it forth onto Eyal.", "_t")
-t("Through an incredible display of willpower you resisted long enough to ask Aeryn to kill you.", "Through an incredible display of willpower you resisted long enough to ask Aeryn to kill you.", "_t")
-t("She sadly agreed and ran her sword through you, enabling you to do the last sacrifice you could for the world.", "She sadly agreed and ran her sword through you, enabling you to do the last sacrifice you could for the world.", "_t")
-t("Through an incredible display of willpower you resisted for a few decisive seconds. During this time a Sher'tul appeared, took the Staff and killed you.", "Through an incredible display of willpower you resisted for a few decisive seconds. During this time a Sher'tul appeared, took the Staff and killed you.", "_t")
-t("Though you succumbed to the fight, your mind was already gone, burnt to ashes by your mad patron sun. But the world was saved.", "Though you succumbed to the fight, your mind was already gone, burnt to ashes by your mad patron sun. But the world was saved.", "_t")
-t("Your sacrifice worked. Your mental energies were imbued with farportal energies. The Way radiated from the High Peak toward the rest of Eyal like a mental tidal wave.", "Your sacrifice worked. Your mental energies were imbued with farportal energies. The Way radiated from the High Peak toward the rest of Eyal like a mental tidal wave.", "_t")
-t("Every sentient being in Eyal is now part of the Way. Peace and happiness are enforced for all.", "Every sentient being in Eyal is now part of the Way. Peace and happiness are enforced for all.", "_t")
-t("Only the mages of Angolwen were able to withstand the mental shock and thus are the only unsafe people left. But what can they do against the might of the Way?", "Only the mages of Angolwen were able to withstand the mental shock and thus are the only unsafe people left. But what can they do against the might of the Way?", "_t")
-t("In the aftermath of the battle the Way tried to force you to act as a vessel to bring the Way to every sentient being.", "In the aftermath of the battle the Way tried to force you to act as a vessel to bring the Way to every sentient being.", "_t")
-t("You have prevented the portal to the Void from opening and thus stopped the Creator from bringing about the end of the world.", "You have prevented the portal to the Void from opening and thus stopped the Creator from bringing about the end of the world.", "_t")
-t("In a selfless act, High Sun Paladin Aeryn sacrificed herself to close the portal to the Void and thus stopped the Creator from bringing about the end of the world.", "In a selfless act, High Sun Paladin Aeryn sacrificed herself to close the portal to the Void and thus stopped the Creator from bringing about the end of the world.", "_t")
-t("In a selfless act, you sacrificed yourself to close the portal to the Void and thus stopped the Creator from bringing about the end of the world.", "In a selfless act, you sacrificed yourself to close the portal to the Void and thus stopped the Creator from bringing about the end of the world.", "_t")
-t("The Gates of Morning have been destroyed and the Sunwall has fallen. The last remnants of the free people in the Far East will surely diminish, and soon only orcs will inhabit this land.", "The Gates of Morning have been destroyed and the Sunwall has fallen. The last remnants of the free people in the Far East will surely diminish, and soon only orcs will inhabit this land.", "_t")
-t("The orc presence in the Far East has greatly been diminished by the loss of their leaders and the destruction of the Sorcerers. The free people of the Sunwall will be able to prosper and thrive on this land.", "The orc presence in the Far East has greatly been diminished by the loss of their leaders and the destruction of the Sorcerers. The free people of the Sunwall will be able to prosper and thrive on this land.", "_t")
-t("Maj'Eyal will once more know peace. Most of its inhabitants will never know they even were on the verge of destruction, but then this is what being a true hero means: to do the right thing even though nobody will know about it.", "Maj'Eyal will once more know peace. Most of its inhabitants will never know they even were on the verge of destruction, but then this is what being a true hero means: to do the right thing even though nobody will know about it.", "_t")
-t("You may continue playing and enjoy the rest of the world.", "You may continue playing and enjoy the rest of the world.", "_t")
+t("The Sorcerers are dead, and the Orc Pride lies in ruins, thanks to your efforts.", "Los Hechiceros están muertos, y el Orc Pride está en ruinas, gracias a sus esfuerzos.", "_t")
+t("Your patron's plan worked. As your body was crushed by the raw forces of the void portal it opened wide. In an instant the connection was made and waves of heat came through.", "El plan de tu patrón funcionó. A medida que su cuerpo fue aplastado por las fuerzas crudas del portal de vacío se abrió ampliamente. En un instante se hizo la conexión y las olas de calor pasaron.", "_t")
+t("The mad sun brought forth all its power through the portal, turning the High Peak into a giant searing needle!", "¡El sol loco sacó todo su poder a través del portal, convirtiendo el pico alto en una aguja gigante!", "_t")
+t("A few minutes later the whole world was set ablaze, nothing survived except Faeros elementals.", "Unos minutos más tarde todo el mundo se puso en llamas, nada sobrevivió excepto Faeros elementales.", "_t")
+t("In the aftermath of the battle the Distant Sun tried to force you to open the portal to bring it forth onto Eyal.", "Después de la batalla el Sol Distante trató de forzarte a abrir el portal para traerlo a Eyal.", "_t")
+t("Through an incredible display of willpower you resisted long enough to ask Aeryn to kill you.", "A través de una increíble muestra de fuerza de voluntad se resistió lo suficiente para pedir a Aeryn que te matara.", "_t")
+t("She sadly agreed and ran her sword through you, enabling you to do the last sacrifice you could for the world.", "Ella estuvo tristemente de acuerdo y corrió su espada a través de ti, permitiéndote hacer el último sacrificio que podías por el mundo.", "_t")
+t("Through an incredible display of willpower you resisted for a few decisive seconds. During this time a Sher'tul appeared, took the Staff and killed you.", "A través de una increíble muestra de fuerza de voluntad que te resististe durante unos segundos decisivos. Durante este tiempo apareció un Sher'tul, tomó al Estado Mayor y te mató.", "_t")
+t("Though you succumbed to the fight, your mind was already gone, burnt to ashes by your mad patron sun. But the world was saved.", "Aunque sucumbiste a la lucha, tu mente ya se había ido, quemada a cenizas por tu loco sol patrono. Pero el mundo fue salvado.", "_t")
+t("Your sacrifice worked. Your mental energies were imbued with farportal energies. The Way radiated from the High Peak toward the rest of Eyal like a mental tidal wave.", "Tu sacrificio funcionó. Tus energías mentales estaban impregnadas de energías farportales. El Camino radió desde el Alto Peak hacia el resto de Eyal como una ola de marea mental.", "_t")
+t("Every sentient being in Eyal is now part of the Way. Peace and happiness are enforced for all.", "Cada ser sensible en Eyal es ahora parte del Camino. La paz y la felicidad son forzadas para todos.", "_t")
+t("Only the mages of Angolwen were able to withstand the mental shock and thus are the only unsafe people left. But what can they do against the might of the Way?", "Sólo los magos de Angolwen pudieron soportar el shock mental y por lo tanto son las únicas personas inseguras que quedan. ¿Pero qué pueden hacer contra el poder del Camino?", "_t")
+t("In the aftermath of the battle the Way tried to force you to act as a vessel to bring the Way to every sentient being.", "Después de la batalla el Camino trató de forzarte a actuar como un recipiente para llevar el Camino a cada ser sensible.", "_t")
+t("You have prevented the portal to the Void from opening and thus stopped the Creator from bringing about the end of the world.", "Ustedes han impedido que el portal al Vacío se abriera y así han impedido que el Creador produzca el fin del mundo.", "_t")
+t("In a selfless act, High Sun Paladin Aeryn sacrificed herself to close the portal to the Void and thus stopped the Creator from bringing about the end of the world.", "En un acto desinteresado, el Alto Sol Paladin Aeryn se sacrificó para cerrar el portal al Vacío y así impidió al Creador traer el fin del mundo.", "_t")
+t("In a selfless act, you sacrificed yourself to close the portal to the Void and thus stopped the Creator from bringing about the end of the world.", "En un acto desinteresado, te sacrificaste para cerrar el portal al Vacío y así paraste al Creador de traer el fin del mundo.", "_t")
+t("The Gates of Morning have been destroyed and the Sunwall has fallen. The last remnants of the free people in the Far East will surely diminish, and soon only orcs will inhabit this land.", "Las puertas de la mañana han sido destruidas y el Sunwall ha caído. Los últimos restos de la gente libre en el Lejano Oriente seguramente disminuirán, y pronto sólo los orcos habitarán esta tierra.", "_t")
+t("The orc presence in the Far East has greatly been diminished by the loss of their leaders and the destruction of the Sorcerers. The free people of the Sunwall will be able to prosper and thrive on this land.", "La presencia orca en el Lejano Oriente se ha visto muy reducida por la pérdida de sus líderes y la destrucción de los Hechiceros. La gente libre del Sunwall será capaz de prosperar y prosperar en esta tierra.", "_t")
+t("Maj'Eyal will once more know peace. Most of its inhabitants will never know they even were on the verge of destruction, but then this is what being a true hero means: to do the right thing even though nobody will know about it.", "Maj'Eyal volverá a conocer la paz. La mayoría de sus habitantes nunca sabrán que estaban al borde de la destrucción, pero entonces esto es lo que significa ser un verdadero héroe: hacer lo correcto aunque nadie lo sepa.", "_t")
+t("You may continue playing and enjoy the rest of the world.", "Puede seguir jugando y disfrutando del resto del mundo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27552,8 +27551,8 @@ section "mod-tome/data/quests/infinite-dungeon.lua"
 -- new text
 --[==[
 t("The Infinite Dungeon", "La Mazmorra Infinita", "_t")
-t("You have entered the Infinite Dungeon. There is no going back now.", "You have entered the Infinite Dungeon. There is no going back now.", "_t")
-t("Go deep, fight, win or die in a blaze of glory!", "Go deep, fight, win or die in a blaze of glory!", "_t")
+t("You have entered the Infinite Dungeon. There is no going back now.", "Has entrado en el Infinito Dungeon. No hay vuelta atrás ahora.", "_t")
+t("Go deep, fight, win or die in a blaze of glory!", "¡Adentro, lucha, gana o muere en un resplandor de gloria!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27563,37 +27562,37 @@ section "mod-tome/data/quests/keepsake.lua"
 -- new text
 --[==[
 t("Keepsake", "Keepsake", "_t")
-t("You have begun to look for a way to overcome the curse that afflicts you.", "You have begun to look for a way to overcome the curse that afflicts you.", "_t")
-t("You have found a small iron acorn which you keep as a reminder of your past.", "You have found a small iron acorn which you keep as a reminder of your past.", "_t")
-t("You have destroyed the merchant caravan that you once considered family.", "You have destroyed the merchant caravan that you once considered family.", "_t")
-t("Kyless, the one who brought the curse, is dead by your hand.", "Kyless, the one who brought the curse, is dead by your hand.", "_t")
-t("Berethh is dead, may he rest in peace.", "Berethh is dead, may he rest in peace.", "_t")
-t("Your curse has changed the iron acorn which now serves as a cruel reminder of your past and present.", "Your curse has changed the iron acorn which now serves as a cruel reminder of your past and present.", "_t")
-t("You have found a small iron acorn which you keep as a reminder of your past", "You have found a small iron acorn which you keep as a reminder of your past", "_t")
-t("Your curse has defiled the iron acorn which now serves as a reminder of your vile nature.", "Your curse has defiled the iron acorn which now serves as a reminder of your vile nature.", "_t")
-t("#LIGHT_GREEN#You need to find Berethh, the last person who may be able to help you.", "#LIGHT_GREEN#You need to find Berethh, the last person who may be able to help you.", "_t")
-t("#LIGHT_GREEN#Seek out Kyless' cave in the northern part of the meadow and end him. Perhaps the curse will end with him.", "#LIGHT_GREEN#Seek out Kyless' cave in the northern part of the meadow and end him. Perhaps the curse will end with him.", "_t")
-t("#LIGHT_GREEN#Discover the meaning of the acorn and the dream.", "#LIGHT_GREEN#Discover the meaning of the acorn and the dream.", "_t")
-t("#LIGHT_GREEN#You may have to revist your past to unlock some secret buried there.", "#LIGHT_GREEN#You may have to revist your past to unlock some secret buried there.", "_t")
-t("#VIOLET#The time has come to learn the true nature of your curse.", "#VIOLET#The time has come to learn the true nature of your curse.", "logPlayer")
-t("#VIOLET#You find yourself in a dream.", "#VIOLET#You find yourself in a dream.", "logPlayer")
-t("#VIOLET#Your hate surges. You refuse to succumb to death!", "#VIOLET#Your hate surges. You refuse to succumb to death!", "logPlayer")
-t("#VIOLET#You have discovered a small iron acorn, a link to your past.", "#VIOLET#You have discovered a small iron acorn, a link to your past.", "logPlayer")
-t("#VIOLET#The merchant caravan from the past has appeared in your dream.", "#VIOLET#The merchant caravan from the past has appeared in your dream.", "logPlayer")
-t("Last of the Caravan", "Last of the Caravan", "_t")
-t("secret path to the cave", "secret path to the cave", "_t")
-t("#VIOLET#You have begun your hunt for Kyless!", "#VIOLET#You have begun your hunt for Kyless!", "logPlayer")
-t("#VIOLET#You have a marker to the entrance of Kyless' cave!", "#VIOLET#You have a marker to the entrance of Kyless' cave!", "logPlayer")
-t("#VIOLET#You have found the entrance to Kyless' cave!", "#VIOLET#You have found the entrance to Kyless' cave!", "logPlayer")
-t("#VIOLET#You have found the entrance to a vault!", "#VIOLET#You have found the entrance to a vault!", "logPlayer")
-t("#VIOLET#The shadows have noticed you!", "#VIOLET#The shadows have noticed you!", "logPlayer")
+t("You have begun to look for a way to overcome the curse that afflicts you.", "Has empezado a buscar una manera de superar la maldición que te aflige.", "_t")
+t("You have found a small iron acorn which you keep as a reminder of your past.", "Usted ha encontrado un pequeño acornio de hierro que usted mantiene como un recordatorio de su pasado.", "_t")
+t("You have destroyed the merchant caravan that you once considered family.", "Has destruido la caravana mercante que una vez considerabas familia.", "_t")
+t("Kyless, the one who brought the curse, is dead by your hand.", "Kyless, el que trajo la maldición, está muerto por tu mano.", "_t")
+t("Berethh is dead, may he rest in peace.", "Berethh está muerto, que descanse en paz.", "_t")
+t("Your curse has changed the iron acorn which now serves as a cruel reminder of your past and present.", "Tu maldición ha cambiado la bellota de hierro que ahora sirve como un recordatorio cruel de tu pasado y presente.", "_t")
+t("You have found a small iron acorn which you keep as a reminder of your past", "Has encontrado un pequeño acornio de hierro que guardas como recordatorio de tu pasado", "_t")
+t("Your curse has defiled the iron acorn which now serves as a reminder of your vile nature.", "Tu maldición ha contaminado el acornio de hierro que ahora sirve como un recordatorio de tu naturaleza vil.", "_t")
+t("#LIGHT_GREEN#You need to find Berethh, the last person who may be able to help you.", "#LIGHT GREEN# Necesitas encontrar a Berethh, la última persona que pueda ayudarte.", "_t")
+t("#LIGHT_GREEN#Seek out Kyless' cave in the northern part of the meadow and end him. Perhaps the curse will end with him.", "#LIGHT GREEN #Busca la cueva de Kyless en la parte norte del prado y termina con él. Quizás la maldición termine con él.", "_t")
+t("#LIGHT_GREEN#Discover the meaning of the acorn and the dream.", "#LIGHT GREEN #Descubre el significado de las bellotas y el sueño.", "_t")
+t("#LIGHT_GREEN#You may have to revist your past to unlock some secret buried there.", "#LIGHT GREEN#Usted puede tener que reactivar su pasado para desbloquear algún secreto enterrado allí.", "_t")
+t("#VIOLET#The time has come to learn the true nature of your curse.", "#VIOLET#El tiempo ha llegado para aprender la verdadera naturaleza de tu maldición.", "logPlayer")
+t("#VIOLET#You find yourself in a dream.", "#VIOLET# Te encuentras en un sueño.", "logPlayer")
+t("#VIOLET#Your hate surges. You refuse to succumb to death!", "Tus oleadas de odio. ¡Te niegas a sucumbir a la muerte!", "logPlayer")
+t("#VIOLET#You have discovered a small iron acorn, a link to your past.", "#VIOLET# Has descubierto un pequeño acornio de hierro, un enlace a tu pasado.", "logPlayer")
+t("#VIOLET#The merchant caravan from the past has appeared in your dream.", "#VIOLET# La caravana mercante del pasado ha aparecido en tu sueño.", "logPlayer")
+t("Last of the Caravan", "Último de la Caravana", "_t")
+t("secret path to the cave", "camino secreto a la cueva", "_t")
+t("#VIOLET#You have begun your hunt for Kyless!", "#VIOLET# Has empezado tu búsqueda por Kyless!", "logPlayer")
+t("#VIOLET#You have a marker to the entrance of Kyless' cave!", "¡Tienes un marcador a la entrada de la cueva de Kyles!", "logPlayer")
+t("#VIOLET#You have found the entrance to Kyless' cave!", "¡Has encontrado la entrada a la cueva de Kyless!", "logPlayer")
+t("#VIOLET#You have found the entrance to a vault!", "¡Has encontrado la entrada a una bóveda!", "logPlayer")
+t("#VIOLET#The shadows have noticed you!", "¡Las sombras te han notado!", "logPlayer")
 t("A Second Vault", "A Second Vault", "_t")
-t("You recognize this door as the entrance to a second vault. There are some scuffling noises and heavy breathing coming from the other side of the door.", "You recognize this door as the entrance to a second vault. There are some scuffling noises and heavy breathing coming from the other side of the door.", "_t")
-t("#VIOLET#You have found Kyless. You must destroy him.", "#VIOLET#You have found Kyless. You must destroy him.", "logPlayer")
-t("Death of Kyless", "Death of Kyless", "_t")
-t("#VIOLET#Kyless is dead.", "#VIOLET#Kyless is dead.", "logPlayer")
+t("You recognize this door as the entrance to a second vault. There are some scuffling noises and heavy breathing coming from the other side of the door.", "Reconoces esta puerta como la entrada a una segunda bóveda. Hay algunos ruidos hinchables y una respiración pesada que viene del otro lado de la puerta.", "_t")
+t("#VIOLET#You have found Kyless. You must destroy him.", "Has encontrado a Kyless. Debes destruirlo.", "logPlayer")
+t("Death of Kyless", "Muerte de Kyless", "_t")
+t("#VIOLET#Kyless is dead.", "#VIOLET#Kyless está muerto.", "logPlayer")
 t("Berethh", "Berethh", "_t")
-t("#VIOLET#Berethh lies dead.", "#VIOLET#Berethh lies dead.", "logPlayer")
+t("#VIOLET#Berethh lies dead.", "#VIOLET#Berethh está muerto.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27602,12 +27601,12 @@ section "mod-tome/data/quests/kryl-feijan-escape.lua"
 
 -- new text
 --[==[
-t("The Sect of Kryl-Feijan", "The Sect of Kryl-Feijan", "_t")
-t("You discovered a sect worshipping a demon named Kryl-Feijan in a crypt.", "You discovered a sect worshipping a demon named Kryl-Feijan in a crypt.", "_t")
-t("They were trying to bring it back into the world using a human sacrifice.", "They were trying to bring it back into the world using a human sacrifice.", "_t")
-t("You defeated the acolytes and saved the woman. She told you she is the daughter of a rich merchant of Last Hope.", "You defeated the acolytes and saved the woman. She told you she is the daughter of a rich merchant of Last Hope.", "_t")
-t("You failed to protect her when escorting her out of the crypt.", "You failed to protect her when escorting her out of the crypt.", "_t")
-t("You failed to defeat the acolytes in time - the woman got torn apart by the demon growing inside her.", "You failed to defeat the acolytes in time - the woman got torn apart by the demon growing inside her.", "_t")
+t("The Sect of Kryl-Feijan", "El Secta de Kryl-Feijan", "_t")
+t("You discovered a sect worshipping a demon named Kryl-Feijan in a crypt.", "Descubriste una secta adorando a un demonio llamado Kryl-Feijan en una cripta.", "_t")
+t("They were trying to bring it back into the world using a human sacrifice.", "Intentaban traerlo de vuelta al mundo usando un sacrificio humano.", "_t")
+t("You defeated the acolytes and saved the woman. She told you she is the daughter of a rich merchant of Last Hope.", "Tú derrotaste a los acólitos y salvaste a la mujer. Te dijo que era hija de un rico comerciante de la última esperanza.", "_t")
+t("You failed to protect her when escorting her out of the crypt.", "No la protegiste al escoltarla fuera de la cripta.", "_t")
+t("You failed to defeat the acolytes in time - the woman got torn apart by the demon growing inside her.", "No derrotaste a los acólitos en el tiempo - la mujer se desgarró por el demonio creciendo dentro de ella.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27616,23 +27615,23 @@ section "mod-tome/data/quests/lichform.lua"
 
 -- new text
 --[==[
-t("From Death, Life", "From Death, Life", "_t")
-t("The affairs of this mortal world are trifling compared to your true goal: To conquer death.", "The affairs of this mortal world are trifling compared to your true goal: To conquer death.", "_t")
-t("Your studies have uncovered much surrounding this subject, but now you must prepare for your glorious rebirth.", "Your studies have uncovered much surrounding this subject, but now you must prepare for your glorious rebirth.", "_t")
-t("You will need:", "You will need:", "_t")
-t("#LIGHT_GREEN#* You are experienced enough.#WHITE#", "#LIGHT_GREEN#* You are experienced enough.#WHITE#", "_t")
-t("#SLATE#* The ceremony will require that you are worthy, experienced, and possessed of a certain amount of power (level 25, Magic over 50, Willpower over 25 and one prodigy point available).#WHITE#", "#SLATE#* The ceremony will require that you are worthy, experienced, and possessed of a certain amount of power (level 25, Magic over 50, Willpower over 25 and one prodigy point available).#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have 'extracted' the heart of one of your fellow necromancers.#WHITE#", "#LIGHT_GREEN#* You have 'extracted' the heart of one of your fellow necromancers.#WHITE#", "_t")
-t("#SLATE#* The beating heart of a powerful necromancer.#WHITE#", "#SLATE#* The beating heart of a powerful necromancer.#WHITE#", "_t")
-t("#LIGHT_GREEN#* Yiilkgur the Sher'tul Fortress is a suitable location.#WHITE#", "#LIGHT_GREEN#* Yiilkgur the Sher'tul Fortress is a suitable location.#WHITE#", "_t")
-t("#LIGHT_GREEN#* Yiilkgur has enough energy.#WHITE#", "#LIGHT_GREEN#* Yiilkgur has enough energy.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You are now on the path of lichdom.#WHITE#", "#LIGHT_GREEN#* You are now on the path of lichdom.#WHITE#", "_t")
-t("#SLATE#* Use the control orb of Yiilkgur to begin the ceremony.#WHITE#", "#SLATE#* Use the control orb of Yiilkgur to begin the ceremony.#WHITE#", "_t")
-t("#SLATE#* Your lair must amass enough energy to use in your rebirth (40 energy).#WHITE#", "#SLATE#* Your lair must amass enough energy to use in your rebirth (40 energy).#WHITE#", "_t")
-t("#SLATE#* The ceremony will require a suitable location, secluded and given to the channelling of energy#WHITE#", "#SLATE#* The ceremony will require a suitable location, secluded and given to the channelling of energy#WHITE#", "_t")
-t("#CRIMSON#* You have ascended to Lichdom!#WHITE#", "#CRIMSON#* You have ascended to Lichdom!#WHITE#", "_t")
+t("From Death, Life", "De la muerte, la vida", "_t")
+t("The affairs of this mortal world are trifling compared to your true goal: To conquer death.", "Los asuntos de este mundo mortal son trifling en comparación con su verdadero objetivo: conquistar la muerte.", "_t")
+t("Your studies have uncovered much surrounding this subject, but now you must prepare for your glorious rebirth.", "Tus estudios han descubierto mucho alrededor de este tema, pero ahora debes prepararte para tu glorioso renacimiento.", "_t")
+t("You will need:", "Necesitarás:", "_t")
+t("#LIGHT_GREEN#* You are experienced enough.#WHITE#", "Eres bastante experimentado", "_t")
+t("#SLATE#* The ceremony will require that you are worthy, experienced, and possessed of a certain amount of power (level 25, Magic over 50, Willpower over 25 and one prodigy point available).#WHITE#", "SLATE# La ceremonia requerirá que usted sea digno, experimentado y poseído de una cierta cantidad de poder (nivel 25, Magia sobre 50, Willpower sobre 25 y un punto prodigio disponible). #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have 'extracted' the heart of one of your fellow necromancers.#WHITE#", "#LIGHT GREEN#* Has 'extraído' el corazón de uno de tus compañeros necromanceres. #WHITE#", "_t")
+t("#SLATE#* The beating heart of a powerful necromancer.#WHITE#", "SLATE# El corazón de un poderoso necromancer. #WHITE#", "_t")
+t("#LIGHT_GREEN#* Yiilkgur the Sher'tul Fortress is a suitable location.#WHITE#", "#LIGHT GREEN#* Yiilkgur la Fortaleza Sher'tul es un lugar adecuado. #WHITE#", "_t")
+t("#LIGHT_GREEN#* Yiilkgur has enough energy.#WHITE#", "Yiilkgur tiene suficiente energía", "_t")
+t("#LIGHT_GREEN#* You are now on the path of lichdom.#WHITE#", "#LIGHT GREEN # Ahora estás en el camino de la limosna. #WHITE#", "_t")
+t("#SLATE#* Use the control orb of Yiilkgur to begin the ceremony.#WHITE#", "#SLATE#* Usa el orbe de control de Yiilkgur para comenzar la ceremonia. #WHITE#", "_t")
+t("#SLATE#* Your lair must amass enough energy to use in your rebirth (40 energy).#WHITE#", "#SLATE#* Tu guarida debe acumular suficiente energía para usar en tu renacimiento (40 energía). #WHITE#", "_t")
+t("#SLATE#* The ceremony will require a suitable location, secluded and given to the channelling of energy#WHITE#", "SLATE# La ceremonia requerirá un lugar adecuado, separado y dado a la canalización de energía#WHITE#", "_t")
+t("#CRIMSON#* You have ascended to Lichdom!#WHITE#", "#CRIMSON# ¡Has ascendido a Lichdom! #WHITE#", "_t")
 t("Lichform", "Forma de Liche", "_t")
-t("The secrets of death lay open to you! You are to become a Lich upon your next death!", "The secrets of death lay open to you! You are to become a Lich upon your next death!", "_t")
+t("The secrets of death lay open to you! You are to become a Lich upon your next death!", "¡Los secretos de la muerte están abiertos a ti! ¡Te convertirás en Lich en tu próxima muerte!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27641,17 +27640,17 @@ section "mod-tome/data/quests/lightning-overload.lua"
 
 -- new text
 --[==[
-t("Storming the city", "Storming the city", "_t")
-t("As you approached Derth you saw a huge dark cloud over the small town.", "As you approached Derth you saw a huge dark cloud over the small town.", "_t")
-t("When you entered you were greeted by an army of air elementals slaughtering the population.", "When you entered you were greeted by an army of air elementals slaughtering the population.", "_t")
-t(" * You have dispatched the elementals but the cloud lingers still. You must find a powerful ally to remove it. There are rumours of a secret town in the mountains, to the southwest. You could also check out the Ziguranth group that is supposed to fight magic.", " * You have dispatched the elementals but the cloud lingers still. You must find a powerful ally to remove it. There are rumours of a secret town in the mountains, to the southwest. You could also check out the Ziguranth group that is supposed to fight magic.", "_t")
-t(" * You have learned the real threat comes from a rogue Archmage, a Tempest named Urkis. The mages of Angolwen are ready to teleport you there.", " * You have learned the real threat comes from a rogue Archmage, a Tempest named Urkis. The mages of Angolwen are ready to teleport you there.", "_t")
-t(" * You have learned the real threat comes from a rogue Archmage, a Tempest. You have been shown a secret entrance to his stronghold.", " * You have learned the real threat comes from a rogue Archmage, a Tempest. You have been shown a secret entrance to his stronghold.", "_t")
-t(" * You have slain Urkis.  Return to Angolwen or Zigur for a reward.", " * You have slain Urkis.  Return to Angolwen or Zigur for a reward.", "_t")
-t(" * Urkis has been dealt with. Permanently.", " * Urkis has been dealt with. Permanently.", "_t")
-t("Scared Halfling", "Scared Halfling", "_t")
-t("Danger...", "Danger...", "_t")
-t("Clear sky", "Clear sky", "_t")
+t("Storming the city", "Tormenta la ciudad", "_t")
+t("As you approached Derth you saw a huge dark cloud over the small town.", "Cuando te acercaste a Derth viste una nube oscura enorme sobre la pequeña ciudad.", "_t")
+t("When you entered you were greeted by an army of air elementals slaughtering the population.", "Cuando entraste fuiste recibido por un ejército de elementales de aire masacrando a la población.", "_t")
+t(" * You have dispatched the elementals but the cloud lingers still. You must find a powerful ally to remove it. There are rumours of a secret town in the mountains, to the southwest. You could also check out the Ziguranth group that is supposed to fight magic.", "* Usted ha enviado los elementales, pero la nube se agudiza todavía. Debes encontrar un poderoso aliado para eliminarlo. Hay rumores de un pueblo secreto en las montañas, al suroeste. También podrías ver el grupo Ziguranth que se supone que lucha contra la magia.", "_t")
+t(" * You have learned the real threat comes from a rogue Archmage, a Tempest named Urkis. The mages of Angolwen are ready to teleport you there.", "* Has aprendido que la verdadera amenaza viene de un Arzobispo pícaro, un Tempest llamado Urkis. Los magos de Angolwen están listos para teletransportarte allí.", "_t")
+t(" * You have learned the real threat comes from a rogue Archmage, a Tempest. You have been shown a secret entrance to his stronghold.", "* Has aprendido que la verdadera amenaza viene de un Arzobispo pícaro, una Tempestad. Se te ha mostrado una entrada secreta a su fortaleza.", "_t")
+t(" * You have slain Urkis.  Return to Angolwen or Zigur for a reward.", "* Has matado a Urkis. Regrese a Angolwen o Zigur por una recompensa.", "_t")
+t(" * Urkis has been dealt with. Permanently.", "* Urkis ha sido tratado con. Permanentemente.", "_t")
+t("Scared Halfling", "Mitiedad asustada", "_t")
+t("Danger...", "Peligro...", "_t")
+t("Clear sky", "Cielo claro", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27660,11 +27659,11 @@ section "mod-tome/data/quests/lost-merchant.lua"
 
 -- new text
 --[==[
-t("Trapped!", "Trapped!", "_t")
-t("You heard a plea for help and decided to investigate...", "You heard a plea for help and decided to investigate...", "_t")
-t("Only to find yourself trapped inside an unknown tunnel complex.", "Only to find yourself trapped inside an unknown tunnel complex.", "_t")
-t("A stairway out appears at your feet. The Lord says: 'And remember, you are MINE. I will call you.'", "A stairway out appears at your feet. The Lord says: 'And remember, you are MINE. I will call you.'", "logPlayer")
-t("#LIGHT_BLUE#The merchant thanks you for saving his life. He gives you 8 gold and asks you to meet him again in Last Hope.", "#LIGHT_BLUE#The merchant thanks you for saving his life. He gives you 8 gold and asks you to meet him again in Last Hope.", "logPlayer")
+t("Trapped!", "¡Trapped!", "_t")
+t("You heard a plea for help and decided to investigate...", "Escuchó una petición de ayuda y decidió investigar...", "_t")
+t("Only to find yourself trapped inside an unknown tunnel complex.", "Sólo para encontrarte atrapado dentro de un complejo túnel desconocido.", "_t")
+t("A stairway out appears at your feet. The Lord says: 'And remember, you are MINE. I will call you.'", "Una escalera hacia fuera aparece a tus pies. El Señor dice: 'Y recuerden, ustedes son MÍOS. Te llamaré", "logPlayer")
+t("#LIGHT_BLUE#The merchant thanks you for saving his life. He gives you 8 gold and asks you to meet him again in Last Hope.", "El comerciante te agradece por salvar su vida. Te da 8 oro y te pide que te encuentres con él de nuevo en la última esperanza.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27673,17 +27672,17 @@ section "mod-tome/data/quests/love-melinda.lua"
 
 -- new text
 --[==[
-t("Melinda, lucky girl", "Melinda, lucky girl", "_t")
-t("After rescuing Melinda from Kryl-Feijan and the cultists you met her again in Last Hope.", "After rescuing Melinda from Kryl-Feijan and the cultists you met her again in Last Hope.", "_t")
-t("Melinda was saved from the brink of death at the beach, by a strange wave of blight.", "Melinda was saved from the brink of death at the beach, by a strange wave of blight.", "_t")
-t("Melinda died to a Yaech raiding party at the beach.", "Melinda died to a Yaech raiding party at the beach.", "_t")
-t("The Fortress Shadow said she could be cured.", "The Fortress Shadow said she could be cured.", "_t")
-t("Melinda decided to come live with you in your Fortress.", "Melinda decided to come live with you in your Fortress.", "_t")
-t("The Fortress Shadow has established a portal for her so she can come and go freely.", "The Fortress Shadow has established a portal for her so she can come and go freely.", "_t")
-t("After your victory you came back to Last Hope and reunited with Melinda, who after many years remains free of demonic corruption.", "After your victory you came back to Last Hope and reunited with Melinda, who after many years remains free of demonic corruption.", "_t")
-t("You lived together and led a happy life. Melinda even learned a few adventurer's tricks and you both traveled Eyal, making new legends.", "You lived together and led a happy life. Melinda even learned a few adventurer's tricks and you both traveled Eyal, making new legends.", "_t")
+t("Melinda, lucky girl", "Melinda, chica con suerte", "_t")
+t("After rescuing Melinda from Kryl-Feijan and the cultists you met her again in Last Hope.", "Después de rescatar a Melinda de Kryl-Feijan y a los cultos que la conociste de nuevo en Última Esperanza.", "_t")
+t("Melinda was saved from the brink of death at the beach, by a strange wave of blight.", "Melinda fue salvada del borde de la muerte en la playa, por una extraña ola de luz.", "_t")
+t("Melinda died to a Yaech raiding party at the beach.", "Melinda murió a una fiesta de asalto de Yaech en la playa.", "_t")
+t("The Fortress Shadow said she could be cured.", "La Fortaleza Sombra dijo que podía ser curada.", "_t")
+t("Melinda decided to come live with you in your Fortress.", "Melinda decidió venir a vivir contigo en tu Fortaleza.", "_t")
+t("The Fortress Shadow has established a portal for her so she can come and go freely.", "La Fortaleza Sombra ha establecido un portal para ella para que pueda venir y ir libremente.", "_t")
+t("After your victory you came back to Last Hope and reunited with Melinda, who after many years remains free of demonic corruption.", "Después de tu victoria regresaste a Last Hope y te reuniste con Melinda, quien después de muchos años permanece libre de corrupción demoníaca.", "_t")
+t("You lived together and led a happy life. Melinda even learned a few adventurer's tricks and you both traveled Eyal, making new legends.", "Vivías juntos y llevabas una vida feliz. Melinda incluso aprendió algunos trucos de aventurero y ambos viajaron Eyal, haciendo nuevas leyendas.", "_t")
 t("Melinda", "Melinda", "_t")
-t("You saved her from the depth of a cultists' lair and fell in love with her. She has moved into the Fortress to see you more often.", "You saved her from the depth of a cultists' lair and fell in love with her. She has moved into the Fortress to see you more often.", "_t")
+t("You saved her from the depth of a cultists' lair and fell in love with her. She has moved into the Fortress to see you more often.", "La salvaste de la profundidad de la guarida de un culto y te enamoraste de ella. Se ha mudado a la Fortaleza para verte más a menudo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27692,17 +27691,17 @@ section "mod-tome/data/quests/lumberjack-cursed.lua"
 
 -- new text
 --[==[
-t("The beast within", "The beast within", "_t")
-t("You met a half-mad lumberjack fleeing a small village, rambling about an untold horror lurking there, slaughtering people.", "You met a half-mad lumberjack fleeing a small village, rambling about an untold horror lurking there, slaughtering people.", "_t")
-t("%d lumberjacks have died.", "%d lumberjacks have died.", "tformat")
-t("Small lumberjack village", "Small lumberjack village", "_t")
-t("He points in the direction of the Riljek forest to the north.", "He points in the direction of the Riljek forest to the north.", "logPlayer")
-t("Thanks", "Thanks", "_t")
-t("The remaining lumberjacks collect some gold to thank you (%0.2f).", "The remaining lumberjacks collect some gold to thank you (%0.2f).", "tformat")
-t("You saved %s of us, please take this as a reward. (They give you %s)", "You saved %s of us, please take this as a reward. (They give you %s)", "tformat")
-t("all", "all", "quest_lumberjack")
-t("most", "most", "_t")
-t("#LIGHT_RED#A lumberjack falls to the ground, dead.", "#LIGHT_RED#A lumberjack falls to the ground, dead.", "logSeen")
+t("The beast within", "La bestia dentro", "_t")
+t("You met a half-mad lumberjack fleeing a small village, rambling about an untold horror lurking there, slaughtering people.", "Conociste a un leñador medio-madre huyendo de un pequeño pueblo, huyendo de un horror incalculable acechando allí, matando gente.", "_t")
+t("%d lumberjacks have died.", "Los leñadores han muerto.", "tformat")
+t("Small lumberjack village", "Pequeño pueblo de leña", "_t")
+t("He points in the direction of the Riljek forest to the north.", "Indica en la dirección del bosque de Riljek al norte.", "logPlayer")
+t("Thanks", "Gracias", "_t")
+t("The remaining lumberjacks collect some gold to thank you (%0.2f).", "Los leñadores restantes recogen algo de oro para agradecerle (  PH0  ).", "tformat")
+t("You saved %s of us, please take this as a reward. (They give you %s)", "Salvaste   PH0   de nosotros, por favor, toma esto como recompensa. (Te dan   PH1  )", "tformat")
+t("all", "todos", "quest_lumberjack")
+t("most", "más", "_t")
+t("#LIGHT_RED#A lumberjack falls to the ground, dead.", "Un leñador cae al suelo, muerto.", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -27711,14 +27710,14 @@ section "mod-tome/data/quests/mage-apprentice.lua"
 
 -- new text
 --[==[
-t("An apprentice task", "An apprentice task", "_t")
-t("You met a novice mage who was tasked to collect an arcane powered artifact.", "You met a novice mage who was tasked to collect an arcane powered artifact.", "_t")
-t("He asked for your help, should you collect some that you do not need.", "He asked for your help, should you collect some that you do not need.", "_t")
-t("#SLATE#* Collect an artifact arcane powered item.#WHITE#", "#SLATE#* Collect an artifact arcane powered item.#WHITE#", "_t")
-t("Offer which item?", "Offer which item?", "_t")
-t("#LIGHT_RED#As the apprentice touches the staff he begins to scream, flames bursting out of his mouth. Life seems to be drained away from him, and in an instant he collapses in a lifeless husk.", "#LIGHT_RED#As the apprentice touches the staff he begins to scream, flames bursting out of his mouth. Life seems to be drained away from him, and in an instant he collapses in a lifeless husk.", "logPlayer")
-t("You have no more %s", "You have no more %s", "log")
-t("You receive: %s", "You receive: %s", "logPlayer")
+t("An apprentice task", "Una tarea de aprendizaje", "_t")
+t("You met a novice mage who was tasked to collect an arcane powered artifact.", "Conociste a un mago novato que fue encargado de recoger un artefacto alimentado arcano.", "_t")
+t("He asked for your help, should you collect some that you do not need.", "Él pidió su ayuda, si usted recoge algo que usted no necesita.", "_t")
+t("#SLATE#* Collect an artifact arcane powered item.#WHITE#", "#SLATE#* Recoge un artefacto arcano de material alimentado.#", "_t")
+t("Offer which item?", "¿Ofrece qué artículo?", "_t")
+t("#LIGHT_RED#As the apprentice touches the staff he begins to scream, flames bursting out of his mouth. Life seems to be drained away from him, and in an instant he collapses in a lifeless husk.", "#LIGHT RED#A medida que el aprendiz toca al personal que comienza a gritar, las llamas salen de su boca. La vida parece ser drenada lejos de él, y en un instante se derrumba en una cáscara sin vida.", "logPlayer")
+t("You have no more %s", "No tienes más   PH0 ", "log")
+t("You receive: %s", "Usted recibe:   PH0  ", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27728,15 +27727,15 @@ section "mod-tome/data/quests/master-jeweler.lua"
 -- new text
 --[==[
 t("Lost Knowledge", "Lost Knowledge", "_t")
-t("You found an ancient tome about gems.", "You found an ancient tome about gems.", "_t")
-t("You should bring it to the jeweler in the Gates of Morning.", "You should bring it to the jeweler in the Gates of Morning.", "_t")
-t("Limmir told you to look for the Valley of the Moon in the southern mountains.", "Limmir told you to look for the Valley of the Moon in the southern mountains.", "_t")
-t("#VIOLET#This tome seems to be about the power of gems. Maybe you should bring it to the jeweler in the Gates of Morning.", "#VIOLET#This tome seems to be about the power of gems. Maybe you should bring it to the jeweler in the Gates of Morning.", "logPlayer")
-t("Limmir points to the entrance to a cave on your map. This is supposed to be the way to the valley.", "Limmir points to the entrance to a cave on your map. This is supposed to be the way to the valley.", "logPlayer")
-t("You must be near the moonstone to summon Limmir.", "You must be near the moonstone to summon Limmir.", "logPlayer")
-t("You do not have the summoning scroll!", "You do not have the summoning scroll!", "logPlayer")
+t("You found an ancient tome about gems.", "Encontraste un antiguo tomo sobre gemas.", "_t")
+t("You should bring it to the jeweler in the Gates of Morning.", "Deberías traerlo al joyero de las Puertas de la Mañana.", "_t")
+t("Limmir told you to look for the Valley of the Moon in the southern mountains.", "Limmir te dijo que buscaras el Valle de la Luna en las montañas del sur.", "_t")
+t("#VIOLET#This tome seems to be about the power of gems. Maybe you should bring it to the jeweler in the Gates of Morning.", "#VIOLET#Este tomo parece ser sobre el poder de las gemas. Tal vez deberías llevarla al joyero de las puertas de la mañana.", "logPlayer")
+t("Limmir points to the entrance to a cave on your map. This is supposed to be the way to the valley.", "Limmir apunta a la entrada de una cueva en su mapa. Se supone que este es el camino al valle.", "logPlayer")
+t("You must be near the moonstone to summon Limmir.", "Debes estar cerca de la piedra lunar para llamar a Limmir.", "logPlayer")
+t("You do not have the summoning scroll!", "¡No tienes el rollo de citación!", "logPlayer")
 t("Limmir (Quest)", "Limmir (Quest)", "_t")
-t("Limmir the Master Jeweler", "Limmir the Master Jeweler", "_t")
+t("Limmir the Master Jeweler", "Limmir el maestro joyero", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27746,9 +27745,9 @@ section "mod-tome/data/quests/orb-command.lua"
 -- new text
 --[==[
 t("The Orbs of Command", "Los Orbes de Mando", "_t")
-t("You have found an orb of command that seems to be used to open the shield protecting the High Peak.", "You have found an orb of command that seems to be used to open the shield protecting the High Peak.", "_t")
-t("There seems to be a total of four of them. The more you have the weaker the shield will be.", "There seems to be a total of four of them. The more you have the weaker the shield will be.", "_t")
-t("#LIGHT_BLUE#There is a loud crack. The way is open.", "#LIGHT_BLUE#There is a loud crack. The way is open.", "logPlayer")
+t("You have found an orb of command that seems to be used to open the shield protecting the High Peak.", "Usted ha encontrado un orbe de comando que parece ser usado para abrir el escudo protegiendo el pico alto.", "_t")
+t("There seems to be a total of four of them. The more you have the weaker the shield will be.", "Parece que hay un total de cuatro. Cuanto más débil sea el escudo.", "_t")
+t("#LIGHT_BLUE#There is a loud crack. The way is open.", "Hay una gran grieta. El camino está abierto.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27757,13 +27756,13 @@ section "mod-tome/data/quests/orc-breeding-pits.lua"
 
 -- new text
 --[==[
-t("Desperate Measures", "Desperate Measures", "_t")
-t("You have encountered a dying sun paladin that told you about the orcs breeding pit, a true abomination.", "You have encountered a dying sun paladin that told you about the orcs breeding pit, a true abomination.", "_t")
-t("You have decided to report the information to Aeryn so she can deal with it.", "You have decided to report the information to Aeryn so she can deal with it.", "_t")
-t("Aeryn said she would send troops to deal with it.", "Aeryn said she would send troops to deal with it.", "_t")
-t("You have taken upon yourself to cleanse it and deal a crippling blow to the orcs.", "You have taken upon yourself to cleanse it and deal a crippling blow to the orcs.", "_t")
-t("The abominable task is done.", "The abominable task is done.", "_t")
-t("Entrance to the orc breeding pit", "Entrance to the orc breeding pit", "_t")
+t("Desperate Measures", "Medidas desesperadas", "_t")
+t("You have encountered a dying sun paladin that told you about the orcs breeding pit, a true abomination.", "Has encontrado un paladín de sol moribundo que te contó sobre la fosa de cría de orcos, una verdadera abominación.", "_t")
+t("You have decided to report the information to Aeryn so she can deal with it.", "Usted ha decidido reportar la información a Aeryn para que pueda lidiar con ella.", "_t")
+t("Aeryn said she would send troops to deal with it.", "Aeryn dijo que enviaría tropas para lidiar con ello.", "_t")
+t("You have taken upon yourself to cleanse it and deal a crippling blow to the orcs.", "Te has apoderado de ti mismo para limpiarlo y hacer un golpe a los orcos.", "_t")
+t("The abominable task is done.", "La tarea abominable se hace.", "_t")
+t("Entrance to the orc breeding pit", "Entrada a la fosa de cría de orc", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27772,11 +27771,11 @@ section "mod-tome/data/quests/orc-hunt.lua"
 
 -- new text
 --[==[
-t("Let's hunt some Orc", "Let's hunt some Orc", "_t")
-t("The elder in Last Hope sent you to the old Dwarven kingdom of Reknor, deep under the Iron Throne, to investigate the orc presence.", "The elder in Last Hope sent you to the old Dwarven kingdom of Reknor, deep under the Iron Throne, to investigate the orc presence.", "_t")
-t("Find out if they are in any way linked to the lost staff.", "Find out if they are in any way linked to the lost staff.", "_t")
-t("But be careful -- even the Dwarves have not ventured in these old halls for many years.", "But be careful -- even the Dwarves have not ventured in these old halls for many years.", "_t")
-t("The elder points to Reknor on your map, to the north on the western side of the Iron Throne.", "The elder points to Reknor on your map, to the north on the western side of the Iron Throne.", "logPlayer")
+t("Let's hunt some Orc", "Vamos a cazar un poco de Orc", "_t")
+t("The elder in Last Hope sent you to the old Dwarven kingdom of Reknor, deep under the Iron Throne, to investigate the orc presence.", "El anciano de Last Hope te envió al viejo reino enano de Reknor, bajo el trono de hierro, para investigar la presencia del orco.", "_t")
+t("Find out if they are in any way linked to the lost staff.", "Averigüe si están en alguna forma vinculados al personal perdido.", "_t")
+t("But be careful -- even the Dwarves have not ventured in these old halls for many years.", "Pero ten cuidado... incluso los Enanos no se han aventurado en estos viejos pasillos durante muchos años.", "_t")
+t("The elder points to Reknor on your map, to the north on the western side of the Iron Throne.", "El anciano apunta a Reknor en su mapa, al norte en el lado occidental del Trono de Hierro.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27785,18 +27784,18 @@ section "mod-tome/data/quests/orc-pride.lua"
 
 -- new text
 --[==[
-t("The many Prides of the Orcs", "The many Prides of the Orcs", "_t")
-t("Investigate the bastions of the Pride.", "Investigate the bastions of the Pride.", "_t")
-t("#LIGHT_GREEN#* You have destroyed Rak'shor.#WHITE#", "#LIGHT_GREEN#* You have destroyed Rak'shor.#WHITE#", "_t")
-t("#SLATE#* Rak'shor Pride, in the west of the southern desert.#WHITE#", "#SLATE#* Rak'shor Pride, in the west of the southern desert.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have destroyed Vor.#WHITE#", "#LIGHT_GREEN#* You have destroyed Vor.#WHITE#", "_t")
-t("#SLATE#* Vor Pride, in the north east.#WHITE#", "#SLATE#* Vor Pride, in the north east.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have destroyed Grushnak.#WHITE#", "#LIGHT_GREEN#* You have destroyed Grushnak.#WHITE#", "_t")
-t("#SLATE#* Grushnak Pride, near a small mountain range in the north west.#WHITE#", "#SLATE#* Grushnak Pride, near a small mountain range in the north west.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have destroyed Gorbat.#WHITE#", "#LIGHT_GREEN#* You have destroyed Gorbat.#WHITE#", "_t")
-t("#SLATE#* Gorbat Pride, in a mountain range in the southern desert.#WHITE#", "#SLATE#* Gorbat Pride, in a mountain range in the southern desert.#WHITE#", "_t")
+t("The many Prides of the Orcs", "Los muchos principios de los Orcos", "_t")
+t("Investigate the bastions of the Pride.", "Investiga los bajos del Orgullo.", "_t")
+t("#LIGHT_GREEN#* You have destroyed Rak'shor.#WHITE#", "Has destruido a Rak'shor", "_t")
+t("#SLATE#* Rak'shor Pride, in the west of the southern desert.#WHITE#", "#SLATE#* Rak'shor Pride, en el oeste del desierto sur. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have destroyed Vor.#WHITE#", "#LIGHT GREEN # Has destruido a Vor", "_t")
+t("#SLATE#* Vor Pride, in the north east.#WHITE#", "Vor Pride, en el noreste. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have destroyed Grushnak.#WHITE#", "Has destruido a Grushnak. #WHITE#", "_t")
+t("#SLATE#* Grushnak Pride, near a small mountain range in the north west.#WHITE#", "#SLATE#* Grushnak Pride, cerca de una pequeña cordillera en el noroeste. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have destroyed Gorbat.#WHITE#", "Has destruido a Gorbat. #WHITE#", "_t")
+t("#SLATE#* Gorbat Pride, in a mountain range in the southern desert.#WHITE#", "#SLATE#* Gorbat Pride, en una cordillera en el desierto meridional. #WHITE#", "_t")
 t("", "", "_t")
-t("#LIGHT_GREEN#* All the bastions of the Pride lie in ruins, their masters destroyed. High Sun Paladin Aeryn would surely be glad of the news!#WHITE#", "#LIGHT_GREEN#* All the bastions of the Pride lie in ruins, their masters destroyed. High Sun Paladin Aeryn would surely be glad of the news!#WHITE#", "_t")
+t("#LIGHT_GREEN#* All the bastions of the Pride lie in ruins, their masters destroyed. High Sun Paladin Aeryn would surely be glad of the news!#WHITE#", "#LIGHT GREEN # Todos los bastiones del orgullo se encuentran en ruinas, sus maestros destruidos. High Sun Paladin Aeryn seguramente estaría contento de las noticias! #WHITE#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27805,15 +27804,15 @@ section "mod-tome/data/quests/paradoxology.lua"
 
 -- new text
 --[==[
-t("The Way We Weren't", "The Way We Weren't", "_t")
-t("%s the Paradox Mage", "%s the Paradox Mage", "tformat")
-t("A later (less fortunate?) version of %s, possibly going mad.", "A later (less fortunate?) version of %s, possibly going mad.", "tformat")
-t("but nobody knew why #sex# suddenly became evil", "but nobody knew why #sex# suddenly became evil", "_t")
-t("#LIGHT_BLUE#Killing your own future self does feel weird, but you know that you can avoid this future. Just do not time travel.", "#LIGHT_BLUE#Killing your own future self does feel weird, but you know that you can avoid this future. Just do not time travel.", "logSeen")
-t("Meet the guardian!", "Meet the guardian!", "_t")
-t("#LIGHT_BLUE#Your future self kills you! The timestreams are broken by the paradox!", "#LIGHT_BLUE#Your future self kills you! The timestreams are broken by the paradox!", "logSeen")
-t("#LIGHT_BLUE#All those events never happened. Except they did, somewhen.", "#LIGHT_BLUE#All those events never happened. Except they did, somewhen.", "logSeen")
-t("This rift in time has been created by the paradox. You dare not enter it; it could make things worse. Another Warden will have to fix your mess.", "This rift in time has been created by the paradox. You dare not enter it; it could make things worse. Another Warden will have to fix your mess.", "log")
+t("The Way We Weren't", "La forma en que no estábamos", "_t")
+t("%s the Paradox Mage", " PH0    El mensaje paradoja", "tformat")
+t("A later (less fortunate?) version of %s, possibly going mad.", "Una versión posterior (¿menos afortunado?) de   PH0  , posiblemente enloqueciendo.", "tformat")
+t("but nobody knew why #sex# suddenly became evil", "pero nadie sabía por qué el sexo de repente se convirtió en mal", "_t")
+t("#LIGHT_BLUE#Killing your own future self does feel weird, but you know that you can avoid this future. Just do not time travel.", "#LIGHT BLUE #Killing your own future self does feel rare, but you know that you can avoid this future. No viajes en el tiempo.", "logSeen")
+t("Meet the guardian!", "¡Conoce al tutor!", "_t")
+t("#LIGHT_BLUE#Your future self kills you! The timestreams are broken by the paradox!", "Tu futuro yo te mata. ¡Los tiempos son rotos por la paradoja!", "logSeen")
+t("#LIGHT_BLUE#All those events never happened. Except they did, somewhen.", "#LIGHT BLUE #Todos esos eventos nunca han pasado. Excepto que lo hicieron, algún día.", "logSeen")
+t("This rift in time has been created by the paradox. You dare not enter it; it could make things worse. Another Warden will have to fix your mess.", "Este rift en el tiempo ha sido creado por la paradoja. No te atrevas a entrar en ella; podría empeorar las cosas. Otro guardia tendrá que arreglar su desastre.", "log")
 --]==]
 
 ------------------------------------------------
@@ -27822,11 +27821,11 @@ section "mod-tome/data/quests/pre-charred-scar.lua"
 
 -- new text
 --[==[
-t("Important news", "Important news", "_t")
-t("Orcs were spotted with the staff you seek in an arid waste in the southern desert.", "Orcs were spotted with the staff you seek in an arid waste in the southern desert.", "_t")
-t("You should go investigate what is happening there.", "You should go investigate what is happening there.", "_t")
+t("Important news", "Importantes noticias", "_t")
+t("Orcs were spotted with the staff you seek in an arid waste in the southern desert.", "Los orcos fueron vistos con el personal que busca en un desperdicio árido en el desierto meridional.", "_t")
+t("You should go investigate what is happening there.", "Deberías ir a investigar lo que está pasando ahí.", "_t")
 t("High Sun Paladin Aeryn", "High Sun Paladin Aeryn", "_t")
-t("Aeryn explained where the orcs were spotted.", "Aeryn explained where the orcs were spotted.", "logPlayer")
+t("Aeryn explained where the orcs were spotted.", "Aeryn explicó dónde se vieron los orcos.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27835,7 +27834,7 @@ section "mod-tome/data/quests/rel-tunnel.lua"
 
 -- new text
 --[==[
-t("Light at the end of the tunnel", "Light at the end of the tunnel", "_t")
+t("Light at the end of the tunnel", "Luz al final del túnel", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27844,18 +27843,17 @@ section "mod-tome/data/quests/ring-of-blood.lua"
 
 -- new text
 --[==[
-t("Till the Blood Runs Clear", "Till the Blood Runs Clear", "_t")
-t("You have found a slavers' compound and entered it.", "You have found a slavers' compound and entered it.", "_t")
+t("Till the Blood Runs Clear", "Hasta que la sangre se despeja", "_t")
+t("You have found a slavers' compound and entered it.", "Has encontrado un compuesto de esclavistas y lo has entrado.", "_t")
 t("", "", "_t")
-t("You decided to join the slavers and take part in their game. You won the ring of blood!", "You decided to join the slavers and take part in their game. You won the ring of blood!", "_t")
-t("You decided you cannot let slavers continue their dirty work and destroyed them!", "You decided you cannot let slavers continue their dirty work and destroyed them!", "_t")
-t("The orb seems to fizzle without the Blood Master.", "The orb seems to fizzle without the Blood Master.", "log")
-t("%s's slave", "%s's slave", "tformat")
-t("#CRIMSON#The crowd yells: 'LOSER!'", "#CRIMSON#The crowd yells: 'LOSER!'", "log")
-t("#LIGHT_GREEN#As you touch the orb your will fills the slave's body. You take full control of his actions!", "#LIGHT_GREEN#As you touch the orb your will fills the slave's body. You take full control of his actions!", "log")
-t("#CRIMSON#A new foe appears in the ring of blood!", "#CRIMSON#A new foe appears in the ring of blood!", "log")
-t("#CRIMSON#The crowd yells: 'BLOOOODDD!'", "#CRIMSON#The crowd yells: 'BLOOOODDD!'", "log")
-t("#LIGHT_BLUE#The Blood Master hands you the %s.", "#LIGHT_BLUE#The Blood Master hands you the %s.", "logPlayer")
+t("You decided to join the slavers and take part in their game. You won the ring of blood!", "Usted decidió unirse a los esclavistas y participar en su juego. ¡Has ganado el anillo de sangre!", "_t")
+t("You decided you cannot let slavers continue their dirty work and destroyed them!", "¡Decidiste que no podías dejar que los esclavos continuaran su trabajo sucio y destruirlos!", "_t")
+t("The orb seems to fizzle without the Blood Master.", "El orbe parece brillar sin el Maestro de la Sangre.", "log")
+t("%s's slave", "Esclava", "tformat")
+t("#CRIMSON#The crowd yells: 'LOSER!'", "#CRIMSON# La multitud grita: 'LOSER'", "log")
+t("#LIGHT_GREEN#As you touch the orb your will fills the slave's body. You take full control of his actions!", "#LIGHT GREEN# Mientras tocas el orbe tu voluntad llena el cuerpo del esclavo. ¡Tomas todo el control de sus acciones!", "log")
+t("#CRIMSON#A new foe appears in the ring of blood!", "¡Un nuevo enemigo aparece en el anillo de sangre!", "log")
+t("#LIGHT_BLUE#The Blood Master hands you the %s.", "#LIGHT BLUE#The Blood Master te da el   PH0   .", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27865,31 +27863,31 @@ section "mod-tome/data/quests/shertul-fortress.lua"
 -- new text
 --[==[
 t("Sher'Tul Fortress", "Fortaleza Sher'Tul", "_t")
-t("You found notes from an explorer inside the Old Forest. He spoke about Sher'Tul ruins sunken below the surface of the lake of Nur, at the forest's center.", "You found notes from an explorer inside the Old Forest. He spoke about Sher'Tul ruins sunken below the surface of the lake of Nur, at the forest's center.", "_t")
-t("With one of the notes there was a small gem that looks like a key.", "With one of the notes there was a small gem that looks like a key.", "_t")
-t("#LIGHT_GREEN#* You used the key inside the ruins of Nur and found a way into the fortress of old.#WHITE#", "#LIGHT_GREEN#* You used the key inside the ruins of Nur and found a way into the fortress of old.#WHITE#", "_t")
-t("#LIGHT_GREEN#* The Weirdling Beast is dead, freeing the way into the fortress itself.#WHITE#", "#LIGHT_GREEN#* The Weirdling Beast is dead, freeing the way into the fortress itself.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have activated what seems to be a ... butler? with your rod of recall.#WHITE#", "#LIGHT_GREEN#* You have activated what seems to be a ... butler? with your rod of recall.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have bound the transmogrification chest to the Fortress power system.#WHITE#", "#LIGHT_GREEN#* You have bound the transmogrification chest to the Fortress power system.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have upgraded the transmogrification chest to automatically transmute metallic items into gems before transmogrifying them.#WHITE#", "#LIGHT_GREEN#* You have upgraded the transmogrification chest to automatically transmute metallic items into gems before transmogrifying them.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have unlocked the training room.#WHITE#", "#LIGHT_GREEN#* You have unlocked the training room.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have unlocked the hall of reflections.#WHITE#", "#LIGHT_GREEN#* You have unlocked the hall of reflections.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have upgraded your rod of recall to transport you to the fortress.#WHITE#", "#LIGHT_GREEN#* You have upgraded your rod of recall to transport you to the fortress.#WHITE#", "_t")
-t("#SLATE#* The fortress shadow has asked that you come back as soon as possible.#WHITE#", "#SLATE#* The fortress shadow has asked that you come back as soon as possible.#WHITE#", "_t")
-t("#RED#* You have forced a recall while in an exploratory farportal zone. The farportal was rendered unusable in the process.#WHITE#", "#RED#* You have forced a recall while in an exploratory farportal zone. The farportal was rendered unusable in the process.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have entered the exploratory farportal room and defeated the horror lurking there. You can now use the farportal.#WHITE#", "#LIGHT_GREEN#* You have entered the exploratory farportal room and defeated the horror lurking there. You can now use the farportal.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have re-enabled the fortress flight systems. You can now fly around in your fortress!#WHITE#", "#LIGHT_GREEN#* You have re-enabled the fortress flight systems. You can now fly around in your fortress!#WHITE#", "_t")
-t("#SLATE#* The fortress shadow has asked that you find an Ancient Storm Sapphire, along with at least 250 energy, to re-enable the fortress flight systems.#WHITE#", "#SLATE#* The fortress shadow has asked that you find an Ancient Storm Sapphire, along with at least 250 energy, to re-enable the fortress flight systems.#WHITE#", "_t")
+t("You found notes from an explorer inside the Old Forest. He spoke about Sher'Tul ruins sunken below the surface of the lake of Nur, at the forest's center.", "Usted encontró notas de un explorador dentro del Bosque Antiguo. Habló sobre las ruinas de Sher'Tul hundidas debajo de la superficie del lago de Nur, en el centro del bosque.", "_t")
+t("With one of the notes there was a small gem that looks like a key.", "Con una de las notas había una pequeña gema que parece una llave.", "_t")
+t("#LIGHT_GREEN#* You used the key inside the ruins of Nur and found a way into the fortress of old.#WHITE#", "#LIGHT GREEN#* Usaste la llave dentro de las ruinas de Nur y encontraste una forma de entrar en la fortaleza vieja. #WHITE#", "_t")
+t("#LIGHT_GREEN#* The Weirdling Beast is dead, freeing the way into the fortress itself.#WHITE#", "#LIGHT GREEN#* La Bestia Weirdling está muerta, liberando el camino hacia la fortaleza misma. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have activated what seems to be a ... butler? with your rod of recall.#WHITE#", "¿Has activado lo que parece ser un mayordomo? con tu vara de memoria. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have bound the transmogrification chest to the Fortress power system.#WHITE#", "#LIGHT GREEN # Has atado el pecho de transmogrificación al sistema de potencia de Fortaleza. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have upgraded the transmogrification chest to automatically transmute metallic items into gems before transmogrifying them.#WHITE#", "#LIGHT GREEN # Usted ha actualizado el pecho de transmogrificación para transmutar automáticamente artículos metálicos en gemas antes de transmogrificarlos. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have unlocked the training room.#WHITE#", "Has desbloqueado la sala de entrenamiento. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have unlocked the hall of reflections.#WHITE#", "#LIGHT GREEN # Has desbloqueado el pasillo de las reflexiones. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have upgraded your rod of recall to transport you to the fortress.#WHITE#", "#LIGHT GREEN # Usted ha actualizado su vara de recuerdo para transportarlo a la fortaleza. #WHITE#", "_t")
+t("#SLATE#* The fortress shadow has asked that you come back as soon as possible.#WHITE#", "SLATE# La sombra de la fortaleza ha pedido que vuelvas lo antes posible. #WHITE#", "_t")
+t("#RED#* You have forced a recall while in an exploratory farportal zone. The farportal was rendered unusable in the process.#WHITE#", "#RED# Has forzado un recuerdo mientras estás en una zona lumbar exploratoria. The farportal was rendered unusable in the process. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have entered the exploratory farportal room and defeated the horror lurking there. You can now use the farportal.#WHITE#", "#LIGHT GREEN # Usted ha entrado en la sala de exploración farportal y derrotado el horror que se acecha allí. Ahora puedes usar el farportal. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have re-enabled the fortress flight systems. You can now fly around in your fortress!#WHITE#", "#LIGHT GREEN#* Has vuelto a habilitar los sistemas de vuelo de la fortaleza. ¡Ahora puedes volar en tu fortaleza! #WHITE#", "_t")
+t("#SLATE#* The fortress shadow has asked that you find an Ancient Storm Sapphire, along with at least 250 energy, to re-enable the fortress flight systems.#WHITE#", "SLATE# La sombra de la fortaleza ha pedido que encuentres un zafiro de la tormenta antigua, junto con al menos 250 energía, para volver a habilitar los sistemas de vuelo de la fortaleza. #WHITE#", "_t")
 t("\
 The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "\
 The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "tformat")
-t("Fortress Shadow", "Fortress Shadow", "_t")
-t("Master, you have sent enough energy to improve your rod of recall. Please return to the fortress.", "Master, you have sent enough energy to improve your rod of recall. Please return to the fortress.", "_t")
-t("The energy is too low. It needs to be at least 15.", "The energy is too low. It needs to be at least 15.", "_t")
-t("#VIOLET#Your rod of recall glows brightly for a moment.", "#VIOLET#Your rod of recall glows brightly for a moment.", "log")
-t("The energy is too low. It needs to be at least 25.", "The energy is too low. It needs to be at least 25.", "_t")
-t("#VIOLET#Your transmogrification chest glows brightly for a moment.", "#VIOLET#Your transmogrification chest glows brightly for a moment.", "log")
-t("The fortress is not found!", "The fortress is not found!", "log")
+t("Fortress Shadow", "Fortaleza Sombra", "_t")
+t("Master, you have sent enough energy to improve your rod of recall. Please return to the fortress.", "Maestro, has enviado suficiente energía para mejorar tu vara de memoria. Por favor, regresa a la fortaleza.", "_t")
+t("The energy is too low. It needs to be at least 15.", "La energía es demasiado baja. Tiene que ser por lo menos 15.", "_t")
+t("#VIOLET#Your rod of recall glows brightly for a moment.", "#VIOLET# Tu vara de memoria brilla brillantemente por un momento.", "log")
+t("The energy is too low. It needs to be at least 25.", "La energía es demasiado baja. Tiene que ser al menos 25 años.", "_t")
+t("#VIOLET#Your transmogrification chest glows brightly for a moment.", "#VIOLET# Tu pecho de transmogrificación brilla brillantemente por un momento.", "log")
+t("The fortress is not found!", "¡La fortaleza no se encuentra!", "log")
 --]==]
 
 ------------------------------------------------
@@ -27898,13 +27896,13 @@ section "mod-tome/data/quests/spydric-infestation.lua"
 
 -- new text
 --[==[
-t("Eight legs of wonder", "Eight legs of wonder", "_t")
-t("Enter the caverns of Ardhungol and look for Sun Paladin Rashim.", "Enter the caverns of Ardhungol and look for Sun Paladin Rashim.", "_t")
-t("But be careful; those are not small spiders...", "But be careful; those are not small spiders...", "_t")
-t("#LIGHT_GREEN#You have killed Ungolë in Ardhungol and saved the Sun Paladin.", "#LIGHT_GREEN#You have killed Ungolë in Ardhungol and saved the Sun Paladin.", "_t")
-t("She marks the location of Ardhungol on your map.", "She marks the location of Ardhungol on your map.", "logPlayer")
-t("Portal back to the Gates of Morning", "Portal back to the Gates of Morning", "_t")
-t("A portal appears right under you, and Rashim rushes through.", "A portal appears right under you, and Rashim rushes through.", "logPlayer")
+t("Eight legs of wonder", "Ocho piernas de maravilla", "_t")
+t("Enter the caverns of Ardhungol and look for Sun Paladin Rashim.", "Entra en las cavernas de Ardhungol y busca Sun Paladin Rashim.", "_t")
+t("But be careful; those are not small spiders...", "Pero ten cuidado; esas no son pequeñas arañas...", "_t")
+t("#LIGHT_GREEN#You have killed Ungolë in Ardhungol and saved the Sun Paladin.", "Has matado a Ungolë en Ardhungol y salvado al Sun Paladin.", "_t")
+t("She marks the location of Ardhungol on your map.", "Ella marca la ubicación de Ardhungol en su mapa.", "logPlayer")
+t("Portal back to the Gates of Morning", "Portal de vuelta a las puertas de la mañana", "_t")
+t("A portal appears right under you, and Rashim rushes through.", "Un portal aparece justo debajo de ti, y Rashim se apresura.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -27913,21 +27911,21 @@ section "mod-tome/data/quests/staff-absorption.lua"
 
 -- new text
 --[==[
-t("A mysterious staff", "A mysterious staff", "_t")
-t("Deep in the Dreadfell you fought and destroyed the Master, a powerful vampire.", "Deep in the Dreadfell you fought and destroyed the Master, a powerful vampire.", "_t")
-t("On your way out of the Dreadfell you were ambushed by a band of orcs.", "On your way out of the Dreadfell you were ambushed by a band of orcs.", "_t")
-t("They asked about the staff.", "They asked about the staff.", "_t")
-t("On your way out of the Dreadfell you were ambushed by a band of orcs and left for dead.", "On your way out of the Dreadfell you were ambushed by a band of orcs and left for dead.", "_t")
-t("They asked about the staff and stole it from you.", "They asked about the staff and stole it from you.", "_t")
-t("#LIGHT_GREEN#Go at once to Last Hope to report those events!", "#LIGHT_GREEN#Go at once to Last Hope to report those events!", "_t")
-t("You told them nothing and vanquished them.", "You told them nothing and vanquished them.", "_t")
-t("In its remains, you found a strange staff. It radiates power and danger and you dare not use it yourself.", "In its remains, you found a strange staff. It radiates power and danger and you dare not use it yourself.", "_t")
-t("You should bring it to the elders of Last Hope in the southeast.", "You should bring it to the elders of Last Hope in the southeast.", "_t")
-t("#00FFFF#You can feel the power of this staff just by carrying it. This is both ancient and dangerous.", "#00FFFF#You can feel the power of this staff just by carrying it. This is both ancient and dangerous.", "logPlayer")
-t("#00FFFF#It should be shown to the wise elders in Last Hope!", "#00FFFF#It should be shown to the wise elders in Last Hope!", "logPlayer")
-t("#VIOLET#As you come out of the Dreadfell, you encounter a band of orcs!", "#VIOLET#As you come out of the Dreadfell, you encounter a band of orcs!", "logPlayer")
+t("A mysterious staff", "Un personal misterioso", "_t")
+t("Deep in the Dreadfell you fought and destroyed the Master, a powerful vampire.", "En lo profundo de la Dreadfell luchaste y destruyeste al Maestro, un poderoso vampiro.", "_t")
+t("On your way out of the Dreadfell you were ambushed by a band of orcs.", "Al salir de la Dreadfell fuiste emboscada por una banda de orcos.", "_t")
+t("They asked about the staff.", "Preguntaron por el personal.", "_t")
+t("On your way out of the Dreadfell you were ambushed by a band of orcs and left for dead.", "Al salir de la Dreadfell fuiste emboscada por una banda de orcos y te fuiste por muerto.", "_t")
+t("They asked about the staff and stole it from you.", "Preguntaron por el personal y te lo robaron.", "_t")
+t("#LIGHT_GREEN#Go at once to Last Hope to report those events!", "#LIGHT GREEN #Id inmediatamente a Last Hope a reportar esos eventos!", "_t")
+t("You told them nothing and vanquished them.", "No les dijiste nada y los derrotaste.", "_t")
+t("In its remains, you found a strange staff. It radiates power and danger and you dare not use it yourself.", "En sus restos, encontraste un extraño personal. irradia poder y peligro y no te atrevas a usarlo tú mismo.", "_t")
+t("You should bring it to the elders of Last Hope in the southeast.", "Deberías traerlo a los ancianos de la Última Esperanza en el sureste.", "_t")
+t("#00FFFF#You can feel the power of this staff just by carrying it. This is both ancient and dangerous.", "Puedes sentir el poder de este personal solo por cargarlo. Esto es antiguo y peligroso.", "logPlayer")
+t("#00FFFF#It should be shown to the wise elders in Last Hope!", "¡Debería ser mostrada a los sabios ancianos de la última esperanza!", "logPlayer")
+t("#VIOLET#As you come out of the Dreadfell, you encounter a band of orcs!", "#VIOLET#A medida que sales del Dreadfell, te encuentras con una banda de orcos!", "logPlayer")
 t("Ambush", "Ambush", "_t")
-t("Ukruk the Fierce", "Ukruk the Fierce", "_t")
+t("Ukruk the Fierce", "Ukruk el Fierce", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27936,13 +27934,13 @@ section "mod-tome/data/quests/start-allied.lua"
 
 -- new text
 --[==[
-t("Of trolls and damp caves", "Of trolls and damp caves", "_t")
-t("#LIGHT_GREEN#* You have explored the Trollmire and vanquished Shax the Troll.#WHITE#", "#LIGHT_GREEN#* You have explored the Trollmire and vanquished Shax the Troll.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Trollmire and vanquished Prox the Troll.#WHITE#", "#LIGHT_GREEN#* You have explored the Trollmire and vanquished Prox the Troll.#WHITE#", "_t")
-t("#SLATE#* You must explore the Trollmire and find out what lurks there and what treasures are to be gained!#WHITE#", "#SLATE#* You must explore the Trollmire and find out what lurks there and what treasures are to be gained!#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the ruins of Kor'Pul and vanquished the Possessed.#WHITE#", "#LIGHT_GREEN#* You have explored the ruins of Kor'Pul and vanquished the Possessed.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the ruins of Kor'Pul and vanquished the Shade.#WHITE#", "#LIGHT_GREEN#* You have explored the ruins of Kor'Pul and vanquished the Shade.#WHITE#", "_t")
-t("#SLATE#* You must explore the ruins of Kor'Pul and find out what lurks there and what treasures are to be gained!#WHITE#", "#SLATE#* You must explore the ruins of Kor'Pul and find out what lurks there and what treasures are to be gained!#WHITE#", "_t")
+t("Of trolls and damp caves", "De trolls y cuevas de humedad", "_t")
+t("#LIGHT_GREEN#* You have explored the Trollmire and vanquished Shax the Troll.#WHITE#", "#LIGHT GREEN#* Has explorado el Trollmire y derrotado a Shax el Troll", "_t")
+t("#LIGHT_GREEN#* You have explored the Trollmire and vanquished Prox the Troll.#WHITE#", "#LIGHT GREEN # Has explorado el Trollmire y derrotado a Prox el Troll. #WHITE#", "_t")
+t("#SLATE#* You must explore the Trollmire and find out what lurks there and what treasures are to be gained!#WHITE#", "SLATE# Usted debe explorar el Trollmire y descubrir qué se esconde allí y qué tesoros se van a ganar! #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the ruins of Kor'Pul and vanquished the Possessed.#WHITE#", "#LIGHT GREEN#* Has explorado las ruinas de Kor'Pul y derrotado a los Possessed. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the ruins of Kor'Pul and vanquished the Shade.#WHITE#", "#LIGHT GREEN # Has explorado las ruinas de Kor'Pul y derrotado a la Shade. #WHITE#", "_t")
+t("#SLATE#* You must explore the ruins of Kor'Pul and find out what lurks there and what treasures are to be gained!#WHITE#", "#SLATE#* Usted debe explorar las ruinas de Kor'Pul y descubrir qué se esconde allí y qué tesoros se van a ganar! #WHITE#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27952,8 +27950,8 @@ section "mod-tome/data/quests/start-archmage.lua"
 -- new text
 --[==[
 t("Spellblaze Fallouts", "Spellblaze Fallouts", "_t")
-t("#LIGHT_GREEN#* You have explored the expanse and closed all three wormholes.#WHITE#", "#LIGHT_GREEN#* You have explored the expanse and closed all three wormholes.#WHITE#", "_t")
-t("#SLATE#* You have closed %s wormhole(s).#WHITE#", "#SLATE#* You have closed %s wormhole(s).#WHITE#", "tformat")
+t("#LIGHT_GREEN#* You have explored the expanse and closed all three wormholes.#WHITE#", "#LIGHT GREEN # Has explorado la extensión y cerrado los tres agujeros de gusano. #WHITE#", "_t")
+t("#SLATE#* You have closed %s wormhole(s).#WHITE#", "#SLATE#* You have closed   PH0    gusanohole(s).#WHITE#", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -27962,12 +27960,12 @@ section "mod-tome/data/quests/start-dwarf.lua"
 
 -- new text
 --[==[
-t("Reknor is lost!", "Reknor is lost!", "_t")
-t("You were part of a group of dwarves sent to investigate the situation of the kingdom of Reknor.", "You were part of a group of dwarves sent to investigate the situation of the kingdom of Reknor.", "_t")
-t("When you arrived there you found nothing but orcs, well organized and very powerful.", "When you arrived there you found nothing but orcs, well organized and very powerful.", "_t")
-t("Most of your team was killed there and now you and Norgan (the sole survivor besides you) must hurry back to the Iron Council to bring the news.", "Most of your team was killed there and now you and Norgan (the sole survivor besides you) must hurry back to the Iron Council to bring the news.", "_t")
-t("Let nothing stop you.", "Let nothing stop you.", "_t")
-t("Both Norgan and you made it home.", "Both Norgan and you made it home.", "_t")
+t("Reknor is lost!", "¡Reknor está perdido!", "_t")
+t("You were part of a group of dwarves sent to investigate the situation of the kingdom of Reknor.", "Fuiste parte de un grupo de enanos enviados para investigar la situación del reino de Reknor.", "_t")
+t("When you arrived there you found nothing but orcs, well organized and very powerful.", "Cuando llegaste allí no encontraste más que orcos, bien organizados y muy poderosos.", "_t")
+t("Most of your team was killed there and now you and Norgan (the sole survivor besides you) must hurry back to the Iron Council to bring the news.", "La mayoría de su equipo fue asesinado allí y ahora usted y Norgan (el único sobreviviente aparte de usted) deben apresurarse a volver al Consejo de Hierro para traer las noticias.", "_t")
+t("Let nothing stop you.", "No dejes que nada te pare.", "_t")
+t("Both Norgan and you made it home.", "Tanto Norgan como tú llegaste a casa.", "_t")
 t("Norgan", "Norgan", "_t")
 --]==]
 
@@ -27977,12 +27975,11 @@ section "mod-tome/data/quests/start-point-zero.lua"
 
 -- new text
 --[==[
-t("Future Echoes", "Future Echoes", "_t")
-t("The unhallowed morass is the name of the 'zone' surrounding Point Zero.", "The unhallowed morass is the name of the 'zone' surrounding Point Zero.", "_t")
-t("The temporal spiders that inhabit it are growing restless and started attacking at random. You need to investigate what is going on.", "The temporal spiders that inhabit it are growing restless and started attacking at random. You need to investigate what is going on.", "_t")
-t("#LIGHT_GREEN#* You have explored the morass and destroyed the weaver queen, finding strange traces on it.#WHITE#", "#LIGHT_GREEN#* You have explored the morass and destroyed the weaver queen, finding strange traces on it.#WHITE#", "_t")
-t("#SLATE#* You must explore the morass.#WHITE#", "#SLATE#* You must explore the morass.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have helped defend Point Zero.#WHITE#", "#LIGHT_GREEN#* You have helped defend Point Zero.#WHITE#", "_t")
+t("Future Echoes", "Futuros Ecos", "_t")
+t("The temporal spiders that inhabit it are growing restless and started attacking at random. You need to investigate what is going on.", "Las arañas temporales que la habitan están creciendo inquietos y comenzaron a atacar al azar. Necesitas investigar lo que está pasando.", "_t")
+t("#LIGHT_GREEN#* You have explored the morass and destroyed the weaver queen, finding strange traces on it.#WHITE#", "#LIGHT GREEN # Has explorado el morass y destruido a la reina del tejedor, encontrando rastros extraños en él. #WHITE#", "_t")
+t("#SLATE#* You must explore the morass.#WHITE#", "#SLATE#* Debes explorar la mañana. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have helped defend Point Zero.#WHITE#", "#LIGHT GREEN # Has ayudado a defender a Point Zero", "_t")
 --]==]
 
 ------------------------------------------------
@@ -27991,11 +27988,11 @@ section "mod-tome/data/quests/start-shaloren.lua"
 
 -- new text
 --[==[
-t("Echoes of the Spellblaze", "Echoes of the Spellblaze", "_t")
-t("#LIGHT_GREEN#* You have explored the scintillating caves and destroyed the Spellblaze Crystal.#WHITE#", "#LIGHT_GREEN#* You have explored the scintillating caves and destroyed the Spellblaze Crystal.#WHITE#", "_t")
-t("#SLATE#* You must explore the scintillating caves.#WHITE#", "#SLATE#* You must explore the scintillating caves.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Rhaloren camp and killed the Inquisitor.#WHITE#", "#LIGHT_GREEN#* You have explored the Rhaloren camp and killed the Inquisitor.#WHITE#", "_t")
-t("#SLATE#* You must explore the renegade Shaloren camp.#WHITE#", "#SLATE#* You must explore the renegade Shaloren camp.#WHITE#", "_t")
+t("Echoes of the Spellblaze", "Ecos del Spellblaze", "_t")
+t("#LIGHT_GREEN#* You have explored the scintillating caves and destroyed the Spellblaze Crystal.#WHITE#", "#LIGHT GREEN # Has explorado las cuevas desgarradoras y destruido el Cristal Spellblaze. #WHITE#", "_t")
+t("#SLATE#* You must explore the scintillating caves.#WHITE#", "#SLATE#* Usted debe explorar las cuevas centelleantes. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the Rhaloren camp and killed the Inquisitor.#WHITE#", "#LIGHT GREEN#* Has explorado el campamento de Rhaloren y matado al Inquisidor. #WHITE#", "_t")
+t("#SLATE#* You must explore the renegade Shaloren camp.#WHITE#", "#SLATE#* Debes explorar el renegado campamento Shaloren. #WHITE#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28004,11 +28001,11 @@ section "mod-tome/data/quests/start-sunwall.lua"
 
 -- new text
 --[==[
-t("Serpentine Invaders", "Serpentine Invaders", "_t")
-t("#LIGHT_GREEN#* You have destroyed the naga portal. The invasion is stopped.#WHITE#", "#LIGHT_GREEN#* You have destroyed the naga portal. The invasion is stopped.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You are back in Var'Eyal, the Far East as the people from the west call it.#WHITE#", "#LIGHT_GREEN#* You are back in Var'Eyal, the Far East as the people from the west call it.#WHITE#", "_t")
-t("#SLATE#* However, you were teleported to a distant land. You must find a way back to the Gates of Morning.#WHITE#", "#SLATE#* However, you were teleported to a distant land. You must find a way back to the Gates of Morning.#WHITE#", "_t")
-t("#SLATE#* You must stop the nagas.#WHITE#", "#SLATE#* You must stop the nagas.#WHITE#", "_t")
+t("Serpentine Invaders", "Invasores de serpentina", "_t")
+t("#LIGHT_GREEN#* You have destroyed the naga portal. The invasion is stopped.#WHITE#", "Has destruido el portal de naga. La invasión se detuvo. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You are back in Var'Eyal, the Far East as the people from the west call it.#WHITE#", "#LIGHT GREEN # Estás de vuelta en Var'Eyal, el Lejano Oriente como la gente del oeste lo llama. #WHITE#", "_t")
+t("#SLATE#* However, you were teleported to a distant land. You must find a way back to the Gates of Morning.#WHITE#", "#SLATE#* Sin embargo, fuiste teletransportado a una tierra distante. Debes encontrar un camino de regreso a las puertas de la mañana. #WHITE#", "_t")
+t("#SLATE#* You must stop the nagas.#WHITE#", "Debes detener las nagas. #WHITE#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28017,13 +28014,13 @@ section "mod-tome/data/quests/start-thaloren.lua"
 
 -- new text
 --[==[
-t("Madness of the Ages", "Madness of the Ages", "_t")
-t("#LIGHT_GREEN#* You have explored Norgos' Lair and stopped the shivgoroth invasion.#WHITE#", "#LIGHT_GREEN#* You have explored Norgos' Lair and stopped the shivgoroth invasion.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored Norgos' Lair and put it to rest.#WHITE#", "#LIGHT_GREEN#* You have explored Norgos' Lair and put it to rest.#WHITE#", "_t")
-t("#SLATE#* You must explore Norgos' Lair.#WHITE#", "#SLATE#* You must explore Norgos' Lair.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Heart of the Gloom and slain the Dreaming One.#WHITE#", "#LIGHT_GREEN#* You have explored the Heart of the Gloom and slain the Dreaming One.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Heart of the Gloom and slain the Withering Thing.#WHITE#", "#LIGHT_GREEN#* You have explored the Heart of the Gloom and slain the Withering Thing.#WHITE#", "_t")
-t("#SLATE#* You must explore the Heart of the Gloom.#WHITE#", "#SLATE#* You must explore the Heart of the Gloom.#WHITE#", "_t")
+t("Madness of the Ages", "Locura de la Edad", "_t")
+t("#LIGHT_GREEN#* You have explored Norgos' Lair and stopped the shivgoroth invasion.#WHITE#", "#LIGHT GREEN # Has explorado el Lair de Norgos y has detenido la invasión de la shivgoroth. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored Norgos' Lair and put it to rest.#WHITE#", "#LIGHT GREEN # Has explorado el Lair de Norgos y lo has puesto para descansar. #WHITE#", "_t")
+t("#SLATE#* You must explore Norgos' Lair.#WHITE#", "Debes explorar el Lair de Norgos", "_t")
+t("#LIGHT_GREEN#* You have explored the Heart of the Gloom and slain the Dreaming One.#WHITE#", "#LIGHT GREEN#* Has explorado el Corazón del Gloom y matado al Soñador", "_t")
+t("#LIGHT_GREEN#* You have explored the Heart of the Gloom and slain the Withering Thing.#WHITE#", "#LIGHT GREEN#* Has explorado el Corazón de la Gloom y matado al Tinte Perdurante. #WHITE#", "_t")
+t("#SLATE#* You must explore the Heart of the Gloom.#WHITE#", "#SLATE#* Usted debe explorar el Corazón del Gloom. #WHITE#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28032,10 +28029,10 @@ section "mod-tome/data/quests/start-undead.lua"
 
 -- new text
 --[==[
-t("The rotting stench of the dead", "The rotting stench of the dead", "_t")
-t("You have been resurrected as an undead by some dark powers.", "You have been resurrected as an undead by some dark powers.", "_t")
-t("However, the ritual failed in some way and you retain your own mind. You need to get out of this dark place and try to carve a place for yourself in the world.", "However, the ritual failed in some way and you retain your own mind. You need to get out of this dark place and try to carve a place for yourself in the world.", "_t")
-t("You have found a very special cloak that will help you walk among the living without trouble.", "You have found a very special cloak that will help you walk among the living without trouble.", "_t")
+t("The rotting stench of the dead", "El olor de los muertos", "_t")
+t("You have been resurrected as an undead by some dark powers.", "Has sido resucitado como un no muerto por algunos poderes oscuros.", "_t")
+t("However, the ritual failed in some way and you retain your own mind. You need to get out of this dark place and try to carve a place for yourself in the world.", "Sin embargo, el ritual falló de alguna manera y conservas tu propia mente. Necesitas salir de este lugar oscuro y tratar de tener un lugar para ti mismo en el mundo.", "_t")
+t("You have found a very special cloak that will help you walk among the living without trouble.", "Has encontrado un manto muy especial que te ayudará a caminar entre los vivos sin problemas.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28044,13 +28041,13 @@ section "mod-tome/data/quests/start-yeek.lua"
 
 -- new text
 --[==[
-t("Following The Way", "Following The Way", "_t")
-t("#LIGHT_GREEN#* You have explored the underwater zone and vanquished the naga invader, Lady Nashva.#WHITE#", "#LIGHT_GREEN#* You have explored the underwater zone and vanquished the naga invader, Lady Nashva.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the underwater zone and vanquished Murgol.#WHITE#", "#LIGHT_GREEN#* You have explored the underwater zone and vanquished Murgol.#WHITE#", "_t")
-t("#SLATE#* You must explore the underwater lair of Murgol.#WHITE#", "#SLATE#* You must explore the underwater lair of Murgol.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the ritch tunnels and vanquished their queen.#WHITE#", "#LIGHT_GREEN#* You have explored the ritch tunnels and vanquished their queen.#WHITE#", "_t")
-t("#SLATE#* You must explore the ritch tunnels.#WHITE#", "#SLATE#* You must explore the ritch tunnels.#WHITE#", "_t")
-t("You should head to the tunnel to Maj'Eyal and explore the world. For the Way.", "You should head to the tunnel to Maj'Eyal and explore the world. For the Way.", "logPlayer")
+t("Following The Way", "Siguiendo el camino", "_t")
+t("#LIGHT_GREEN#* You have explored the underwater zone and vanquished the naga invader, Lady Nashva.#WHITE#", "#LIGHT GREEN # Has explorado la zona submarina y vencido al invasor de naga, Lady Nashva. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the underwater zone and vanquished Murgol.#WHITE#", "#LIGHT GREEN#* Has explorado la zona submarina y derrotado a Murgol. #WHITE#", "_t")
+t("#SLATE#* You must explore the underwater lair of Murgol.#WHITE#", "#SLATE#* Usted debe explorar la guarida submarina de Murgol. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the ritch tunnels and vanquished their queen.#WHITE#", "#LIGHT GREEN # Has explorado los túneles de ritch y vencido a su reina. #WHITE#", "_t")
+t("#SLATE#* You must explore the ritch tunnels.#WHITE#", "#SLATE#* Debes explorar los túneles de ritch. #WHITE#", "_t")
+t("You should head to the tunnel to Maj'Eyal and explore the world. For the Way.", "Deberías ir al túnel a Maj'Eyal y explorar el mundo. Por el camino.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -28059,23 +28056,23 @@ section "mod-tome/data/quests/starter-zones.lua"
 
 -- new text
 --[==[
-t("Into the darkness", "Into the darkness", "_t")
-t("It is time to explore some new places -- dark, forgotten and dangerous ones.", "It is time to explore some new places -- dark, forgotten and dangerous ones.", "_t")
-t("The Old Forest is just south-east of the town of Derth.", "The Old Forest is just south-east of the town of Derth.", "_t")
-t("The Maze is west of Derth.", "The Maze is west of Derth.", "_t")
-t("The Sandworm Lair is to the far west of Derth, near the sea.", "The Sandworm Lair is to the far west of Derth, near the sea.", "_t")
-t("The Daikara is on the eastern borders of the Thaloren forest.", "The Daikara is on the eastern borders of the Thaloren forest.", "_t")
-t("#LIGHT_GREEN#* You have explored the Old Forest and vanquished Shardskin.#WHITE#", "#LIGHT_GREEN#* You have explored the Old Forest and vanquished Shardskin.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Old Forest and vanquished Wrathroot.#WHITE#", "#LIGHT_GREEN#* You have explored the Old Forest and vanquished Wrathroot.#WHITE#", "_t")
-t("#SLATE#* You must explore the Old Forest and find out what lurks there and what treasures are to be gained!#WHITE#", "#SLATE#* You must explore the Old Forest and find out what lurks there and what treasures are to be gained!#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Maze and vanquished the Horned Horror.#WHITE#", "#LIGHT_GREEN#* You have explored the Maze and vanquished the Horned Horror.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Maze and vanquished the Minotaur.#WHITE#", "#LIGHT_GREEN#* You have explored the Maze and vanquished the Minotaur.#WHITE#", "_t")
-t("#SLATE#* You must explore the Maze and find out what lurks there and what treasures are to be gained!#WHITE#", "#SLATE#* You must explore the Maze and find out what lurks there and what treasures are to be gained!#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Sandworm Lair and vanquished their Queen.#WHITE#", "#LIGHT_GREEN#* You have explored the Sandworm Lair and vanquished their Queen.#WHITE#", "_t")
-t("#SLATE#* You must explore the Sandworm Lair and find out what lurks there and what treasures are to be gained!#WHITE#", "#SLATE#* You must explore the Sandworm Lair and find out what lurks there and what treasures are to be gained!#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Daikara and vanquished the huge fire dragon that dwelled there.#WHITE#", "#LIGHT_GREEN#* You have explored the Daikara and vanquished the huge fire dragon that dwelled there.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have explored the Daikara and vanquished the huge ice dragon that dwelled there.#WHITE#", "#LIGHT_GREEN#* You have explored the Daikara and vanquished the huge ice dragon that dwelled there.#WHITE#", "_t")
-t("#SLATE#* You must explore the Daikara and find out what lurks there and what treasures are to be gained!#WHITE#", "#SLATE#* You must explore the Daikara and find out what lurks there and what treasures are to be gained!#WHITE#", "_t")
+t("Into the darkness", "En la oscuridad", "_t")
+t("It is time to explore some new places -- dark, forgotten and dangerous ones.", "Es hora de explorar algunos nuevos lugares - oscuros, olvidados y peligrosos.", "_t")
+t("The Old Forest is just south-east of the town of Derth.", "El Bosque Viejo está justo al sureste de la ciudad de Derth.", "_t")
+t("The Maze is west of Derth.", "El laberinto está al oeste de Derth.", "_t")
+t("The Sandworm Lair is to the far west of Derth, near the sea.", "El Sandworm Lair está al extremo oeste de Derth, cerca del mar.", "_t")
+t("The Daikara is on the eastern borders of the Thaloren forest.", "El Daikara está en las fronteras orientales del bosque de Thaloren.", "_t")
+t("#LIGHT_GREEN#* You have explored the Old Forest and vanquished Shardskin.#WHITE#", "#LIGHT GREEN # Has explorado el Bosque Antiguo y derrotado a Shardskin. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the Old Forest and vanquished Wrathroot.#WHITE#", "#LIGHT GREEN#* Has explorado el Bosque Viejo y derrotado a Wrathroot. #WHITE#", "_t")
+t("#SLATE#* You must explore the Old Forest and find out what lurks there and what treasures are to be gained!#WHITE#", "SLATE# Usted debe explorar el Bosque Viejo y descubrir qué se esconde allí y qué tesoros se van a ganar! #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the Maze and vanquished the Horned Horror.#WHITE#", "#LIGHT GREEN#* Has explorado el laberinto y vencido al Horror Horned. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the Maze and vanquished the Minotaur.#WHITE#", "#LIGHT GREEN # Has explorado el laberinto y vencido el Minotauro", "_t")
+t("#SLATE#* You must explore the Maze and find out what lurks there and what treasures are to be gained!#WHITE#", "SLATE# Usted debe explorar el laberinto y descubrir qué se esconde allí y qué tesoros se van a ganar! #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the Sandworm Lair and vanquished their Queen.#WHITE#", "#LIGHT GREEN # Has explorado el Sandworm Lair y vencido a su Reina. #WHITE#", "_t")
+t("#SLATE#* You must explore the Sandworm Lair and find out what lurks there and what treasures are to be gained!#WHITE#", "SLATE# Usted debe explorar el Sandworm Lair y descubrir qué se esconde allí y qué tesoros se van a ganar! #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the Daikara and vanquished the huge fire dragon that dwelled there.#WHITE#", "#LIGHT GREEN # Has explorado el Daikara y derrotado al enorme dragón de fuego que moraba allí. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have explored the Daikara and vanquished the huge ice dragon that dwelled there.#WHITE#", "#LIGHT GREEN # Has explorado el Daikara y vencido al enorme dragón de hielo que moraba allí. #WHITE#", "_t")
+t("#SLATE#* You must explore the Daikara and find out what lurks there and what treasures are to be gained!#WHITE#", "SLATE# Usted debe explorar el Daikara y descubrir qué se esconde allí y qué tesoros se van a ganar! #WHITE#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28084,15 +28081,15 @@ section "mod-tome/data/quests/strange-new-world.lua"
 
 -- new text
 --[==[
-t("Strange new world", "Strange new world", "_t")
-t("You arrived through the farportal in a cave, probably in the Far East.", "You arrived through the farportal in a cave, probably in the Far East.", "_t")
-t("Upon arrival you met an Elf and an orc fighting.", "Upon arrival you met an Elf and an orc fighting.", "_t")
-t("You decided to side with the Elven lady.", "You decided to side with the Elven lady.", "_t")
-t("You decided to side with the orc.", "You decided to side with the orc.", "_t")
-t("Fillarel told you to go to the southeast and meet with High Sun Paladin Aeryn.", "Fillarel told you to go to the southeast and meet with High Sun Paladin Aeryn.", "_t")
-t("Krogar told you to go to the west and look for the Kruk Pride.", "Krogar told you to go to the west and look for the Kruk Pride.", "_t")
-t("%s go to the west, and find Kruk Pride!", "%s go to the west, and find Kruk Pride!", "tformat")
-t("%s go to the southeast, and tell Aeryn what happened to me!", "%s go to the southeast, and tell Aeryn what happened to me!", "tformat")
+t("Strange new world", "Mundo nuevo extraño", "_t")
+t("You arrived through the farportal in a cave, probably in the Far East.", "Llegaste por el faro en una cueva, probablemente en el Lejano Oriente.", "_t")
+t("Upon arrival you met an Elf and an orc fighting.", "A su llegada se encontró con un Elf y un orc peleando.", "_t")
+t("You decided to side with the Elven lady.", "Decidiste acompañar a la señora Elven.", "_t")
+t("You decided to side with the orc.", "Decidiste unirte al orco.", "_t")
+t("Fillarel told you to go to the southeast and meet with High Sun Paladin Aeryn.", "Fillarel te dijo que fueras al sureste y te reunieras con High Sun Paladin Aeryn.", "_t")
+t("Krogar told you to go to the west and look for the Kruk Pride.", "Krogar te dijo que fueras al oeste y buscaras el Kruk Pride.", "_t")
+t("%s go to the west, and find Kruk Pride!", " PH0    ir al oeste, y encontrar Kruk Pride!", "tformat")
+t("%s go to the southeast, and tell Aeryn what happened to me!", " PH0   ir al sureste, y decirle a Aeryn lo que me pasó!", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -28102,16 +28099,16 @@ section "mod-tome/data/quests/temple-of-creation.lua"
 -- new text
 --[==[
 t("The Temple of Creation", "El Templo de la Creación", "_t")
-t("Ukllmswwik asked you to take his portal to the Temple of Creation and kill Slasul who has turned mad.", "Ukllmswwik asked you to take his portal to the Temple of Creation and kill Slasul who has turned mad.", "_t")
-t("Slasul told you his side of the story. Now you must decide: which of them is corrupt?", "Slasul told you his side of the story. Now you must decide: which of them is corrupt?", "_t")
-t("Slasul bound his lifeforce to yours and gave your a powerful trident in return.", "Slasul bound his lifeforce to yours and gave your a powerful trident in return.", "_t")
-t("#LIGHT_GREEN#* You have killed both Ukllmswwik and Slasul, betraying them both.#WHITE#", "#LIGHT_GREEN#* You have killed both Ukllmswwik and Slasul, betraying them both.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have sided with Ukllmswwik and killed Slasul.#WHITE#", "#LIGHT_GREEN#* You have sided with Ukllmswwik and killed Slasul.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have sided with Slasul and killed Ukllmswwik.#WHITE#", "#LIGHT_GREEN#* You have sided with Slasul and killed Ukllmswwik.#WHITE#", "_t")
-t("Portal to the Temple of Creation", "Portal to the Temple of Creation", "_t")
-t("A portal opens behind Ukllmswwik.", "A portal opens behind Ukllmswwik.", "logPlayer")
-t("Portal to the Flooded Cave", "Portal to the Flooded Cave", "_t")
-t("A portal opens to the flooded cave.", "A portal opens to the flooded cave.", "logPlayer")
+t("Ukllmswwik asked you to take his portal to the Temple of Creation and kill Slasul who has turned mad.", "Ukllmswwik te pidió que llevaras su portal al Templo de la Creación y mataras a Slasul que se ha vuelto loco.", "_t")
+t("Slasul told you his side of the story. Now you must decide: which of them is corrupt?", "Slasul te contó su parte de la historia. Ahora debes decidir: ¿cuál de ellos es corrupto?", "_t")
+t("Slasul bound his lifeforce to yours and gave your a powerful trident in return.", "Slasul ató su fuerza vital a la tuya y dio a su poderoso tridente a cambio.", "_t")
+t("#LIGHT_GREEN#* You have killed both Ukllmswwik and Slasul, betraying them both.#WHITE#", "Has matado a Ukllmswwik y Slasul, traicionando a ambos. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have sided with Ukllmswwik and killed Slasul.#WHITE#", "#LIGHT GREEN# # You have sided with Ukllmswwik and killed Slasul. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have sided with Slasul and killed Ukllmswwik.#WHITE#", "#LIGHT GREEN# # You have sided with Slasul and killed Ukllmswwik. #WHITE#", "_t")
+t("Portal to the Temple of Creation", "Portal al Templo de la Creación", "_t")
+t("A portal opens behind Ukllmswwik.", "Un portal se abre detrás de Ukllmswwik.", "logPlayer")
+t("Portal to the Flooded Cave", "Portal a la Cueva Inundada", "_t")
+t("A portal opens to the flooded cave.", "Un portal se abre a la cueva inundada.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -28120,7 +28117,7 @@ section "mod-tome/data/quests/temporal-rift.lua"
 
 -- new text
 --[==[
-t("Back and Back and Back to the Future", "Back and Back and Back to the Future", "_t")
+t("Back and Back and Back to the Future", "Retroceder y regresar al futuro", "_t")
 t("Temporal Warden", "Temporal Warden", "_t")
 --]==]
 
@@ -28131,14 +28128,14 @@ section "mod-tome/data/quests/trollmire-treasure.lua"
 -- new text
 --[==[
 t("Hidden treasure", "Hidden treasure", "_t")
-t("You have found all the clues leading to the hidden treasure. There should be a way on the third level of the Trollmire.", "You have found all the clues leading to the hidden treasure. There should be a way on the third level of the Trollmire.", "_t")
-t("It looks extremely dangerous, however - beware.", "It looks extremely dangerous, however - beware.", "_t")
-t("You have slain Bill. His treasure is yours for the taking.", "You have slain Bill. His treasure is yours for the taking.", "_t")
-t("way to the hidden trollmire treasure", "way to the hidden trollmire treasure", "_t")
-t("Beware!", "Beware!", "_t")
-t("Danger...", "Danger...", "_t")
-t("This way leads to the lair of a mighty troll. Traces of blood are everywhere. Are you sure?", "This way leads to the lair of a mighty troll. Traces of blood are everywhere. Are you sure?", "_t")
-t("The way to the treasure is to the east. But beware, death probably awaits there.", "The way to the treasure is to the east. But beware, death probably awaits there.", "_t")
+t("You have found all the clues leading to the hidden treasure. There should be a way on the third level of the Trollmire.", "Has encontrado todas las pistas que conducen al tesoro escondido. Debería haber un camino en el tercer nivel del Trollmire.", "_t")
+t("It looks extremely dangerous, however - beware.", "Se ve extremadamente peligroso, sin embargo - cuidado.", "_t")
+t("You have slain Bill. His treasure is yours for the taking.", "Has matado a Bill. Su tesoro es tuyo para la toma.", "_t")
+t("way to the hidden trollmire treasure", "camino al tesoro escondido de los trollmire", "_t")
+t("Beware!", "¡Cuidado!", "_t")
+t("Danger...", "Peligro...", "_t")
+t("This way leads to the lair of a mighty troll. Traces of blood are everywhere. Are you sure?", "De esta manera conduce a la guarida de un troll poderoso. Hay rastros de sangre por todas partes. ¿Estás seguro?", "_t")
+t("The way to the treasure is to the east. But beware, death probably awaits there.", "El camino al tesoro es hacia el este. Pero cuidado, la muerte probablemente espera allí.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28147,10 +28144,10 @@ section "mod-tome/data/quests/tutorial-combat-stats.lua"
 
 -- new text
 --[==[
-t("Tutorial: combat stats", "Tutorial: combat stats", "_t")
-t("Explore the Dungeon of Adventurer Enlightenment to learn about ToME's combat mechanics.", "Explore the Dungeon of Adventurer Enlightenment to learn about ToME's combat mechanics.", "_t")
-t("#LIGHT_GREEN#You have navigated the Dungeon of Adventurer Enlightenment!#WHITE#", "#LIGHT_GREEN#You have navigated the Dungeon of Adventurer Enlightenment!#WHITE#", "_t")
-t("Tutorial Finished", "Tutorial Finished", "_t")
+t("Tutorial: combat stats", "Tutorial: estadísticas de combate", "_t")
+t("Explore the Dungeon of Adventurer Enlightenment to learn about ToME's combat mechanics.", "Explore el Dungeon of Adventurer Enlightenment para aprender sobre la mecánica de combate de ToME.", "_t")
+t("#LIGHT_GREEN#You have navigated the Dungeon of Adventurer Enlightenment!#WHITE#", "#LIGHT GREEN# Has navegado el Dungeon de la Ilustración del Aventurador! #WHITE#", "_t")
+t("Tutorial Finished", "Tutorial Acabado", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28160,8 +28157,8 @@ section "mod-tome/data/quests/tutorial.lua"
 -- new text
 --[==[
 t("Tutorial", "Tutorial", "_t")
-t("You must venture in the heart of the forest and kill the Lone Wolf, who randomly attacks villagers.", "You must venture in the heart of the forest and kill the Lone Wolf, who randomly attacks villagers.", "_t")
-t("Tutorial: Movement", "Tutorial: Movement", "_t")
+t("You must venture in the heart of the forest and kill the Lone Wolf, who randomly attacks villagers.", "Debes aventurarte en el corazón del bosque y matar al Lobo Sol, que ataca aleatoriamente a los aldeanos.", "_t")
+t("Tutorial: Movement", "Tutorial: Movimiento", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28170,10 +28167,10 @@ section "mod-tome/data/quests/void-gerlyk.lua"
 
 -- new text
 --[==[
-t("In the void, no one can hear you scream", "In the void, no one can hear you scream", "_t")
-t("You have destroyed the sorcerers. Sadly, the portal to the Void remains open; the Creator is coming.", "You have destroyed the sorcerers. Sadly, the portal to the Void remains open; the Creator is coming.", "_t")
-t("This cannot be allowed to happen. After thousands of years trapped in the Void between the stars, Gerlyk is mad with rage.", "This cannot be allowed to happen. After thousands of years trapped in the Void between the stars, Gerlyk is mad with rage.", "_t")
-t("You must now finish what the Sher'tuls started. Take the Staff of Absorption and become a Godslayer yourself.", "You must now finish what the Sher'tuls started. Take the Staff of Absorption and become a Godslayer yourself.", "_t")
+t("In the void, no one can hear you scream", "En el vacío, nadie puede oírte gritar", "_t")
+t("You have destroyed the sorcerers. Sadly, the portal to the Void remains open; the Creator is coming.", "Has destruido a los hechiceros. Tristemente, el portal al Vacío permanece abierto; el Creador viene.", "_t")
+t("This cannot be allowed to happen. After thousands of years trapped in the Void between the stars, Gerlyk is mad with rage.", "Esto no puede permitirse que ocurra. Después de miles de años atrapados en el Vacío entre las estrellas, Gerlyk está enojado con ira.", "_t")
+t("You must now finish what the Sher'tuls started. Take the Staff of Absorption and become a Godslayer yourself.", "Ahora debes terminar lo que los Sher'tul comenzaron. Tome el Estado Mayor de la Absorción y convertirse en un Godslayer usted mismo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28182,19 +28179,19 @@ section "mod-tome/data/quests/west-portal.lua"
 
 -- new text
 --[==[
-t("There and back again", "There and back again", "_t")
-t("Zemekkys in the Gates of Morning can build a portal back to your homeland for you.", "Zemekkys in the Gates of Morning can build a portal back to your homeland for you.", "_t")
-t("#LIGHT_GREEN#* You have found a Blood-Runed Athame.#WHITE#", "#LIGHT_GREEN#* You have found a Blood-Runed Athame.#WHITE#", "_t")
-t("#SLATE#* Find a Blood-Runed Athame.#WHITE#", "#SLATE#* Find a Blood-Runed Athame.#WHITE#", "_t")
-t("#LIGHT_GREEN#* You have found the Resonating Diamond.#WHITE#", "#LIGHT_GREEN#* You have found the Resonating Diamond.#WHITE#", "_t")
-t("#SLATE#* Find a Resonating Diamond.#WHITE#", "#SLATE#* Find a Resonating Diamond.#WHITE#", "_t")
+t("There and back again", "Ahí y atrás de nuevo", "_t")
+t("Zemekkys in the Gates of Morning can build a portal back to your homeland for you.", "Zemekkys en las puertas de la mañana puede construir un portal de vuelta a su patria para usted.", "_t")
+t("#LIGHT_GREEN#* You have found a Blood-Runed Athame.#WHITE#", "#LIGHT GREEN# # Has encontrado un Athame en Sangre. #WHITE#", "_t")
+t("#SLATE#* Find a Blood-Runed Athame.#WHITE#", "#SLATE#* Encuentra un Athame en Sangre. #WHITE#", "_t")
+t("#LIGHT_GREEN#* You have found the Resonating Diamond.#WHITE#", "Has encontrado el Diamante Resonante. #WHITE#", "_t")
+t("#SLATE#* Find a Resonating Diamond.#WHITE#", "#SLATE#* Encontrar un Diamante Resonante.#", "_t")
 t("", "", "_t")
-t("#LIGHT_GREEN#* The portal is now functional and can be used to go back, although, like all portals, it is one-way only.#WHITE#", "#LIGHT_GREEN#* The portal is now functional and can be used to go back, although, like all portals, it is one-way only.#WHITE#", "_t")
-t("Zemekkys points to the location of Vor Armoury on your map.", "Zemekkys points to the location of Vor Armoury on your map.", "logPlayer")
-t("Zemekkys points to the location of Briagh's lair on your map.", "Zemekkys points to the location of Briagh's lair on your map.", "logPlayer")
-t("#VIOLET#Zemekkys starts to draw runes on the floor using the athame and gem dust.", "#VIOLET#Zemekkys starts to draw runes on the floor using the athame and gem dust.", "logPlayer")
-t("#VIOLET#The whole area starts to shake!", "#VIOLET#The whole area starts to shake!", "logPlayer")
-t("#VIOLET#Zemekkys says: 'The portal is done!'", "#VIOLET#Zemekkys says: 'The portal is done!'", "logPlayer")
+t("#LIGHT_GREEN#* The portal is now functional and can be used to go back, although, like all portals, it is one-way only.#WHITE#", "#LIGHT GREEN # El portal ahora es funcional y se puede utilizar para volver, aunque, como todos los portales, es sólo una vía. #WHITE#", "_t")
+t("Zemekkys points to the location of Vor Armoury on your map.", "Zemekkys apunta a la ubicación de Vor Armoury en su mapa.", "logPlayer")
+t("Zemekkys points to the location of Briagh's lair on your map.", "Zemekkys apunta a la ubicación de la guarida de Briagh en su mapa.", "logPlayer")
+t("#VIOLET#Zemekkys starts to draw runes on the floor using the athame and gem dust.", "#VIOLET#Zemekkys comienza a dibujar runas en el suelo usando el athame y el polvo de gema.", "logPlayer")
+t("#VIOLET#The whole area starts to shake!", "#VIOLET # ¡Todo el área comienza a sacudirse!", "logPlayer")
+t("#VIOLET#Zemekkys says: 'The portal is done!'", "#VIOLET#Zemekkys dice: 'El portal está hecho!'", "logPlayer")
 t("High Chronomancer Zemekkys", "High Chronomancer Zemekkys", "_t")
 --]==]
 
@@ -28204,8 +28201,8 @@ section "mod-tome/data/quests/wild-wild-east.lua"
 
 -- new text
 --[==[
-t("The wild wild east", "The wild wild east", "_t")
-t("There must be a way to go into the far east from the lair of Golbug. Find it and explore the unknown far east, looking for clues.", "There must be a way to go into the far east from the lair of Golbug. Find it and explore the unknown far east, looking for clues.", "_t")
+t("The wild wild east", "El salvaje este", "_t")
+t("There must be a way to go into the far east from the lair of Golbug. Find it and explore the unknown far east, looking for clues.", "Debe haber una manera de ir al lejano este de la guarida de Golbug. Encuéntralo y explora el desconocido lejano este, buscando pistas.", "_t")
 --]==]
 
 ------------------------------------------------

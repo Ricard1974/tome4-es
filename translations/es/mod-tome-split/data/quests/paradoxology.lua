@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("The Way We Weren't", "The Way We Weren't", "_t")
-t("%s the Paradox Mage", "%s the Paradox Mage", "tformat")
-t("A later (less fortunate?) version of %s, possibly going mad.", "A later (less fortunate?) version of %s, possibly going mad.", "tformat")
-t("but nobody knew why #sex# suddenly became evil", "but nobody knew why #sex# suddenly became evil", "_t")
-t("#LIGHT_BLUE#Killing your own future self does feel weird, but you know that you can avoid this future. Just do not time travel.", "#LIGHT_BLUE#Killing your own future self does feel weird, but you know that you can avoid this future. Just do not time travel.", "logSeen")
-t("Meet the guardian!", "Meet the guardian!", "_t")
-t("#LIGHT_BLUE#Your future self kills you! The timestreams are broken by the paradox!", "#LIGHT_BLUE#Your future self kills you! The timestreams are broken by the paradox!", "logSeen")
-t("#LIGHT_BLUE#All those events never happened. Except they did, somewhen.", "#LIGHT_BLUE#All those events never happened. Except they did, somewhen.", "logSeen")
-t("This rift in time has been created by the paradox. You dare not enter it; it could make things worse. Another Warden will have to fix your mess.", "This rift in time has been created by the paradox. You dare not enter it; it could make things worse. Another Warden will have to fix your mess.", "log")
+t("The Way We Weren't", "La forma en que no estábamos", "_t")
+t("%s the Paradox Mage", " PH0    El mensaje paradoja", "tformat")
+t("A later (less fortunate?) version of %s, possibly going mad.", "Una versión posterior (¿menos afortunado?) de   PH0  , posiblemente enloqueciendo.", "tformat")
+t("but nobody knew why #sex# suddenly became evil", "pero nadie sabía por qué el sexo de repente se convirtió en mal", "_t")
+t("#LIGHT_BLUE#Killing your own future self does feel weird, but you know that you can avoid this future. Just do not time travel.", "#LIGHT BLUE #Killing your own future self does feel rare, but you know that you can avoid this future. No viajes en el tiempo.", "logSeen")
+t("Meet the guardian!", "¡Conoce al tutor!", "_t")
+t("#LIGHT_BLUE#Your future self kills you! The timestreams are broken by the paradox!", "Tu futuro yo te mata. ¡Los tiempos son rotos por la paradoja!", "logSeen")
+t("#LIGHT_BLUE#All those events never happened. Except they did, somewhen.", "#LIGHT BLUE #Todos esos eventos nunca han pasado. Excepto que lo hicieron, algún día.", "logSeen")
+t("This rift in time has been created by the paradox. You dare not enter it; it could make things worse. Another Warden will have to fix your mess.", "Este rift en el tiempo ha sido creado por la paradoja. No te atrevas a entrar en ella; podría empeorar las cosas. Otro guardia tendrá que arreglar su desastre.", "log")
 

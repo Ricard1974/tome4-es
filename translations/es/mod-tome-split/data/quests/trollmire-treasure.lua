@@ -5,12 +5,12 @@
 -- Traductor: --
 
 t("Hidden treasure", "Hidden treasure", "_t")
-t("You have found all the clues leading to the hidden treasure. There should be a way on the third level of the Trollmire.", "You have found all the clues leading to the hidden treasure. There should be a way on the third level of the Trollmire.", "_t")
-t("It looks extremely dangerous, however - beware.", "It looks extremely dangerous, however - beware.", "_t")
-t("You have slain Bill. His treasure is yours for the taking.", "You have slain Bill. His treasure is yours for the taking.", "_t")
-t("way to the hidden trollmire treasure", "way to the hidden trollmire treasure", "_t")
-t("Beware!", "Beware!", "_t")
-t("Danger...", "Danger...", "_t")
-t("This way leads to the lair of a mighty troll. Traces of blood are everywhere. Are you sure?", "This way leads to the lair of a mighty troll. Traces of blood are everywhere. Are you sure?", "_t")
-t("The way to the treasure is to the east. But beware, death probably awaits there.", "The way to the treasure is to the east. But beware, death probably awaits there.", "_t")
+t("You have found all the clues leading to the hidden treasure. There should be a way on the third level of the Trollmire.", "Has encontrado todas las pistas que conducen al tesoro escondido. Debería haber un camino en el tercer nivel del Trollmire.", "_t")
+t("It looks extremely dangerous, however - beware.", "Se ve extremadamente peligroso, sin embargo - cuidado.", "_t")
+t("You have slain Bill. His treasure is yours for the taking.", "Has matado a Bill. Su tesoro es tuyo para la toma.", "_t")
+t("way to the hidden trollmire treasure", "camino al tesoro escondido de los trollmire", "_t")
+t("Beware!", "¡Cuidado!", "_t")
+t("Danger...", "Peligro...", "_t")
+t("This way leads to the lair of a mighty troll. Traces of blood are everywhere. Are you sure?", "De esta manera conduce a la guarida de un troll poderoso. Hay rastros de sangre por todas partes. ¿Estás seguro?", "_t")
+t("The way to the treasure is to the east. But beware, death probably awaits there.", "El camino al tesoro es hacia el este. Pero cuidado, la muerte probablemente espera allí.", "_t")
 
