@@ -1,34 +1,34 @@
 local class = require "engine.class"
 
--- Carga las traducciones al español para ToME4
--- Spanish translation addon for ToME4
-
--- Registrar español en la lista de idiomas
-class:bindHook("I18N:listLanguages", function(self, data)
-	local list = data.list
-	local found = false
-	for _, item in ipairs(list) do
-		if item.locale == "es" then
-			found = true
-			break
+class:bindHook("ToME:load", function()
+	local I18N = require "engine.I18N"
+	
+	-- Cargar traducciones
+	pcall(I18N.loadLocale, I18N, "/data/locales/engine/es.lua")
+	pcall(I18N.loadLocale, I18N, "/data/locales/es.lua")
+	
+	-- Activar español
+	I18N:setLocale("es")
+	
+	-- Modificar el diálogo de idiomas YA cacheado para añadir español
+	local LS = package.loaded["engine.dialogs.LanguageSelect"]
+	if LS then
+		local old_gen = LS.generateList
+		LS.generateList = function(self, ...)
+			old_gen(self, ...)
+			-- Añadir español si no está
+			local found = false
+			for _, item in ipairs(self.list) do
+				if item.locale == "es" then
+					found = true
+					break
+				end
+			end
+			if not found then
+				self.list[#self.list+1] = {name = "Español (Spanish)", locale="es"}
+			end
 		end
 	end
-	if not found then
-		list[#list+1] = {name = "Español (Spanish)", locale="es"}
-	end
-end)
-
--- Cargar locales al iniciar el módulo
-class:bindHook("ToME:load", function()
-	-- Intentar cargar engine locale
-	local ok, err = pcall(dofile, "/data/locales/engine/es.lua")
-	if ok then
-		print("[ToME4-es] Engine locales loaded")
-	end
-
-	-- Intentar cargar módulo locale
-	ok, err = pcall(dofile, "/data/locales/es.lua")
-	if ok then
-		print("[ToME4-es] Module locales loaded")
-	end
+	
+	print("[ToME4-es] Listo")
 end)

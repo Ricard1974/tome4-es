@@ -1,5 +1,5 @@
 long_name = "Traducción al Español del Menú Principal"
-short_name = "es"
+short_name = "spanish"
 for_module = "boot"
 version = {1,7,6}
 addon_version = {1,0,0}
