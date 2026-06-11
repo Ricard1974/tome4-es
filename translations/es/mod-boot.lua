@@ -5,8 +5,8 @@ section "mod-boot/data/birth/descriptors.lua"
 -- new text
 --[==[
 t("base", "base", "birth descriptor name")
-t("Destroyer", "Destroyer", "birth descriptor name")
-t("Acid-maniac", "Acid-maniac", "birth descriptor name")
+t("Destroyer", "Destructor", "birth descriptor name")
+t("Acid-maniac", "Ácido-maníaco", "birth descriptor name")
 --]==]
 
 
@@ -16,7 +16,7 @@ section "mod-boot/data/damage_types.lua"
 
 -- new text
 --[==[
-t("Kill!", "Kill!", "_t")
+t("Kill!", "¡Matar!", "_t")
 --]==]
 
 
@@ -26,13 +26,13 @@ section "mod-boot/data/general/grids/basic.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("floor", "floor", "entity name")
-t("wall", "wall", "entity type")
-t("wall", "wall", "entity name")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
+t("floor", "suelo", "entity type")
+t("floor", "suelo", "entity subtype")
+t("floor", "suelo", "entity name")
+t("wall", "muro", "entity type")
+t("wall", "muro", "entity name")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
 --]==]
 
 
@@ -42,12 +42,12 @@ section "mod-boot/data/general/grids/forest.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("grass", "grass", "entity subtype")
-t("grass", "grass", "entity name")
-t("wall", "wall", "entity type")
-t("tree", "tree", "entity name")
-t("flower", "flower", "entity name")
+t("floor", "suelo", "entity type")
+t("grass", "hierba", "entity subtype")
+t("grass", "hierba", "entity name")
+t("wall", "muro", "entity type")
+t("tree", "árbol", "entity name")
+t("flower", "flor", "entity name")
 --]==]
 
 
@@ -57,11 +57,11 @@ section "mod-boot/data/general/grids/underground.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("underground", "underground", "entity subtype")
-t("crystals", "crystals", "entity name")
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity name")
+t("wall", "muro", "entity type")
+t("underground", "subterráneo", "entity subtype")
+t("crystals", "cristales", "entity name")
+t("floor", "suelo", "entity type")
+t("floor", "suelo", "entity name")
 --]==]
 
 
@@ -71,9 +71,9 @@ section "mod-boot/data/general/grids/water.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("water", "water", "entity subtype")
-t("deep water", "deep water", "entity name")
+t("floor", "suelo", "entity type")
+t("water", "agua", "entity subtype")
+t("deep water", "agua profunda", "entity name")
 --]==]
 
 
@@ -84,15 +84,15 @@ section "mod-boot/data/general/npcs/canine.lua"
 -- new text
 --[==[
 t("animal", "animal", "entity type")
-t("canine", "canine", "entity subtype")
-t("wolf", "wolf", "entity name")
-t("Lean, mean, and shaggy, it stares at you with hungry eyes.", "Lean, mean, and shaggy, it stares at you with hungry eyes.", "_t")
-t("white wolf", "white wolf", "entity name")
-t("A large and muscled wolf from the northern wastes. Its breath is cold and icy and its fur coated in frost.", "A large and muscled wolf from the northern wastes. Its breath is cold and icy and its fur coated in frost.", "_t")
-t("warg", "warg", "entity name")
-t("It is a large wolf with eyes full of cunning.", "It is a large wolf with eyes full of cunning.", "_t")
-t("fox", "fox", "entity name")
-t("The quick brown fox jumps over the lazy dog.", "The quick brown fox jumps over the lazy dog.", "_t")
+t("canine", "canino", "entity subtype")
+t("wolf", "lobo", "entity name")
+t("Lean, mean, and shaggy, it stares at you with hungry eyes.", "Magro, hirsuto y fiero, te mira con ojos hambrientos.", "_t")
+t("white wolf", "lobo blanco", "entity name")
+t("A large and muscled wolf from the northern wastes. Its breath is cold and icy and its fur coated in frost.", "Un lobo grande y musculoso de los paramos del norte. Su aliento es frio y helado y su pelaje cubierto de escarcha.", "_t")
+t("warg", "huargo", "entity name")
+t("It is a large wolf with eyes full of cunning.", "Es un lobo grande con ojos llenos de astucia.", "_t")
+t("fox", "zorro", "entity name")
+t("The quick brown fox jumps over the lazy dog.", "El rápido zorro marrón salta sobre el perro perezoso.", "_t")
 --]==]
 
 
@@ -102,12 +102,12 @@ section "mod-boot/data/general/npcs/skeleton.lua"
 
 -- new text
 --[==[
-t("undead", "undead", "entity type")
-t("skeleton", "skeleton", "entity subtype")
-t("degenerated skeleton warrior", "degenerated skeleton warrior", "entity name")
-t("skeleton warrior", "skeleton warrior", "entity name")
-t("skeleton mage", "skeleton mage", "entity name")
-t("armoured skeleton warrior", "armoured skeleton warrior", "entity name")
+t("undead", "no-muerto", "entity type")
+t("skeleton", "esqueleto", "entity subtype")
+t("degenerated skeleton warrior", "guerrero esqueleto degenerado", "entity name")
+t("skeleton warrior", "guerrero esqueleto", "entity name")
+t("skeleton mage", "mago esqueleto", "entity name")
+t("armoured skeleton warrior", "guerrero esqueleto acorazado", "entity name")
 --]==]
 
 
@@ -117,17 +117,17 @@ section "mod-boot/data/general/npcs/troll.lua"
 
 -- new text
 --[==[
-t("giant", "giant", "entity type")
-t("troll", "troll", "entity subtype")
-t("forest troll", "forest troll", "entity name")
-t("Green-skinned and ugly, this massive humanoid glares at you, clenching wart-covered green fists.", "Green-skinned and ugly, this massive humanoid glares at you, clenching wart-covered green fists.", "_t")
-t("stone troll", "stone troll", "entity name")
-t("A giant troll with scabrous black skin. With a shudder, you notice the belt of dwarf skulls around his massive waist.", "A giant troll with scabrous black skin. With a shudder, you notice the belt of dwarf skulls around his massive waist.", "_t")
-t("cave troll", "cave troll", "entity name")
-t("This huge troll wields a massive spear and has a disturbingly intelligent look in its piggy eyes.", "This huge troll wields a massive spear and has a disturbingly intelligent look in its piggy eyes.", "_t")
-t("mountain troll", "mountain troll", "entity name")
-t("A large and athletic troll with an extremely tough and warty hide.", "A large and athletic troll with an extremely tough and warty hide.", "_t")
-t("mountain troll thunderer", "mountain troll thunderer", "entity name")
+t("giant", "gigante", "entity type")
+t("troll", "trol", "entity subtype")
+t("forest troll", "trol del bosque", "entity name")
+t("Green-skinned and ugly, this massive humanoid glares at you, clenching wart-covered green fists.", "De piel verde y horrible, este enorme humanoide te mira fijamente, apretando sus punos verdes verrugosos.", "_t")
+t("stone troll", "trol de piedra", "entity name")
+t("A giant troll with scabrous black skin. With a shudder, you notice the belt of dwarf skulls around his massive waist.", "Un trol gigante de piel negra y escamosa. Con un escalofrio notas el cinturon de craneos enanos alrededor de su cintura.", "_t")
+t("cave troll", "trol de cueva", "entity name")
+t("This huge troll wields a massive spear and has a disturbingly intelligent look in its piggy eyes.", "Este enorme trol empuna una lanza masiva y tiene una mirada inquietantemente inteligente en sus ojillos.", "_t")
+t("mountain troll", "trol de montaña", "entity name")
+t("A large and athletic troll with an extremely tough and warty hide.", "Un trol grande y atlético de piel extremadamente dura y verrugosa.", "_t")
+t("mountain troll thunderer", "trol montañés atronador", "entity name")
 --]==]
 
 
@@ -137,15 +137,15 @@ section "mod-boot/data/talents.lua"
 
 -- new text
 --[==[
-t("misc", "misc", "talent category")
-t("Kick", "Kick", "talent name")
-t("Acid Spray", "Acid Spray", "talent name")
-t("Manathrust", "Manathrust", "talent name")
-t("Flame", "Flame", "talent name")
-t("Fireflash", "Fireflash", "talent name")
-t("Lightning", "Lightning", "talent name")
-t("Sunshield", "Sunshield", "talent name")
-t("Flameshock", "Flameshock", "talent name")
+t("misc", "varios", "talent category")
+t("Kick", "Patada", "talent name")
+t("Acid Spray", "Rociada ácida", "talent name")
+t("Manathrust", "Empuje de maná", "talent name")
+t("Flame", "Llama", "talent name")
+t("Fireflash", "Destello ígneo", "talent name")
+t("Lightning", "Relámpago", "talent name")
+t("Sunshield", "Escudo solar", "talent name")
+t("Flameshock", "Descarga ígnea", "talent name")
 --]==]
 
 
@@ -155,12 +155,12 @@ section "mod-boot/data/timed_effects.lua"
 
 -- new text
 --[==[
-t("Burning from acid", "Burning from acid", "_t")
-t("#Target# is covered in acid!", "#Target# is covered in acid!", "_t")
-t("+Acid", "+Acid", "_t")
-t("#Target# is free from the acid.", "#Target# is free from the acid.", "_t")
-t("-Acid", "-Acid", "_t")
-t("Sunshield", "Sunshield", "_t")
+t("Burning from acid", "Quemadura por ácido", "_t")
+t("#Target# is covered in acid!", "¡#Target# está cubierto de ácido!", "_t")
+t("+Acid", "+Ácido", "_t")
+t("#Target# is free from the acid.", "#Target# está libre del ácido.", "_t")
+t("-Acid", "-Ácido", "_t")
+t("Sunshield", "Escudo solar", "_t")
 --]==]
 
 
@@ -170,7 +170,7 @@ section "mod-boot/data/zones/dungeon/zone.lua"
 
 -- new text
 --[==[
-t("Forest", "Forest", "_t")
+t("Forest", "Bosque", "_t")
 --]==]
 
 
@@ -180,7 +180,7 @@ section "mod-boot/mod/class/Game.lua"
 
 -- new text
 --[==[
-t("Welcome to T-Engine and the Tales of Maj'Eyal", "Welcome to T-Engine and the Tales of Maj'Eyal", "_t")
+t("Welcome to T-Engine and the Tales of Maj'Eyal", "Bienvenido a T-Engine y Tales of Maj'Eyal", "_t")
 t([[#GOLD#"Tales of Maj'Eyal"#WHITE# is the main game, you can also install more addons or modules by going to https://te4.org/
 
 When inside a module remember you can press Escape to bring up a menu to change keybindings, resolution and other module specific options.
@@ -194,7 +194,7 @@ When inside a module remember you can press Escape to bring up a menu to change 
 Remember that in most roguelikes death is usually permanent so be careful!
 
 Now go and have some fun!]], "_t")
-t("Upgrade to 1.0.5", "Upgrade to 1.0.5", "_t")
+t("Upgrade to 1.0.5", "Actualizar a 1.0.5", "_t")
 t([[The way the engine manages saving has been reworked for v1.0.5.
 
 The background saves should no longer lag horribly and as such it is highly recommended that you use the option. The upgrade turned it on for you.
@@ -206,7 +206,7 @@ The background saves should no longer lag horribly and as such it is highly reco
 
 For the same reason the save per level option should not be used unless you have severe memory problems. The upgrade turned it off for you.
 ]], "_t")
-t("Safe Mode", "Safe Mode", "_t")
+t("Safe Mode", "Modo seguro", "_t")
 t([[Oops! Either you activated safe mode manually or the game detected it did not start correctly last time and thus you are in #LIGHT_GREEN#safe mode#WHITE#.
 Safe Mode disabled all graphical options and sets a low FPS. It is not advisable to play this way (as it will be very painful and ugly).
 
@@ -216,8 +216,8 @@ Safe Mode disabled all graphical options and sets a low FPS. It is not advisable
 
 Please go to the Video Options and try enabling/disabling options and then restarting until you do not get this message.
 A usual problem is shaders and thus should be your first target to disable.]], "_t")
-t("Message", "Message", "_t")
-t("Duplicate Addon", "Duplicate Addon", "_t")
+t("Message", "Mensaje", "_t")
+t("Duplicate Addon", "Addon duplicado", "_t")
 t([[Oops! It seems like you have the same addon/dlc installed twice.
 This is unsupported and would make many things explode. Please remove one of the copies.
 
@@ -235,10 +235,10 @@ Check out the following folder on your computer:
 %s
 %s
 ]], "_t")
-t("Updating addon: #LIGHT_GREEN#%s", "Updating addon: #LIGHT_GREEN#%s", "tformat")
-t("Quit", "Quit", "_t")
-t("Really exit T-Engine/ToME?", "Really exit T-Engine/ToME?", "_t")
-t("Continue", "Continue", "_t")
+t("Updating addon: #LIGHT_GREEN#%s", "Actualizando addon: #LIGHT_GREEN#%s", "tformat")
+t("Quit", "Salir", "_t")
+t("Really exit T-Engine/ToME?", "¿Salir de T-Engine/ToME?", "_t")
+t("Continue", "Continuar", "_t")
 t([[Welcome to #LIGHT_GREEN#Tales of Maj'Eyal#LAST#!
 
 Before you can start dying in many innovative ways we need to ask you about online play.
@@ -268,19 +268,19 @@ This is a #{bold}#single player game#{normal}# but it also features many online 
 
 You will also have a user page on #LIGHT_BLUE#https://te4.org/#LAST# to show off to your friends.
 This is all optional, you are not forced to use this feature at all, but the developer would thank you if you did as it will make balancing easier.]], "_t")
-t("Logging in...", "Logging in...", "_t")
-t("Please wait...", "Please wait...", "_t")
-t("Profile logged in!", "Profile logged in!", "_t")
-t("Your online profile is now active. Have fun!", "Your online profile is now active. Have fun!", "_t")
-t("Login failed!", "Login failed!", "_t")
-t("Check your login and password or try again in in a few moments.", "Check your login and password or try again in in a few moments.", "_t")
-t("Registering...", "Registering...", "_t")
-t("Registering on https://te4.org/, please wait...", "Registering on https://te4.org/, please wait...", "_t")
-t("Logged in!", "Logged in!", "_t")
-t("Profile created!", "Profile created!", "_t")
-t("Profile creation failed!", "Profile creation failed!", "_t")
-t("Creation failed: %s (you may also register on https://te4.org/)", "Creation failed: %s (you may also register on https://te4.org/)", "tformat")
-t("Try again in in a few moments, or try online at https://te4.org/", "Try again in in a few moments, or try online at https://te4.org/", "_t")
+t("Logging in...", "Iniciando sesión...", "_t")
+t("Please wait...", "Espera por favor...", "_t")
+t("Profile logged in!", "¡Perfil conectado!", "_t")
+t("Your online profile is now active. Have fun!", "Tu perfil online está activo. ¡Diviértete!", "_t")
+t("Login failed!", "¡Error al iniciar sesión!", "_t")
+t("Check your login and password or try again in in a few moments.", "Comprueba tu usuario y contraseña o inténtalo de nuevo en unos momentos.", "_t")
+t("Registering...", "Registrando...", "_t")
+t("Registering on https://te4.org/, please wait...", "Registrando en https://te4.org/, espera...", "_t")
+t("Logged in!", "¡Sesión iniciada!", "_t")
+t("Profile created!", "¡Perfil creado!", "_t")
+t("Profile creation failed!", "¡Error al crear perfil!", "_t")
+t("Creation failed: %s (you may also register on https://te4.org/)", "Error al crear: %s (también puedes registrarte en https://te4.org/)", "tformat")
+t("Try again in in a few moments, or try online at https://te4.org/", "Inténtalo de nuevo en unos momentos, o prueba online en https://te4.org/", "_t")
 --]==]
 
 
@@ -290,9 +290,9 @@ section "mod-boot/mod/class/Player.lua"
 
 -- new text
 --[==[
-t("%s available", "%s available", "tformat")
-t("#00ff00#Talent %s is ready to use.", "#00ff00#Talent %s is ready to use.", "log")
-t("LEVEL UP!", "LEVEL UP!", "_t")
+t("%s available", "%s disponible", "tformat")
+t("#00ff00#Talent %s is ready to use.", "#00ff00#Talento %s listo para usar.", "log")
+t("LEVEL UP!", "¡SUBIR DE NIVEL!", "_t")
 --]==]
 
 
@@ -302,25 +302,25 @@ section "mod-boot/mod/dialogs/Addons.lua"
 
 -- new text
 --[==[
-t("Configure Addons", "Configure Addons", "_t")
-t("You can get new addons at #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", "You can get new addons at #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", "_t")
-t(" and #LIGHT_BLUE##{underline}#Te4.org DLCs#{normal}#", " and #LIGHT_BLUE##{underline}#Te4.org DLCs#{normal}#", "_t")
-t("You can get new addons on #LIGHT_BLUE##{underline}#Steam Workshop#{normal}#", "You can get new addons on #LIGHT_BLUE##{underline}#Steam Workshop#{normal}#", "_t")
+t("Configure Addons", "Configurar addons", "_t")
+t("You can get new addons at #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", "Puedes conseguir nuevos addons en #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", "_t")
+t(" and #LIGHT_BLUE##{underline}#Te4.org DLCs#{normal}#", " y #LIGHT_BLUE##{underline}#Te4.org DLCs#{normal}#", "_t")
+t("You can get new addons on #LIGHT_BLUE##{underline}#Steam Workshop#{normal}#", "Puedes conseguir addons en #LIGHT_BLUE##{underline}#Steam Workshop#{normal}#", "_t")
 t(", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", ", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", "_t")
-t("Show incompatible", "Show incompatible", "_t")
-t("Auto-update on start", "Auto-update on start", "_t")
-t("Game Module", "Game Module", "_t")
-t("Version", "Version", "_t")
+t("Show incompatible", "Mostrar incompatibles", "_t")
+t("Auto-update on start", "Actualizar automáticamente al inicio", "_t")
+t("Game Module", "Módulo del juego", "_t")
+t("Version", "Versión", "_t")
 t("Addon", "Addon", "_t")
-t("Active", "Active", "_t")
-t("#GREY#Developer tool", "#GREY#Developer tool", "_t")
-t("#LIGHT_RED#Donator Status: Disabled", "#LIGHT_RED#Donator Status: Disabled", "_t")
-t("#LIGHT_GREEN#Manual: Active", "#LIGHT_GREEN#Manual: Active", "_t")
-t("#LIGHT_RED#Manual: Disabled", "#LIGHT_RED#Manual: Disabled", "_t")
-t("#LIGHT_GREEN#Auto: Active", "#LIGHT_GREEN#Auto: Active", "_t")
+t("Active", "Activo", "_t")
+t("#GREY#Developer tool", "#GREY#Herramienta de desarrollo", "_t")
+t("#LIGHT_RED#Donator Status: Disabled", "#LIGHT_RED#Estado de donante: Desactivado", "_t")
+t("#LIGHT_GREEN#Manual: Active", "#LIGHT_GREEN#Manual: Activo", "_t")
+t("#LIGHT_RED#Manual: Disabled", "#LIGHT_RED#Manual: Desactivado", "_t")
+t("#LIGHT_GREEN#Auto: Active", "#LIGHT_GREEN#Auto: Activo", "_t")
 t("#LIGHT_RED#Auto: Incompatible", "#LIGHT_RED#Auto: Incompatible", "_t")
-t("Addon Version", "Addon Version", "_t")
-t("Game Version", "Game Version", "_t")
+t("Addon Version", "Versión del addon", "_t")
+t("Game Version", "Versión del juego", "_t")
 --]==]
 
 
@@ -330,23 +330,23 @@ section "mod-boot/mod/dialogs/Credits.lua"
 
 -- new text
 --[==[
-t("Project Lead", "Project Lead", "_t")
-t("Lead Coder", "Lead Coder", "_t")
-t("World Builders", "World Builders", "_t")
-t("Graphic Artists", "Graphic Artists", "_t")
-t("Expert Shaders Design", "Expert Shaders Design", "_t")
-t("Soundtracks", "Soundtracks", "_t")
-t("Sound Designer", "Sound Designer", "_t")
-t("Lore Creation and Writing", "Lore Creation and Writing", "_t")
-t("Code Heroes", "Code Heroes", "_t")
+t("Project Lead", "Director del proyecto", "_t")
+t("Lead Coder", "Programador principal", "_t")
+t("World Builders", "Constructores del mundo", "_t")
+t("Graphic Artists", "Artistas gráficos", "_t")
+t("Expert Shaders Design", "Diseño experto de shaders", "_t")
+t("Soundtracks", "Banda sonora", "_t")
+t("Sound Designer", "Diseñador de sonido", "_t")
+t("Lore Creation and Writing", "Creación y escritura del lore", "_t")
+t("Code Heroes", "Héroes del código", "_t")
 t("Community Managers", "Community Managers", "_t")
-t("Text Editors", "Text Editors", "_t")
-t("Chinese Translation Lead", "Chinese Translation Lead", "_t")
-t("Chinese Translators", "Chinese Translators", "_t")
-t("Korean Translation", "Korean Translation", "_t")
-t("Japanese Translation", "Japanese Translation", "_t")
-t("The Community", "The Community", "_t")
-t("Others", "Others", "_t")
+t("Text Editors", "Editores de texto", "_t")
+t("Chinese Translation Lead", "Líder de traducción al chino", "_t")
+t("Chinese Translators", "Traductores al chino", "_t")
+t("Korean Translation", "Traducción al coreano", "_t")
+t("Japanese Translation", "Traducción al japonés", "_t")
+t("The Community", "La comunidad", "_t")
+t("Others", "Otros", "_t")
 --]==]
 
 
@@ -356,12 +356,12 @@ section "mod-boot/mod/dialogs/FirstRun.lua"
 
 -- new text
 --[==[
-t("Welcome to Tales of Maj'Eyal", "Welcome to Tales of Maj'Eyal", "_t")
-t("Register now!", "Register now!", "_t")
-t("Login existing account", "Login existing account", "_t")
-t("Maybe later", "Maybe later", "_t")
-t("#RED#Disable all online features", "#RED#Disable all online features", "_t")
-t("Disable all connectivity", "Disable all connectivity", "_t")
+t("Welcome to Tales of Maj'Eyal", "Bienvenido a Tales of Maj'Eyal", "_t")
+t("Register now!", "¡Regístrate ahora!", "_t")
+t("Login existing account", "Iniciar sesión existente", "_t")
+t("Maybe later", "Quizás más tarde", "_t")
+t("#RED#Disable all online features", "#RED#Desactivar funciones online", "_t")
+t("Disable all connectivity", "Desactivar toda conectividad", "_t")
 t([[You are about to disable all connectivity to the network.
 This includes, but is not limited to:
 - Player profiles: You will not be able to login, register
@@ -391,8 +391,8 @@ This includes, but is not limited to:
 #{bold}##CRIMSON#This is an extremely restrictive setting. It is recommended you only activate it if you have no other choice as it will remove many fun and acclaimed features.#{normal}#
 
 If you disable this option you can always re-activate it in the Online category of the Game Options menu later on.]], "_t")
-t("Cancel", "Cancel", "_t")
-t("#RED#Disable all!", "#RED#Disable all!", "_t")
+t("Cancel", "Cancelar", "_t")
+t("#RED#Disable all!", "#RED#¡Desactivar todo!", "_t")
 --]==]
 
 
@@ -402,11 +402,11 @@ section "mod-boot/mod/dialogs/LoadGame.lua"
 
 -- new text
 --[==[
-t("Load Game", "Load Game", "_t")
-t("Show older versions", "Show older versions", "_t")
-t("Ignore unloadable addons", "Ignore unloadable addons", "_t")
-t("  Play!  ", "  Play!  ", "_t")
-t("Delete", "Delete", "_t")
+t("Load Game", "Cargar partida", "_t")
+t("Show older versions", "Mostrar versiones antiguas", "_t")
+t("Ignore unloadable addons", "Ignorar addons no cargables", "_t")
+t("  Play!  ", "  ¡Jugar!  ", "_t")
+t("Delete", "Eliminar", "_t")
 t([[#{bold}##GOLD#%s: %s#WHITE##{normal}#
 Game version: %d.%d.%d
 Requires addons: %s
@@ -416,24 +416,24 @@ Game version: %d.%d.%d
 Requires addons: %s
 
 %s]], "tformat")
-t("You can simply grab an older version of the game from where you downloaded it.", "You can simply grab an older version of the game from where you downloaded it.", "_t")
+t("You can simply grab an older version of the game from where you downloaded it.", "Puedes descargar una versión anterior desde donde descargaste el juego.", "_t")
 t("You can downgrade the version by selecting it in the Steam's \"Beta\" properties of the game.", "You can downgrade the version by selecting it in the Steam's \"Beta\" properties of the game.", "_t")
-t("Original game version not found", "Original game version not found", "_t")
+t("Original game version not found", "Versión original no encontrada", "_t")
 t([[This savefile was created with game version %s. You can try loading it with the current version if you wish but it is recommended you play it with the old version to ensure compatibility
 %s]], [[This savefile was created with game version %s. You can try loading it with the current version if you wish but it is recommended you play it with the old version to ensure compatibility
 %s]], "tformat")
-t("Cancel", "Cancel", "_t")
-t("Run with newer version", "Run with newer version", "_t")
-t("Developer Mode", "Developer Mode", "_t")
-t("#LIGHT_RED#WARNING: #LAST#Loading a savefile while in developer mode will permanently invalidate it. Proceed?", "#LIGHT_RED#WARNING: #LAST#Loading a savefile while in developer mode will permanently invalidate it. Proceed?", "_t")
-t("Load anyway", "Load anyway", "_t")
-t("Delete savefile", "Delete savefile", "_t")
-t("Really delete #{bold}##GOLD#%s#WHITE##{normal}#", "Really delete #{bold}##GOLD#%s#WHITE##{normal}#", "tformat")
-t("Old game data", "Old game data", "_t")
-t("No data available for this game version.", "No data available for this game version.", "_t")
-t("Downloading old game data: #LIGHT_GREEN#", "Downloading old game data: #LIGHT_GREEN#", "_t")
-t("Old game data for %s correctly installed. You can now play.", "Old game data for %s correctly installed. You can now play.", "tformat")
-t("Failed to install.", "Failed to install.", "_t")
+t("Cancel", "Cancelar", "_t")
+t("Run with newer version", "Ejecutar con versión reciente", "_t")
+t("Developer Mode", "Modo desarrollador", "_t")
+t("#LIGHT_RED#WARNING: #LAST#Loading a savefile while in developer mode will permanently invalidate it. Proceed?", "#LIGHT_RED#AVISO: #LAST#Cargar una partida en modo desarrollador la invalidara permanentemente. ?Proceder?", "_t")
+t("Load anyway", "Cargar de todas formas", "_t")
+t("Delete savefile", "Eliminar partida", "_t")
+t("Really delete #{bold}##GOLD#%s#WHITE##{normal}#", "¿Eliminar #{bold}##GOLD#%s#WHITE##{normal}#?", "tformat")
+t("Old game data", "Datos antiguos", "_t")
+t("No data available for this game version.", "No hay datos para esta versión.", "_t")
+t("Downloading old game data: #LIGHT_GREEN#", "Descargando datos antiguos: #LIGHT_GREEN#", "_t")
+t("Old game data for %s correctly installed. You can now play.", "Datos antiguos para %s instalados. Ya puedes jugar.", "tformat")
+t("Failed to install.", "Error al instalar.", "_t")
 --]==]
 
 
@@ -443,17 +443,17 @@ section "mod-boot/mod/dialogs/MainMenu.lua"
 
 -- new text
 --[==[
-t("Main Menu", "Main Menu", "_t")
-t("New Game", "New Game", "_t")
-t("Load Game", "Load Game", "_t")
+t("Main Menu", "Menú principal", "_t")
+t("New Game", "Nueva partida", "_t")
+t("Load Game", "Cargar partida", "_t")
 t("Addons", "Addons", "_t")
-t("Options", "Options", "_t")
-t("Game Options", "Game Options", "_t")
-t("Credits", "Credits", "_t")
-t("Exit", "Exit", "_t")
-t("Reboot", "Reboot", "_t")
-t("Disable animated background", "Disable animated background", "_t")
-t("#{bold}##B9E100#T-Engine4 version: %d.%d.%d", "#{bold}##B9E100#T-Engine4 version: %d.%d.%d", "tformat")
+t("Options", "Opciones", "_t")
+t("Game Options", "Opciones del juego", "_t")
+t("Credits", "Créditos", "_t")
+t("Exit", "Salir", "_t")
+t("Reboot", "Reiniciar", "_t")
+t("Disable animated background", "Desactivar fondo animado", "_t")
+t("#{bold}##B9E100#T-Engine4 version: %d.%d.%d", "#{bold}##B9E100#Versión T-Engine4: %d.%d.%d", "tformat")
 t([[#{bold}##GOLD#Ashes of Urh'Rok - Expansion#LAST##{normal}#
 #{italic}##ANTIQUE_WHITE#Many in Maj'Eyal have heard of "demons", sadistic creatures who appear seemingly from nowhere, leaving a trail of suffering and destruction wherever they go.#{normal}##LAST#
 
@@ -473,8 +473,8 @@ t([[#{bold}##GOLD#Ashes of Urh'Rok - Expansion#LAST##{normal}#
 #LIGHT_UMBER#New artifacts, lore, zones, events...#WHITE# For your demonic delight!
 
 ]], "_t")
-t("#LIGHT_GREEN#Installed", "#LIGHT_GREEN#Installed", "_t")
-t("#YELLOW#Not installed - Click to download / purchase", "#YELLOW#Not installed - Click to download / purchase", "_t")
+t("#LIGHT_GREEN#Installed", "#LIGHT_GREEN#Instalado", "_t")
+t("#YELLOW#Not installed - Click to download / purchase", "#YELLOW#No instalado - Click para descargar/comprar", "_t")
 t([[#{bold}##GOLD#Embers of Rage - Expansion#LAST##{normal}#
 #{italic}##ANTIQUE_WHITE#One year has passed since the one the Orcs call the "Scourge from the West" came and single-handedly crushed the Orc Prides of Grushnak, Vor, Gorbat, and Rak'Shor.  The Allied Kingdoms, now linked by farportal to their distant, long-lost Sunwall allies, have helped them conquer most of Var'Eyal.  The few remnants of the ravaged Prides are caged...  but one Pride remains.#{normal}##LAST#
 
@@ -525,22 +525,22 @@ t([[#{bold}##GOLD#Forgotten Cults - Expansion#LAST##{normal}#
 #LIGHT_UMBER#A ton#WHITE# of artifacts, lore, events... 
 
 ]], "_t")
-t("#GOLD#Online Profile", "#GOLD#Online Profile", "_t")
-t("Login", "Login", "_t")
-t("Register", "Register", "_t")
-t("Username: ", "Username: ", "_t")
-t("Password: ", "Password: ", "_t")
-t("Login with Steam", "Login with Steam", "_t")
-t("#GOLD#Online Profile#WHITE#", "#GOLD#Online Profile#WHITE#", "_t")
+t("#GOLD#Online Profile", "#GOLD#Perfil online", "_t")
+t("Login", "Iniciar sesión", "_t")
+t("Register", "Registrarse", "_t")
+t("Username: ", "Usuario: ", "_t")
+t("Password: ", "Contraseña: ", "_t")
+t("Login with Steam", "Iniciar sesión con Steam", "_t")
+t("#GOLD#Online Profile#WHITE#", "#GOLD#Perfil online#WHITE#", "_t")
 t("#LIGHT_BLUE##{underline}#%s#LAST##{normal}#", "#LIGHT_BLUE##{underline}#%s#LAST##{normal}#", "tformat")
-t("#LIGHT_BLUE##{underline}#Logout", "#LIGHT_BLUE##{underline}#Logout", "_t")
-t("Username", "Username", "_t")
-t("Your username is too short", "Your username is too short", "_t")
-t("Password", "Password", "_t")
-t("Your password is too short", "Your password is too short", "_t")
-t("Login...", "Login...", "_t")
-t("Logging in your account, please wait...", "Logging in your account, please wait...", "_t")
-t("Steam client not found.", "Steam client not found.", "_t")
+t("#LIGHT_BLUE##{underline}#Logout", "#LIGHT_BLUE##{underline}#Cerrar sesión", "_t")
+t("Username", "Usuario", "_t")
+t("Your username is too short", "Tu usuario es demasiado corto", "_t")
+t("Password", "Contraseña", "_t")
+t("Your password is too short", "Tu contraseña es demasiado corta", "_t")
+t("Login...", "Iniciando sesión...", "_t")
+t("Logging in your account, please wait...", "Iniciando sesión, espera...", "_t")
+t("Steam client not found.", "Cliente Steam no encontrado.", "_t")
 --]==]
 
 
@@ -550,20 +550,20 @@ section "mod-boot/mod/dialogs/NewGame.lua"
 
 -- new text
 --[==[
-t("New Game", "New Game", "_t")
-t("Show all versions", "Show all versions", "_t")
-t("Show incompatible", "Show incompatible", "_t")
+t("New Game", "Nueva partida", "_t")
+t("Show all versions", "Mostrar todas las versiones", "_t")
+t("Show incompatible", "Mostrar incompatibles", "_t")
 t([[You can get new games at
 #LIGHT_BLUE##{underline}#https://te4.org/games#{normal}#]], [[You can get new games at
 #LIGHT_BLUE##{underline}#https://te4.org/games#{normal}#]], "_t")
-t("Game Module", "Game Module", "_t")
-t("Version", "Version", "_t")
-t("Enter your character's name", "Enter your character's name", "_t")
-t("Overwrite character?", "Overwrite character?", "_t")
-t("There is already a character with this name, do you want to overwrite it?", "There is already a character with this name, do you want to overwrite it?", "_t")
+t("Game Module", "Módulo del juego", "_t")
+t("Version", "Versión", "_t")
+t("Enter your character's name", "Introduce el nombre de tu personaje", "_t")
+t("Overwrite character?", "¿Sobrescribir personaje?", "_t")
+t("There is already a character with this name, do you want to overwrite it?", "Ya existe un personaje con ese nombre, ¿quieres sobrescribirlo?", "_t")
 t("No", "No", "_t")
-t("Yes", "Yes", "_t")
-t("This game is not compatible with your version of T-Engine, you can still try it but it might break.", "This game is not compatible with your version of T-Engine, you can still try it but it might break.", "_t")
+t("Yes", "Sí", "_t")
+t("This game is not compatible with your version of T-Engine, you can still try it but it might break.", "Este juego no es compatible con tu version de T-Engine, puedes probarlo pero podria romperse.", "_t")
 --]==]
 
 
@@ -573,14 +573,14 @@ section "mod-boot/mod/dialogs/Profile.lua"
 
 -- new text
 --[==[
-t("Player Profile", "Player Profile", "_t")
-t("Logout", "Logout", "_t")
-t("You are logged in", "You are logged in", "_t")
-t("Do you want to log out?", "Do you want to log out?", "_t")
-t("Log out", "Log out", "_t")
-t("Cancel", "Cancel", "_t")
-t("Login", "Login", "_t")
-t("Create Account", "Create Account", "_t")
+t("Player Profile", "Perfil del jugador", "_t")
+t("Logout", "Cerrar sesión", "_t")
+t("You are logged in", "Has iniciado sesión", "_t")
+t("Do you want to log out?", "¿Quieres cerrar sesión?", "_t")
+t("Log out", "Cerrar sesión", "_t")
+t("Cancel", "Cancelar", "_t")
+t("Login", "Iniciar sesión", "_t")
+t("Create Account", "Crear cuenta", "_t")
 --]==]
 
 
@@ -590,26 +590,26 @@ section "mod-boot/mod/dialogs/ProfileLogin.lua"
 
 -- new text
 --[==[
-t("Online profile ", "Online profile ", "_t")
-t("Username: ", "Username: ", "_t")
-t("Password: ", "Password: ", "_t")
-t("Login", "Login", "_t")
-t("Cancel", "Cancel", "_t")
-t("Password again: ", "Password again: ", "_t")
+t("Online profile ", "Perfil online ", "_t")
+t("Username: ", "Usuario: ", "_t")
+t("Password: ", "Contraseña: ", "_t")
+t("Login", "Iniciar sesión", "_t")
+t("Cancel", "Cancelar", "_t")
+t("Password again: ", "Contraseña de nuevo: ", "_t")
 t("Email: ", "Email: ", "_t")
-t("Accept to receive #{bold}#very infrequent#{normal}# (a few per year) mails about important game events from us.", "Accept to receive #{bold}#very infrequent#{normal}# (a few per year) mails about important game events from us.", "_t")
-t("You at least 16 years old, or have parental authorization to play the game.", "You at least 16 years old, or have parental authorization to play the game.", "_t")
-t("Create", "Create", "_t")
-t("Privacy Policy (opens in browser)", "Privacy Policy (opens in browser)", "_t")
-t("Password", "Password", "_t")
-t("Password mismatch!", "Password mismatch!", "_t")
-t("Username", "Username", "_t")
-t("Your username is too short", "Your username is too short", "_t")
-t("Your password is too short", "Your password is too short", "_t")
+t("Accept to receive #{bold}#very infrequent#{normal}# (a few per year) mails about important game events from us.", "Acepto recibir #{bold}#poco frecuentes#{normal}# (unas pocas al anyo) emails sobre eventos importantes del juego.", "_t")
+t("You at least 16 years old, or have parental authorization to play the game.", "Tienes al menos 16 años, o autorización parental para jugar.", "_t")
+t("Create", "Crear", "_t")
+t("Privacy Policy (opens in browser)", "Política de privacidad (se abre en el navegador)", "_t")
+t("Password", "Contraseña", "_t")
+t("Password mismatch!", "¡Las contraseñas no coinciden!", "_t")
+t("Username", "Usuario", "_t")
+t("Your username is too short", "Tu usuario es demasiado corto", "_t")
+t("Your password is too short", "Tu contraseña es demasiado corta", "_t")
 t("Email", "Email", "_t")
-t("Your email seems invalid", "Your email seems invalid", "_t")
-t("Age Check", "Age Check", "_t")
-t("You need to be 16 years old or more or to have parental authorization to play this game.", "You need to be 16 years old or more or to have parental authorization to play this game.", "_t")
+t("Your email seems invalid", "Tu email parece inválido", "_t")
+t("Age Check", "Verificación de edad", "_t")
+t("You need to be 16 years old or more or to have parental authorization to play this game.", "Necesitas 16 años o más, o autorización parental para jugar.", "_t")
 --]==]
 
 
@@ -619,7 +619,7 @@ section "mod-boot/mod/dialogs/ProfileSteamRegister.lua"
 
 -- new text
 --[==[
-t("Steam User Account", "Steam User Account", "_t")
+t("Steam User Account", "Cuenta de usuario Steam", "_t")
 t([[Welcome to #GOLD#Tales of Maj'Eyal#LAST#.
 To enjoy all the features the game has to offer it is #{bold}#highly#{normal}# recommended that you register your steam account.
 Luckily this is very easy to do: you only require a profile name and optionally an email (we send very few email, maybe two a year at most).
@@ -627,24 +627,24 @@ Luckily this is very easy to do: you only require a profile name and optionally 
 To enjoy all the features the game has to offer it is #{bold}#highly#{normal}# recommended that you register your steam account.
 Luckily this is very easy to do: you only require a profile name and optionally an email (we send very few email, maybe two a year at most).
 ]], "_t")
-t("Username: ", "Username: ", "_t")
+t("Username: ", "Usuario: ", "_t")
 t("Email: ", "Email: ", "_t")
-t("Accept to receive #{bold}#very infrequent#{normal}# (a few per year) mails about important game events from us.", "Accept to receive #{bold}#very infrequent#{normal}# (a few per year) mails about important game events from us.", "_t")
-t("You at least 16 years old, or have parental authorization to play the game.", "You at least 16 years old, or have parental authorization to play the game.", "_t")
-t("Register", "Register", "_t")
-t("Cancel", "Cancel", "_t")
-t("Privacy Policy (opens in browser)", "Privacy Policy (opens in browser)", "_t")
-t("Username", "Username", "_t")
-t("Your username is too short", "Your username is too short", "_t")
+t("Accept to receive #{bold}#very infrequent#{normal}# (a few per year) mails about important game events from us.", "Acepto recibir #{bold}#poco frecuentes#{normal}# (unas pocas al anyo) emails sobre eventos importantes del juego.", "_t")
+t("You at least 16 years old, or have parental authorization to play the game.", "Tienes al menos 16 años, o autorización parental para jugar.", "_t")
+t("Register", "Registrarse", "_t")
+t("Cancel", "Cancelar", "_t")
+t("Privacy Policy (opens in browser)", "Política de privacidad (se abre en el navegador)", "_t")
+t("Username", "Usuario", "_t")
+t("Your username is too short", "Tu usuario es demasiado corto", "_t")
 t("Email", "Email", "_t")
-t("Your email does not look right.", "Your email does not look right.", "_t")
-t("Age Check", "Age Check", "_t")
-t("You need to be 16 years old or more or to have parental authorization to play this game.", "You need to be 16 years old or more or to have parental authorization to play this game.", "_t")
-t("Registering...", "Registering...", "_t")
-t("Registering on https://te4.org/, please wait...", "Registering on https://te4.org/, please wait...", "_t")
-t("Steam client not found.", "Steam client not found.", "_t")
+t("Your email does not look right.", "Tu email no parece correcto.", "_t")
+t("Age Check", "Verificación de edad", "_t")
+t("You need to be 16 years old or more or to have parental authorization to play this game.", "Necesitas 16 años o más, o autorización parental para jugar.", "_t")
+t("Registering...", "Registrando...", "_t")
+t("Registering on https://te4.org/, please wait...", "Registrando en https://te4.org/, espera...", "_t")
+t("Steam client not found.", "Cliente Steam no encontrado.", "_t")
 t("Error", "Error", "_t")
-t("Username or Email already taken, please select an other one.", "Username or Email already taken, please select an other one.", "_t")
+t("Username or Email already taken, please select an other one.", "Usuario o Email ya en uso, elige otro.", "_t")
 --]==]
 
 
@@ -654,23 +654,23 @@ section "mod-boot/mod/dialogs/UpdateAll.lua"
 
 -- new text
 --[==[
-t("Update all game modules", "Update all game modules", "_t")
+t("Update all game modules", "Actualizar todos los módulos", "_t")
 t([[All those components will be updated:
 ]], [[All those components will be updated:
 ]], "_t")
-t("Component", "Component", "_t")
-t("Version", "Version", "_t")
-t("Nothing to update", "Nothing to update", "_t")
-t("All your game modules are up to date.", "All your game modules are up to date.", "_t")
-t("Game: #{bold}##GOLD#", "Game: #{bold}##GOLD#", "_t")
-t("Engine: #{italic}##LIGHT_BLUE#", "Engine: #{italic}##LIGHT_BLUE#", "_t")
-t("Error!", "Error!", "_t")
+t("Component", "Componente", "_t")
+t("Version", "Versión", "_t")
+t("Nothing to update", "Nada que actualizar", "_t")
+t("All your game modules are up to date.", "Todos tus módulos están actualizados.", "_t")
+t("Game: #{bold}##GOLD#", "Juego: #{bold}##GOLD#", "_t")
+t("Engine: #{italic}##LIGHT_BLUE#", "Motor: #{italic}##LIGHT_BLUE#", "_t")
+t("Error!", "¡Error!", "_t")
 t([[There was an error while downloading:
 ]], [[There was an error while downloading:
 ]], "_t")
-t("Downloading: ", "Downloading: ", "_t")
-t("Update", "Update", "_t")
-t("All updates installed, the game will now restart", "All updates installed, the game will now restart", "_t")
+t("Downloading: ", "Descargando: ", "_t")
+t("Update", "Actualizar", "_t")
+t("All updates installed, the game will now restart", "Todas las actualizaciones instaladas, el juego se reiniciará", "_t")
 --]==]
 
 
@@ -680,10 +680,10 @@ section "mod-boot/mod/dialogs/ViewHighScores.lua"
 
 -- new text
 --[==[
-t("View High Scores", "View High Scores", "_t")
-t("Game Module", "Game Module", "_t")
-t("Version", "Version", "_t")
-t("World", "World", "_t")
+t("View High Scores", "Ver altas puntuaciones", "_t")
+t("Game Module", "Módulo del juego", "_t")
+t("Version", "Versión", "_t")
+t("World", "Mundo", "_t")
 t([[#{bold}##GOLD#%s#GREEN# High Scores#WHITE##{normal}#
 
 ]], [[#{bold}##GOLD#%s#GREEN# High Scores#WHITE##{normal}#
@@ -703,7 +703,7 @@ section "mod-boot/mod/init.lua"
 
 -- new text
 --[==[
-t("Tales of Maj'Eyal Main Menu", "Tales of Maj'Eyal Main Menu", "init.lua long_name")
+t("Tales of Maj'Eyal Main Menu", "Menú principal de Tales of Maj'Eyal", "init.lua long_name")
 t([[Bootmenu!
 ]], [[Bootmenu!
 ]], "init.lua description")
@@ -716,12 +716,12 @@ section "mod-boot/mod/load.lua"
 
 -- new text
 --[==[
-t("Strength", "Strength", "stat name")
-t("str", "str", "stat short_name")
-t("Dexterity", "Dexterity", "stat name")
-t("dex", "dex", "stat short_name")
-t("Constitution", "Constitution", "stat name")
-t("con", "con", "stat short_name")
+t("Strength", "Fuerza", "stat name")
+t("str", "Fue", "stat short_name")
+t("Dexterity", "Destreza", "stat name")
+t("dex", "Des", "stat short_name")
+t("Constitution", "Constitución", "stat name")
+t("con", "Con", "stat short_name")
 --]==]
 
 
