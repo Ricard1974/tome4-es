@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Acid Infusion", "Acid Infusion", "talent name")
+t("Acid Infusion", "Infusión ácida", "talent name")
 t("Caustic Golem", "Caustic Golem", "talent name")
 t("Caustic Mire", "Caustic Mire", "talent name")
 t("Dissolving Acid", "Dissolving Acid", "talent name")

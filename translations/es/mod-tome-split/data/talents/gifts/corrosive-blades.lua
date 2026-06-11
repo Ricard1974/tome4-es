@@ -9,5 +9,5 @@ t("Corrosive Nature", "Corrosive Nature", "talent name")
 t("trap", "trap", "_t")
 t("Corrosive Seeds", "Corrosive Seeds", "talent name")
 t("You somehow fail to set the corrosive seed.", "You somehow fail to set the corrosive seed.", "logPlayer")
-t("Acidic Soil", "Acidic Soil", "talent name")
+t("Acidic Soil", "Suelo ácido", "talent name")
 

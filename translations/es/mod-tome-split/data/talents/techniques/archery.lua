@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shoot", "Shoot", "talent name")
+t("Shoot", "Disparar", "talent name")
 t("@Source@ shoots!", "@Source@ shoots!", "_t")
 t("Shoot your bow, sling or other missile launcher!", "Shoot your bow, sling or other missile launcher!", "tformat")
 t("Steady Shot", "Steady Shot", "talent name")
-t("Pin Down", "Pin Down", "talent name")
+t("Pin Down", "Inmovilizar", "talent name")
 t("Fragmentation Shot", "Fragmentation Shot", "talent name")
-t("Scatter Shot", "Scatter Shot", "talent name")
+t("Scatter Shot", "Disparo disperso", "talent name")
 t("%s resists the scattershot!", "%s resists the scattershot!", "logSeen")
 t("Headshot", "Headshot", "talent name")
-t("Volley", "Volley", "talent name")
+t("Volley", "Lluvia de flechas", "talent name")
 t("Called Shots", "Called Shots", "talent name")
 t("%s resists the silence!", "%s resists the silence!", "logSeen")
 t("%s resists the disarm!", "%s resists the disarm!", "logSeen")

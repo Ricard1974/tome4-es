@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Apply Poison", "Apply Poison", "talent name")
+t("Apply Poison", "Aplicar veneno", "talent name")
 t("%s resists the vile poison!", "%s resists the vile poison!", "logSeen")
 t("Toxic Death", "Toxic Death", "talent name")
 t("#GREEN#Poison bursts out of %s's corpse!", "#GREEN#Poison bursts out of %s's corpse!", "logSeen")
@@ -16,7 +16,7 @@ t("Numbing Poison", "Numbing Poison", "talent name")
 t("Enhances your Deadly Poison with a numbing agent, causing the poison to reduce all damage the target deals by %d%%.", "Enhances your Deadly Poison with a numbing agent, causing the poison to reduce all damage the target deals by %d%%.", "tformat")
 t("Insidious Poison", "Insidious Poison", "talent name")
 t("Enhances your Deadly Poison with an insidious agent, causing it to reduce the healing taken by enemies by %d%%.", "Enhances your Deadly Poison with an insidious agent, causing it to reduce the healing taken by enemies by %d%%.", "tformat")
-t("Crippling Poison", "Crippling Poison", "talent name")
+t("Crippling Poison", "Veneno paralizante", "talent name")
 t("Enhances your Deadly Poison with a crippling agent, giving enemies a %d%% chance on using a talent to fail and lose a turn.", "Enhances your Deadly Poison with a crippling agent, giving enemies a %d%% chance on using a talent to fail and lose a turn.", "tformat")
 t("Leeching Poison", "Leeching Poison", "talent name")
 t("Enhances your Deadly Poison with a leeching agent, causing it to heal you for %d%% of the damage it does to its target.", "Enhances your Deadly Poison with a leeching agent, causing it to heal you for %d%% of the damage it does to its target.", "tformat")

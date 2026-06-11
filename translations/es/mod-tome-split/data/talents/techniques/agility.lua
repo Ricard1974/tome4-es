@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Agile Defense", "Agile Defense", "talent name")
+t("Agile Defense", "Defensa ágil", "talent name")
 t("%s(%d deflected)#LAST#", "%s(%d deflected)#LAST#", "tformat")
 t("Vault", "Vault", "talent name")
 t("You require a shield to use this talent.", "You require a shield to use this talent.", "logPlayer")

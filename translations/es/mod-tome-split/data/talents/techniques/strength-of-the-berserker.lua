@@ -12,7 +12,7 @@ t("Shout your warcry in a frontal cone of radius %d. Any targets caught inside w
 t("Berserker Rage", "Ira del berserker", "talent name")
 t("#Source#'s rage awakens!", "#Source#'s rage awakens!", "logCombat")
 t("#Source#'s rage subsides!", "#Source#'s rage subsides!", "logCombat")
-t("Shattering Blow", "Shattering Blow", "talent name")
+t("Shattering Blow", "Golpe demoledor", "talent name")
 t("#CRIMSON#%s shatters %s shield!", "#CRIMSON#%s shatters %s shield!", "logSeen")
 t("Relentless Fury", "Furia implacable", "talent name")
 t("You require a two handed weapon and less stamina to use this talent.", "You require a two handed weapon and less stamina to use this talent.", "logPlayer")

@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Empty Hand", "Empty Hand", "talent name")
-t("Unarmed Mastery", "Unarmed Mastery", "talent name")
-t("Unified Body", "Unified Body", "talent name")
+t("Empty Hand", "Mano vacía", "talent name")
+t("Unarmed Mastery", "Maestría sin armas", "talent name")
+t("Unified Body", "Cuerpo unificado", "talent name")
 t("Your mastery of unarmed combat unifies your body. Increases your Strength by %d based on Cunning and your Constitution by %d based on Dexterity.", "Your mastery of unarmed combat unifies your body. Increases your Strength by %d based on Cunning and your Constitution by %d based on Dexterity.", "tformat")
 t("Heightened Reflexes", "Heightened Reflexes", "talent name")
 t("When you're targeted by a projectile, your global speed is increased by %d%% for 1 turn.  Taking any action other than movement will break the effect.", "When you're targeted by a projectile, your global speed is increased by %d%% for 1 turn.  Taking any action other than movement will break the effect.", "tformat")

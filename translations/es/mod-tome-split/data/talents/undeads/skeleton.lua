@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Skeleton", "Skeleton", "talent name")
+t("Skeleton", "Esqueleto", "talent name")
 t("Improves your skeletal condition, increasing Strength and Dexterity by %d.", "Improves your skeletal condition, increasing Strength and Dexterity by %d.", "tformat")
 t("Bone Armour", "Armadura de hueso", "talent name")
 t("Resilient Bones", "Resilient Bones", "talent name")

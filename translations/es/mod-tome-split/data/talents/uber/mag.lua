@@ -9,7 +9,7 @@ t("Know the Block talent, have cast 100 spells, and have a block value over 200"
 t("By infusing your shield with raw magic, your block can now block any damage type.", "By infusing your shield with raw magic, your block can now block any damage type.", "tformat")
 t("Ethereal Form", "Ethereal Form", "talent name")
 t("Have an effective defense of at least 40", "Have an effective defense of at least 40", "_t")
-t("Aether Permeation", "Aether Permeation", "talent name")
+t("Aether Permeation", "Permeación de éter", "talent name")
 t("Have been exposed to the void of space", "Have been exposed to the void of space", "_t")
 t("#ORCHID#Aether Permeation protects %s from a dispel!", "#ORCHID#Aether Permeation protects %s from a dispel!", "logSeen")
 t("Mystical Cunning", "Mystical Cunning", "talent name")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Virulent Disease", "Virulent Disease", "talent name")
+t("Virulent Disease", "Enfermedad virulenta", "talent name")
 t("%s resists the disease!", "%s resists the disease!", "logSeen")
 t("Cyst Burst", "Cyst Burst", "talent name")
 t("Catalepsy", "Catalepsy", "talent name")

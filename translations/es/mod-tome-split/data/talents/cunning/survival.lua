@@ -6,7 +6,7 @@
 
 t("Heightened Senses", "Heightened Senses", "talent name")
 t("Device Mastery", "Device Mastery", "talent name")
-t("Track", "Track", "talent name")
+t("Track", "Rastrear", "talent name")
 t("Danger Sense", "Danger Sense", "talent name")
 t("Disarm Trap", "Disarm Trap", "talent name")
 t("#CADET_BLUE#Disarm A Trap: (direction keys to select where to disarm, shift+direction keys to move freely)", "#CADET_BLUE#Disarm A Trap: (direction keys to select where to disarm, shift+direction keys to move freely)", "log")

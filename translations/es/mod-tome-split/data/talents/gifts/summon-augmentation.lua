@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Rage", "Rage", "talent name")
-t("Detonate", "Detonate", "talent name")
+t("Rage", "Ira", "talent name")
+t("Detonate", "Detonar", "talent name")
 t("Resilience", "Resilience", "talent name")
 t("Increases all your summons' max life by %0.1f%% and extends your summons' maximum lifetime by %d turns.", "Increases all your summons' max life by %0.1f%% and extends your summons' maximum lifetime by %d turns.", "tformat")
 t("Phase Summon", "Phase Summon", "talent name")

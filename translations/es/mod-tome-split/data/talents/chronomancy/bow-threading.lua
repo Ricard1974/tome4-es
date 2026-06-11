@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Arrow Stitching", "Arrow Stitching", "talent name")
+t("Arrow Stitching", "Lluvia de flechas", "talent name")
 t("Singularity Arrow", "Singularity Arrow", "talent name")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("%s is drawn in by the singularity!", "%s is drawn in by the singularity!", "logSeen")

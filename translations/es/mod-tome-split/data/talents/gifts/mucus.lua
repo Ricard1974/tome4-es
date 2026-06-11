@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Mucus", "Mucus", "talent name")
-t("Acid Splash", "Acid Splash", "talent name")
+t("Acid Splash", "Salpicadura ácida", "talent name")
 t("Slime Spit", "Slime Spit", "talent name")
 t("Living Mucus", "Living Mucus", "talent name")
 t("%s's mucus ooze", "%s's mucus ooze", "tformat")

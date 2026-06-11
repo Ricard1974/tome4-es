@@ -1409,7 +1409,7 @@ section "engine/engine/interface/PlayerHotkeys.lua"
 -- new text
 --[==[
 t("Hotkey not defined", "Tecla no definida", "_t")
-t("You may define a hotkey by pressing 'm' and following the instructions there.", "You may define a hotkey by pressing 'm' and following the instructions there.", "_t")
+t("You may define a hotkey by pressing 'm' and following the instructions there.", "Puedes definir una tecla presionando 'm' y siguiendo las instrucciones.", "_t")
 t("Item not found", "Objeto no encontrado", "_t")
 t("You do not have any %s .", "No tienes ningún %s.", "tformat")
 --]==]

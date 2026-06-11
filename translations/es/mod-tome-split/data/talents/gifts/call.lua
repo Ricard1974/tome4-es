@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Meditation", "Meditation", "talent name")
+t("Meditation", "Meditación", "talent name")
 t("@Source@ interrupts @hisher@ #GREEN#meditation#LAST#.", "@Source@ interrupts @hisher@ #GREEN#meditation#LAST#.", "_t")
 t("@Source@ #GREEN#meditates#LAST# on nature.", "@Source@ #GREEN#meditates#LAST# on nature.", "_t")
 t("Nature's Touch", "Nature's Touch", "talent name")
