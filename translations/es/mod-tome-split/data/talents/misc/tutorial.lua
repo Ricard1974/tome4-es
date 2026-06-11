@@ -28,6 +28,6 @@ t("%s shakes off the fear!", "%s shakes off the fear!", "logSeen")
 t("Attempts to briefly terrify a target into retreating.", "Attempts to briefly terrify a target into retreating.", "tformat")
 t("Bleed", "Sangrado", "talent name")
 t("Inflicts a 10-turn bleed effect.", "Inflicts a 10-turn bleed effect.", "tformat")
-t("Confusion", "Confusion", "talent name")
+t("Confusion", "Confusión", "talent name")
 t("Use your mental powers to confuse the target for five turns.", "Use your mental powers to confuse the target for five turns.", "tformat")
 

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Sling Supremacy", "Sling Supremacy", "talent name")
+t("Sling Supremacy", "Supremacía de Sling", "talent name")
 t("Swift Shot", "Swift Disparo", "talent name")
 t("Double Archery (#LIGHT_GREEN#%d%%#LAST# of a turn)", "Double Archery (#LIGHT_GREEN#%d%%#LAST# of a turn)", "tformat")
 t("Hurricane Shot", "Hurricane Disparo", "talent name")

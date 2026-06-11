@@ -13,7 +13,7 @@ t("A brass container with a wick emerging from it, protected from draughts by a 
 t("alchemist's lamp", "lámpara de alquimista", "entity name")
 t("alchemist", "alchemist", "entity short_name")
 t("A normal brass lantern, enhanced by alchemy to make it brighter.", "A normal brass lantern, enhanced by alchemy to make it brighter.", "_t")
-t("dwarven lantern", "dwarven lantern", "entity name")
+t("dwarven lantern", "linterna enana", "entity name")
 t("dwarven", "dwarven", "entity short_name")
 t("Made by the Dwarves, this lantern provides light in the darkest recesses of the earth.", "Made by the Dwarves, this lantern provides light in the darkest recesses of the earth.", "_t")
 

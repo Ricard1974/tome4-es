@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Reproach", "Reproach", "talent name")
+t("Reproach", "Procesamiento", "talent name")
 t("Hateful Whisper", "Hateful Whisper", "talent name")
 t("Agony", "Agonía", "talent name")
 t("Madness", "Locura", "talent name")

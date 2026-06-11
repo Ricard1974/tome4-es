@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Flame Infusion", "Flame Infusión", "talent name")
-t("Smoke Bomb", "Smoke Bomb", "talent name")
+t("Smoke Bomb", "Bomba de humo", "talent name")
 t("Fire Storm", "Fuego Storm", "talent name")
 t("firestorm", "firestorm", "_t")
 t("Body of Fire", "Body of Fuego", "talent name")

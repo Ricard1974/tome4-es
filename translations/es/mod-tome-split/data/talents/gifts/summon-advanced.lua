@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Master Summoner", "Master Summoner", "talent name")
+t("Master Summoner", "Maestro Invocador", "talent name")
 t("Reduces the cooldown of all summons by %d%%.", "Reduces the cooldown of all summons by %d%%.", "tformat")
 t("Grand Arrival", "Grand Arrival", "talent name")
-t("Nature's Cycle", "Nature's Cycle", "talent name")
+t("Nature's Cycle", "Ciclo de la Naturaleza", "talent name")
 t("Wild Summon", "Wild Invocar", "talent name")
 

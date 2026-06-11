@@ -8,5 +8,5 @@ t("Gloom", "Penumbra", "talent name")
 t("#F53CBE#Your heart hardens as a powerful foe enters your gloom! (+%d hate)", "#F53CBE#Your heart hardens as a powerful foe enters your gloom! (+%d hate)", "logPlayer")
 t("Weakness", "Debilidad", "talent name")
 t("Mindrot", "Mindrot", "talent name")
-t("Sanctuary", "Sanctuary", "talent name")
+t("Sanctuary", "Santuario", "talent name")
 

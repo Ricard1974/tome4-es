@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Arcane Bolts", "Arcano Bolts", "talent name")
-t("Displace", "Displace", "talent name")
+t("Displace", "Desplazamiento", "talent name")
 t("Selects a displacement location...", "Selects a displacement location...", "logPlayer")
 t("Your attempt to displace fails!", "Your attempt to displace fails!", "logSeen")
 t("Instantaneously displace yourself within line of sight up to 3 squares away.", "Instantaneously displace yourself within line of sight up to 3 squares away.", "tformat")

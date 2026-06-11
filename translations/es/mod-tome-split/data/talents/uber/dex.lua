@@ -6,7 +6,7 @@
 
 t("Flexible Combat", "Combate flexible", "talent name")
 t("Each time that you make a melee attack you have a 50%% chance to execute an additional unarmed strike.", "Each time that you make a melee attack you have a 50%% chance to execute an additional unarmed strike.", "tformat")
-t("Through The Crowd", "Through The Crowd", "talent name")
+t("Through The Crowd", "A través del Crowd", "talent name")
 t("Have had at least 6 party members at the same time", "Have had at least 6 party members at the same time", "_t")
 t("Manage Swift Hands", "Manage Swift Manos", "talent name")
 t("You can only prepare your swift hands tools outside of combat.", "You can only prepare your swift hands tools outside of combat.", "logPlayer")
@@ -21,7 +21,7 @@ t("Know at least 10 talent levels of equilibrium-using talents", "Know at least 
 t("Crafty Hands", "Crafty Manos", "talent name")
 t("Know Imbue Item to level 5", "Know Imbue Item to level 5", "_t")
 t("You are very crafty. You can now also embed gems into helms and belts.", "You are very crafty. You can now also embed gems into helms and belts.", "tformat")
-t("Roll With It", "Roll With It", "talent name")
+t("Roll With It", "Rollo con él", "talent name")
 t("Have been knocked around at least 50 times", "Have been knocked around at least 50 times", "_t")
 t("Vital Shot", "Vital Disparo", "talent name")
 t("Have dealt over 50000 damage with ranged weapons", "Have dealt over 50000 damage with ranged weapons", "_t")

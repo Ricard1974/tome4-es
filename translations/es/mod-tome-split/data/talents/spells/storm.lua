@@ -7,5 +7,5 @@
 t("Nova", "Nova", "talent name")
 t("Shock", "Descarga", "talent name")
 t("Hurricane", "Huracán", "talent name")
-t("Tempest", "Tempest", "talent name")
+t("Tempest", "Tempestad", "talent name")
 

@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Corrupted Strength", "Corrupted Fuerza", "talent name")
-t("Bloodlust", "Bloodlust", "talent name")
+t("Bloodlust", "Sangre", "talent name")
 t("Carrier", "Carrier", "talent name")
 t("Acid Blood", "Sangre ácida", "talent name")
 

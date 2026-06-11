@@ -7,5 +7,5 @@
 t("Soul Leech", "Alma Drenar", "talent name")
 t("Consume Soul", "Consume Alma", "talent name")
 t("Torture Souls", "Torture Souls", "talent name")
-t("Reaping", "Reaping", "talent name")
+t("Reaping", "Reacción", "talent name")
 

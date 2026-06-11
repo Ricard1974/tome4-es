@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Earthen Missiles", "Earthen Missiles", "talent name")
+t("Earthen Missiles", "Misiles terrestres", "talent name")
 t("Elemental Split", "Elemental Split", "talent name")
 t("Crystaline Half (%s)", "Crystaline Half (%s)", "tformat")
 t("A crystaline structure that has taken the form of %s.", "A crystaline structure that has taken the form of %s.", "tformat")

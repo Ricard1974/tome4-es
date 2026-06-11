@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Sleep", "Sleep", "talent name")
+t("Sleep", "Duerme", "talent name")
 t("%s resists the sleep!", "%s resists the sleep!", "logSeen")
 t("Lucid Dreamer", "Lucid Dreamer", "talent name")
 t("Dream Walk", "Sueno Caminar", "talent name")

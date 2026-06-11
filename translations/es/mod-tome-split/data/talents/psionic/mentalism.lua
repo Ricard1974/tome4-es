@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Psychometry", "Psychometry", "talent name")
-t("Mental Shielding", "Mental Shielding", "talent name")
+t("Psychometry", "Psicometría", "talent name")
+t("Mental Shielding", "Escudo mental", "talent name")
 t("%s's mind is clear!", "%s's mind is clear!", "logSeen")
 t("Clears your mind of current mental effects, and blocks additional ones over 6 turns.  At most, %d mental effects will be affected.", "Clears your mind of current mental effects, and blocks additional ones over 6 turns.  At most, %d mental effects will be affected.", "tformat")
-t("Projection", "Projection", "talent name")
+t("Projection", "Proyección", "talent name")
 t("Not enough space to invoke your spirit!", "Not enough space to invoke your spirit!", "logPlayer")
 t("Projection of %s", "Projection of %s", "tformat")
 t("A ghostly figure.", "A ghostly figure.", "_t")

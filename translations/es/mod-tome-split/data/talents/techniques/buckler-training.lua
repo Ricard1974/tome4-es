@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Buckler Expertise", "Buckler Expertise", "talent name")
-t("Bash and Smash", "Bash and Smash", "talent name")
+t("Bash and Smash", "Bash y Smash", "talent name")
 t("You require a ranged weapon and a shield to use this talent.", "You require a ranged weapon and a shield to use this talent.", "logPlayer")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("Bash an enemy in melee range with your shield (twice for talent level 5 or more), doing %d%% damage and knocking them back %d squares. You may then follow with a deadly short-range sling attack, dealing %d%% damage. The shield bash will use Dexterity instead of Strength for the shield's bonus damage.", "Bash an enemy in melee range with your shield (twice for talent level 5 or more), doing %d%% damage and knocking them back %d squares. You may then follow with a deadly short-range sling attack, dealing %d%% damage. The shield bash will use Dexterity instead of Strength for the shield's bonus damage.", "tformat")

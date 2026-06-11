@@ -12,6 +12,6 @@ t("#Source# #YELLOW#vaults#LAST# over #target#!", "#Source# #YELLOW#vaults#LAST#
 t("Tumble", "Tumble", "talent name")
 t("@Source@ tumbles to a better position!", "@Source@ tumbles to a better position!", "_t")
 t("You cannot tumble to that space.", "You cannot tumble to that space.", "logPlayer")
-t("Trained Reactions", "Trained Reactions", "talent name")
-t("Superb Agility", "Superb Agility", "talent name")
+t("Trained Reactions", "Reacciones entrenadas", "talent name")
+t("Superb Agility", "Superbility", "talent name")
 

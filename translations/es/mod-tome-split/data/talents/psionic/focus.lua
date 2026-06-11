@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Mindlash", "Latigazo mental", "talent name")
-t("Pyrokinesis", "Pyrokinesis", "talent name")
+t("Pyrokinesis", "Pirokinesis", "talent name")
 t("Telekinetically energize the matter of all foes within %d squares at the molecular level, setting them ablaze. This does %0.1f fire damage over six turns.", "Telekinetically energize the matter of all foes within %d squares at the molecular level, setting them ablaze. This does %0.1f fire damage over six turns.", "tformat")
 t("Brain Storm", "Brain Tormenta", "talent name")
 t("Iron Will", "Iron Voluntad", "talent name")

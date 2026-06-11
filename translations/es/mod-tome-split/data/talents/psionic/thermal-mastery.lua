@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Transcendent Pyrokinesis", "Trascendente Pyrokinesis", "talent name")
-t("Brainfreeze", "Brainfreeze", "talent name")
+t("Brainfreeze", "Cerebro", "talent name")
 t("Heat Shift", "Heat Desplazar", "talent name")
-t("Thermal Balance", "Thermal Balance", "talent name")
+t("Thermal Balance", "Saldo térmico", "talent name")
 

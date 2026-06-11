@@ -7,6 +7,6 @@
 t("Dire Plague", "Dire Plague", "talent name")
 t("Crepuscule", "Crepúsculo", "talent name")
 t("%s resists the crepuscule!", "%s resists the crepuscule!", "logSeen")
-t("The End of All Hope", "The End of All Hope", "talent name")
-t("Golden Age of Necromancy", "Golden Age of Necromancy", "talent name")
+t("The End of All Hope", "El fin de toda la esperanza", "talent name")
+t("Golden Age of Necromancy", "Edad de Oro de Necromancia", "talent name")
 

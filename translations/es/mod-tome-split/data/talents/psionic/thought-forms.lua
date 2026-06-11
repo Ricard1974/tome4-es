@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("thought-form", "thought-form", "_t")
-t("Thought-Form: Bowman", "Thought-Form: Bowman", "talent name")
+t("Thought-Form: Bowman", "Pensamiento-Forma: Bowman", "talent name")
 t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
 t("thought-forged bowman", "thought-forged bowman", "_t")
 t("A thought-forged bowman.  It appears ready for battle.", "A thought-forged bowman.  It appears ready for battle.", "_t")
@@ -15,7 +15,7 @@ t("A thought-forged warrior wielding a massive battle-axe and clad in heavy armo
 t("Thought-Form: Defender", "Thought-Form: Defender", "talent name")
 t("thought-forged defender", "thought-forged defender", "_t")
 t("A thought-forged defender clad in massive armor.  It wields a sword and shield and appears ready for battle.", "A thought-forged defender clad in massive armor.  It wields a sword and shield and appears ready for battle.", "_t")
-t("Thought-Forms", "Thought-Forms", "talent name")
+t("Thought-Forms", "Pensamiento-Formas", "talent name")
 t("Transcendent Thought-Forms", "Trascendente Thought-Forms", "talent name")
 t("Your thought-forms now know Lucid Dreamer, Biofeedback, and Psychometry at talent level %d.", "Your thought-forms now know Lucid Dreamer, Biofeedback, and Psychometry at talent level %d.", "tformat")
 t("Over Mind", "Over Mental", "talent name")

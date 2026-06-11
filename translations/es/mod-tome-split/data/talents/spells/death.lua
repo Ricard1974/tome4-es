@@ -9,5 +9,5 @@ t("%s resists the Rigor Mortis!", "%s resists the Rigor Mortis!", "logSeen")
 t("Drawn To Death", "Drawn To Muerte", "talent name")
 t("Grim Shadow", "Grim Sombra", "talent name")
 t("#GREY#Darkness pulsates around %s!", "#GREY#Darkness pulsates around %s!", "logSeen")
-t("Utterly Destroyed", "Utterly Destroyed", "talent name")
+t("Utterly Destroyed", "Destruido", "talent name")
 

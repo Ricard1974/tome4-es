@@ -7,6 +7,6 @@
 t("armor", "armadura", "entity type")
 t("mummy", "mummy", "entity subtype")
 t("Decaying mummy wrappings.", "Decaying mummy wrappings.", "_t")
-t("mummy wrappings", "mummy wrappings", "entity name")
+t("mummy wrappings", "envolturas de momia", "entity name")
 t("mummy", "mummy", "entity short_name")
 

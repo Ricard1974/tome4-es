@@ -6,11 +6,11 @@
 
 t("Dual Weapon Training", "Entrenamiento en armas dobles", "talent name")
 t("Increases the damage of your off-hand weapon to %d%%.", "Increases the damage of your off-hand weapon to %d%%.", "tformat")
-t("Dual Weapon Defense", "Dual Weapon Defense", "talent name")
+t("Dual Weapon Defense", "Defensa de doble arma", "talent name")
 t("Close Combat Management", "Close Combat Management", "talent name")
 t("You must dual wield to use this talent.", "You must dual wield to use this talent.", "logPlayer")
 t("You must dual wield to manage contact with your target!", "You must dual wield to manage contact with your target!", "logPlayer")
-t("Offhand Jab", "Offhand Jab", "talent name")
+t("Offhand Jab", "Jab", "talent name")
 t("You require two weapons to use this talent.", "You require two weapons to use this talent.", "logPlayer")
 t("You must dual wield to perform an Offhand Jab!", "You must dual wield to perform an Offhand Jab!", "logPlayer")
 t("%s resists the surprise strike!", "%s resists the surprise strike!", "logSeen")

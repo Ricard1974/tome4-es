@@ -6,7 +6,7 @@
 
 t("Shattering Shout", "Shattering Shout", "talent name")
 t("#Source# shatters '#Target#'.", "#Source# shatters '#Target#'.", "logCombat")
-t("Second Wind", "Second Wind", "talent name")
+t("Second Wind", "Segundo viento", "talent name")
 t("Take a deep breath to recover %d stamina.  The stamina recovery improves with your Strength and Willpower.", "Take a deep breath to recover %d stamina.  The stamina recovery improves with your Strength and Willpower.", "tformat")
 t("Battle Shout", "Battle Shout", "talent name")
 t("Battle Cry", "Grito de batalla", "talent name")

@@ -6,7 +6,7 @@
 
 t("misc", "misc", "entity type")
 t("fang", "fang", "entity subtype")
-t("Rungof's Fang", "Rungof's Fang", "entity name")
+t("Rungof's Fang", "Fang de Rungof", "entity name")
 t("bloodied fang", "bloodied fang", "_t")
 t("A fang from the great warg, Rungof, still covered in blood.", "A fang from the great warg, Rungof, still covered in blood.", "_t")
 t("Khulmanar's Wrath", "Khulmanar's Ira", "entity name")

@@ -22,6 +22,6 @@ t("You cannot use Repulsion without a shield!", "You cannot use Repulsion withou
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("Shield Expertise", "Escudo Expertise", "talent name")
 t("Improves your damage with shield-based skills, and increases your Spell (+%d) and Physical (+%d) Saves.", "Improves your damage with shield-based skills, and increases your Spell (+%d) and Physical (+%d) Saves.", "tformat")
-t("Last Stand", "Last Stand", "talent name")
+t("Last Stand", "Último stand", "talent name")
 t("You cannot use Last Stand without a shield!", "You cannot use Last Stand without a shield!", "logPlayer")
 

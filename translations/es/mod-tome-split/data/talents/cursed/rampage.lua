@@ -6,8 +6,8 @@
 
 t("Rampage", "Rabia", "talent name")
 t("You are already rampaging!", "You are already rampaging!", "logPlayer")
-t("Brutality", "Brutality", "talent name")
-t("Tenacity", "Tenacity", "talent name")
+t("Brutality", "Brutalidad", "talent name")
+t("Tenacity", "Tenacidad", "talent name")
 t("Slam", "Slam", "talent name")
 t("You must be rampaging to use this talant.", "You must be rampaging to use this talant.", "logPlayer")
 t("#F53CBE#%s slams %s!", "#F53CBE#%s slams %s!", "logSeen")

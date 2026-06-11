@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("azdadazdazdazd", "azdadazdazdazd", "talent name")
-t("ervevev", "ervevev", "talent name")
+t("ervevev", "ervev", "talent name")
 t("zeczczeczec", "zeczczeczec", "talent name")
-t("Indiscernible Anatomyblabla", "Indiscernible Anatomyblabla", "talent name")
+t("Indiscernible Anatomyblabla", "Anatomíabla indiscerable", "talent name")
 

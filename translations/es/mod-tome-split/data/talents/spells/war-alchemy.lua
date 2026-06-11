@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Heat", "Heat", "talent name")
+t("Heat", "Calor", "talent name")
 

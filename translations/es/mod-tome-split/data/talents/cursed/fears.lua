@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Instill Fear", "Instill Fear", "talent name")
+t("Instill Fear", "Inculcar miedo", "talent name")
 t("%s resists the fear!", "%s resists the fear!", "logSeen")
 t("#F53CBE#%s resists the fear!", "#F53CBE#%s resists the fear!", "logSeen")
-t("Heighten Fear", "Heighten Fear", "talent name")
+t("Heighten Fear", "Miedo de Altura", "talent name")
 t("Tyrant", "Tyrant", "talent name")
 t("Panic", "Panic", "talent name")
 t("#F53CBE#%s ignores the panic!", "#F53CBE#%s ignores the panic!", "logSeen")

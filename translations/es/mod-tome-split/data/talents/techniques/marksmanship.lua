@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Master Marksman", "Master Marksman", "talent name")
+t("Master Marksman", "Maestro Marksman", "talent name")
 t("First Blood", "First Sangre", "talent name")
 t("Flare", "Flare", "talent name")
 t("Trueshot", "Trueshot", "talent name")

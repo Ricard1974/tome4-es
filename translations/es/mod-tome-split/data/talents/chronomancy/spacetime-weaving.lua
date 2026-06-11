@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dimensional Step", "Dimensional Step", "talent name")
+t("Dimensional Step", "Paso dimensional", "talent name")
 t("You do not have line of sight.", "You do not have line of sight.", "logPlayer")
 t("#Source# folds space with with #target#!", "#Source# folds space with with #target#!", "logCombat")
 t("#Source#'s space-time folding with #target# fizzles!", "#Source#'s space-time folding with #target# fizzles!", "logCombat")
@@ -13,7 +13,7 @@ t("%s's space-time folding fizzles!", "%s's space-time folding fizzles!", "logSe
 t("%s emerges from a space-time rift!", "%s emerges from a space-time rift!", "logSeen")
 t("Dimensional Shift", "Dimensional Desplazar", "talent name")
 t("When you teleport you reduce the duration of a single detrimental effect by %d turns.", "When you teleport you reduce the duration of a single detrimental effect by %d turns.", "tformat")
-t("Wormhole", "Wormhole", "talent name")
+t("Wormhole", "Maldito", "talent name")
 t("You can't place a wormhole entrance here.", "You can't place a wormhole entrance here.", "logPlayer")
 t("You can't place a wormhole exit here.", "You can't place a wormhole exit here.", "logPlayer")
 t("wormhole", "wormhole", "_t")

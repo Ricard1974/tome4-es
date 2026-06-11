@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Celerity", "Celerity", "talent name")
+t("Celerity", "Celeridad", "talent name")
 t("When you move you gain %d%% movement speed for %d turns.  This effect stacks up to three times but can only occur once per turn.", "When you move you gain %d%% movement speed for %d turns.  This effect stacks up to three times but can only occur once per turn.", "tformat")
 t("Time Dilation", "Tiempo Dilation", "talent name")
 t("Haste", "Celeridad", "talent name")

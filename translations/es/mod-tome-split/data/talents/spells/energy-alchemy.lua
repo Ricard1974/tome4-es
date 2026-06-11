@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Lightning Infusion", "Relámpago Infusion", "talent name")
-t("Dynamic Recharge", "Dynamic Recharge", "talent name")
+t("Dynamic Recharge", "Recarga dinámica", "talent name")
 t("%s is energized by the attack, reducing some talent cooldowns!", "%s is energized by the attack, reducing some talent cooldowns!", "logSeen")
 t("Thunderclap", "Thunderclap", "talent name")
 t("You need to ready alchemist gems in your quiver.", "You need to ready alchemist gems in your quiver.", "logPlayer")

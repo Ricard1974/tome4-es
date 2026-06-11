@@ -6,7 +6,7 @@
 
 t("Wraithform", "Wraithform", "talent name")
 t("Darkfire", "Darkfire", "talent name")
-t("Flame of Urh'Rok", "Flame of Urh'Rok", "talent name")
+t("Flame of Urh'Rok", "Llama de Urh'Rok", "talent name")
 t("Fearscape", "Páramo del miedo", "talent name")
 t("This spell cannot be used from within the Fearscape.", "This spell cannot be used from within the Fearscape.", "logPlayer")
 t("This spell cannot be cast here.", "This spell cannot be cast here.", "logPlayer")

@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dirty Fighting", "Dirty Fighting", "talent name")
+t("Dirty Fighting", "Lucha sucio", "talent name")
 t("Backstab", "Apuñalar por la espalda", "talent name")
 t("Blinding Powder", "Cegador Powder", "talent name")
-t("Twist the Knife", "Twist the Knife", "talent name")
+t("Twist the Knife", "Twist el cuchillo", "talent name")
 t("#CRIMSON#%s's %s was extended!#LAST#", "#CRIMSON#%s's %s was extended!#LAST#", "logSeen")
 t("#CRIMSON#%s's %s was stripped!#LAST#", "#CRIMSON#%s's %s was stripped!#LAST#", "logSeen")
 t("#CRIMSON#%s's %s was disrupted!#LAST#", "#CRIMSON#%s's %s was disrupted!#LAST#", "logSeen")

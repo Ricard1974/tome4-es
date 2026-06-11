@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Uppercut", "Uppercut", "talent name")
+t("Uppercut", "Corte superior", "talent name")
 t("@Source@ throws a finishing uppercut.", "@Source@ throws a finishing uppercut.", "_t")
 t("%s resists the stun!", "%s resists the stun!", "logSeen")
 t("Concussive Punch", "Concussive Punch", "talent name")

@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Reclaim", "Reclaim", "talent name")
-t("Nature's Defiance", "Nature's Defiance", "talent name")
+t("Reclaim", "Reclama", "talent name")
+t("Nature's Defiance", "El desafío de la naturaleza", "talent name")
 t("Acidfire", "Acidfire", "talent name")
 t("Acidfire cloud", "Acidfire cloud", "_t")
 t("Eyal's Wrath", "Eyal's Ira", "talent name")

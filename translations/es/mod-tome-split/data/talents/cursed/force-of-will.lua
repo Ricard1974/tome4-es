@@ -10,9 +10,9 @@ t("#Source# was blasted into #Target#!", "#Source# was blasted into #Target#!", 
 t("%s was smashed back %d spaces!", "%s was smashed back %d spaces!", "logSeen")
 t("%s was smashed!", "%s was smashed!", "logSeen")
 t("%s was blasted back %d spaces!", "%s was blasted back %d spaces!", "logSeen")
-t("Deflection", "Deflection", "talent name")
+t("Deflection", "Deflexión", "talent name")
 t("Deflection (%d)", "Deflection (%d)", "tformat")
 t("You have deflected %d incoming damage!", "You have deflected %d incoming damage!", "logPlayer")
 t("Blast", "Explosion", "talent name")
-t("Unseen Force", "Unseen Force", "talent name")
+t("Unseen Force", "Fuerza invisible", "talent name")
 

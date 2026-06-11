@@ -6,7 +6,7 @@
 
 t("Empower", "Empower", "talent name")
 t("None", "None", "_t")
-t("Extension", "Extension", "talent name")
-t("Matrix", "Matrix", "talent name")
+t("Extension", "Extensión", "talent name")
+t("Matrix", "Matriz", "talent name")
 t("Quicken", "Quicken", "talent name")
 

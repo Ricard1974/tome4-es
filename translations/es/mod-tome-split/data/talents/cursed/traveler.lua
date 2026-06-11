@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Hardened", "Hardened", "talent name")
+t("Hardened", "Endurecido", "talent name")
 t("Your travels have hardened you. You gain +%d armor.", "Your travels have hardened you. You gain +%d armor.", "tformat")
 t("Wary", "Wary", "talent name")
 t("You have become wary of danger in your journeys. You have a %d%% chance of not triggering traps.", "You have become wary of danger in your journeys. You have a %d%% chance of not triggering traps.", "tformat")

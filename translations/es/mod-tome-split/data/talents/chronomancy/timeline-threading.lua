@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Rethread", "Rethread", "talent name")
-t("Temporal Fugue", "Temporal Fugue", "talent name")
+t("Temporal Fugue", "Fuga Temporal", "talent name")
 t("%s's Fugue Clone", "%s's Fugue Clone", "tformat")
 t("The real %s... or so %s says.", "The real %s... or so %s says.", "tformat")
 t("Fugue Clone", "Fugue Clone", "_t")

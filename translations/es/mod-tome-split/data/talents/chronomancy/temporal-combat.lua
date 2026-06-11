@@ -7,9 +7,9 @@
 t("Fold Fate", "Plegar Destino", "talent name")
 t("Fold Warp", "Plegar Distorsion", "talent name")
 t("Fold Gravity", "Plegar Gravedad", "talent name")
-t("Weapon Folding", "Weapon Folding", "talent name")
+t("Weapon Folding", "Arma plegable", "talent name")
 t("Invigorate", "Invigorate", "talent name")
-t("Weapon Manifold", "Weapon Manifold", "talent name")
+t("Weapon Manifold", "Armon Manifold", "talent name")
 t("Breach", "Breach", "talent name")
 t("You require a weapon to use this talent.", "You require a weapon to use this talent.", "logPlayer")
 

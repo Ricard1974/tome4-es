@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Temporal Bolt", "Temporal Bolt", "talent name")
-t("Temporal Bolt", "Temporal Bolt", "_t")
+t("Temporal Bolt", "Boleto temporal", "talent name")
+t("Temporal Bolt", "Boleto temporal", "_t")
 t("Time Skip", "Tiempo Skip", "talent name")
 t("%s is immune!", "%s is immune!", "logSeen")
 t("%s resists!", "%s resists!", "logSeen")
 t("Something has prevented the timetravel.", "Something has prevented the timetravel.", "logPlayer")
 t("temporal instability", "temporal instability", "_t")
 t("%s has moved forward in time!", "%s has moved forward in time!", "logSeen")
-t("Temporal Reprieve", "Temporal Reprieve", "talent name")
+t("Temporal Reprieve", "Reprieve temporal", "talent name")
 t("This talent cannot be used from within the reprieve.", "This talent cannot be used from within the reprieve.", "logPlayer")
 t("This talent cannot be used here.", "This talent cannot be used here.", "logPlayer")
 t("The spell fizzles...", "The spell fizzles...", "logPlayer")

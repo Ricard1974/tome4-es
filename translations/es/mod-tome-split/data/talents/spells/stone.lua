@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Earthen Missiles", "Earthen Missiles", "talent name")
+t("Earthen Missiles", "Misiles terrestres", "talent name")
 t("Body of Stone", "Cuerpo of Piedra", "talent name")
 t("Earthquake", "Terremoto", "talent name")
 t("Crystalline Focus", "Crystalline Enfoque", "talent name")

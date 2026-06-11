@@ -7,7 +7,7 @@
 t("armor", "armadura", "entity type")
 t("cloth", "tela", "entity subtype")
 t("A cloth vestment. It offers no intrinsic protection but can be enchanted.", "A cloth vestment. It offers no intrinsic protection but can be enchanted.", "_t")
-t("linen robe", "linen robe", "entity name")
+t("linen robe", "ropa de lino", "entity name")
 t("linen", "lino", "entity short_name")
 t("woollen robe", "túnica de lana", "entity name")
 t("woollen", "woollen", "entity short_name")

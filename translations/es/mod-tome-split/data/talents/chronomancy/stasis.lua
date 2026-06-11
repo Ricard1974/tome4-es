@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Spacetime Stability", "Spacetime Stability", "talent name")
+t("Spacetime Stability", "Estabilidad en tiempo espacial", "talent name")
 t("Time Shield", "Time Escudo", "talent name")
-t("Stop", "Stop", "talent name")
+t("Stop", "Para", "talent name")
 t("Static History", "Estatico Historia", "talent name")
 

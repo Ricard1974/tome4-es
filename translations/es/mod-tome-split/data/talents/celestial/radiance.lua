@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("Radiance", "Radiance", "talent name")
-t("Judgement", "Judgement", "talent name")
-t("Judgement", "Judgement", "_t")
+t("Judgement", "Fallo", "talent name")
+t("Judgement", "Fallo", "_t")
 t("Searing Sight", "Searing Vision", "talent name")
-t("Illumination", "Illumination", "talent name")
+t("Illumination", "Iluminación", "talent name")
 

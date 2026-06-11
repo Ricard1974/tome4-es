@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("ammo reload", "ammo reload", "entity name")
-t("travel speed", "travel speed", "entity name")
+t("ammo reload", "recarga de municiones", "entity name")
+t("travel speed", "velocidad de viaje", "entity name")
 

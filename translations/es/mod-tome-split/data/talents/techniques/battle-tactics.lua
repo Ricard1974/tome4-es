@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Greater Weapon Focus", "Greater Weapon Enfoque", "talent name")
-t("Step Up", "Step Up", "talent name")
+t("Step Up", "Sube", "talent name")
 t("Bleeding Edge", "Bleeding Edge", "talent name")
 t("True Grit", "True Grit", "talent name")
 

@@ -6,6 +6,6 @@
 
 t("Sun Ray", "Rayo solar", "talent name")
 t("Path of the Sun", "Path of the Sol", "talent name")
-t("Sun's Vengeance", "Sun's Vengeance", "talent name")
+t("Sun's Vengeance", "Vengeance del Sol", "talent name")
 t("Suncloak", "Suncloak", "talent name")
 

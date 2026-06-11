@@ -7,7 +7,7 @@
 t("Grappling Stance", "Grappling Stance", "talent name")
 t("Clinch", "Clinch", "talent name")
 t("Crushing Hold", "Crushing Hold", "talent name")
-t("Take Down", "Take Down", "talent name")
+t("Take Down", "Toma", "talent name")
 t("You cannot move!", "You cannot move!", "logPlayer")
 t("Hurricane Throw", "Hurricane Lanzar", "talent name")
 t("You must be grappling something to use this talent.", "You must be grappling something to use this talent.", "logPlayer")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("shield block", "shield block", "entity name")
-t("shield armor", "shield armor", "entity name")
-t("shield increased life", "shield increased life", "entity name")
+t("shield block", "bloque de protección", "entity name")
+t("shield armor", "armadura de escudo", "entity name")
+t("shield increased life", "escudo aumenta la vida", "entity name")
 

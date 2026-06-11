@@ -16,7 +16,7 @@ from pathlib import Path
 # Añadir agent al path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from translator import LightTranslator
+from translator import LibreTranslator
 from terms import NO_TRANSLATE, FORCED_TERMS
 
 TRANS_DIR = Path(__file__).parent.parent / "translations" / "es"
@@ -102,7 +102,7 @@ def main():
     mode = "[SIMULACION]" if dry_run else ""
     print(f"AGENTE DE TRADUCCION ToME4-es {mode}")
 
-    translator = LightTranslator()
+    translator = LibreTranslator()
     total = 0
 
     if not only_objects:

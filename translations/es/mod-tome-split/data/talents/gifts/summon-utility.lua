@@ -18,5 +18,5 @@ t("%s (wild summon)", "%s (invocación salvaje)", "tformat")
 t("Spider", "Araña", "talent name")
 t("@Source@ summons a Spider!", "@Source@ summons a Spider!", "_t")
 t("Frantic Summoning", "Frantic Invocación", "talent name")
-t("Pheromones", "Pheromones", "talent name")
+t("Pheromones", "Feromonas", "talent name")
 

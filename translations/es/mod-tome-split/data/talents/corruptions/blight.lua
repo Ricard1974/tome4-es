@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Dark Ritual", "Oscuro Ritual", "talent name")
-t("Corrupted Negation", "Corrupted Negation", "talent name")
+t("Corrupted Negation", "Negación corregida", "talent name")
 t("Corrosive Worm", "Corrosivo Worm", "talent name")
 t("Poison Storm", "Veneno Tormenta", "talent name")
 

@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Nightmare", "Nightmare", "talent name")
+t("Nightmare", "Pesadilla", "talent name")
 t("%s resists the nightmare!", "%s resists the nightmare!", "logSeen")
-t("Inner Demons", "Inner Demons", "talent name")
+t("Inner Demons", "Demonios internos", "talent name")
 t("%s's Inner Demon", "%s's Inner Demon", "tformat")
 t("A hideous, demonic entity that resembles the creature it came from.", "A hideous, demonic entity that resembles the creature it came from.", "_t")
 t("#F53CBE#%s's Inner Demon manifests!", "#F53CBE#%s's Inner Demon manifests!", "logSeen")

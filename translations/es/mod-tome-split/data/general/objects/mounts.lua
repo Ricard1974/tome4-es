@@ -7,5 +7,5 @@
 t("mount", "mount", "entity type")
 t("A mount.", "A mount.", "_t")
 t("golem", "golem", "entity subtype")
-t("alchemist golem mount", "alchemist golem mount", "entity name")
+t("alchemist golem mount", "alquimista golem montaje", "entity name")
 

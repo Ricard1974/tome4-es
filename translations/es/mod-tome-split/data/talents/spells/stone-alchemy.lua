@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Create Alchemist Gems", "Create Alchemist Gems", "talent name")
+t("Create Alchemist Gems", "Crear gemas alquimistas", "talent name")
 t("Use which gem?", "Use which gem?", "_t")
 t("You create: %s", "You create: %s", "logPlayer")
-t("Extract Gems", "Extract Gems", "talent name")
+t("Extract Gems", "Extracto Gems", "talent name")
 t("You extract %s from %s", "You extract %s from %s", "logPlayer")
 t("Try to extract gems from which metallic item?", "Try to extract gems from which metallic item?", "_t")
 t("Extract magical gems from metal weapons and armours. At this skill level you can work with metals of at maximum tier %d.", "Extract magical gems from metal weapons and armours. At this skill level you can work with metals of at maximum tier %d.", "tformat")

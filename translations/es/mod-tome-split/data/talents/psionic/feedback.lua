@@ -7,5 +7,5 @@
 t("Biofeedback", "Biofeedback", "talent name")
 t("Resonance Field", "Resonance Campo", "talent name")
 t("Amplification", "Amplificación", "talent name")
-t("Conversion", "Conversion", "talent name")
+t("Conversion", "Conversión", "talent name")
 
