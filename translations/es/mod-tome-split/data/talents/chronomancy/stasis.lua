@@ -7,5 +7,5 @@
 t("Spacetime Stability", "Spacetime Stability", "talent name")
 t("Time Shield", "Time Escudo", "talent name")
 t("Stop", "Stop", "talent name")
-t("Static History", "Static History", "talent name")
+t("Static History", "Estatico Historia", "talent name")
 

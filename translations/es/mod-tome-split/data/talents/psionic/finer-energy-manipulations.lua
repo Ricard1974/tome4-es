@@ -6,8 +6,8 @@
 
 t("Realign", "Realign", "talent name")
 t("%s is cured!", "%s is cured!", "logSeen")
-t("Form and Function", "Form and Function", "talent name")
-t("Matter is Energy", "Matter is Energy", "talent name")
+t("Form and Function", "Forma and Function", "talent name")
+t("Matter is Energy", "Matter is Energia", "talent name")
 t("Use which gem?", "Use which gem?", "_t")
-t("Resonant Focus", "Resonant Focus", "talent name")
+t("Resonant Focus", "Resonant Enfoque", "talent name")
 

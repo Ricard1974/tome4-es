@@ -9,5 +9,5 @@ t("#GREY#%s is resurrected by the boneyard!", "#GREY#%s is resurrected by the bo
 t("To The Grave", "To The Grave", "talent name")
 t("%s resists the call of the boneyard!", "%s resists the call of the boneyard!", "logSeen")
 t("Impending Doom", "Impending Doom", "talent name")
-t("Eternal Night", "Eternal Night", "talent name")
+t("Eternal Night", "Eternal Noche", "talent name")
 

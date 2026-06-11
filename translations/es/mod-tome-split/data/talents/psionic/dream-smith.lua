@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dream Smith's Hammer", "Dream Smith's Hammer", "talent name")
+t("Dream Smith's Hammer", "Sueno Smith's Hammer", "talent name")
 t("Hammer Toss", "Hammer Toss", "talent name")
 t("Hammer Toss", "Hammer Toss", "_t")
-t("Dream Crusher", "Dream Crusher", "talent name")
+t("Dream Crusher", "Sueno Crusher", "talent name")
 t("%s resists the stunning blow!", "%s resists the stunning blow!", "logSeen")
-t("Forge Echoes", "Forge Echoes", "talent name")
+t("Forge Echoes", "Forge Ecos", "talent name")
 

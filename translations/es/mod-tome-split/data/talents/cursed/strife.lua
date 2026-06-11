@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Dominate", "Dominate", "talent name")
-t("Preternatural Senses", "Preternatural Senses", "talent name")
+t("Preternatural Senses", "Preternatural Sentidos", "talent name")
 t("Blindside", "Blindside", "talent name")
 t("The blindside fizzles!", "The blindside fizzles!", "logSeen")
 t("Repel", "Repel", "talent name")

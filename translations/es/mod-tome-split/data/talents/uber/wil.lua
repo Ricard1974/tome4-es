@@ -17,7 +17,7 @@ t("Have been close to death(killed a foe while below 1 HP)", "Have been close to
 t("Lucky Day", "Lucky Day", "talent name")
 t("Be lucky already (at least +5 luck)", "Be lucky already (at least +5 luck)", "_t")
 t("Every day is your lucky day! You gain a permanent +40 luck bonus and 10%% to move out of the way of every attack.", "Every day is your lucky day! You gain a permanent +40 luck bonus and 10%% to move out of the way of every attack.", "tformat")
-t("Unbreakable Will", "Unbreakable Will", "talent name")
+t("Unbreakable Will", "Unbreakable Voluntad", "talent name")
 t("#LIGHT_BLUE#%s's unbreakable will shrugs off the effect!", "#LIGHT_BLUE#%s's unbreakable will shrugs off the effect!", "logSeen")
 t("Spell Feedback", "Spell Feedback", "talent name")
 t("Antimagic", "Antimagic", "_t")

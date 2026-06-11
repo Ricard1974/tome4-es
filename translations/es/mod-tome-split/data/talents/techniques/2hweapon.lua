@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Death Dance", "Death Dance", "talent name")
+t("Death Dance", "Muerte Dance", "talent name")
 t("You require a two handed weapon to use this talent.", "You require a two handed weapon to use this talent.", "logPlayer")
 t("You cannot use Death Dance without a two-handed weapon!", "You cannot use Death Dance without a two-handed weapon!", "logPlayer")
 t("Spin around, extending your weapon and damaging all targets around you for %d%% weapon damage.", "Spin around, extending your weapon and damaging all targets around you for %d%% weapon damage.", "tformat")

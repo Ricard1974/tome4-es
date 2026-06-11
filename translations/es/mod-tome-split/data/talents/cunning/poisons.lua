@@ -6,7 +6,7 @@
 
 t("Apply Poison", "Aplicar veneno", "talent name")
 t("%s resists the vile poison!", "%s resists the vile poison!", "logSeen")
-t("Toxic Death", "Toxic Death", "talent name")
+t("Toxic Death", "Toxic Muerte", "talent name")
 t("#GREEN#Poison bursts out of %s's corpse!", "#GREEN#Poison bursts out of %s's corpse!", "logSeen")
 t("When you kill a creature, all of your poisons affecting it will spread to foes in a radius of %d.", "When you kill a creature, all of your poisons affecting it will spread to foes in a radius of %d.", "tformat")
 t("Vile Poisons", "Vile Poisons", "talent name")

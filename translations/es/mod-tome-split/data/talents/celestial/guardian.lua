@@ -12,5 +12,5 @@ t("You cannot use Retribution without a shield!", "You cannot use Retribution wi
 t("#RED#Absorb Remaining: %d", "#RED#Absorb Remaining: %d", "tformat")
 t("Crusade", "Crusade", "talent name")
 t("You cannot use Crusade without a shield!", "You cannot use Crusade without a shield!", "logPlayer")
-t("Avatar Distant Sun Unlock Checker", "Avatar Distant Sun Unlock Checker", "talent name")
+t("Avatar Distant Sun Unlock Checker", "Avatar Distant Sol Unlock Checker", "talent name")
 

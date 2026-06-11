@@ -11,5 +11,5 @@ t("Runeskin", "Runeskin", "talent name")
 t("effects disabled because of an infusion", "effects disabled because of an infusion", "_t")
 t("effects disabled because of no rune", "effects disabled because of no rune", "_t")
 t("%d runes active", "%d runes active", "tformat")
-t("Spikes of Decrepitude", "Spikes of Decrepitude", "talent name")
+t("Spikes of Decrepitude", "Puas of Decrepitude", "talent name")
 

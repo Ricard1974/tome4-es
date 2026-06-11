@@ -13,6 +13,6 @@ t("%s was blasted back %d spaces!", "%s was blasted back %d spaces!", "logSeen")
 t("Deflection", "Deflection", "talent name")
 t("Deflection (%d)", "Deflection (%d)", "tformat")
 t("You have deflected %d incoming damage!", "You have deflected %d incoming damage!", "logPlayer")
-t("Blast", "Blast", "talent name")
+t("Blast", "Explosion", "talent name")
 t("Unseen Force", "Unseen Force", "talent name")
 

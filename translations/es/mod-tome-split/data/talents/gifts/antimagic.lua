@@ -13,6 +13,6 @@ t("Mana Clash", "Mana Clash", "talent name")
 t("\
 #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "\
 #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "_t")
-t("Antimagic Adept", "Antimagic Adept", "talent name")
+t("Antimagic Adept", "Antimagic Experto", "talent name")
 t("Your Mana Clash talent also removes 4 magical sustains from the target.", "Your Mana Clash talent also removes 4 magical sustains from the target.", "tformat")
 

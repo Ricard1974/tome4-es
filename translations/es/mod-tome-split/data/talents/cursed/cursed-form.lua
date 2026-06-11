@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Unnatural Body", "Unnatural Body", "talent name")
+t("Unnatural Body", "Unnatural Cuerpo", "talent name")
 t("Relentless", "Relentless", "talent name")
 t("Your thirst for blood drives your movements. You gain +%d%% confusion, fear, knockback and stun immunity.", "Your thirst for blood drives your movements. You gain +%d%% confusion, fear, knockback and stun immunity.", "tformat")
 t("Seethe", "Seethe", "talent name")

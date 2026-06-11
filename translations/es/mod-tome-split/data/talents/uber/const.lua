@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Draconic Body", "Draconic Body", "talent name")
+t("Draconic Body", "Draconic Cuerpo", "talent name")
 t("Be close to the draconic world", "Be close to the draconic world", "_t")
 t("%s's draconic body hardens and heals!", "%s's draconic body hardens and heals!", "logSeen")
 t("Your body hardens and recovers quickly. When pushed below 30%% life, you instantly restore 40%% of your total life.", "Your body hardens and recovers quickly. When pushed below 30%% life, you instantly restore 40%% of your total life.", "tformat")

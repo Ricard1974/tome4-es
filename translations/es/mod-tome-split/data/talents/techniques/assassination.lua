@@ -13,5 +13,5 @@ t("#GREY#%s slips into shadow.", "#GREY#%s slips into shadow.", "logSeen")
 t("Terrorize", "Terrorize", "talent name")
 t("Garrote", "Garrote", "talent name")
 t("#Target# avoids a garrote from #Source#!", "#Target# avoids a garrote from #Source#!", "logCombat")
-t("Marked for Death", "Marked for Death", "talent name")
+t("Marked for Death", "Marked for Muerte", "talent name")
 

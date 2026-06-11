@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shadow Combat", "Shadow Combat", "talent name")
+t("Shadow Combat", "Sombra Combat", "talent name")
 t("Shadow Cunning", "Shadow Astucia", "talent name")
 t("Your preparations give you greater magical capabilities. You gain a bonus to Spellpower equal to %d%% of your Cunning (Current bonus: %d).", "Your preparations give you greater magical capabilities. You gain a bonus to Spellpower equal to %d%% of your Cunning (Current bonus: %d).", "tformat")
-t("Shadow Feed", "Shadow Feed", "talent name")
+t("Shadow Feed", "Sombra Alimentar", "talent name")
 t("Shadowstep", "Shadowstep", "talent name")
 t("You require to be able to move to use this talent.", "You require to be able to move to use this talent.", "logPlayer")
 t("You cannot do that currently.", "You cannot do that currently.", "logPlayer")

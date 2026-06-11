@@ -10,5 +10,5 @@ t("You are being observed too closely to enter Stealth!", "You are being observe
 t(" (range %d in an unlit grid)", " (range %d in an unlit grid)", "tformat")
 t("Shadowstrike", "Golpe sombrío", "talent name")
 t("Soothing Darkness", "Soothing Oscuridad", "talent name")
-t("Shadow Dance", "Shadow Dance", "talent name")
+t("Shadow Dance", "Sombra Dance", "talent name")
 

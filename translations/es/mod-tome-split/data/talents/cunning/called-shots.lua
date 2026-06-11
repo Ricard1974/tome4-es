@@ -6,7 +6,7 @@
 
 t("Kneecapper", "Kneecapper", "talent name")
 t("%s resists being knocked down.", "%s resists being knocked down.", "logSeen")
-t("Kill Shot", "Kill Shot", "talent name")
+t("Kill Shot", "Kill Disparo", "talent name")
 t("#DARK_ORCHID##Source# snipes #Target# (%+d%%%%%%%% weapon bonus for range)!#LAST#", "#DARK_ORCHID##Source# snipes #Target# (%+d%%%%%%%% weapon bonus for range)!#LAST#", "delayedLogMessage")
 t("Noggin Knocker", "Noggin Knocker", "talent name")
 t("%s resists the stunning shot!", "%s resists the stunning shot!", "logSeen")

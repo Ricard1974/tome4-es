@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Defiling Touch", "Defiling Touch", "talent name")
+t("Defiling Touch", "Defiling Tocar", "talent name")
 t("curse", "curse", "_t")
 t("Cursed Fate", "Cursed Fate", "_t")
 t("The %s lying nearby catches your attention. What draws you to it is not the thing itself, but something burning inside you. You feel contempt for it and all worldly things. This feeling is not new but the power of it overwhelms you. You reach out to touch the object, to curse it, to defile it. And you notice it begin to change. The colors of it begin to fade and are replaced with an insatiable hate. For a moment you hesitate. You know you must choose to resist this manifestation of your curse now and forever, or fall further into your madness.", "The %s lying nearby catches your attention. What draws you to it is not the thing itself, but something burning inside you. You feel contempt for it and all worldly things. This feeling is not new but the power of it overwhelms you. You reach out to touch the object, to curse it, to defile it. And you notice it begin to change. The colors of it begin to fade and are replaced with an insatiable hate. For a moment you hesitate. You know you must choose to resist this manifestation of your curse now and forever, or fall further into your madness.", "tformat")
@@ -12,7 +12,7 @@ t("The %s lies defiled at your feet. An aura of hatred surrounds you and you now
 t("The %s returns to normal and your hate subsides.", "The %s returns to normal and your hate subsides.", "tformat")
 t("Release your hate upon the object", "Release your hate upon the object", "_t")
 t("Suppress your affliction", "Suppress your affliction", "_t")
-t("Dark Gifts", "Dark Gifts", "talent name")
+t("Dark Gifts", "Oscuro Gifts", "talent name")
 t("Ruined Earth", "Ruined Earth", "talent name")
 t("Curse the earth around you in a radius of %d for %d turns. Any who stand upon it are weakened, reducing the damage they inflict by %d%%", "Curse the earth around you in a radius of %d for %d turns. Any who stand upon it are weakened, reducing the damage they inflict by %d%%", "tformat")
 t("Choose Cursed Sentry", "Choose Cursed Sentry", "talent name")

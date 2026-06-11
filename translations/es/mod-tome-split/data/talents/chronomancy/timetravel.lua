@@ -6,7 +6,7 @@
 
 t("Temporal Bolt", "Temporal Bolt", "talent name")
 t("Temporal Bolt", "Temporal Bolt", "_t")
-t("Time Skip", "Time Skip", "talent name")
+t("Time Skip", "Tiempo Skip", "talent name")
 t("%s is immune!", "%s is immune!", "logSeen")
 t("%s resists!", "%s resists!", "logSeen")
 t("Something has prevented the timetravel.", "Something has prevented the timetravel.", "logPlayer")
@@ -20,5 +20,5 @@ t("#STEEL_BLUE#You time travel to a quiet place.", "#STEEL_BLUE#You time travel 
 t("What the... ugh.", "What the... ugh.", "_t")
 t("Some rookie paradox mage is about to find out that the standard-issue Temporal Reprieve takes you to a random safe-zone, not a fixed one, and left the contents of their pack strewn about the place. Nearly all of it is equipment that your transmutation chest won't process and is unusable by anything with less than twelve limbs, so you kick most of it into the void, but a crumpled note catches your eye...", "Some rookie paradox mage is about to find out that the standard-issue Temporal Reprieve takes you to a random safe-zone, not a fixed one, and left the contents of their pack strewn about the place. Nearly all of it is equipment that your transmutation chest won't process and is unusable by anything with less than twelve limbs, so you kick most of it into the void, but a crumpled note catches your eye...", "_t")
 t("Transport yourself to a safe place for %d turns.", "Transport yourself to a safe place for %d turns.", "tformat")
-t("Echoes From The Past", "Echoes From The Past", "talent name")
+t("Echoes From The Past", "Ecos From The Past", "talent name")
 

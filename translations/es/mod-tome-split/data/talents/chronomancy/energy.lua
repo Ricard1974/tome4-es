@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Energy Decomposition", "Energy Decomposition", "talent name")
+t("Energy Decomposition", "Energia Decomposition", "talent name")
 t("%s(%d dissipated)#LAST#", "%s(%d dissipated)#LAST#", "tformat")
 t("Energy Absorption", "Energy Absorción", "talent name")
 t("%s resists!", "%s resists!", "logSeen")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Throw Bomb", "Throw Bomb", "talent name")
+t("Throw Bomb", "Lanzar Bomb", "talent name")
 t("You need to ready alchemist gems in your quiver.", "You need to ready alchemist gems in your quiver.", "logPlayer")
 t("Alchemist Protection", "Protección del alquimista", "talent name")
 t("Explosion Expert", "Explosion Expert", "talent name")

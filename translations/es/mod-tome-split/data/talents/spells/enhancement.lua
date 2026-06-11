@@ -6,7 +6,7 @@
 
 t("Arcane Strike", "Arcano Strike", "talent name")
 t("You require a weapon to use this talent.", "You require a weapon to use this talent.", "logPlayer")
-t("Fiery Hands", "Fiery Hands", "talent name")
-t("Shock Hands", "Shock Hands", "talent name")
-t("Inner Power", "Inner Power", "talent name")
+t("Fiery Hands", "Fiery Manos", "talent name")
+t("Shock Hands", "Shock Manos", "talent name")
+t("Inner Power", "Inner Poder", "talent name")
 

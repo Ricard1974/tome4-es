@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Stoneshield", "Stoneshield", "talent name")
-t("Stone Fortress", "Stone Fortress", "talent name")
+t("Stone Fortress", "Piedra Fortress", "talent name")
 t("Shards", "Shards", "talent name")
-t("Eldritch Stone", "Eldritch Stone", "talent name")
+t("Eldritch Stone", "Arcano Piedra", "talent name")
 

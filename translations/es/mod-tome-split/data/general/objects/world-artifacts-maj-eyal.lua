@@ -13,7 +13,7 @@ t("#DARK_GREEN#You feel the cleansing power of Penitence attune to you.", "#DARK
 t("Lost Staff of Archmage Tarelion", "Lost Staff of Archmage Tarelion", "entity name")
 t("shining staff", "shining staff", "_t")
 t("Archmage Tarelion travelled the world in his youth. But the world is not a nice place and it seems he had to run fast.", "Archmage Tarelion travelled the world in his youth. But the world is not a nice place and it seems he had to run fast.", "_t")
-t("Spellblaze Echoes", "Spellblaze Echoes", "entity name")
+t("Spellblaze Echoes", "Spellblaze Ecos", "entity name")
 t("deep black amulet", "deep black amulet", "_t")
 t("This ancient charm still retains a distant echo of the destruction wrought by the Spellblaze", "This ancient charm still retains a distant echo of the destruction wrought by the Spellblaze", "_t")
 t("unleash a destructive wail, destroying terrain and dealing %0.2f physical damage (based on Magic) in a radius of %d", "unleash a destructive wail, destroying terrain and dealing %0.2f physical damage (based on Magic) in a radius of %d", "tformat")

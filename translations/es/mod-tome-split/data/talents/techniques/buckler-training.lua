@@ -13,6 +13,6 @@ t("Buckler Mastery", "Buckler Maestría", "talent name")
 t(" At talent level 5, your Bash and Smash shield hits are guaranteed criticals.", " At talent level 5, your Bash and Smash shield hits are guaranteed criticals.", "_t")
 t(" At talent level 5, your Bash and Smash shield hit is a guaranteed critical.", " At talent level 5, your Bash and Smash shield hit is a guaranteed critical.", "_t")
 t("When you are hit by a projectile, physical or otherwise, you have a %d%% chance to deflect it up to %d squares away.%s", "When you are hit by a projectile, physical or otherwise, you have a %d%% chance to deflect it up to %d squares away.%s", "tformat")
-t("Counter Shot", "Counter Shot", "talent name")
+t("Counter Shot", "Counter Disparo", "talent name")
 t("#ORCHID##Source# follows up with a countershot.#LAST#", "#ORCHID##Source# follows up with a countershot.#LAST#", "logCombat")
 

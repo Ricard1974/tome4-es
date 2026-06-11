@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Grasping Moss", "Grasping Moss", "talent name")
-t("Nourishing Moss", "Nourishing Moss", "talent name")
-t("Slippery Moss", "Slippery Moss", "talent name")
-t("Hallucinogenic Moss", "Hallucinogenic Moss", "talent name")
+t("Grasping Moss", "Grasping Musgo", "talent name")
+t("Nourishing Moss", "Nourishing Musgo", "talent name")
+t("Slippery Moss", "Slippery Musgo", "talent name")
+t("Hallucinogenic Moss", "Hallucinogenic Musgo", "talent name")
 

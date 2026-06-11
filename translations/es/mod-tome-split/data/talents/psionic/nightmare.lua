@@ -13,8 +13,8 @@ t("#F53CBE#%s's Inner Demon manifests!", "#F53CBE#%s's Inner Demon manifests!", 
 t("You can't cast this on friendly targets.", "You can't cast this on friendly targets.", "logPlayer")
 t("%s resists the demons!", "%s resists the demons!", "logSeen")
 t("Waking Nightmare", "Waking Nightmare", "talent name")
-t("Night Terror", "Night Terror", "talent name")
+t("Night Terror", "Noche Terror", "talent name")
 t("terror", "terror", "_t")
 t("A formless terror that seems to cut through the air, and its victims, like a knife.", "A formless terror that seems to cut through the air, and its victims, like a knife.", "_t")
-t("Night Terror", "Night Terror", "_t")
+t("Night Terror", "Noche Terror", "_t")
 

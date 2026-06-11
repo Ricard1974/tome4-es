@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shadow Senses", "Shadow Senses", "talent name")
-t("Shadows Empathy", "Shadows Empathy", "talent name")
-t("Shadow Transposition", "Shadow Transposition", "talent name")
-t("Shadow Decoy", "Shadow Decoy", "talent name")
+t("Shadow Senses", "Sombra Sentidos", "talent name")
+t("Shadows Empathy", "Sombras Empathy", "talent name")
+t("Shadow Transposition", "Sombra Transposition", "talent name")
+t("Shadow Decoy", "Sombra Decoy", "talent name")
 t("#GOLD#(%d decoy)#LAST#", "#GOLD#(%d decoy)#LAST#", "tformat")
 t("#GOLD#%d decoy#LAST#", "#GOLD#%d decoy#LAST#", "tformat")
 

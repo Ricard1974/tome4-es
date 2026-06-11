@@ -11,7 +11,7 @@ t("Instantly travel to your jumpgate, as long as you are within %d tiles of it."
 t("Jumpgate", "Jumpgate", "talent name")
 t("jumpgate", "jumpgate", "_t")
 t("Mind Blast", "Explosión mental", "talent name")
-t("Shadow Simulacrum", "Shadow Simulacrum", "talent name")
+t("Shadow Simulacrum", "Sombra Simulacrum", "talent name")
 t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
 t("You can't target summons!", "You can't target summons!", "logSeen")
 t("You can't target allies!", "You can't target allies!", "logSeen")

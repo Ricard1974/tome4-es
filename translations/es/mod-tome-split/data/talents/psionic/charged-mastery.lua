@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Transcendent Electrokinesis", "Transcendent Electrokinesis", "talent name")
+t("Transcendent Electrokinesis", "Trascendente Electrokinesis", "talent name")
 t("Thought Sense", "Thought Sense", "talent name")
-t("Static Net", "Static Net", "talent name")
+t("Static Net", "Estatico Net", "talent name")
 t("Heartstart", "Heartstart", "talent name")
 

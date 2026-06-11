@@ -6,6 +6,6 @@
 
 t("Disperse Magic", "Disperse Magia", "talent name")
 t("Spellcraft", "Arte de hechizar", "talent name")
-t("Energy Alteration", "Energy Alteration", "talent name")
+t("Energy Alteration", "Energia Alteration", "talent name")
 t("Metaflow", "Metaflujo", "talent name")
 

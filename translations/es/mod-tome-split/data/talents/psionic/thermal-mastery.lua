@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Transcendent Pyrokinesis", "Transcendent Pyrokinesis", "talent name")
+t("Transcendent Pyrokinesis", "Trascendente Pyrokinesis", "talent name")
 t("Brainfreeze", "Brainfreeze", "talent name")
-t("Heat Shift", "Heat Shift", "talent name")
+t("Heat Shift", "Heat Desplazar", "talent name")
 t("Thermal Balance", "Thermal Balance", "talent name")
 

@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Curse of Defenselessness", "Curse of Defenselessness", "talent name")
-t("Curse of Impotence", "Curse of Impotence", "talent name")
-t("Curse of Death", "Curse of Death", "talent name")
-t("Curse of Vulnerability", "Curse of Vulnerability", "talent name")
+t("Curse of Defenselessness", "Maldicion of Defenselessness", "talent name")
+t("Curse of Impotence", "Maldicion of Impotence", "talent name")
+t("Curse of Death", "Maldicion of Muerte", "talent name")
+t("Curse of Vulnerability", "Maldicion of Vulnerability", "talent name")
 

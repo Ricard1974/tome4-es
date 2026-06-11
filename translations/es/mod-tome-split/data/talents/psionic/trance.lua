@@ -6,6 +6,6 @@
 
 t("Trance of Purity", "Trance of Purity", "talent name")
 t("Trance of Well-Being", "Trance of Well-Being", "talent name")
-t("Trance of Focus", "Trance of Focus", "talent name")
+t("Trance of Focus", "Trance of Enfoque", "talent name")
 t("Deep Trance", "Deep Trance", "talent name")
 

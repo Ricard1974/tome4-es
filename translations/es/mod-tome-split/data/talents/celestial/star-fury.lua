@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Moonlight Ray", "Moonlight Ray", "talent name")
-t("Shadow Blast", "Shadow Blast", "talent name")
+t("Shadow Blast", "Sombra Explosion", "talent name")
 t("Twilight Surge", "Twilight Surge", "talent name")
 t("Starfall", "Starfall", "talent name")
 

@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Lightning Speed", "Relámpago Speed", "talent name")
-t("Static Field", "Static Field", "talent name")
+t("Static Field", "Estatico Campo", "talent name")
 t("%s resists the static field!", "%s resists the static field!", "logSeen")
 t("%s is caught in the static field!", "%s is caught in the static field!", "logSeen")
 t("#PURPLE#%d STATIC#LAST#", "#PURPLE#%d STATIC#LAST#", "tformat")

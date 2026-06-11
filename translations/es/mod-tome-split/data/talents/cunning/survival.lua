@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Heightened Senses", "Heightened Senses", "talent name")
+t("Heightened Senses", "Heightened Sentidos", "talent name")
 t("Device Mastery", "Device Maestría", "talent name")
 t("Track", "Rastrear", "talent name")
 t("Danger Sense", "Danger Sense", "talent name")

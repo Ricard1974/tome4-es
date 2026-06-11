@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dirge of Famine", "Dirge of Famine", "talent name")
-t("Dirge of Conquest", "Dirge of Conquest", "talent name")
-t("Dirge of Pestilence", "Dirge of Pestilence", "talent name")
-t("Dirge Acolyte", "Dirge Acolyte", "talent name")
-t("Dirge Intoner", "Dirge Intoner", "talent name")
-t("Dirge Adept", "Dirge Adept", "talent name")
-t("Dirge Nihilist", "Dirge Nihilist", "talent name")
+t("Dirge of Famine", "Elegia of Famine", "talent name")
+t("Dirge of Conquest", "Elegia of Conquest", "talent name")
+t("Dirge of Pestilence", "Elegia of Pestilence", "talent name")
+t("Dirge Acolyte", "Elegia Acolyte", "talent name")
+t("Dirge Intoner", "Elegia Intoner", "talent name")
+t("Dirge Adept", "Elegia Experto", "talent name")
+t("Dirge Nihilist", "Elegia Nihilist", "talent name")
 

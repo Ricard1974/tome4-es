@@ -4,12 +4,12 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ghost Walk", "Ghost Walk", "talent name")
+t("Ghost Walk", "Ghost Caminar", "talent name")
 t("You do not have line of sight.", "You do not have line of sight.", "logPlayer")
 t("%s's ghost walk fizzles!", "%s's ghost walk fizzles!", "logSeen")
-t("Ghost Walk - Return", "Ghost Walk - Return", "talent name")
+t("Ghost Walk - Return", "Ghost Caminar - Return", "talent name")
 t("Return to the location you used Ghost Walk from.", "Return to the location you used Ghost Walk from.", "tformat")
-t("Spectral Sight", "Spectral Sight", "talent name")
+t("Spectral Sight", "Spectral Vision", "talent name")
 t("Intangibility", "Intangibility", "talent name")
 t("While in your spectral form from Ghost Walk and for %d turns afterwards, damage and detrimental effects have a %d%% chance to harmlessly pass through you.", "While in your spectral form from Ghost Walk and for %d turns afterwards, damage and detrimental effects have a %d%% chance to harmlessly pass through you.", "tformat")
 t("Path to Beyond", "Path to Beyond", "talent name")

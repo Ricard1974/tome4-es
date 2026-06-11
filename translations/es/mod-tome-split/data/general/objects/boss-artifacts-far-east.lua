@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Life Drinker", "Life Drinker", "entity name")
+t("Life Drinker", "Vida Drinker", "entity name")
 t("blood coated dagger", "blood coated dagger", "_t")
 t("Black blood for foul deeds. This dagger serves evil.", "Black blood for foul deeds. This dagger serves evil.", "_t")
 t("Trident of the Tides", "Trident of the Tides", "entity name")

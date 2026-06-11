@@ -7,6 +7,6 @@
 t("Mind Sear", "Mental Sear", "talent name")
 t("Psychic Lobotomy", "Psychic Lobotomy", "talent name")
 t("%s resists the lobotomy!", "%s resists the lobotomy!", "logSeen")
-t("Synaptic Static", "Synaptic Static", "talent name")
+t("Synaptic Static", "Synaptic Estatico", "talent name")
 t("Sunder Mind", "Sunder Mental", "talent name")
 

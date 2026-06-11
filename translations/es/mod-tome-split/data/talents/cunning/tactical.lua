@@ -10,5 +10,5 @@ t("#Source# slams #Target# into the ground!", "#Source# slams #Target# into the 
 t("#Source# throws #Target# to the ground!", "#Source# throws #Target# to the ground!", "logCombat")
 t("%s counters the attack!", "%s counters the attack!", "logSeen")
 t("Set Up", "Set Up", "talent name")
-t("Exploit Weakness", "Exploit Weakness", "talent name")
+t("Exploit Weakness", "Exploit Debilidad", "talent name")
 

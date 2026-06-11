@@ -11,7 +11,7 @@ t("You are too close to build up momentum!", "You are too close to build up mome
 t("Precise Strikes", "Precise Golpea", "talent name")
 t("Perfect Strike", "Perfect Golpe", "talent name")
 t("You have learned to focus your blows to hit your target, granting +%d accuracy and allowing you to attack creatures you cannot see without penalty for the next %d turns.", "You have learned to focus your blows to hit your target, granting +%d accuracy and allowing you to attack creatures you cannot see without penalty for the next %d turns.", "tformat")
-t("Blinding Speed", "Blinding Speed", "talent name")
+t("Blinding Speed", "Cegador Speed", "talent name")
 t("Through rigorous training, you have learned to focus your actions for a short while, increasing your speed by %d%% for 5 turns.", "Through rigorous training, you have learned to focus your actions for a short while, increasing your speed by %d%% for 5 turns.", "tformat")
 t("Quick Recovery", "Quick Recovery", "talent name")
 t("Your combat focus allows you to keep your hatred burning (%0.1f hate refunded after spending hate on a talent)", "Your combat focus allows you to keep your hatred burning (%0.1f hate refunded after spending hate on a talent)", "tformat")

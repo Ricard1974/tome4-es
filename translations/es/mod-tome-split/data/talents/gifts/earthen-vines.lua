@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Stone Vines", "Stone Vines", "talent name")
+t("Stone Vines", "Piedra Vines", "talent name")
 t(" and %0.1f Arcane", " and %0.1f Arcane", "tformat")
-t("Eldritch Vines", "Eldritch Vines", "talent name")
+t("Eldritch Vines", "Arcano Vines", "talent name")
 t("Rockwalk", "Rockwalk", "talent name")
 t("Rockswallow", "Rockswallow", "talent name")
 

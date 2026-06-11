@@ -7,6 +7,6 @@
 t("Radiance", "Radiance", "talent name")
 t("Judgement", "Judgement", "talent name")
 t("Judgement", "Judgement", "_t")
-t("Searing Sight", "Searing Sight", "talent name")
+t("Searing Sight", "Searing Vision", "talent name")
 t("Illumination", "Illumination", "talent name")
 

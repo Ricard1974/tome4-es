@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Deeprock Form", "Deeprock Form", "talent name")
+t("Deeprock Form", "Deeprock Forma", "talent name")
 t(", Arcane damage by %0.1f%% and Arcane damage penetration by %0.1f%%", ", Arcane damage by %0.1f%% and Arcane damage penetration by %0.1f%%", "tformat")
 t(", Nature damage by %0.1f%% and Nature damage penetration by %0.1f%%", ", Nature damage by %0.1f%% and Nature damage penetration by %0.1f%%", "tformat")
 t(" and %d%% bleeding, poison, disease, and stun immunity", " and %d%% bleeding, poison, disease, and stun immunity", "tformat")

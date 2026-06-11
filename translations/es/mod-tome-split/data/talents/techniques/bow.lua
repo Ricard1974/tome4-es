@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Bow Mastery", "Bow Maestría", "talent name")
-t("Piercing Arrow", "Piercing Arrow", "talent name")
+t("Piercing Arrow", "Piercing Flecha", "talent name")
 t("You must wield a bow!", "You must wield a bow!", "logPlayer")
 t("You fire an arrow that cuts right through anything, piercing multiple targets if possible with nigh infinite armor penetration, doing %d%% damage.", "You fire an arrow that cuts right through anything, piercing multiple targets if possible with nigh infinite armor penetration, doing %d%% damage.", "tformat")
 t("Dual Arrows", "Dual Arrows", "talent name")

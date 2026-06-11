@@ -20,5 +20,5 @@ t("a body armour", "a body armour", "_t")
 t("Gem Portal", "Gem Portal", "talent name")
 t("You need to ready 5 alchemist gems in your quiver.", "You need to ready 5 alchemist gems in your quiver.", "logPlayer")
 t("Crush 5 alchemist gems into dust to mark impassable terrain next to you. You immediately enter it and appear on the other side of the obstacle, up to %d grids away.", "Crush 5 alchemist gems into dust to mark impassable terrain next to you. You immediately enter it and appear on the other side of the obstacle, up to %d grids away.", "tformat")
-t("Stone Touch", "Stone Touch", "talent name")
+t("Stone Touch", "Piedra Tocar", "talent name")
 
