@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Rampage", "Rampage", "talent name")
+t("Rampage", "Rabia", "talent name")
 t("You are already rampaging!", "You are already rampaging!", "logPlayer")
 t("Brutality", "Brutality", "talent name")
 t("Tenacity", "Tenacity", "talent name")

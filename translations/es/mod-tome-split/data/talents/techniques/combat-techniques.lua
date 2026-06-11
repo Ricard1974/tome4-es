@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Rush", "Rush", "talent name")
+t("Rush", "Embestida", "talent name")
 t("@Source@ rushes out!", "@Source@ rushes out!", "_t")
 t("You can only rush to a creature.", "You can only rush to a creature.", "logPlayer")
 t("You are too close to build up momentum!", "You are too close to build up momentum!", "logPlayer")

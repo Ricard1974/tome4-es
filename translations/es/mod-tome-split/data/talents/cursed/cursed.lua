@@ -47,6 +47,6 @@ t("Crimson Templar", "Crimson Templar", "talent type")
 t("Blood is power. Let the rivers run red.", "Blood is power. Let the rivers run red.", "_t")
 t("Hatred", "Hatred", "talent type")
 t("All the things in this dark world are contemptible.  Let yourself hate them and find the power therein.", "All the things in this dark world are contemptible.  Let yourself hate them and find the power therein.", "_t")
-t("Cursed", "Cursed", "talent type")
+t("Cursed", "Maldito", "talent type")
 t("Hate-powered abilities that don't belong anywhere else.", "Hate-powered abilities that don't belong anywhere else.", "_t")
 

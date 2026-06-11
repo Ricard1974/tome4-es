@@ -8,6 +8,6 @@ t("Wing Buffet", "Wing Buffet", "talent name")
 t("Bellowing Roar", "Bellowing Roar", "talent name")
 t("@Source@ roars!", "@Source@ roars!", "_t")
 t("Devouring Flame", "Devouring Flame", "talent name")
-t("Fire Breath", "Fire Breath", "talent name")
+t("Fire Breath", "Aliento de fuego", "talent name")
 t("@Source@ breathes fire!", "@Source@ breathes fire!", "_t")
 

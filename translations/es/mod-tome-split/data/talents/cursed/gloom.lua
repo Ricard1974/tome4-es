@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Gloom", "Gloom", "talent name")
+t("Gloom", "Penumbra", "talent name")
 t("#F53CBE#Your heart hardens as a powerful foe enters your gloom! (+%d hate)", "#F53CBE#Your heart hardens as a powerful foe enters your gloom! (+%d hate)", "logPlayer")
 t("Weakness", "Weakness", "talent name")
 t("Mindrot", "Mindrot", "talent name")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Stunning Blow", "Stunning Blow", "talent name")
+t("Stunning Blow", "Golpe aturdidor", "talent name")
 t("You require a two handed weapon to use this talent.", "You require a two handed weapon to use this talent.", "logPlayer")
 t("%s resists the stunning blow!", "%s resists the stunning blow!", "logSeen")
 t("Fearless Cleave", "Fearless Cleave", "talent name")

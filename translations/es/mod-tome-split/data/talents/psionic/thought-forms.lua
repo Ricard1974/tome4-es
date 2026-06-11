@@ -6,7 +6,7 @@
 
 t("thought-form", "thought-form", "_t")
 t("Thought-Form: Bowman", "Thought-Form: Bowman", "talent name")
-t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
+t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
 t("thought-forged bowman", "thought-forged bowman", "_t")
 t("A thought-forged bowman.  It appears ready for battle.", "A thought-forged bowman.  It appears ready for battle.", "_t")
 t("Thought-Form: Warrior", "Thought-Form: Warrior", "talent name")

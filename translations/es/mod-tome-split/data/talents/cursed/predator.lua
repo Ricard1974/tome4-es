@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Predator", "Predator", "talent name")
+t("Predator", "Depredador", "talent name")
 t("Improve your predation by learning from past hunts. You gain %0.2f accuracy and %0.2f armor penetration against foes for each foe of that type you have previously slain, to a maximum of %d accuracy and %d apr.", "Improve your predation by learning from past hunts. You gain %0.2f accuracy and %0.2f armor penetration against foes for each foe of that type you have previously slain, to a maximum of %d accuracy and %d apr.", "tformat")
 t("Savage Hunter", "Savage Hunter", "talent name")
 t("%s's cursed miasma", "%s's cursed miasma", "tformat")

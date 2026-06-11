@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Giant Leap", "Giant Leap", "talent name")
+t("Giant Leap", "Salto gigante", "talent name")
 t("Have dealt over 50000 damage with any weapon or unarmed", "Have dealt over 50000 damage with any weapon or unarmed", "_t")
 t("You Shall Be My Weapon!", "You Shall Be My Weapon!", "talent name")
 t("Be of size category 'big' or larger. This is also required to use it.", "Be of size category 'big' or larger. This is also required to use it.", "_t")
@@ -20,7 +20,7 @@ t("Legacy of the Naloren", "Legacy of the Naloren", "talent name")
 t("Have sided with Slasul and killed Ukllmswwik", "Have sided with Slasul and killed Ukllmswwik", "_t")
 t("Legacy of the Naloren", "Legacy of the Naloren", "_t")
 t("Slasul will be happy to know your faith in his cause. You should return to speak to him.", "Slasul will be happy to know your faith in his cause. You should return to speak to him.", "_t")
-t("Superpower", "Superpower", "talent name")
+t("Superpower", "Superpoder", "talent name")
 t("Avatar of a Distant Sun", "Avatar of a Distant Sun", "talent name")
 t("Unlocked the evolution", "Unlocked the evolution", "_t")
 t("Found a distant patron", "Found a distant patron", "_t")

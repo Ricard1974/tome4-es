@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Stalk", "Stalk", "talent name")
+t("Stalk", "Acechar", "talent name")
 t("#F53CBE#You are having trouble focusing on your prey!", "#F53CBE#You are having trouble focusing on your prey!", "logPlayer")
 t("Harass Prey", "Harass Prey", "talent name")
 t("#F53CBE#%s's %s is disrupted!", "#F53CBE#%s's %s is disrupted!", "logSeen")

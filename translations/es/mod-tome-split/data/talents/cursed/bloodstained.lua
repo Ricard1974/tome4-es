@@ -11,5 +11,5 @@ t("Nowhere to appear!", "Nowhere to appear!", "logSeen")
 t("The bloodrush fizzles!", "The bloodrush fizzles!", "logSeen")
 t("Blood Rage", "Blood Rage", "talent name")
 t("Blood Bath", "Blood Bath", "talent name")
-t("Blood Thirst", "Blood Thirst", "talent name")
+t("Blood Thirst", "Sed de sangre", "talent name")
 

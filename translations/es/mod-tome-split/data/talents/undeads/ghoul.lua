@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ghoul", "Ghoul", "talent name")
+t("Ghoul", "Ghul", "talent name")
 t("Ghoulish Leap", "Ghoulish Leap", "talent name")
 t("Retch", "Retch", "talent name")
 t("%s #YELLOW_GREEN#VOMITS#LAST# on the ground!", "%s #YELLOW_GREEN#VOMITS#LAST# on the ground!", "logSeen")

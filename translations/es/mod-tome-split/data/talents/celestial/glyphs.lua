@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Glyphs", "Glyphs", "talent name")
+t("Glyphs", "Glifos", "talent name")
 t("glyph of sunlight", "glyph of sunlight", "_t")
 t("trap", "trap", "_t")
 t("Deals %d light damage and heals the summoner for %d", "Deals %d light damage and heals the summoner for %d", "tformat")

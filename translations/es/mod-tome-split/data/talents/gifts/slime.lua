@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Slime Spit", "Slime Spit", "talent name")
-t("Poisonous Spores", "Poisonous Spores", "talent name")
+t("Poisonous Spores", "Esporas venenosas", "talent name")
 t("@Source@ releases poisonous spores at @target@.", "@Source@ releases poisonous spores at @target@.", "_t")
 t("Acidic Skin", "Acidic Skin", "talent name")
 t("The skin of @Source@ starts dripping acid.", "The skin of @Source@ starts dripping acid.", "_t")

@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Frost Infusion", "Frost Infusion", "talent name")
-t("Ice Armour", "Ice Armour", "talent name")
+t("Ice Armour", "Armadura de hielo", "talent name")
 t("Flash Freeze", "Flash Freeze", "talent name")
 t("Ice Core", "Ice Core", "talent name")
 

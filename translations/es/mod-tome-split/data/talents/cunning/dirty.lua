@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Dirty Fighting", "Dirty Fighting", "talent name")
-t("Backstab", "Backstab", "talent name")
+t("Backstab", "Apuñalar por la espalda", "talent name")
 t("Blinding Powder", "Blinding Powder", "talent name")
 t("Twist the Knife", "Twist the Knife", "talent name")
 t("#CRIMSON#%s's %s was extended!#LAST#", "#CRIMSON#%s's %s was extended!#LAST#", "logSeen")

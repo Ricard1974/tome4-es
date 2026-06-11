@@ -7,7 +7,7 @@
 t("Celerity", "Celerity", "talent name")
 t("When you move you gain %d%% movement speed for %d turns.  This effect stacks up to three times but can only occur once per turn.", "When you move you gain %d%% movement speed for %d turns.  This effect stacks up to three times but can only occur once per turn.", "tformat")
 t("Time Dilation", "Time Dilation", "talent name")
-t("Haste", "Haste", "talent name")
+t("Haste", "Celeridad", "talent name")
 t("Increases your global speed by %d%% for %d game turns.", "Increases your global speed by %d%% for %d game turns.", "tformat")
 t("Time Stop", "Time Stop", "talent name")
 t("#STEEL_BLUE#%s has stopped time!#LAST#", "#STEEL_BLUE#%s has stopped time!#LAST#", "logSeen")

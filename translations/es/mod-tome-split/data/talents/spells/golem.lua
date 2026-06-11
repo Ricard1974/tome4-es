@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Knockback", "Knockback", "talent name")
+t("Knockback", "Derribo", "talent name")
 t("Your golem cannot do that currently.", "Your golem cannot do that currently.", "logPlayer")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("Taunt", "Taunt", "talent name")

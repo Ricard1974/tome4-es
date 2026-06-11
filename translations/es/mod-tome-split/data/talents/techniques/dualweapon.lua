@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dual Weapon Training", "Dual Weapon Training", "talent name")
+t("Dual Weapon Training", "Entrenamiento en armas dobles", "talent name")
 t("Increases the damage of your off-hand weapon to %d%%.", "Increases the damage of your off-hand weapon to %d%%.", "tformat")
 t("Dual Weapon Defense", "Dual Weapon Defense", "talent name")
 t("Close Combat Management", "Close Combat Management", "talent name")

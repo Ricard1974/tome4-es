@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Stealth", "Stealth", "talent name")
+t("Stealth", "Sigilo", "talent name")
 t("You cannot be stealthy with such heavy armour on!", "You cannot be stealthy with such heavy armour on!", "logPlayer")
 t("You are being observed too closely to enter Stealth!", "You are being observed too closely to enter Stealth!", "logPlayer")
 t(" (range %d in an unlit grid)", " (range %d in an unlit grid)", "tformat")
-t("Shadowstrike", "Shadowstrike", "talent name")
+t("Shadowstrike", "Golpe sombrío", "talent name")
 t("Soothing Darkness", "Soothing Darkness", "talent name")
 t("Shadow Dance", "Shadow Dance", "talent name")
 

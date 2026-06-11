@@ -1819,10 +1819,10 @@ section "mod-tome/data/talents/celestial/combat.lua"
 --[==[
 t("Gravitic Effulgence", "Gravitic Effulgence", "talent name")
 t("Your Weapon of Light nows pulls in all foes in radius 5.", "Your Weapon of Light nows pulls in all foes in radius 5.", "tformat")
-t("Weapon of Light", "Arma de luz", "talent name")
+t("Weapon of Light", "Weapon of Light", "talent name")
 t("Wave of Power", "Wave of Power", "talent name")
 t("#CRIMSON#%sstrikes twice with Wave of Power!#NORMAL#", "#CRIMSON#%sstrikes twice with Wave of Power!#NORMAL#", "logSeen")
-t("Weapon of Wrath", "Arma de ira", "talent name")
+t("Weapon of Wrath", "Weapon of Wrath", "talent name")
 t("Second Life", "Second Life", "talent name")
 t("Any attack that would drop you below 1 hit point instead triggers Second Life, deactivating the talent, setting your hit points to 1, then healing you for %d.", "Any attack that would drop you below 1 hit point instead triggers Second Life, deactivating the talent, setting your hit points to 1, then healing you for %d.", "tformat")
 --]==]
@@ -1904,7 +1904,7 @@ section "mod-tome/data/talents/celestial/glyphs.lua"
 
 -- new text
 --[==[
-t("Glyphs", "Glifos", "talent name")
+t("Glyphs", "Glyphs", "talent name")
 t("glyph of sunlight", "glyph of sunlight", "_t")
 t("trap", "trap", "_t")
 t("Deals %d light damage and heals the summoner for %d", "Deals %d light damage and heals the summoner for %d", "tformat")
@@ -1960,10 +1960,10 @@ section "mod-tome/data/talents/celestial/light.lua"
 
 -- new text
 --[==[
-t("Healing Light", "Luz curativa", "talent name")
-t("Bathe in Light", "Bañarse en luz", "talent name")
-t("Barrier", "Barrera", "talent name")
-t("Providence", "Providencia", "talent name")
+t("Healing Light", "Healing Light", "talent name")
+t("Bathe in Light", "Bathe in Light", "talent name")
+t("Barrier", "Barrier", "talent name")
+t("Providence", "Providence", "talent name")
 t("Places you under the protection of a ray of sunlight. For %d turns, the light removes a single negative effect from you every turn.", "Places you under the protection of a ray of sunlight. For %d turns, the light removes a single negative effect from you every turn.", "tformat")
 --]==]
 
@@ -2033,7 +2033,7 @@ section "mod-tome/data/talents/celestial/sunlight.lua"
 
 -- new text
 --[==[
-t("Searing Light", "Luz abrasadora", "talent name")
+t("Searing Light", "Searing Light", "talent name")
 t("Sun Flare", "Sun Flare", "talent name")
 t("Firebeam", "Firebeam", "talent name")
 t("Sunburst", "Sunburst", "talent name")
@@ -2052,9 +2052,9 @@ t("You must sustain the Jumpgate spell to be able to teleport.", "You must susta
 t("Instantly travel to your jumpgate, as long as you are within %d tiles of it.", "Instantly travel to your jumpgate, as long as you are within %d tiles of it.", "tformat")
 t("Jumpgate", "Jumpgate", "talent name")
 t("jumpgate", "jumpgate", "_t")
-t("Mind Blast", "Explosión mental", "talent name")
+t("Mind Blast", "Mind Blast", "talent name")
 t("Shadow Simulacrum", "Shadow Simulacrum", "talent name")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("You can't target summons!", "You can't target summons!", "logSeen")
 t("You can't target allies!", "You can't target allies!", "logSeen")
 t("%s's shadow simulacrum", "%s's shadow simulacrum", "tformat")
@@ -2114,7 +2114,7 @@ t("@Source@ makes several targets blink uncontrollably.", "@Source@ makes severa
 t("Up to five targets in a radius of %d are teleporting %d tiles every turn.", "Up to five targets in a radius of %d are teleporting %d tiles every turn.", "tformat")
 t("Anomaly Summon Townsfolk", "Anomaly Summon Townsfolk", "talent name")
 t("Some innocent bystanders have been teleported into the fight.", "Some innocent bystanders have been teleported into the fight.", "_t")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("human farmer", "human farmer", "_t")
 t("A weather-worn Human farmer, looking at a loss as to what's going on.", "A weather-worn Human farmer, looking at a loss as to what's going on.", "_t")
 t("halfling gardener", "halfling gardener", "_t")
@@ -2291,7 +2291,7 @@ t("timetravel", "timetravel", "talent type")
 t("Directly manipulate the flow of time", "Directly manipulate the flow of time", "_t")
 t("Spellbinding", "Spellbinding", "talent type")
 t("Manipulate chronomantic spells.", "Manipulate chronomantic spells.", "_t")
-t("Chronomancy", "Cronomancia", "talent type")
+t("Chronomancy", "Chronomancy", "talent type")
 t("Allows you to glimpse the future, or become more aware of the present.", "Allows you to glimpse the future, or become more aware of the present.", "_t")
 t("energy", "energy", "talent type")
 t("Manipulate raw energy by addition or subtraction.", "Manipulate raw energy by addition or subtraction.", "_t")
@@ -2456,7 +2456,7 @@ section "mod-tome/data/talents/chronomancy/other.lua"
 t("Spacetime Tuning", "Spacetime Tuning", "talent name")
 t("Spacetime Tuning", "Spacetime Tuning", "_t")
 t("What's your preferred paradox level?", "What's your preferred paradox level?", "_t")
-t("Slow", "Ralentizar", "talent name")
+t("Slow", "Slow", "talent name")
 t("Spacetime Mastery", "Spacetime Mastery", "talent name")
 t("Your mastery of spacetime reduces the cooldown of Banish, Dimensional Step, Swap, and Temporal Wake by %d, and the cooldown of Wormhole by %d.  Also improves your Spellpower for purposes of hitting targets with chronomancy effects that may cause continuum destabilization (Banish, Time Skip, etc.), as well as your chance of overcoming continuum destabilization, by %d%%.", "Your mastery of spacetime reduces the cooldown of Banish, Dimensional Step, Swap, and Temporal Wake by %d, and the cooldown of Wormhole by %d.  Also improves your Spellpower for purposes of hitting targets with chronomancy effects that may cause continuum destabilization (Banish, Time Skip, etc.), as well as your chance of overcoming continuum destabilization, by %d%%.", "tformat")
 t("Quantum Feed", "Quantum Feed", "talent name")
@@ -2465,7 +2465,7 @@ t("Gather the Threads", "Gather the Threads", "talent name")
 t("Entropic Field", "Entropic Field", "talent name")
 t("Fade From Time", "Fade From Time", "talent name")
 t("Paradox Clone", "Paradox Clone", "talent name")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("%s's Paradox Clone", "%s's Paradox Clone", "tformat")
 t("The real %s... or so %s says.", "The real %s... or so %s says.", "tformat")
 t("Paradox Clone", "Paradox Clone", "_t")
@@ -2554,7 +2554,7 @@ section "mod-tome/data/talents/chronomancy/speed-control.lua"
 t("Celerity", "Celerity", "talent name")
 t("When you move you gain %d%% movement speed for %d turns.  This effect stacks up to three times but can only occur once per turn.", "When you move you gain %d%% movement speed for %d turns.  This effect stacks up to three times but can only occur once per turn.", "tformat")
 t("Time Dilation", "Time Dilation", "talent name")
-t("Haste", "Celeridad", "talent name")
+t("Haste", "Haste", "talent name")
 t("Increases your global speed by %d%% for %d game turns.", "Increases your global speed by %d%% for %d game turns.", "tformat")
 t("Time Stop", "Time Stop", "talent name")
 t("#STEEL_BLUE#%s has stopped time!#LAST#", "#STEEL_BLUE#%s has stopped time!#LAST#", "logSeen")
@@ -2664,9 +2664,9 @@ t("Temporal Fugue", "Temporal Fugue", "talent name")
 t("%s's Fugue Clone", "%s's Fugue Clone", "tformat")
 t("The real %s... or so %s says.", "The real %s... or so %s says.", "tformat")
 t("Fugue Clone", "Fugue Clone", "_t")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("Braid Lifelines", "Braid Lifelines", "talent name")
-t("Cease to Exist", "Dejar de existir", "talent name")
+t("Cease to Exist", "Cease to Exist", "talent name")
 t("The timeline is too fractured to do this now.", "The timeline is too fractured to do this now.", "logPlayer")
 t("#LIGHT_BLUE#%s never existed, this never happened!", "#LIGHT_BLUE#%s never existed, this never happened!", "logSeen")
 t("#LIGHT_STEEL_BLUE#%s tries to remove %sself from existance!", "#LIGHT_STEEL_BLUE#%s tries to remove %sself from existance!", "logSeen")
@@ -2728,12 +2728,12 @@ section "mod-tome/data/talents/corruptions/bone.lua"
 
 -- new text
 --[==[
-t("Bone Spear", "Lanza de hueso", "talent name")
-t("Bone Grab", "Garra de hueso", "talent name")
+t("Bone Spear", "Bone Spear", "talent name")
+t("Bone Grab", "Bone Grab", "talent name")
 t("%s resists the pin!", "%s resists the pin!", "logSeen")
 t("%s resists being teleported by Bone Grab!", "%s resists being teleported by Bone Grab!", "logSeen")
 t("Bone Spike", "Bone Spike", "talent name")
-t("Bone Shield", "Escudo de hueso", "talent name")
+t("Bone Shield", "Bone Shield", "talent name")
 t("#SLATE#(%d to bones)#LAST#", "#SLATE#(%d to bones)#LAST#", "tformat")
 --]==]
 
@@ -2837,7 +2837,7 @@ t("Infectious Bite", "Infectious Bite", "talent name")
 t("@Source@ bites blight poison into @target@.", "@Source@ bites blight poison into @target@.", "_t")
 t("A worm spawned from a damaged horror.  Destroying it may have consequences.", "A worm spawned from a damaged horror.  Destroying it may have consequences.", "_t")
 t("%s exudes a corrupted gas as it dies.", "%s exudes a corrupted gas as it dies.", "logSeen")
-t("Summon", "Invocar", "_t")
+t("Summon", "Summon", "_t")
 t("Infestation", "Infestation", "talent name")
 t("Worm Walk", "Worm Walk", "talent name")
 t("You do not have line of sight to this location.", "You do not have line of sight to this location.", "logPlayer")
@@ -2853,7 +2853,7 @@ section "mod-tome/data/talents/corruptions/sanguisuge.lua"
 
 -- new text
 --[==[
-t("Drain", "Drenar", "talent name")
+t("Drain", "Drain", "talent name")
 t("Bloodcasting", "Bloodcasting", "talent name")
 t("The cost of using life instead of vim for talents is reduced to %d%%.", "The cost of using life instead of vim for talents is reduced to %d%%.", "tformat")
 t("Absorb Life", "Absorb Life", "talent name")
@@ -2886,7 +2886,7 @@ section "mod-tome/data/talents/corruptions/shadowflame.lua"
 t("Wraithform", "Wraithform", "talent name")
 t("Darkfire", "Darkfire", "talent name")
 t("Flame of Urh'Rok", "Flame of Urh'Rok", "talent name")
-t("Fearscape", "Páramo del miedo", "talent name")
+t("Fearscape", "Fearscape", "talent name")
 t("This spell cannot be used from within the Fearscape.", "This spell cannot be used from within the Fearscape.", "logPlayer")
 t("This spell cannot be cast here.", "This spell cannot be cast here.", "logPlayer")
 t("The spell fizzles...", "The spell fizzles...", "logPlayer")
@@ -2927,8 +2927,8 @@ section "mod-tome/data/talents/corruptions/vim.lua"
 
 -- new text
 --[==[
-t("Soul Rot", "Podredumbre del alma", "talent name")
-t("Dark Portal", "Portal oscuro", "talent name")
+t("Soul Rot", "Soul Rot", "talent name")
+t("Dark Portal", "Dark Portal", "talent name")
 t("Vimsense", "Vimsense", "talent name")
 t("Leech", "Leech", "talent name")
 t("Each time a creature affected by vimsense hurts you, you regain %0.2f vim and %0.2f health.", "Each time a creature affected by vimsense hurts you, you regain %0.2f vim and %0.2f health.", "tformat")
@@ -3065,7 +3065,7 @@ section "mod-tome/data/talents/cunning/dirty.lua"
 -- new text
 --[==[
 t("Dirty Fighting", "Dirty Fighting", "talent name")
-t("Backstab", "Apuñalar por la espalda", "talent name")
+t("Backstab", "Backstab", "talent name")
 t("Blinding Powder", "Blinding Powder", "talent name")
 t("Twist the Knife", "Twist the Knife", "talent name")
 t("#CRIMSON#%s's %s was extended!#LAST#", "#CRIMSON#%s's %s was extended!#LAST#", "logSeen")
@@ -3155,11 +3155,11 @@ section "mod-tome/data/talents/cunning/stealth.lua"
 
 -- new text
 --[==[
-t("Stealth", "Sigilo", "talent name")
+t("Stealth", "Stealth", "talent name")
 t("You cannot be stealthy with such heavy armour on!", "You cannot be stealthy with such heavy armour on!", "logPlayer")
 t("You are being observed too closely to enter Stealth!", "You are being observed too closely to enter Stealth!", "logPlayer")
 t(" (range %d in an unlit grid)", " (range %d in an unlit grid)", "tformat")
-t("Shadowstrike", "Golpe sombrío", "talent name")
+t("Shadowstrike", "Shadowstrike", "talent name")
 t("Soothing Darkness", "Soothing Darkness", "talent name")
 t("Shadow Dance", "Shadow Dance", "talent name")
 --]==]
@@ -3229,7 +3229,7 @@ t(" (normal trigger)", " (normal trigger)", "_t")
 t("#LIGHT_BLUE#No changes to trap preparation.", "#LIGHT_BLUE#No changes to trap preparation.", "logPlayer")
 t("#GREY#(see trap description)#LAST#", "#GREY#(see trap description)#LAST#", "_t")
 t("Lure", "Lure", "talent name")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("lure", "lure", "_t")
 t("A noisy lure.", "A noisy lure.", "_t")
 t("Advanced Trap Deployment", "Advanced Trap Deployment", "talent name")
@@ -3323,7 +3323,7 @@ section "mod-tome/data/talents/cursed/advanced-shadowmancy.lua"
 -- new text
 --[==[
 t("Merge", "Merge", "talent name")
-t("Stone", "Piedra", "talent name")
+t("Stone", "Stone", "talent name")
 t("Shadow's Path", "Shadow's Path", "talent name")
 t("You need a shadow in sight range!", "You need a shadow in sight range!", "logPlayer")
 t("Cursed Bolt", "Cursed Bolt", "talent name")
@@ -3342,7 +3342,7 @@ t("Nowhere to appear!", "Nowhere to appear!", "logSeen")
 t("The bloodrush fizzles!", "The bloodrush fizzles!", "logSeen")
 t("Blood Rage", "Blood Rage", "talent name")
 t("Blood Bath", "Blood Bath", "talent name")
-t("Blood Thirst", "Sed de sangre", "talent name")
+t("Blood Thirst", "Blood Thirst", "talent name")
 --]==]
 
 ------------------------------------------------
@@ -3453,7 +3453,7 @@ t("Crimson Templar", "Crimson Templar", "talent type")
 t("Blood is power. Let the rivers run red.", "Blood is power. Let the rivers run red.", "_t")
 t("Hatred", "Hatred", "talent type")
 t("All the things in this dark world are contemptible.  Let yourself hate them and find the power therein.", "All the things in this dark world are contemptible.  Let yourself hate them and find the power therein.", "_t")
-t("Cursed", "Maldito", "talent type")
+t("Cursed", "Cursed", "talent type")
 t("Hate-powered abilities that don't belong anywhere else.", "Hate-powered abilities that don't belong anywhere else.", "_t")
 --]==]
 
@@ -3509,7 +3509,7 @@ section "mod-tome/data/talents/cursed/endless-hunt.lua"
 
 -- new text
 --[==[
-t("Stalk", "Acechar", "talent name")
+t("Stalk", "Stalk", "talent name")
 t("#F53CBE#You are having trouble focusing on your prey!", "#F53CBE#You are having trouble focusing on your prey!", "logPlayer")
 t("Harass Prey", "Harass Prey", "talent name")
 t("#F53CBE#%s's %s is disrupted!", "#F53CBE#%s's %s is disrupted!", "logSeen")
@@ -3575,7 +3575,7 @@ section "mod-tome/data/talents/cursed/gloom.lua"
 
 -- new text
 --[==[
-t("Gloom", "Penumbra", "talent name")
+t("Gloom", "Gloom", "talent name")
 t("#F53CBE#Your heart hardens as a powerful foe enters your gloom! (+%d hate)", "#F53CBE#Your heart hardens as a powerful foe enters your gloom! (+%d hate)", "logPlayer")
 t("Weakness", "Weakness", "talent name")
 t("Mindrot", "Mindrot", "talent name")
@@ -3602,7 +3602,7 @@ section "mod-tome/data/talents/cursed/predator.lua"
 
 -- new text
 --[==[
-t("Predator", "Depredador", "talent name")
+t("Predator", "Predator", "talent name")
 t("Improve your predation by learning from past hunts. You gain %0.2f accuracy and %0.2f armor penetration against foes for each foe of that type you have previously slain, to a maximum of %d accuracy and %d apr.", "Improve your predation by learning from past hunts. You gain %0.2f accuracy and %0.2f armor penetration against foes for each foe of that type you have previously slain, to a maximum of %d accuracy and %d apr.", "tformat")
 t("Savage Hunter", "Savage Hunter", "talent name")
 t("%s's cursed miasma", "%s's cursed miasma", "tformat")
@@ -3635,7 +3635,7 @@ section "mod-tome/data/talents/cursed/punishments.lua"
 t("Reproach", "Reproach", "talent name")
 t("Hateful Whisper", "Hateful Whisper", "talent name")
 t("Agony", "Agony", "talent name")
-t("Madness", "Locura", "talent name")
+t("Madness", "Madness", "talent name")
 t("Your hateful will splinters into the minds of those you torture, breaking them down. Each time you inflict Mind damage, the victim has a %0.1f%% chance of going mad for 3 turns unless they save against your Mindpower. The madness will lower the victim's Mind resistance by %0.1f%% and cause them to become confused (50%% power), slowed (30%% power), or stunned for the duration.", "Your hateful will splinters into the minds of those you torture, breaking them down. Each time you inflict Mind damage, the victim has a %0.1f%% chance of going mad for 3 turns unless they save against your Mindpower. The madness will lower the victim's Mind resistance by %0.1f%% and cause them to become confused (50%% power), slowed (30%% power), or stunned for the duration.", "tformat")
 --]==]
 
@@ -3645,7 +3645,7 @@ section "mod-tome/data/talents/cursed/rampage.lua"
 
 -- new text
 --[==[
-t("Rampage", "Rabia", "talent name")
+t("Rampage", "Rampage", "talent name")
 t("You are already rampaging!", "You are already rampaging!", "logPlayer")
 t("Brutality", "Brutality", "talent name")
 t("Tenacity", "Tenacity", "talent name")
@@ -3683,7 +3683,7 @@ section "mod-tome/data/talents/cursed/shadows.lua"
 --[==[
 t("Fade", "Fade", "talent name")
 t("You fade from sight, making you invulnerable until the beginning of your next turn.", "You fade from sight, making you invulnerable until the beginning of your next turn.", "tformat")
-t("Phase Door", "Puerta dimensional", "talent name")
+t("Phase Door", "Phase Door", "talent name")
 t("Teleports you within a small range.", "Teleports you within a small range.", "tformat")
 t("Blindside", "Blindside", "talent name")
 t("With blinding speed you suddenly appear next to a target up to %d spaces away and attack for %d%% damage.", "With blinding speed you suddenly appear next to a target up to %d spaces away and attack for %d%% damage.", "tformat")
@@ -3693,7 +3693,7 @@ t("Reform", "Reform", "talent name")
 t("When a shadow is hit and killed, there is a %d%% chance it will reform unhurt.", "When a shadow is hit and killed, there is a %d%% chance it will reform unhurt.", "tformat")
 t("Call Shadows", "Call Shadows", "talent name")
 t("Your hate is too low to call another shadow!", "Your hate is too low to call another shadow!", "logPlayer")
-t("Summon", "Invocar", "_t")
+t("Summon", "Summon", "_t")
 t("Shadow Warriors", "Shadow Warriors", "talent name")
 t("Instill hate in your shadows, strengthening their attacks. They gain %d%% extra Accuracy and %d%% extra damage. The fury of their attacks gives them the ability to try to Dominate their foes, increasing all damage taken by that foe for 4 turns (level %d, %d%% chance at range 1). They also gain the ability to Fade when hit, avoiding all damage until their next turn (%d turn cooldown).", "Instill hate in your shadows, strengthening their attacks. They gain %d%% extra Accuracy and %d%% extra damage. The fury of their attacks gives them the ability to try to Dominate their foes, increasing all damage taken by that foe for 4 turns (level %d, %d%% chance at range 1). They also gain the ability to Fade when hit, avoiding all damage until their next turn (%d turn cooldown).", "tformat")
 t("Shadow Mages", "Shadow Mages", "talent name")
@@ -3798,7 +3798,7 @@ t("Icy Skin", "Icy Skin", "talent name")
 t("Ice Wall", "Ice Wall", "talent name")
 t("ice wall", "ice wall", "_t")
 t("a summoned, transparent wall of ice", "a summoned, transparent wall of ice", "_t")
-t("Ice Breath", "Aliento de hielo", "talent name")
+t("Ice Breath", "Ice Breath", "talent name")
 t("@Source@ breathes ice!", "@Source@ breathes ice!", "_t")
 t("%s resists the freeze!", "%s resists the freeze!", "logSeen")
 --]==]
@@ -3889,7 +3889,7 @@ t("Wing Buffet", "Wing Buffet", "talent name")
 t("Bellowing Roar", "Bellowing Roar", "talent name")
 t("@Source@ roars!", "@Source@ roars!", "_t")
 t("Devouring Flame", "Devouring Flame", "talent name")
-t("Fire Breath", "Aliento de fuego", "talent name")
+t("Fire Breath", "Fire Breath", "talent name")
 t("@Source@ breathes fire!", "@Source@ breathes fire!", "_t")
 --]==]
 
@@ -3969,7 +3969,7 @@ t("Control the stone itself and bring it alive in the form of dreadful vines.", 
 t("dwarven nature", "dwarven nature", "talent type")
 t("Learn to harness the innate power of your race.", "Learn to harness the innate power of your race.", "_t")
 t("#PINK#You can manage a maximum of %d summons at any time. You need %d Cunning to increase your limit.", "#PINK#You can manage a maximum of %d summons at any time. You need %d Cunning to increase your limit.", "logPlayer")
-t("Summon", "Invocar", "_t")
+t("Summon", "Summon", "_t")
 --]==]
 
 ------------------------------------------------
@@ -4085,13 +4085,13 @@ section "mod-tome/data/talents/gifts/sand-drake.lua"
 
 -- new text
 --[==[
-t("Swallow", "Tragar", "talent name")
+t("Swallow", "Swallow", "talent name")
 t("#Source# tries to swallow #Target#!", "#Source# tries to swallow #Target#!", "logCombat")
 t("%s resists!", "%s resists!", "logSeen")
 t("Quake", "Quake", "talent name")
 t("@Source@ shakes the ground!", "@Source@ shakes the ground!", "_t")
 t("Burrow", "Burrow", "talent name")
-t("Sand Breath", "Aliento de arena", "talent name")
+t("Sand Breath", "Sand Breath", "talent name")
 t("@Source@ breathes sand!", "@Source@ breathes sand!", "_t")
 --]==]
 
@@ -4102,7 +4102,7 @@ section "mod-tome/data/talents/gifts/slime.lua"
 -- new text
 --[==[
 t("Slime Spit", "Slime Spit", "talent name")
-t("Poisonous Spores", "Esporas venenosas", "talent name")
+t("Poisonous Spores", "Poisonous Spores", "talent name")
 t("@Source@ releases poisonous spores at @target@.", "@Source@ releases poisonous spores at @target@.", "_t")
 t("Acidic Skin", "Acidic Skin", "talent name")
 t("The skin of @Source@ starts dripping acid.", "The skin of @Source@ starts dripping acid.", "_t")
@@ -4124,7 +4124,7 @@ t("Tornado", "Tornado", "talent name")
 t("Tornado", "Tornado", "_t")
 t("%s is knocked back!", "%s is knocked back!", "logSeen")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
-t("Lightning Breath", "Aliento de relámpago", "talent name")
+t("Lightning Breath", "Lightning Breath", "talent name")
 t("@Source@ breathes lightning!", "@Source@ breathes lightning!", "_t")
 t("%s resists the stun!", "%s resists the stun!", "logSeen")
 --]==]
@@ -4169,7 +4169,7 @@ t("Acid Breath", "Acid Breath", "talent name")
 t("@Source@ breathes acid!", "@Source@ breathes acid!", "_t")
 t("Acid Spit", "Acid Spit", "talent name")
 t("@Source@ spits acid!", "@Source@ spits acid!", "_t")
-t("Lightning Breath", "Aliento de relámpago", "talent name")
+t("Lightning Breath", "Lightning Breath", "talent name")
 t("@Source@ breathes lightning!", "@Source@ breathes lightning!", "_t")
 t("Lightning Spit", "Lightning Spit", "talent name")
 t("@Source@ spits lightning!", "@Source@ spits lightning!", "_t")
@@ -4181,17 +4181,17 @@ t("Winter's Fury", "Winter's Fury", "talent name")
 t("Winter's Grasp", "Winter's Grasp", "talent name")
 t("Ritch Flamespitter", "Ritch Flamespitter", "talent name")
 t("@Source@ summons a Ritch Flamespitter!", "@Source@ summons a Ritch Flamespitter!", "_t")
-t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("You cannot summon; you are suppressed!", "You cannot summon; you are suppressed!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("", "", "_t")
-t("%s (wild summon)", "%s (invocación salvaje)", "tformat")
+t("%s (wild summon)", "%s (wild summon)", "tformat")
 t("Hydra", "Hydra", "talent name")
 t("@Source@ summons a 3-headed hydra!", "@Source@ summons a 3-headed hydra!", "_t")
 t("A strange reptilian creature with three smouldering heads.", "A strange reptilian creature with three smouldering heads.", "_t")
 t("Rimebark", "Rimebark", "talent name")
 t("@Source@ summons a Rimebark!", "@Source@ summons a Rimebark!", "_t")
 t("This huge treant-like being is embedded with the fury of winter itself.", "This huge treant-like being is embedded with the fury of winter itself.", "_t")
-t("Fire Drake", "Dragón de fuego", "talent name")
+t("Fire Drake", "Fire Drake", "talent name")
 t("@Source@ summons a Fire Drake!", "@Source@ summons a Fire Drake!", "_t")
 t("A mighty fire drake.", "A mighty fire drake.", "_t")
 --]==]
@@ -4202,27 +4202,27 @@ section "mod-tome/data/talents/gifts/summon-melee.lua"
 
 -- new text
 --[==[
-t("Jelly Spread", "Extensión de babosa", "talent name")
-t("@source@ oozes over the ground!!", "¡@source@ se extiende sobre el suelo!", "_t")
+t("Jelly Spread", "Jelly Spread", "talent name")
+t("@source@ oozes over the ground!!", "@source@ oozes over the ground!!", "_t")
 t("Ooze over the floor, spreading caustic jelly in a radius of 1 lasting %d turns and dealing %d nature damage per turn to hostile creatures caught within.", "Ooze over the floor, spreading caustic jelly in a radius of 1 lasting %d turns and dealing %d nature damage per turn to hostile creatures caught within.", "tformat")
-t("Mitotic Split", "División mitótica", "talent name")
+t("Mitotic Split", "Mitotic Split", "talent name")
 t("%d%% chance to split upon taking a single hit dealing at least %d%% of your maximum life.", "%d%% chance to split upon taking a single hit dealing at least %d%% of your maximum life.", "tformat")
-t("War Hound", "Sabueso de guerra", "talent name")
-t("@Source@ summons a War Hound!", "¡@Source@ invoca un Sabueso de guerra!", "_t")
-t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("War Hound", "War Hound", "talent name")
+t("@Source@ summons a War Hound!", "@Source@ summons a War Hound!", "_t")
+t("You cannot summon; you are suppressed!", "You cannot summon; you are suppressed!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("", "", "_t")
-t("%s (wild summon)", "%s (invocación salvaje)", "tformat")
-t("Jelly", "Babosa", "talent name")
-t("@Source@ summons a Jelly!", "¡@Source@ invoca una Babosa!", "_t")
-t("A strange blob on the dungeon floor.", "Una extraña masa en el suelo de la mazmorra.", "_t")
+t("%s (wild summon)", "%s (wild summon)", "tformat")
+t("Jelly", "Jelly", "talent name")
+t("@Source@ summons a Jelly!", "@Source@ summons a Jelly!", "_t")
+t("A strange blob on the dungeon floor.", "A strange blob on the dungeon floor.", "_t")
 t("#GREEN##Target# absorbs some damage. #Source# is closer to nature.", "#GREEN##Target# absorbs some damage. #Source# is closer to nature.", "delayedLogMessage")
-t("Minotaur", "Minotauro", "talent name")
-t("@Source@ summons a Minotaur!", "¡@Source@ invoca un Minotauro!", "_t")
-t("It is a cross between a human and a bull.", "Es un cruce entre humano y toro.", "_t")
-t("Stone Golem", "Gólem de piedra", "talent name")
-t("@Source@ summons a Stone Golem!", "¡@Source@ invoca un Gólem de piedra!", "_t")
-t("It is a massive animated statue.", "Es una estatua animada masiva.", "_t")
+t("Minotaur", "Minotaur", "talent name")
+t("@Source@ summons a Minotaur!", "@Source@ summons a Minotaur!", "_t")
+t("It is a cross between a human and a bull.", "It is a cross between a human and a bull.", "_t")
+t("Stone Golem", "Stone Golem", "talent name")
+t("@Source@ summons a Stone Golem!", "@Source@ summons a Stone Golem!", "_t")
+t("It is a massive animated statue.", "It is a massive animated statue.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -4237,12 +4237,12 @@ t("Shell Shield", "Shell Shield", "talent name")
 t("Under the cover of your shell, gain %d%% all resistance for %d turns", "Under the cover of your shell, gain %d%% all resistance for %d turns", "tformat")
 t("Web", "Web", "talent name")
 t("Spread a web and throw it toward your target. If caught, it won't be able to move for %d turns.", "Spread a web and throw it toward your target. If caught, it won't be able to move for %d turns.", "tformat")
-t("Turtle", "Tortuga", "talent name")
+t("Turtle", "Turtle", "talent name")
 t("@Source@ summons a Turtle!", "@Source@ summons a Turtle!", "_t")
-t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
-t("%s (wild summon)", "%s (invocación salvaje)", "tformat")
-t("Spider", "Araña", "talent name")
+t("You cannot summon; you are suppressed!", "You cannot summon; you are suppressed!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
+t("%s (wild summon)", "%s (wild summon)", "tformat")
+t("Spider", "Spider", "talent name")
 t("@Source@ summons a Spider!", "@Source@ summons a Spider!", "_t")
 t("Frantic Summoning", "Frantic Summoning", "talent name")
 t("Pheromones", "Pheromones", "talent name")
@@ -4258,7 +4258,7 @@ t("Acidic Spray", "Acidic Spray", "talent name")
 t("@Source@ spits acid!", "@Source@ spits acid!", "_t")
 t("Corrosive Mist", "Corrosive Mist", "talent name")
 t("Dissolve", "Dissolve", "talent name")
-t("Corrosive Breath", "Aliento corrosivo", "talent name")
+t("Corrosive Breath", "Corrosive Breath", "talent name")
 t("@Source@ breathes acid!", "@Source@ breathes acid!", "_t")
 --]==]
 
@@ -4296,7 +4296,7 @@ t("@Source@ shows @Target@ the madness of the void.", "@Source@ shows @Target@ t
 t("Shows the target the madness of the void.  Each turn for 6 turns the target must make a mental save or suffer %0.2f mind damage as well as resource damage (based off the mind damage and nature of the resource).", "Shows the target the madness of the void.  Each turn for 6 turns the target must make a mental save or suffer %0.2f mind damage as well as resource damage (based off the mind damage and nature of the resource).", "tformat")
 t("Void Shards", "Void Shards", "talent name")
 t("@Source@ summons void shards.", "@Source@ summons void shards.", "_t")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("void shard", "void shard", "_t")
 t("It looks like a small hole in the fabric of spacetime.", "It looks like a small hole in the fabric of spacetime.", "_t")
 t("Summons %d void shards.  The void shards come into being destabilized and will suffer %0.2f temporal damage each turn for five turns.  If they die while destabilized they'll explode for %0.2f temporal and %0.2f physical damage in a radius of 4.", "Summons %d void shards.  The void shards come into being destabilized and will suffer %0.2f temporal damage each turn for five turns.  If they die while destabilized they'll explode for %0.2f temporal and %0.2f physical damage in a radius of 4.", "tformat")
@@ -4381,10 +4381,10 @@ t("Rune: Prismatic", "Rune: Prismatic", "talent name")
 t("Activate the rune to create a shield for %d turns blocking several instances of damage of the following types:%s", "Activate the rune to create a shield for %d turns blocking several instances of damage of the following types:%s", "tformat")
 t("%d turns; %s", "%d turns; %s", "tformat")
 t("Rune: Mirror Image", "Rune: Mirror Image", "talent name")
-t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")
+t("You cannot summon; you are suppressed!", "You cannot summon; you are suppressed!", "logPlayer")
 t("Mirror Image", "Mirror Image", "_t")
 t("A blurred image.", "A blurred image.", "_t")
-t("Summon", "Invocar", "_t")
+t("Summon", "Summon", "_t")
 t("dur %d; cd %d", "dur %d; cd %d", "tformat")
 t("Rune: Shatter Afflictions", "Rune: Shatter Afflictions", "talent name")
 t("absorb %d; cd %d", "absorb %d; cd %d", "tformat")
@@ -4512,25 +4512,25 @@ t("Blinding Spores", "Blinding Spores", "talent name")
 t("@Source@ releases blinding spores at @target@.", "@Source@ releases blinding spores at @target@.", "_t")
 t("%s resists the blinding!", "%s resists the blinding!", "logSeen")
 t("Releases stinging spores at the target, blinding it for %d turns.", "Releases stinging spores at the target, blinding it for %d turns.", "tformat")
-t("Poisonous Spores", "Esporas venenosas", "talent name")
+t("Poisonous Spores", "Poisonous Spores", "talent name")
 t("@Source@ releases poisonous spores at @target@.", "@Source@ releases poisonous spores at @target@.", "_t")
 t("Releases poisonous spores at the target, doing %d%% damage and poisoning it.", "Releases poisonous spores at the target, doing %d%% damage and poisoning it.", "tformat")
-t("Stun", "Aturdimiento", "talent name")
+t("Stun", "Stun", "talent name")
 t("%s resists the stunning blow!", "%s resists the stunning blow!", "logSeen")
 t("Disarm", "Disarm", "talent name")
 t("%s resists the blow!", "%s resists the blow!", "logSeen")
 t("Hits the target doing %d%% damage and trying to disarm the target for %d turns. The chance improves with your Physical Power.", "Hits the target doing %d%% damage and trying to disarm the target for %d turns. The chance improves with your Physical Power.", "tformat")
 t("Constrict", "Constrict", "talent name")
 t("%s resists the constriction!", "%s resists the constriction!", "logSeen")
-t("Knockback", "Derribo", "talent name")
+t("Knockback", "Knockback", "talent name")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("Hits the target with your weapon doing %d%% damage. If the attack hits, the target is knocked back up to 4 grids.  The chance improves with your Physical Power.", "Hits the target with your weapon doing %d%% damage. If the attack hits, the target is knocked back up to 4 grids.  The chance improves with your Physical Power.", "tformat")
 t("Poisonous Bite", "Poisonous Bite", "talent name")
 t("@Source@ bites poison into @target@.", "@Source@ bites poison into @target@.", "_t")
 t("Bites the target (an unarmed attack), doing %d%% damage and injecting it with poison.", "Bites the target (an unarmed attack), doing %d%% damage and injecting it with poison.", "tformat")
-t("Summon", "Invocar", "talent name")
-t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Summon", "Summon", "talent name")
+t("You cannot summon; you are suppressed!", "You cannot summon; you are suppressed!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("#Source# summons #Target#!", "#Source# summons #Target#!", "logCombat")
 t("Summon allies.", "Summon allies.", "tformat")
 t("Rotting Disease", "Rotting Disease", "talent name")
@@ -4572,7 +4572,7 @@ t("@Target@ is caught in a web!", "@Target@ is caught in a web!", "_t")
 t("Pins non spiderkin for %d turns. Decays over time.", "Pins non spiderkin for %d turns. Decays over time.", "tformat")
 t("%s resists!", "%s resists!", "logSeen")
 t("Lay a concealed web (%d detect 'power', %d disarm 'power') under yourself that lasts %d turns and pins all non-spiderkin that pass through it for %d turns.  The web weakens over time.", "Lay a concealed web (%d detect 'power', %d disarm 'power') under yourself that lasts %d turns and pins all non-spiderkin that pass through it for %d turns.  The web weakens over time.", "tformat")
-t("Darkness", "Oscuridad", "talent name")
+t("Darkness", "Darkness", "talent name")
 t("Weave darkness (power %d) in a radius of %d, blocking all light but the most powerful and teleporting you a short range.", "Weave darkness (power %d) in a radius of %d, blocking all light but the most powerful and teleporting you a short range.", "tformat")
 t("Throw Boulder", "Throw Boulder", "talent name")
 t("something", "something", "_t")
@@ -4632,7 +4632,7 @@ t("Call Lightning", "Call Lightning", "talent name")
 t("@Source@ hurls lightning at @target@!", "@Source@ hurls lightning at @target@!", "_t")
 t("Fade", "Fade", "talent name")
 t("You fade from sight, making you invulnerable until the beginning of your next turn.", "You fade from sight, making you invulnerable until the beginning of your next turn.", "tformat")
-t("Phase Door", "Puerta dimensional", "talent name")
+t("Phase Door", "Phase Door", "talent name")
 t("Teleports you randomly within range 10.", "Teleports you randomly within range 10.", "tformat")
 t("Blindside", "Blindside", "talent name")
 t("With blinding speed you suddenly appear next to a target up to %d spaces away and attack for %d%% damage.", "With blinding speed you suddenly appear next to a target up to %d spaces away and attack for %d%% damage.", "tformat")
@@ -4644,7 +4644,7 @@ t("@Source@ throws a body shot.", "@Source@ throws a body shot.", "_t")
 t("%s resists the body shot!", "%s resists the body shot!", "logSeen")
 t("Combo String", "Combo String", "talent name")
 t("Steady Mind", "Steady Mind", "talent name")
-t("Maim", "Mutilar", "talent name")
+t("Maim", "Maim", "talent name")
 t("Bloodrage", "Bloodrage", "talent name")
 t("Each time one of your foes bites the dust, you feel a surge of power, increasing your strength by 2 (stacking up to a maximum of %d) for %d turns.", "Each time one of your foes bites the dust, you feel a surge of power, increasing your strength by 2 (stacking up to a maximum of %d) for %d turns.", "tformat")
 t("Martyrdom", "Martyrdom", "talent name")
@@ -4670,13 +4670,13 @@ t("Deadly Strikes", "Deadly Strikes", "talent name")
 t("Sticky Smoke", "Sticky Smoke", "talent name")
 t("Switch Place", "Switch Place", "talent name")
 t("Terrain prevents #Source# from switching places with #Target#.", "Terrain prevents #Source# from switching places with #Target#.", "logCombat")
-t("Cripple", "Lisiar", "talent name")
+t("Cripple", "Cripple", "talent name")
 t("Nimble Movements", "Nimble Movements", "talent name")
 t("@Source@ dashes quickly!", "@Source@ dashes quickly!", "_t")
 t("You can not do that currently.", "You can not do that currently.", "logPlayer")
 t("You cannot dash through that!", "You cannot dash through that!", "logPlayer")
 t("Quickly and quietly dash your way to the target square, if it is not blocked by enemies or obstacles. This talent will not break Stealth.", "Quickly and quietly dash your way to the target square, if it is not blocked by enemies or obstacles. This talent will not break Stealth.", "tformat")
-t("Hide in Plain Sight", "Ocultarse a plena vista", "talent name")
+t("Hide in Plain Sight", "Hide in Plain Sight", "talent name")
 t("You cannot be stealthy with such heavy armour on!", "You cannot be stealthy with such heavy armour on!", "logPlayer")
 t("Unseen Actions", "Unseen Actions", "talent name")
 t("Hack'n'Back", "Hack'n'Back", "talent name")
@@ -4700,7 +4700,7 @@ t("#Source# slams #Target# into the ground!", "#Source# slams #Target# into the 
 t("#Source# throws #Target# to the ground!", "#Source# throws #Target# to the ground!", "logCombat")
 t("#Source# misses a defensive throw against #Target#!", "#Source# misses a defensive throw against #Target#!", "logCombat")
 t("Roundhouse Kick", "Roundhouse Kick", "talent name")
-t("Bone Nova", "Nova de hueso", "talent name")
+t("Bone Nova", "Bone Nova", "talent name")
 t("Shadow Ambush", "Shadow Ambush", "talent name")
 t("%s resists the shadow!", "%s resists the shadow!", "logSeen")
 t("Ambuscade", "Ambuscade", "talent name")
@@ -4715,7 +4715,7 @@ t("Circle of Blazing Light", "Circle of Blazing Light", "talent name")
 t("Blur Sight", "Blur Sight", "talent name")
 t("Cold Flames", "Cold Flames", "talent name")
 t("cold flames", "cold flames", "_t")
-t("Quicken Spells", "Acelerar hechizos", "talent name")
+t("Quicken Spells", "Quicken Spells", "talent name")
 t("Reduces the cooldown of all spells by %d%%.", "Reduces the cooldown of all spells by %d%%.", "tformat")
 --]==]
 
@@ -4809,13 +4809,13 @@ t("shalore", "shalore", "talent type")
 t("Grace of the Eternals", "Grace of the Eternals", "talent name")
 t("Magic of the Eternals", "Magic of the Eternals", "talent name")
 t("Secrets of the Eternals", "Secrets of the Eternals", "talent name")
-t("Timeless", "Intemporal", "talent name")
+t("Timeless", "Timeless", "talent name")
 t("thalore", "thalore", "talent type")
 t("Gift of the Woods", "Gift of the Woods", "talent name")
 t("Verdant", "Verdant", "talent name")
 t("Guardian of the Wood", "Guardian of the Wood", "talent name")
 t("Nature's Pride", "Nature's Pride", "talent name")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("treant", "treant", "_t")
 t("A very strong near-sentient tree.", "A very strong near-sentient tree.", "_t")
 t("dwarf", "dwarf", "talent type")
@@ -4878,7 +4878,7 @@ t("Blink", "Blink", "talent name")
 t("%s is teleported a short distance!", "%s is teleported a short distance!", "logSeen")
 t("%s resists the teleportation!", "%s resists the teleportation!", "logSeen")
 t("Attempts to magically teleport a target slightly farther from you.", "Attempts to magically teleport a target slightly farther from you.", "tformat")
-t("Fear", "Miedo", "talent name")
+t("Fear", "Fear", "talent name")
 t("%s retreats in terror!", "%s retreats in terror!", "logSeen")
 t("%s shakes off the fear!", "%s shakes off the fear!", "logSeen")
 t("Attempts to briefly terrify a target into retreating.", "Attempts to briefly terrify a target into retreating.", "tformat")
@@ -5052,7 +5052,7 @@ section "mod-tome/data/talents/psionic/focus.lua"
 
 -- new text
 --[==[
-t("Mindlash", "Latigazo mental", "talent name")
+t("Mindlash", "Mindlash", "talent name")
 t("Pyrokinesis", "Pyrokinesis", "talent name")
 t("Telekinetically energize the matter of all foes within %d squares at the molecular level, setting them ablaze. This does %0.1f fire damage over six turns.", "Telekinetically energize the matter of all foes within %d squares at the molecular level, setting them ablaze. This does %0.1f fire damage over six turns.", "tformat")
 t("Brain Storm", "Brain Storm", "talent name")
@@ -5336,7 +5336,7 @@ section "mod-tome/data/talents/psionic/thought-forms.lua"
 --[==[
 t("thought-form", "thought-form", "_t")
 t("Thought-Form: Bowman", "Thought-Form: Bowman", "talent name")
-t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
+t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
 t("thought-forged bowman", "thought-forged bowman", "_t")
 t("A thought-forged bowman.  It appears ready for battle.", "A thought-forged bowman.  It appears ready for battle.", "_t")
 t("Thought-Form: Warrior", "Thought-Form: Warrior", "talent name")
@@ -5413,10 +5413,10 @@ section "mod-tome/data/talents/spells/aegis.lua"
 
 -- new text
 --[==[
-t("Arcane Reconstruction", "Reconstrucción arcana", "talent name")
-t("Shielding", "Escudo protector", "talent name")
-t("Arcane Shield", "Escudo arcano", "talent name")
-t("Aegis", "Égida", "talent name")
+t("Arcane Reconstruction", "Arcane Reconstruction", "talent name")
+t("Shielding", "Shielding", "talent name")
+t("Arcane Shield", "Arcane Shield", "talent name")
+t("Aegis", "Aegis", "talent name")
 --]==]
 
 ------------------------------------------------
@@ -5444,7 +5444,7 @@ section "mod-tome/data/talents/spells/age-of-dusk.lua"
 -- new text
 --[==[
 t("Dire Plague", "Dire Plague", "talent name")
-t("Crepuscule", "Crepúsculo", "talent name")
+t("Crepuscule", "Crepuscule", "talent name")
 t("%s resists the crepuscule!", "%s resists the crepuscule!", "logSeen")
 t("The End of All Hope", "The End of All Hope", "talent name")
 t("Golden Age of Necromancy", "Golden Age of Necromancy", "talent name")
@@ -5456,10 +5456,10 @@ section "mod-tome/data/talents/spells/air.lua"
 
 -- new text
 --[==[
-t("Lightning", "Relámpago", "talent name")
-t("Chain Lightning", "Cadena de relámpagos", "talent name")
-t("Feather Wind", "Viento de plumas", "talent name")
-t("Thunderstorm", "Tormenta eléctrica", "talent name")
+t("Lightning", "Lightning", "talent name")
+t("Chain Lightning", "Chain Lightning", "talent name")
+t("Feather Wind", "Feather Wind", "talent name")
+t("Thunderstorm", "Thunderstorm", "talent name")
 t("#0080FF#A furious lightning storm forms around %s!", "#0080FF#A furious lightning storm forms around %s!", "logSeen")
 t("#0080FF#The furious lightning storm around %s calms down and disappears.", "#0080FF#The furious lightning storm around %s calms down and disappears.", "logSeen")
 --]==]
@@ -5482,11 +5482,11 @@ section "mod-tome/data/talents/spells/arcane.lua"
 
 -- new text
 --[==[
-t("Manathrust", "Empuje de maná", "talent name")
-t("Arcane Power", "Poder arcano", "talent name")
+t("Manathrust", "Manathrust", "talent name")
+t("Arcane Power", "Arcane Power", "talent name")
 t("Your mastery of magic allows you to enter a state of deep concentration, increasing your Spellpower by %d and arcane resistance by %d%%.", "Your mastery of magic allows you to enter a state of deep concentration, increasing your Spellpower by %d and arcane resistance by %d%%.", "tformat")
-t("Arcane Vortex", "Vórtice arcano", "talent name")
-t("Disruption Shield", "Escudo de disrupción", "talent name")
+t("Arcane Vortex", "Arcane Vortex", "talent name")
+t("Disruption Shield", "Disruption Shield", "talent name")
 t("#VIOLET#%s's disruption shield collapses and then explodes in a powerful manastorm!", "#VIOLET#%s's disruption shield collapses and then explodes in a powerful manastorm!", "logSeen")
 t("#SLATE#(%d absorbed)#LAST#", "#SLATE#(%d absorbed)#LAST#", "tformat")
 t("#PURPLE#(%d mana)#LAST#", "#PURPLE#(%d mana)#LAST#", "tformat")
@@ -5500,12 +5500,12 @@ section "mod-tome/data/talents/spells/conveyance.lua"
 
 -- new text
 --[==[
-t("Phase Door", "Puerta dimensional", "talent name")
+t("Phase Door", "Phase Door", "talent name")
 t("Select a target to teleport...", "Select a target to teleport...", "logPlayer")
 t("The spell fizzles!", "The spell fizzles!", "logSeen")
 t("Select a teleport location...", "Select a teleport location...", "logPlayer")
 t("The targeted phase door fizzles and works randomly!", "The targeted phase door fizzles and works randomly!", "logPlayer")
-t("Teleport", "Teletransporte", "talent name")
+t("Teleport", "Teleport", "talent name")
 t("The targetted teleport fizzles and works randomly!", "The targetted teleport fizzles and works randomly!", "logPlayer")
 t("Displacement Shield", "Displacement Shield", "talent name")
 t("Probability Travel", "Probability Travel", "talent name")
@@ -5577,10 +5577,10 @@ section "mod-tome/data/talents/spells/earth.lua"
 
 -- new text
 --[==[
-t("Pulverizing Auger", "Barrena pulverizadora", "talent name")
+t("Pulverizing Auger", "Pulverizing Auger", "talent name")
 t("Stone Skin", "Stone Skin", "talent name")
 t("Mudslide", "Mudslide", "talent name")
-t("Stone Wall", "Muro de piedra", "talent name")
+t("Stone Wall", "Stone Wall", "talent name")
 t("stone wall", "stone wall", "_t")
 t("a summoned wall of stone", "a summoned wall of stone", "_t")
 --]==]
@@ -5697,10 +5697,10 @@ section "mod-tome/data/talents/spells/fire.lua"
 
 -- new text
 --[==[
-t("Flame", "Llama", "talent name")
-t("Flameshock", "Descarga ígnea", "talent name")
-t("Fireflash", "Destello ígneo", "talent name")
-t("Inferno", "Infierno", "talent name")
+t("Flame", "Flame", "talent name")
+t("Flameshock", "Flameshock", "talent name")
+t("Fireflash", "Fireflash", "talent name")
+t("Inferno", "Inferno", "talent name")
 --]==]
 
 ------------------------------------------------
@@ -5710,7 +5710,7 @@ section "mod-tome/data/talents/spells/frost-alchemy.lua"
 -- new text
 --[==[
 t("Frost Infusion", "Frost Infusion", "talent name")
-t("Ice Armour", "Armadura de hielo", "talent name")
+t("Ice Armour", "Ice Armour", "talent name")
 t("Flash Freeze", "Flash Freeze", "talent name")
 t("Ice Core", "Ice Core", "talent name")
 --]==]
@@ -5736,7 +5736,7 @@ section "mod-tome/data/talents/spells/golem.lua"
 
 -- new text
 --[==[
-t("Knockback", "Derribo", "talent name")
+t("Knockback", "Knockback", "talent name")
 t("Your golem cannot do that currently.", "Your golem cannot do that currently.", "logPlayer")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("Taunt", "Taunt", "talent name")
@@ -5815,9 +5815,9 @@ section "mod-tome/data/talents/spells/ice.lua"
 
 -- new text
 --[==[
-t("Freeze", "Congelar", "talent name")
+t("Freeze", "Freeze", "talent name")
 t("Frozen Ground", "Frozen Ground", "talent name")
-t("Shatter", "Hacer añicos", "talent name")
+t("Shatter", "Shatter", "talent name")
 t("%s shatters!", "%s shatters!", "logSeen")
 t("Uttercold", "Uttercold", "talent name")
 --]==]
@@ -5876,9 +5876,9 @@ section "mod-tome/data/talents/spells/meta.lua"
 -- new text
 --[==[
 t("Disperse Magic", "Disperse Magic", "talent name")
-t("Spellcraft", "Arte de hechizar", "talent name")
+t("Spellcraft", "Spellcraft", "talent name")
 t("Energy Alteration", "Energy Alteration", "talent name")
-t("Metaflow", "Metaflujo", "talent name")
+t("Metaflow", "Metaflow", "talent name")
 --]==]
 
 ------------------------------------------------
@@ -5903,7 +5903,7 @@ section "mod-tome/data/talents/spells/nightfall.lua"
 
 -- new text
 --[==[
-t("Invoke Darkness", "Invocar oscuridad", "talent name")
+t("Invoke Darkness", "Invoke Darkness", "talent name")
 t("Night Sphere", "Night Sphere", "talent name")
 t("Erupting Shadows", "Erupting Shadows", "talent name")
 t("River of Souls", "River of Souls", "talent name")
@@ -5915,15 +5915,15 @@ section "mod-tome/data/talents/spells/phantasm.lua"
 
 -- new text
 --[==[
-t("Illuminate", "Iluminar", "talent name")
+t("Illuminate", "Illuminate", "talent name")
 t("Phantasmal Shield", "Phantasmal Shield", "talent name")
 t("#YELLOW#(%d ignored)#LAST#", "#YELLOW#(%d ignored)#LAST#", "tformat")
 t("Invisibility", "Invisibility", "talent name")
 t("Mirror Image", "Mirror Image", "talent name")
-t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")
+t("You cannot summon; you are suppressed!", "You cannot summon; you are suppressed!", "logPlayer")
 t("Mirror Image (%s)", "Mirror Image (%s)", "tformat")
 t("A blurred image.", "A blurred image.", "_t")
-t("Summon", "Invocar", "_t")
+t("Summon", "Summon", "_t")
 --]==]
 
 ------------------------------------------------
@@ -6117,7 +6117,7 @@ section "mod-tome/data/talents/spells/stone.lua"
 --[==[
 t("Earthen Missiles", "Earthen Missiles", "talent name")
 t("Body of Stone", "Body of Stone", "talent name")
-t("Earthquake", "Terremoto", "talent name")
+t("Earthquake", "Earthquake", "talent name")
 t("Crystalline Focus", "Crystalline Focus", "talent name")
 --]==]
 
@@ -6128,8 +6128,8 @@ section "mod-tome/data/talents/spells/storm.lua"
 -- new text
 --[==[
 t("Nova", "Nova", "talent name")
-t("Shock", "Descarga", "talent name")
-t("Hurricane", "Huracán", "talent name")
+t("Shock", "Shock", "talent name")
+t("Hurricane", "Hurricane", "talent name")
 t("Tempest", "Tempest", "talent name")
 --]==]
 
@@ -6143,7 +6143,7 @@ t("Congeal Time", "Congeal Time", "talent name")
 t("Project a bolt of time distortion, decreasing the target's global speed by %d%% and all projectiles it fires by %d%% for 7 turns.", "Project a bolt of time distortion, decreasing the target's global speed by %d%% and all projectiles it fires by %d%% for 7 turns.", "tformat")
 t("Temporal Shield", "Temporal Shield", "talent name")
 t("Time Prison", "Time Prison", "talent name")
-t("Essence of Speed", "Esencia de velocidad", "talent name")
+t("Essence of Speed", "Essence of Speed", "talent name")
 t("Increases the caster's global speed by %d%%.", "Increases the caster's global speed by %d%%.", "tformat")
 --]==]
 
@@ -6180,13 +6180,13 @@ section "mod-tome/data/talents/spells/water.lua"
 
 -- new text
 --[==[
-t("Ice Shards", "Fragmentos de hielo", "talent name")
-t("Glacial Vapour", "Vapor glacial", "talent name")
-t("Tidal Wave", "Ola gigante", "talent name")
+t("Ice Shards", "Ice Shards", "talent name")
+t("Glacial Vapour", "Glacial Vapour", "talent name")
+t("Tidal Wave", "Tidal Wave", "talent name")
 t("A #LIGHT_BLUE#wave of icy water#LAST# erupts from the ground!", "A #LIGHT_BLUE#wave of icy water#LAST# erupts from the ground!", "logSeen")
 t("Shivgoroth Form", "Shivgoroth Form", "talent name")
 t("You are already a Shivgoroth!", "You are already a Shivgoroth!", "logPlayer")
-t("Ice Storm", "Tormenta de hielo", "talent name")
+t("Ice Storm", "Ice Storm", "talent name")
 --]==]
 
 ------------------------------------------------
@@ -6208,7 +6208,7 @@ section "mod-tome/data/talents/techniques/2h-assault.lua"
 
 -- new text
 --[==[
-t("Stunning Blow", "Golpe aturdidor", "talent name")
+t("Stunning Blow", "Stunning Blow", "talent name")
 t("You require a two handed weapon to use this talent.", "You require a two handed weapon to use this talent.", "logPlayer")
 t("%s resists the stunning blow!", "%s resists the stunning blow!", "logSeen")
 t("Fearless Cleave", "Fearless Cleave", "talent name")
@@ -6236,11 +6236,11 @@ t("@Source@ uses Warsqueak.", "@Source@ uses Warsqueak.", "_t")
 t("@Source@ uses Warshout.", "@Source@ uses Warshout.", "_t")
 t("You cannot use Warshout without a two-handed weapon!", "You cannot use Warshout without a two-handed weapon!", "logPlayer")
 t("Shout your warcry in a frontal cone of radius %d. Any targets caught inside will be confused (power %d%%) for %d turns.", "Shout your warcry in a frontal cone of radius %d. Any targets caught inside will be confused (power %d%%) for %d turns.", "tformat")
-t("Death Blow", "Golpe mortal", "talent name")
+t("Death Blow", "Death Blow", "talent name")
 t("You cannot use Death Blow without a two-handed weapon!", "You cannot use Death Blow without a two-handed weapon!", "logPlayer")
 t("%s feels the pain of the death blow!", "%s feels the pain of the death blow!", "logSeen")
 t("%s resists the death blow!", "%s resists the death blow!", "logSeen")
-t("Stunning Blow", "Golpe aturdidor", "talent name")
+t("Stunning Blow", "Stunning Blow", "talent name")
 t("You cannot use Stunning Blow without a two-handed weapon!", "You cannot use Stunning Blow without a two-handed weapon!", "logPlayer")
 t("%s resists the stunning blow!", "%s resists the stunning blow!", "logSeen")
 t("Sunder Armour", "Sunder Armour", "talent name")
@@ -6248,7 +6248,7 @@ t("You cannot use Sunder Armour without a two-handed weapon!", "You cannot use S
 t("#CRIMSON#%s shatters %s shield!", "#CRIMSON#%s shatters %s shield!", "logSeen")
 t("Sunder Arms", "Sunder Arms", "talent name")
 t("You cannot use Sunder Arms without a two-handed weapon!", "You cannot use Sunder Arms without a two-handed weapon!", "logPlayer")
-t("Blood Frenzy", "Frenesí de sangre", "talent name")
+t("Blood Frenzy", "Blood Frenzy", "talent name")
 t("You cannot use Blood Frenzy without a two-handed weapon!", "You cannot use Blood Frenzy without a two-handed weapon!", "logPlayer")
 --]==]
 
@@ -6353,9 +6353,9 @@ section "mod-tome/data/talents/techniques/bloodthirst.lua"
 --[==[
 t("Mortal Terror", "Mortal Terror", "talent name")
 t("%s resists the terror!", "%s resists the terror!", "logSeen")
-t("Bloodbath", "Baño de sangre", "talent name")
+t("Bloodbath", "Bloodbath", "talent name")
 t("Bloody Butcher", "Bloody Butcher", "talent name")
-t("Unstoppable", "Imparable", "talent name")
+t("Unstoppable", "Unstoppable", "talent name")
 --]==]
 
 ------------------------------------------------
@@ -6398,7 +6398,7 @@ section "mod-tome/data/talents/techniques/combat-techniques.lua"
 
 -- new text
 --[==[
-t("Rush", "Embestida", "talent name")
+t("Rush", "Rush", "talent name")
 t("@Source@ rushes out!", "@Source@ rushes out!", "_t")
 t("You can only rush to a creature.", "You can only rush to a creature.", "logPlayer")
 t("You are too close to build up momentum!", "You are too close to build up momentum!", "logPlayer")
@@ -6425,21 +6425,21 @@ section "mod-tome/data/talents/techniques/combat-training.lua"
 
 -- new text
 --[==[
-t("Thick Skin", "Piel gruesa", "talent name")
-t("Your skin becomes more resilient to damage. Increases resistance to all damage by %0.1f%%.", "Tu piel se vuelve más resistente. Aumenta la resistencia a todo daño en %0.1f%%.", "tformat")
-t("Heavy Armour Training", "Entrenamiento en armadura pesada", "talent name")
-t("You cannot use your %s anymore.", "Ya no puedes usar tu %s.", "logPlayer")
-t("(Note that brawlers will be unable to perform many of their talents in massive armour.)", "(Los peleadores no podrán usar muchos talentos con armadura pesada.)", "_t")
-t("(Note that wearing mail or plate armour will interfere with stealth.)", "(Usar armadura de malla o placas interfiere con el sigilo.)", "_t")
-t("Light Armour Training", "Entrenamiento en armadura ligera", "talent name")
-t("Combat Accuracy", "Precisión de combate", "talent name")
-t("Increases the accuracy of unarmed, melee and ranged weapons by %d.", "Aumenta la precisión de armas cuerpo a cuerpo y a distancia en %d.", "tformat")
-t("Weapons Mastery", "Maestría en armas", "talent name")
-t("Increases weapon damage by %d%% and physical power by 30 when using swords, axes or maces.", "Aumenta el daño de armas en %d%% y el poder físico en 30 al usar espadas, hachas o mazas.", "tformat")
-t("Dagger Mastery", "Maestría en dagas", "talent name")
-t("Increases weapon damage by %d%% and physical power by 30 when using daggers.", "Aumenta el daño de armas en %d%% y el poder físico en 30 al usar dagas.", "tformat")
-t("Exotic Weapons Mastery", "Maestría en armas exóticas", "talent name")
-t("Increases weapon damage by %d%% and physical power by 30 when using exotic weapons.", "Aumenta el daño de armas en %d%% y el poder físico en 30 al usar armas exóticas.", "tformat")
+t("Thick Skin", "Thick Skin", "talent name")
+t("Your skin becomes more resilient to damage. Increases resistance to all damage by %0.1f%%.", "Your skin becomes more resilient to damage. Increases resistance to all damage by %0.1f%%.", "tformat")
+t("Heavy Armour Training", "Heavy Armour Training", "talent name")
+t("You cannot use your %s anymore.", "You cannot use your %s anymore.", "logPlayer")
+t("(Note that brawlers will be unable to perform many of their talents in massive armour.)", "(Note that brawlers will be unable to perform many of their talents in massive armour.)", "_t")
+t("(Note that wearing mail or plate armour will interfere with stealth.)", "(Note that wearing mail or plate armour will interfere with stealth.)", "_t")
+t("Light Armour Training", "Light Armour Training", "talent name")
+t("Combat Accuracy", "Combat Accuracy", "talent name")
+t("Increases the accuracy of unarmed, melee and ranged weapons by %d.", "Increases the accuracy of unarmed, melee and ranged weapons by %d.", "tformat")
+t("Weapons Mastery", "Weapons Mastery", "talent name")
+t("Increases weapon damage by %d%% and physical power by 30 when using swords, axes or maces.", "Increases weapon damage by %d%% and physical power by 30 when using swords, axes or maces.", "tformat")
+t("Dagger Mastery", "Dagger Mastery", "talent name")
+t("Increases weapon damage by %d%% and physical power by 30 when using daggers.", "Increases weapon damage by %d%% and physical power by 30 when using daggers.", "tformat")
+t("Exotic Weapons Mastery", "Exotic Weapons Mastery", "talent name")
+t("Increases weapon damage by %d%% and physical power by 30 when using exotic weapons.", "Increases weapon damage by %d%% and physical power by 30 when using exotic weapons.", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -6461,7 +6461,7 @@ section "mod-tome/data/talents/techniques/dualweapon.lua"
 
 -- new text
 --[==[
-t("Dual Weapon Training", "Entrenamiento en armas dobles", "talent name")
+t("Dual Weapon Training", "Dual Weapon Training", "talent name")
 t("Increases the damage of your off-hand weapon to %d%%.", "Increases the damage of your off-hand weapon to %d%%.", "tformat")
 t("Dual Weapon Defense", "Dual Weapon Defense", "talent name")
 t("Close Combat Management", "Close Combat Management", "talent name")
@@ -6724,12 +6724,12 @@ t("@Source@ uses Warsqueak.", "@Source@ uses Warsqueak.", "_t")
 t("@Source@ uses Warshout.", "@Source@ uses Warshout.", "_t")
 t("You require a two handed weapon to use this talent.", "You require a two handed weapon to use this talent.", "logPlayer")
 t("Shout your warcry in a frontal cone of radius %d. Any targets caught inside will be confused (50%% confusion power) for %d turns.", "Shout your warcry in a frontal cone of radius %d. Any targets caught inside will be confused (50%% confusion power) for %d turns.", "tformat")
-t("Berserker Rage", "Ira del berserker", "talent name")
+t("Berserker Rage", "Berserker Rage", "talent name")
 t("#Source#'s rage awakens!", "#Source#'s rage awakens!", "logCombat")
 t("#Source#'s rage subsides!", "#Source#'s rage subsides!", "logCombat")
 t("Shattering Blow", "Shattering Blow", "talent name")
 t("#CRIMSON#%s shatters %s shield!", "#CRIMSON#%s shatters %s shield!", "logSeen")
-t("Relentless Fury", "Furia implacable", "talent name")
+t("Relentless Fury", "Relentless Fury", "talent name")
 t("You require a two handed weapon and less stamina to use this talent.", "You require a two handed weapon and less stamina to use this talent.", "logPlayer")
 t("You require less stamina to use this talent.", "You require less stamina to use this talent.", "logPlayer")
 --]==]
@@ -6855,7 +6855,7 @@ section "mod-tome/data/talents/techniques/throwing-knives.lua"
 
 -- new text
 --[==[
-t("Throwing Knives", "Cuchillos arrojadizos", "talent name")
+t("Throwing Knives", "Throwing Knives", "talent name")
 t("Throwing Knife", "Throwing Knife", "_t")
 t("%d%% %s", "%d%% %s", "tformat")
 t("Fan of Knives", "Fan of Knives", "talent name")
@@ -6949,20 +6949,20 @@ section "mod-tome/data/talents/techniques/weaponshield.lua"
 
 -- new text
 --[==[
-t("Shield Pummel", "Golpiza de escudo", "talent name")
+t("Shield Pummel", "Shield Pummel", "talent name")
 t("You require a weapon and a shield to use this talent.", "You require a weapon and a shield to use this talent.", "logPlayer")
 t("You cannot use Shield Pummel without a shield!", "You cannot use Shield Pummel without a shield!", "logPlayer")
 t("%s resists the shield bash!", "%s resists the shield bash!", "logSeen")
 t("Riposte", "Riposte", "talent name")
-t("Shield Slam", "Golpe de escudo", "talent name")
+t("Shield Slam", "Shield Slam", "talent name")
 t("You cannot use Shield Slam without a shield!", "You cannot use Shield Slam without a shield!", "logPlayer")
 t("Hit your target with your shield 3 times for %d%% damage then quickly return to a blocking position.  The bonus block will not check or trigger Block cooldown.", "Hit your target with your shield 3 times for %d%% damage then quickly return to a blocking position.  The bonus block will not check or trigger Block cooldown.", "tformat")
-t("Assault", "Asalto", "talent name")
+t("Assault", "Assault", "talent name")
 t("You cannot use Assault without a mainhand weapon and shield!", "You cannot use Assault without a mainhand weapon and shield!", "logPlayer")
 t("Hits the target with your shield, doing %d%% damage. If it hits, you follow up with two automatic critical hits with your weapon, doing %d%% base damage each.", "Hits the target with your shield, doing %d%% damage. If it hits, you follow up with two automatic critical hits with your weapon, doing %d%% base damage each.", "tformat")
 t("Shield Wall", "Shield Wall", "talent name")
 t("You cannot use Shield Wall without a shield!", "You cannot use Shield Wall without a shield!", "logPlayer")
-t("Repulsion", "Repulsión", "talent name")
+t("Repulsion", "Repulsion", "talent name")
 t("You cannot use Repulsion without a shield!", "You cannot use Repulsion without a shield!", "logPlayer")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("Shield Expertise", "Shield Expertise", "talent name")
@@ -6983,19 +6983,19 @@ t("%s's draconic body hardens and heals!", "%s's draconic body hardens and heals
 t("Your body hardens and recovers quickly. When pushed below 30%% life, you instantly restore 40%% of your total life.", "Your body hardens and recovers quickly. When pushed below 30%% life, you instantly restore 40%% of your total life.", "tformat")
 t("Bloodspring", "Bloodspring", "talent name")
 t("Have let Melinda be sacrificed", "Have let Melinda be sacrificed", "_t")
-t("Eternal Guard", "Guardia eterna", "talent name")
+t("Eternal Guard", "Eternal Guard", "talent name")
 t("Know the Block talent", "Know the Block talent", "_t")
 t("Your Block talent now lasts for 2 game turns and you can apply Counterstrike to any number of enemies.", "Your Block talent now lasts for 2 game turns and you can apply Counterstrike to any number of enemies.", "tformat")
-t("Never Stop Running", "Nunca pares de correr", "talent name")
+t("Never Stop Running", "Never Stop Running", "talent name")
 t("Know at least 20 levels of stamina-using talents", "Know at least 20 levels of stamina-using talents", "_t")
 t("While this talent is active, you dig deep into your stamina reserves, allowing you to move without taking a turn. However, this costs 12 stamina for each tile that you cross.", "While this talent is active, you dig deep into your stamina reserves, allowing you to move without taking a turn. However, this costs 12 stamina for each tile that you cross.", "tformat")
 t("Armour of Shadows", "Armour of Shadows", "talent name")
 t("Have dealt over 50000 darkness damage", "Have dealt over 50000 darkness damage", "_t")
-t("Spine of the World", "Espina dorsal del mundo", "talent name")
+t("Spine of the World", "Spine of the World", "talent name")
 t("Your back is as hard as stone. Each time that you are affected by a physical effect, your body hardens, making you immune to all other physical effects for 5 turns.", "Your back is as hard as stone. Each time that you are affected by a physical effect, your body hardens, making you immune to all other physical effects for 5 turns.", "tformat")
 t("Fungal Blood", "Fungal Blood", "talent name")
 t("Be able to use infusions", "Be able to use infusions", "_t")
-t("Corrupted Shell", "Coraza corrupta", "talent name")
+t("Corrupted Shell", "Corrupted Shell", "talent name")
 t("Have received at least 3500 blight damage and destroyed Zigur with the Grand Corruptor.", "Have received at least 3500 blight damage and destroyed Zigur with the Grand Corruptor.", "_t")
 --]==]
 
@@ -7035,10 +7035,10 @@ t("%s surges with #LIGHT_GREEN#natural#LAST# power!", "%s surges with #LIGHT_GRE
 t("All physical criticals reduce the remaining cooldown of a random technique or cunning talent by 2.", "All physical criticals reduce the remaining cooldown of a random technique or cunning talent by 2.", "_t")
 t("All spell criticals reduce the remaining cooldown of a random spell/corruption/celestial/chronomancy talent by 2.", "All spell criticals reduce the remaining cooldown of a random spell/corruption/celestial/chronomancy talent by 2.", "_t")
 t("All mind criticals reduce the remaining cooldown of a random wild gift/psionic/afflicted talent by 2.", "All mind criticals reduce the remaining cooldown of a random wild gift/psionic/afflicted talent by 2.", "_t")
-t("Eye of the Tiger", "Ojo del tigre", "talent name")
-t("Worldly Knowledge", "Conocimiento mundano", "talent name")
-t("Worldly Knowledge", "Conocimiento mundano", "_t")
-t("Adept", "Experto", "talent name")
+t("Eye of the Tiger", "Eye of the Tiger", "talent name")
+t("Worldly Knowledge", "Worldly Knowledge", "talent name")
+t("Worldly Knowledge", "Worldly Knowledge", "_t")
+t("Adept", "Adept", "talent name")
 t("Tricks of the Trade", "Tricks of the Trade", "talent name")
 t("Have sided with the Assassin Lord", "Have sided with the Assassin Lord", "_t")
 --]==]
@@ -7049,7 +7049,7 @@ section "mod-tome/data/talents/uber/dex.lua"
 
 -- new text
 --[==[
-t("Flexible Combat", "Combate flexible", "talent name")
+t("Flexible Combat", "Flexible Combat", "talent name")
 t("Each time that you make a melee attack you have a 50%% chance to execute an additional unarmed strike.", "Each time that you make a melee attack you have a 50%% chance to execute an additional unarmed strike.", "tformat")
 t("Through The Crowd", "Through The Crowd", "talent name")
 t("Have had at least 6 party members at the same time", "Have had at least 6 party members at the same time", "_t")
@@ -7061,7 +7061,7 @@ t("Use tool", "Use tool", "_t")
 t("Windblade", "Windblade", "talent name")
 t("Have dealt over 50000 damage with dual wielded weapons", "Have dealt over 50000 damage with dual wielded weapons", "_t")
 t("You spin madly, generating a sharp gust of wind with your weapons that deals 320%% weapon damage to all targets within radius 4 and disarms them for 4 turns.", "You spin madly, generating a sharp gust of wind with your weapons that deals 320%% weapon damage to all targets within radius 4 and disarms them for 4 turns.", "tformat")
-t("Windtouched Speed", "Velocidad del viento", "talent name")
+t("Windtouched Speed", "Windtouched Speed", "talent name")
 t("Know at least 10 talent levels of equilibrium-using talents", "Know at least 10 talent levels of equilibrium-using talents", "_t")
 t("Crafty Hands", "Crafty Hands", "talent name")
 t("Know Imbue Item to level 5", "Know Imbue Item to level 5", "_t")
@@ -7088,7 +7088,7 @@ t("Have been exposed to the void of space", "Have been exposed to the void of sp
 t("#ORCHID#Aether Permeation protects %s from a dispel!", "#ORCHID#Aether Permeation protects %s from a dispel!", "logSeen")
 t("Mystical Cunning", "Mystical Cunning", "talent name")
 t("Know how to either prepare traps or apply poisons", "Know how to either prepare traps or apply poisons", "_t")
-t("Arcane Might", "Poder arcano", "talent name")
+t("Arcane Might", "Arcane Might", "talent name")
 t("Temporal Form", "Temporal Form", "talent name")
 t("Have cast over 1000 spells and visited a zone outside of time", "Have cast over 1000 spells and visited a zone outside of time", "_t")
 t("Blighted Summoning", "Blighted Summoning", "talent name")
@@ -7099,11 +7099,11 @@ t("Unfold History", "Unfold History", "talent name")
 t("Rewrite the recent past to go back to when you cast Revisionist History.", "Rewrite the recent past to go back to when you cast Revisionist History.", "tformat")
 t("Cauterize", "Cauterize", "talent name")
 t("Have received at least 3500 fire damage and have cast at least 1000 spells", "Have received at least 3500 fire damage and have cast at least 1000 spells", "_t")
-t("Lich", "Liche", "talent name")
+t("Lich", "Lich", "talent name")
 t("Is a living creature that knows necromancy", "Is a living creature that knows necromancy", "_t")
 t("Have completed the ritual", "Have completed the ritual", "_t")
 t("#GREY#As you turn into a powerful undead you feel your body violently rejecting the Blood of Life.", "#GREY#As you turn into a powerful undead you feel your body violently rejecting the Blood of Life.", "log")
-t("Lichform", "Forma de liche", "_t")
+t("Lichform", "Lichform", "_t")
 t("Lich Cosmetic Options", "Lich Cosmetic Options", "_t")
 t("Customize Appearance", "Customize Appearance", "_t")
 t("Use Default", "Use Default", "_t")
@@ -7120,7 +7120,7 @@ section "mod-tome/data/talents/uber/str.lua"
 
 -- new text
 --[==[
-t("Giant Leap", "Salto gigante", "talent name")
+t("Giant Leap", "Giant Leap", "talent name")
 t("Have dealt over 50000 damage with any weapon or unarmed", "Have dealt over 50000 damage with any weapon or unarmed", "_t")
 t("You Shall Be My Weapon!", "You Shall Be My Weapon!", "talent name")
 t("Be of size category 'big' or larger. This is also required to use it.", "Be of size category 'big' or larger. This is also required to use it.", "_t")
@@ -7136,7 +7136,7 @@ t("Legacy of the Naloren", "Legacy of the Naloren", "talent name")
 t("Have sided with Slasul and killed Ukllmswwik", "Have sided with Slasul and killed Ukllmswwik", "_t")
 t("Legacy of the Naloren", "Legacy of the Naloren", "_t")
 t("Slasul will be happy to know your faith in his cause. You should return to speak to him.", "Slasul will be happy to know your faith in his cause. You should return to speak to him.", "_t")
-t("Superpower", "Superpoder", "talent name")
+t("Superpower", "Superpower", "talent name")
 t("Avatar of a Distant Sun", "Avatar of a Distant Sun", "talent name")
 t("Unlocked the evolution", "Unlocked the evolution", "_t")
 t("Found a distant patron", "Found a distant patron", "_t")
@@ -7167,7 +7167,7 @@ section "mod-tome/data/talents/uber/wil.lua"
 
 -- new text
 --[==[
-t("Draconic Will", "Voluntad draconiana", "talent name")
+t("Draconic Will", "Draconic Will", "talent name")
 t("Be close to the draconic world", "Be close to the draconic world", "_t")
 t("Meteoric Crash", "Meteoric Crash", "talent name")
 t("Have witnessed a meteoric crash", "Have witnessed a meteoric crash", "_t")
@@ -7200,7 +7200,7 @@ section "mod-tome/data/talents/undeads/ghoul.lua"
 
 -- new text
 --[==[
-t("Ghoul", "Ghul", "talent name")
+t("Ghoul", "Ghoul", "talent name")
 t("Ghoulish Leap", "Ghoulish Leap", "talent name")
 t("Retch", "Retch", "talent name")
 t("%s #YELLOW_GREEN#VOMITS#LAST# on the ground!", "%s #YELLOW_GREEN#VOMITS#LAST# on the ground!", "logSeen")
@@ -7235,7 +7235,7 @@ section "mod-tome/data/talents/undeads/skeleton.lua"
 --[==[
 t("Skeleton", "Skeleton", "talent name")
 t("Improves your skeletal condition, increasing Strength and Dexterity by %d.", "Improves your skeletal condition, increasing Strength and Dexterity by %d.", "tformat")
-t("Bone Armour", "Armadura de hueso", "talent name")
+t("Bone Armour", "Bone Armour", "talent name")
 t("Resilient Bones", "Resilient Bones", "talent name")
 t("Your undead bones are very resilient, reducing the duration of all detrimental effects on you by up to %d%%.", "Your undead bones are very resilient, reducing the duration of all detrimental effects on you by up to %d%%.", "tformat")
 t("Re-assemble", "Re-assemble", "talent name")

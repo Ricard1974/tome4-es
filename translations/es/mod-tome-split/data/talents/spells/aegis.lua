@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Arcane Reconstruction", "Arcane Reconstruction", "talent name")
-t("Shielding", "Shielding", "talent name")
-t("Arcane Shield", "Arcane Shield", "talent name")
-t("Aegis", "Aegis", "talent name")
+t("Arcane Reconstruction", "Reconstrucción arcana", "talent name")
+t("Shielding", "Escudo protector", "talent name")
+t("Arcane Shield", "Escudo arcano", "talent name")
+t("Aegis", "Égida", "talent name")
 

@@ -13,7 +13,7 @@ t("Tornado", "Tornado", "talent name")
 t("Tornado", "Tornado", "_t")
 t("%s is knocked back!", "%s is knocked back!", "logSeen")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
-t("Lightning Breath", "Lightning Breath", "talent name")
+t("Lightning Breath", "Aliento de relámpago", "talent name")
 t("@Source@ breathes lightning!", "@Source@ breathes lightning!", "_t")
 t("%s resists the stun!", "%s resists the stun!", "logSeen")
 

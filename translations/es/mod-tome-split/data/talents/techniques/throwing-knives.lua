@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Throwing Knives", "Throwing Knives", "talent name")
+t("Throwing Knives", "Cuchillos arrojadizos", "talent name")
 t("Throwing Knife", "Throwing Knife", "_t")
 t("%d%% %s", "%d%% %s", "tformat")
 t("Fan of Knives", "Fan of Knives", "talent name")

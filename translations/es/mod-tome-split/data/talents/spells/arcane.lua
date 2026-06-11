@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Manathrust", "Manathrust", "talent name")
-t("Arcane Power", "Arcane Power", "talent name")
+t("Manathrust", "Empuje de maná", "talent name")
+t("Arcane Power", "Poder arcano", "talent name")
 t("Your mastery of magic allows you to enter a state of deep concentration, increasing your Spellpower by %d and arcane resistance by %d%%.", "Your mastery of magic allows you to enter a state of deep concentration, increasing your Spellpower by %d and arcane resistance by %d%%.", "tformat")
-t("Arcane Vortex", "Arcane Vortex", "talent name")
-t("Disruption Shield", "Disruption Shield", "talent name")
+t("Arcane Vortex", "Vórtice arcano", "talent name")
+t("Disruption Shield", "Escudo de disrupción", "talent name")
 t("#VIOLET#%s's disruption shield collapses and then explodes in a powerful manastorm!", "#VIOLET#%s's disruption shield collapses and then explodes in a powerful manastorm!", "logSeen")
 t("#SLATE#(%d absorbed)#LAST#", "#SLATE#(%d absorbed)#LAST#", "tformat")
 t("#PURPLE#(%d mana)#LAST#", "#PURPLE#(%d mana)#LAST#", "tformat")

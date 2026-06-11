@@ -6,6 +6,6 @@
 
 t("Earthen Missiles", "Earthen Missiles", "talent name")
 t("Body of Stone", "Body of Stone", "talent name")
-t("Earthquake", "Earthquake", "talent name")
+t("Earthquake", "Terremoto", "talent name")
 t("Crystalline Focus", "Crystalline Focus", "talent name")
 

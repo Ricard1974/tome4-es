@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Searing Light", "Searing Light", "talent name")
+t("Searing Light", "Luz abrasadora", "talent name")
 t("Sun Flare", "Sun Flare", "talent name")
 t("Firebeam", "Firebeam", "talent name")
 t("Sunburst", "Sunburst", "talent name")

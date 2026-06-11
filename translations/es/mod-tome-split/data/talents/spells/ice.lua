@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Freeze", "Freeze", "talent name")
+t("Freeze", "Congelar", "talent name")
 t("Frozen Ground", "Frozen Ground", "talent name")
-t("Shatter", "Shatter", "talent name")
+t("Shatter", "Hacer añicos", "talent name")
 t("%s shatters!", "%s shatters!", "logSeen")
 t("Uttercold", "Uttercold", "talent name")
 

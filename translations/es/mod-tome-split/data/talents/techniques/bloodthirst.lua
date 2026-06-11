@@ -6,7 +6,7 @@
 
 t("Mortal Terror", "Mortal Terror", "talent name")
 t("%s resists the terror!", "%s resists the terror!", "logSeen")
-t("Bloodbath", "Bloodbath", "talent name")
+t("Bloodbath", "Baño de sangre", "talent name")
 t("Bloody Butcher", "Bloody Butcher", "talent name")
-t("Unstoppable", "Unstoppable", "talent name")
+t("Unstoppable", "Imparable", "talent name")
 

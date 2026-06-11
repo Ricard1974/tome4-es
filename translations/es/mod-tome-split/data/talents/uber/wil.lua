@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Draconic Will", "Draconic Will", "talent name")
+t("Draconic Will", "Voluntad draconiana", "talent name")
 t("Be close to the draconic world", "Be close to the draconic world", "_t")
 t("Meteoric Crash", "Meteoric Crash", "talent name")
 t("Have witnessed a meteoric crash", "Have witnessed a meteoric crash", "_t")

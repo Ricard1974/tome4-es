@@ -32,7 +32,7 @@ t("@Source@ shows @Target@ the madness of the void.", "@Source@ shows @Target@ t
 t("Shows the target the madness of the void.  Each turn for 6 turns the target must make a mental save or suffer %0.2f mind damage as well as resource damage (based off the mind damage and nature of the resource).", "Shows the target the madness of the void.  Each turn for 6 turns the target must make a mental save or suffer %0.2f mind damage as well as resource damage (based off the mind damage and nature of the resource).", "tformat")
 t("Void Shards", "Void Shards", "talent name")
 t("@Source@ summons void shards.", "@Source@ summons void shards.", "_t")
-t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
+t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
 t("void shard", "void shard", "_t")
 t("It looks like a small hole in the fabric of spacetime.", "It looks like a small hole in the fabric of spacetime.", "_t")
 t("Summons %d void shards.  The void shards come into being destabilized and will suffer %0.2f temporal damage each turn for five turns.  If they die while destabilized they'll explode for %0.2f temporal and %0.2f physical damage in a radius of 4.", "Summons %d void shards.  The void shards come into being destabilized and will suffer %0.2f temporal damage each turn for five turns.  If they die while destabilized they'll explode for %0.2f temporal and %0.2f physical damage in a radius of 4.", "tformat")

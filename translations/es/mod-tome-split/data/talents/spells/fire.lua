@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Flame", "Flame", "talent name")
-t("Flameshock", "Flameshock", "talent name")
-t("Fireflash", "Fireflash", "talent name")
-t("Inferno", "Inferno", "talent name")
+t("Flame", "Llama", "talent name")
+t("Flameshock", "Descarga ígnea", "talent name")
+t("Fireflash", "Destello ígneo", "talent name")
+t("Inferno", "Infierno", "talent name")
 

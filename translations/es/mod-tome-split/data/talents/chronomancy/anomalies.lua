@@ -33,7 +33,7 @@ t("@Source@ makes several targets blink uncontrollably.", "@Source@ makes severa
 t("Up to five targets in a radius of %d are teleporting %d tiles every turn.", "Up to five targets in a radius of %d are teleporting %d tiles every turn.", "tformat")
 t("Anomaly Summon Townsfolk", "Anomaly Summon Townsfolk", "talent name")
 t("Some innocent bystanders have been teleported into the fight.", "Some innocent bystanders have been teleported into the fight.", "_t")
-t("Not enough space to summon!", "Not enough space to summon!", "logPlayer")
+t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
 t("human farmer", "human farmer", "_t")
 t("A weather-worn Human farmer, looking at a loss as to what's going on.", "A weather-worn Human farmer, looking at a loss as to what's going on.", "_t")
 t("halfling gardener", "halfling gardener", "_t")
