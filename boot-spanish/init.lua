@@ -1,7 +1,7 @@
 long_name = "Traducción al Español del Menú Principal"
 short_name = "spanish"
 for_module = "boot"
-version = {1,7,6}
+version = {1,0,0}
 addon_version = {1,0,0}
 weight = 6969
 author = { "Ricard1974", "ricard1974@example.com" }
@@ -10,3 +10,5 @@ tags = { 'boot', 'espanol', 'spanish', 'translation' }
 description = [[Traducción al español del menú principal de ToME4.]]
 hooks = true
 data = true
+overload = true
+superload = false
