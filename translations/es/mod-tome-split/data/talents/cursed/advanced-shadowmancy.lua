@@ -8,5 +8,5 @@ t("Merge", "Merge", "talent name")
 t("Stone", "Piedra", "talent name")
 t("Shadow's Path", "Shadow's Path", "talent name")
 t("You need a shadow in sight range!", "You need a shadow in sight range!", "logPlayer")
-t("Cursed Bolt", "Cursed Bolt", "talent name")
+t("Cursed Bolt", "Cursed Proyectil", "talent name")
 

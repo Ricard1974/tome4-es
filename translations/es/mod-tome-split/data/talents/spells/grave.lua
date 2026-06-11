@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Black Ice", "Black Ice", "talent name")
+t("Black Ice", "Black Hielo", "talent name")
 t("Chill of the Tomb", "Chill of the Tomb", "talent name")
 t("Corpselight", "Corpselight", "talent name")
 t("Grave Mistake", "Grave Mistake", "talent name")

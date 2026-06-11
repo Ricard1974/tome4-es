@@ -6,7 +6,7 @@
 
 t("Virulent Disease", "Enfermedad virulenta", "talent name")
 t("%s resists the disease!", "%s resists the disease!", "logSeen")
-t("Cyst Burst", "Cyst Burst", "talent name")
+t("Cyst Burst", "Cyst Explosión", "talent name")
 t("Catalepsy", "Catalepsy", "talent name")
 t("Diseases #DARK_GREEN#BURN THROUGH#LAST# %s!", "Diseases #DARK_GREEN#BURN THROUGH#LAST# %s!", "logSeen")
 t("%s resists the stun!", "%s resists the stun!", "logSeen")

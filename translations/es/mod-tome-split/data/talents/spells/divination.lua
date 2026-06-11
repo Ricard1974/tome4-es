@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Arcane Eye", "Arcane Eye", "talent name")
+t("Arcane Eye", "Arcano Eye", "talent name")
 t("Keen Senses", "Keen Senses", "talent name")
 t("Vision", "Vision", "talent name")
 t("Form a map of your surroundings in your mind in a radius of %d", "Form a map of your surroundings in your mind in a radius of %d", "tformat")

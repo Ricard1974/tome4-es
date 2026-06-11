@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Strength of Purpose", "Strength of Purpose", "talent name")
+t("Strength of Purpose", "Fuerza of Purpose", "talent name")
 t("Guardian Unity", "Guardian Unity", "talent name")
 t("#STEEL_BLUE#(%d shared)#LAST#", "#STEEL_BLUE#(%d shared)#LAST#", "tformat")
 t("Guardian", "Guardian", "_t")

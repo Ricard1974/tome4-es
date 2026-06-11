@@ -6,7 +6,7 @@
 
 t("Channel Staff", "Channel Staff", "talent name")
 t("You need a staff to use this spell.", "You need a staff to use this spell.", "logPlayer")
-t("Staff Mastery", "Staff Mastery", "talent name")
+t("Staff Mastery", "Staff Maestría", "talent name")
 t("Increases weapon damage by %d%% and physical power by 30 when using staves.", "Increases weapon damage by %d%% and physical power by 30 when using staves.", "tformat")
 t("Defensive Posture", "Defensive Posture", "talent name")
 t("Adopt a defensive posture, increasing your Defense and Armour by %d.", "Adopt a defensive posture, increasing your Defense and Armour by %d.", "tformat")

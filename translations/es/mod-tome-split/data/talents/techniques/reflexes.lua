@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shoot Down", "Shoot Down", "talent name")
+t("Shoot Down", "Disparar Down", "talent name")
 t("#Source# shoots down '#Target#'!", "#Source# shoots down '#Target#'!", "logCombat")
 t("Intuitive Shots", "Intuitive Shots", "talent name")
 t("Sentinel", "Sentinel", "talent name")

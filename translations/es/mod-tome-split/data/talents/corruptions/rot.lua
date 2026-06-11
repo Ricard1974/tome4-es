@@ -13,7 +13,7 @@ t("Infestation", "Infestation", "talent name")
 t("Worm Walk", "Worm Walk", "talent name")
 t("You do not have line of sight to this location.", "You do not have line of sight to this location.", "logPlayer")
 t("The worm walk fizzles!", "The worm walk fizzles!", "logSeen")
-t("Pestilent Blight", "Pestilent Blight", "talent name")
+t("Pestilent Blight", "Pestilent Plaga", "talent name")
 t("Worm Rot", "Worm Rot", "talent name")
 t("%s resists the worm rot!", "%s resists the worm rot!", "logSeen")
 

@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Illuminate", "Iluminar", "talent name")
-t("Phantasmal Shield", "Phantasmal Shield", "talent name")
+t("Phantasmal Shield", "Phantasmal Escudo", "talent name")
 t("#YELLOW#(%d ignored)#LAST#", "#YELLOW#(%d ignored)#LAST#", "tformat")
 t("Invisibility", "Invisibility", "talent name")
 t("Mirror Image", "Mirror Image", "talent name")

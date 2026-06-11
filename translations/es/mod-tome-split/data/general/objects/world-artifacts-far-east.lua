@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("tome", "tome", "entity subtype")
-t("Scroll of Summoning (Limmir the Jeweler)", "Scroll of Summoning (Limmir the Jeweler)", "entity name")
+t("Scroll of Summoning (Limmir the Jeweler)", "Scroll of Invocación (Limmir the Jeweler)", "entity name")
 t("summon Limmir the jeweler at the center of the lake of the moon", "summon Limmir the jeweler at the center of the lake of the moon", "_t")
 t("Pendant of the Sun and Moons", "Pendant of the Sun and Moons", "entity name")
 t("a gray and gold pendant", "a gray and gold pendant", "_t")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Fast As Lightning", "Fast As Lightning", "talent name")
+t("Fast As Lightning", "Fast As Relámpago", "talent name")
 t("#LIGHT_BLUE#%s slows from critical velocity!", "#LIGHT_BLUE#%s slows from critical velocity!", "logSeen")
 t("#LIGHT_BLUE#%s reaches critical velocity!", "#LIGHT_BLUE#%s reaches critical velocity!", "logSeen")
 t("Tricky Defenses", "Tricky Defenses", "talent name")

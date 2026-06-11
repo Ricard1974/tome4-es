@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("acid-proof ", "acid-proof ", "entity name")
-t("giant ", "giant ", "entity name")
+t("acid-proof ", "acid-proof", "entity name")
+t("giant ", "giant", "entity name")
 

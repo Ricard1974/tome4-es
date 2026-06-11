@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Sling Mastery", "Sling Mastery", "talent name")
+t("Sling Mastery", "Sling Maestría", "talent name")
 t("Eye Shot", "Eye Shot", "talent name")
 t("%s resists!", "%s resists!", "logSeen")
 t("You must wield a sling!", "You must wield a sling!", "logPlayer")

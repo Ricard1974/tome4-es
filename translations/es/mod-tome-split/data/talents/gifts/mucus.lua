@@ -6,7 +6,7 @@
 
 t("Mucus", "Mucus", "talent name")
 t("Acid Splash", "Salpicadura ácida", "talent name")
-t("Slime Spit", "Slime Spit", "talent name")
+t("Slime Spit", "Slime Escupir", "talent name")
 t("Living Mucus", "Living Mucus", "talent name")
 t("%s's mucus ooze", "%s's mucus ooze", "tformat")
 t("It's made from mucus and it's oozing.", "It's made from mucus and it's oozing.", "_t")

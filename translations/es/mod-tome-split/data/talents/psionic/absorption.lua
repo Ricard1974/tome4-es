@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Kinetic Shield", "Kinetic Shield", "talent name")
+t("Kinetic Shield", "Kinetic Escudo", "talent name")
 t("You may only sustain two shields at once. Shield activation cancelled.", "You may only sustain two shields at once. Shield activation cancelled.", "logSeen")
-t("Thermal Shield", "Thermal Shield", "talent name")
-t("Charged Shield", "Charged Shield", "talent name")
+t("Thermal Shield", "Thermal Escudo", "talent name")
+t("Charged Shield", "Charged Escudo", "talent name")
 t("Forcefield", "Forcefield", "talent name")
 

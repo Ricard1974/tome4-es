@@ -11,6 +11,6 @@ t("Select a teleport location...", "Select a teleport location...", "logPlayer")
 t("The targeted phase door fizzles and works randomly!", "The targeted phase door fizzles and works randomly!", "logPlayer")
 t("Teleport", "Teletransporte", "talent name")
 t("The targetted teleport fizzles and works randomly!", "The targetted teleport fizzles and works randomly!", "logPlayer")
-t("Displacement Shield", "Displacement Shield", "talent name")
+t("Displacement Shield", "Displacement Escudo", "talent name")
 t("Probability Travel", "Probability Travel", "talent name")
 

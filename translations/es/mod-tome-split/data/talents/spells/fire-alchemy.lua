@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Flame Infusion", "Flame Infusion", "talent name")
+t("Flame Infusion", "Flame Infusión", "talent name")
 t("Smoke Bomb", "Smoke Bomb", "talent name")
-t("Fire Storm", "Fire Storm", "talent name")
+t("Fire Storm", "Fuego Storm", "talent name")
 t("firestorm", "firestorm", "_t")
-t("Body of Fire", "Body of Fire", "talent name")
+t("Body of Fire", "Body of Fuego", "talent name")
 t("#FF8000#%s turns into pure flame!", "#FF8000#%s turns into pure flame!", "logSeen")
 t("#FF8000#The raging fire around %s calms down and disappears.", "#FF8000#The raging fire around %s calms down and disappears.", "logSeen")
 

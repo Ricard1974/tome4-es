@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Mind Storm", "Mind Storm", "talent name")
+t("Mind Storm", "Mental Tormenta", "talent name")
 t("Feedback Loop", "Feedback Loop", "talent name")
 t("You have no feedback to start a feedback loop!", "You have no feedback to start a feedback loop!", "logPlayer")
 t("Backlash", "Backlash", "talent name")

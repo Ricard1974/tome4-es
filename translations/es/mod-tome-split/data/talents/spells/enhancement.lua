@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Arcane Strike", "Arcane Strike", "talent name")
+t("Arcane Strike", "Arcano Strike", "talent name")
 t("You require a weapon to use this talent.", "You require a weapon to use this talent.", "logPlayer")
 t("Fiery Hands", "Fiery Hands", "talent name")
 t("Shock Hands", "Shock Hands", "talent name")

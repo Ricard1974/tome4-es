@@ -7,7 +7,7 @@
 t("Slash", "Slash", "talent name")
 t("You require a mainhand weapon to use this talent.", "You require a mainhand weapon to use this talent.", "logPlayer")
 t("Frenzy", "Frenzy", "talent name")
-t("Reckless Charge", "Reckless Charge", "talent name")
+t("Reckless Charge", "Reckless Carga", "talent name")
 t("#Source# knocks back #Target#!", "#Source# knocks back #Target#!", "logCombat")
 t("#Target# blocks #Source#!", "#Target# blocks #Source#!", "logCombat")
 t("Big", "Big", "_t")

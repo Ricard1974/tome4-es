@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("fire-proof ", "fire-proof ", "entity name")
-t("long ", "long ", "entity name")
+t("fire-proof ", "fire-proof", "entity name")
+t("long ", "long", "entity name")
 

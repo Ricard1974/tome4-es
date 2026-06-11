@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t(" of cunning (#STATBONUS#)", " of cunning (#STATBONUS#)", "entity name")
+t(" of cunning (#STATBONUS#)", "of cunning (#STATBONUS#)", "entity name")
 t("cun", "cun", "entity keyword")
-t("halfling ", "halfling ", "entity name")
+t("halfling ", "halfling", "entity name")
 t("halfling", "halfling", "entity keyword")
 

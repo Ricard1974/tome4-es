@@ -7,7 +7,7 @@
 t("Resolve", "Resolve", "talent name")
 t("Antimagic Zone", "Antimagic Zone", "talent name")
 t("%s resists the silence!", "%s resists the silence!", "logSeen")
-t("Antimagic Shield", "Antimagic Shield", "talent name")
+t("Antimagic Shield", "Antimagic Escudo", "talent name")
 t("#GREEN#The antimagic shield of %s crumbles.", "#GREEN#The antimagic shield of %s crumbles.", "logSeen")
 t("Mana Clash", "Mana Clash", "talent name")
 t("\

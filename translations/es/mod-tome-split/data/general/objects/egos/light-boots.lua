@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("stealthy ", "stealthy ", "entity name")
+t("stealthy ", "stealthy", "entity name")
 t("stealth", "stealth", "entity keyword")
 

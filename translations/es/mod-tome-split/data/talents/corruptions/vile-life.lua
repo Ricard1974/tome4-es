@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Blood Splash", "Blood Splash", "talent name")
+t("Blood Splash", "Sangre Salpicadura", "talent name")
 t("Elemental Discord", "Elemental Discord", "talent name")
-t("Healing Inversion", "Healing Inversion", "talent name")
+t("Healing Inversion", "Curación Inversion", "talent name")
 t("Vile Transplant", "Vile Transplant", "talent name")
 t("#CRIMSON##Source# transfers an effect (%s) to #Target#!", "#CRIMSON##Source# transfers an effect (%s) to #Target#!", "tformat")
 

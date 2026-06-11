@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ice Claw", "Ice Claw", "talent name")
-t("Icy Skin", "Icy Skin", "talent name")
-t("Ice Wall", "Ice Wall", "talent name")
+t("Ice Claw", "Hielo Claw", "talent name")
+t("Icy Skin", "Icy Piel", "talent name")
+t("Ice Wall", "Hielo Wall", "talent name")
 t("ice wall", "ice wall", "_t")
 t("a summoned, transparent wall of ice", "a summoned, transparent wall of ice", "_t")
 t("Ice Breath", "Aliento de hielo", "talent name")

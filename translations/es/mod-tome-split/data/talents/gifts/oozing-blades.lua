@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Oozebeam", "Oozebeam", "talent name")
-t("Natural Acid", "Natural Acid", "talent name")
-t("Mind Parasite", "Mind Parasite", "talent name")
-t("Unstoppable Nature", "Unstoppable Nature", "talent name")
+t("Natural Acid", "Natural Ácido", "talent name")
+t("Mind Parasite", "Mental Parasite", "talent name")
+t("Unstoppable Nature", "Unstoppable Naturaleza", "talent name")
 

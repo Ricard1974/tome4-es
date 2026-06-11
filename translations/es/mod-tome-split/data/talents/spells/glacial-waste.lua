@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Hiemal Shield", "Hiemal Shield", "talent name")
+t("Hiemal Shield", "Hiemal Escudo", "talent name")
 t("#GREY#Your hiemal shield does not have enough resources!", "#GREY#Your hiemal shield does not have enough resources!", "logPlayer")
 t("#GREY#Your hiemal shield regenerates to full!", "#GREY#Your hiemal shield regenerates to full!", "logPlayer")
 t("#SLATE#(%d absorbed)#LAST#", "#SLATE#(%d absorbed)#LAST#", "tformat")

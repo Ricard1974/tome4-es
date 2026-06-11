@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("warded ", "warded ", "entity name")
+t("warded ", "warded", "entity name")
 t("ward", "ward", "entity keyword")
 

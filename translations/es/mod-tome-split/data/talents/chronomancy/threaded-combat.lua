@@ -13,6 +13,6 @@ t("Blended Threads", "Blended Threads", "talent name")
 t("Thread the Needle", "Thread the Needle", "talent name")
 t("You cannot use Thread the Needle without an appropriate weapon!", "You cannot use Thread the Needle without an appropriate weapon!", "logPlayer")
 t("Attack with your bow or dual-weapons for %d%% damage.  If you use your bow you'll shoot all targets in a beam.  If you use your dual-weapons you'll attack all targets within a radius of one around you.", "Attack with your bow or dual-weapons for %d%% damage.  If you use your bow you'll shoot all targets in a beam.  If you use your dual-weapons you'll attack all targets within a radius of one around you.", "tformat")
-t("Warden's Call", "Warden's Call", "talent name")
+t("Warden's Call", "Warden's Invocación", "talent name")
 t("%s calls forth a temporal warden from another timeline.", "%s calls forth a temporal warden from another timeline.", "logSeen")
 

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Call of the Mausoleum", "Call of the Mausoleum", "talent name")
+t("Call of the Mausoleum", "Invocación of the Mausoleum", "talent name")
 t("\
 #DARK_SEA_GREEN#Next free ghoul in %d turn(s).\
 #LAST#", "\

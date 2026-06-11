@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Spectral Shield", "Spectral Shield", "talent name")
+t("Spectral Shield", "Spectral Escudo", "talent name")
 t("Know the Block talent, have cast 100 spells, and have a block value over 200", "Know the Block talent, have cast 100 spells, and have a block value over 200", "_t")
 t("By infusing your shield with raw magic, your block can now block any damage type.", "By infusing your shield with raw magic, your block can now block any damage type.", "tformat")
 t("Ethereal Form", "Ethereal Form", "talent name")
@@ -12,12 +12,12 @@ t("Have an effective defense of at least 40", "Have an effective defense of at l
 t("Aether Permeation", "Permeación de éter", "talent name")
 t("Have been exposed to the void of space", "Have been exposed to the void of space", "_t")
 t("#ORCHID#Aether Permeation protects %s from a dispel!", "#ORCHID#Aether Permeation protects %s from a dispel!", "logSeen")
-t("Mystical Cunning", "Mystical Cunning", "talent name")
+t("Mystical Cunning", "Mystical Astucia", "talent name")
 t("Know how to either prepare traps or apply poisons", "Know how to either prepare traps or apply poisons", "_t")
 t("Arcane Might", "Poder arcano", "talent name")
 t("Temporal Form", "Temporal Form", "talent name")
 t("Have cast over 1000 spells and visited a zone outside of time", "Have cast over 1000 spells and visited a zone outside of time", "_t")
-t("Blighted Summoning", "Blighted Summoning", "talent name")
+t("Blighted Summoning", "Blighted Invocación", "talent name")
 t("Have summoned at least 100 creatures. More permanent summons may count as more than 1.", "Have summoned at least 100 creatures. More permanent summons may count as more than 1.", "_t")
 t("Revisionist History", "Revisionist History", "talent name")
 t("Have time-travelled at least once", "Have time-travelled at least once", "_t")

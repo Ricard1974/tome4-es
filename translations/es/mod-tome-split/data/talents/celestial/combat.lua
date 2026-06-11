@@ -7,7 +7,7 @@
 t("Gravitic Effulgence", "Gravitic Effulgence", "talent name")
 t("Your Weapon of Light nows pulls in all foes in radius 5.", "Your Weapon of Light nows pulls in all foes in radius 5.", "tformat")
 t("Weapon of Light", "Arma de luz", "talent name")
-t("Wave of Power", "Wave of Power", "talent name")
+t("Wave of Power", "Ola of Power", "talent name")
 t("#CRIMSON#%sstrikes twice with Wave of Power!#NORMAL#", "#CRIMSON#%sstrikes twice with Wave of Power!#NORMAL#", "logSeen")
 t("Weapon of Wrath", "Arma de ira", "talent name")
 t("Second Life", "Second Life", "talent name")

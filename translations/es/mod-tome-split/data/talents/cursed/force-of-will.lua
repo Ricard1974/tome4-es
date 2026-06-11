@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Willful Strike", "Willful Strike", "talent name")
+t("Willful Strike", "Willful Golpe", "talent name")
 t("#Source# was blasted %d spaces into #Target#!", "#Source# was blasted %d spaces into #Target#!", "logCombat")
 t("#Source# was blasted into #Target#!", "#Source# was blasted into #Target#!", "logCombat")
 t("%s was smashed back %d spaces!", "%s was smashed back %d spaces!", "logSeen")

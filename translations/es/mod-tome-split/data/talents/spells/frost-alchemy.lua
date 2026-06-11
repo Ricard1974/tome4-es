@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Frost Infusion", "Frost Infusion", "talent name")
+t("Frost Infusion", "Frost Infusión", "talent name")
 t("Ice Armour", "Armadura de hielo", "talent name")
 t("Flash Freeze", "Flash Freeze", "talent name")
-t("Ice Core", "Ice Core", "talent name")
+t("Ice Core", "Hielo Core", "talent name")
 

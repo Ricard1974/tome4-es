@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Induce Anomaly", "Induce Anomaly", "talent name")
+t("Induce Anomaly", "Induce Anomalía", "talent name")
 t("Reality Smearing", "Reality Smearing", "talent name")
 t("#LIGHT_BLUE##Source# converts damage to paradox!", "#LIGHT_BLUE##Source# converts damage to paradox!", "delayedLogMessage")
 t("#LIGHT_BLUE#(%d converted)#LAST#", "#LIGHT_BLUE#(%d converted)#LAST#", "tformat")

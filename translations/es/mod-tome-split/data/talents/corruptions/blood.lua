@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Blood Spray", "Blood Spray", "talent name")
-t("Blood Grasp", "Blood Grasp", "talent name")
-t("Blood Boil", "Blood Boil", "talent name")
-t("Blood Fury", "Blood Fury", "talent name")
+t("Blood Spray", "Sangre Rociada", "talent name")
+t("Blood Grasp", "Sangre Grasp", "talent name")
+t("Blood Boil", "Sangre Boil", "talent name")
+t("Blood Fury", "Sangre Fury", "talent name")
 

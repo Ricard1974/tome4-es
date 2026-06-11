@@ -9,5 +9,5 @@ t("Any time you do not have an opponent in a square adjacent to you, you gain %0
 t("Pace Yourself", "Pace Yourself", "talent name")
 t("Dauntless Challenger", "Dauntless Challenger", "talent name")
 t("When the going gets tough, you get tougher. You gain %0.1f Stamina regen per enemy in sight, and beginning at talent level 3 and above, you also gain %0.1f life regen per enemy. The bonuses cap at 4 enemies.", "When the going gets tough, you get tougher. You gain %0.1f Stamina regen per enemy in sight, and beginning at talent level 3 and above, you also gain %0.1f life regen per enemy. The bonuses cap at 4 enemies.", "tformat")
-t("The Eternal Warrior", "The Eternal Warrior", "talent name")
+t("The Eternal Warrior", "The Eternal Guerrero", "talent name")
 

@@ -7,7 +7,7 @@
 t("Kinetic Leech", "Kinetic Leech", "talent name")
 t("%s resists the sleep!", "%s resists the sleep!", "logSeen")
 t("Thermal Leech", "Thermal Leech", "talent name")
-t("Charge Leech", "Charge Leech", "talent name")
+t("Charge Leech", "Carga Leech", "talent name")
 t("Insatiable", "Insatiable", "talent name")
 t("Increases your maximum energy by %d. You also gain %0.1f Psi for each kill and %0.1f Psi for each mind critical.", "Increases your maximum energy by %d. You also gain %0.1f Psi for each kill and %0.1f Psi for each mind critical.", "tformat")
 

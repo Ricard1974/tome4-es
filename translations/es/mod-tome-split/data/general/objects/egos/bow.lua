@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t(" of dexterity (#STATBONUS#)", " of dexterity (#STATBONUS#)", "entity name")
+t(" of dexterity (#STATBONUS#)", "of dexterity (#STATBONUS#)", "entity name")
 t("dex", "dex", "entity keyword")
-t("keeper's ", "keeper's ", "entity name")
+t("keeper's ", "keeper's", "entity name")
 t("keepers", "keepers", "entity keyword")
 

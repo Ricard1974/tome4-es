@@ -12,6 +12,6 @@ t("#GREY#%s [unknown]#LAST#", "#GREY#%s [unknown]#LAST#", "tformat")
 t("Slipstream", "Slipstream", "talent name")
 t("#PURPLE#Your Slipstream does not have enough resources!", "#PURPLE#Your Slipstream does not have enough resources!", "logPlayer")
 t("#PURPLE#Your Slipstream regenerates to full!", "#PURPLE#Your Slipstream regenerates to full!", "logPlayer")
-t("Elemental Array Burst", "Elemental Array Burst", "talent name")
+t("Elemental Array Burst", "Elemental Array Explosión", "talent name")
 t("Thaumaturgy Unlock Checker", "Thaumaturgy Unlock Checker", "talent name")
 

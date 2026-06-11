@@ -12,5 +12,5 @@ t("Projection", "Projection", "talent name")
 t("Not enough space to invoke your spirit!", "Not enough space to invoke your spirit!", "logPlayer")
 t("Projection of %s", "Projection of %s", "tformat")
 t("A ghostly figure.", "A ghostly figure.", "_t")
-t("Mind Link", "Mind Link", "talent name")
+t("Mind Link", "Mental Link", "talent name")
 

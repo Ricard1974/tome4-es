@@ -34,7 +34,7 @@ t("#F53CBE#Your hate has conquered a great adversary!", "#F53CBE#Your hate has c
 t("#F53CBE#An elite foe has fallen to your hate!", "#F53CBE#An elite foe has fallen to your hate!", "_t")
 t("Paradox Pool", "Paradox Pool", "talent name")
 t("Hunted!", "Hunted!", "talent name")
-t("Teleport: Angolwen", "Teleport: Angolwen", "talent name")
+t("Teleport: Angolwen", "Teletransporte: Angolwen", "talent name")
 t("The spell fizzles...", "The spell fizzles...", "logPlayer")
 t("There are creatures that could be watching you; you cannot take the risk.", "There are creatures that could be watching you; you cannot take the risk.", "log")
 t("Timeport: Point Zero", "Timeport: Point Zero", "talent name")
@@ -43,8 +43,8 @@ t("%s: Reducing duration of %s, using %s, by %d", "%s: Reducing duration of %s, 
 t("\
 %s effect durations -%d turns", "\
 %s effect durations -%d turns", "tformat")
-t("Teleport to the ground", "Teleport to the ground", "talent name")
+t("Teleport to the ground", "Teletransporte to the ground", "talent name")
 t("You cannot teleport there.", "You cannot teleport there.", "log")
-t("Fire a blast of energy", "Fire a blast of energy", "talent name")
+t("Fire a blast of energy", "Fuego a blast of energy", "talent name")
 t("High Planetary Orbit", "High Planetary Orbit", "talent name")
 

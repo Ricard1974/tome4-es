@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Call of the Crypt", "Call of the Crypt", "talent name")
+t("Call of the Crypt", "Invocación of the Crypt", "talent name")
 t("Shattered Remains", "Shattered Remains", "talent name")
 t("#GREY#%s shatters!", "#GREY#%s shatters!", "logSeen")
 t("Assemble", "Assemble", "talent name")

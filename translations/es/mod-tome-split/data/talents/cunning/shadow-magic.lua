@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Shadow Combat", "Shadow Combat", "talent name")
-t("Shadow Cunning", "Shadow Cunning", "talent name")
+t("Shadow Cunning", "Shadow Astucia", "talent name")
 t("Your preparations give you greater magical capabilities. You gain a bonus to Spellpower equal to %d%% of your Cunning (Current bonus: %d).", "Your preparations give you greater magical capabilities. You gain a bonus to Spellpower equal to %d%% of your Cunning (Current bonus: %d).", "tformat")
 t("Shadow Feed", "Shadow Feed", "talent name")
 t("Shadowstep", "Shadowstep", "talent name")

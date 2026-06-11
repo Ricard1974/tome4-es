@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Telekinetic Assault", "Telekinetic Assault", "talent name")
+t("Telekinetic Assault", "Telekinetic Asalto", "talent name")
 t("You cannot do that without a weapon in your hands.", "You cannot do that without a weapon in your hands.", "logPlayer")
 

@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Arcane Bolts", "Arcane Bolts", "talent name")
+t("Arcane Bolts", "Arcano Bolts", "talent name")
 t("Displace", "Displace", "talent name")
 t("Selects a displacement location...", "Selects a displacement location...", "logPlayer")
 t("Your attempt to displace fails!", "Your attempt to displace fails!", "logSeen")
 t("Instantaneously displace yourself within line of sight up to 3 squares away.", "Instantaneously displace yourself within line of sight up to 3 squares away.", "tformat")
-t("Primal Skin", "Primal Skin", "talent name")
+t("Primal Skin", "Primal Piel", "talent name")
 t("Vaporize", "Vaporize", "talent name")
 
