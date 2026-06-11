@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Grappling Stance", "Grappling Stance", "talent name")
+t("Grappling Stance", "Plástico Stance", "talent name")
 t("Clinch", "Agarrar", "talent name")
-t("Crushing Hold", "Crushing Hold", "talent name")
+t("Crushing Hold", "Trituración Espera", "talent name")
 t("Take Down", "Toma", "talent name")
 t("You cannot move!", "You cannot move!", "logPlayer")
 t("Hurricane Throw", "Hurricane Lanzar", "talent name")

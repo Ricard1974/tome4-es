@@ -12,5 +12,5 @@ t("The targeted phase door fizzles and works randomly!", "The targeted phase doo
 t("Teleport", "Teletransporte", "talent name")
 t("The targetted teleport fizzles and works randomly!", "The targetted teleport fizzles and works randomly!", "logPlayer")
 t("Displacement Shield", "Displacement Escudo", "talent name")
-t("Probability Travel", "Probability Travel", "talent name")
+t("Probability Travel", "Probabilidad Viajes", "talent name")
 

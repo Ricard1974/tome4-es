@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Rigor Mortis", "Rigor Mortis", "talent name")
+t("Rigor Mortis", "a Rigor Mortis", "talent name")
 t("%s resists the Rigor Mortis!", "%s resists the Rigor Mortis!", "logSeen")
 t("Drawn To Death", "Drawn To Muerte", "talent name")
 t("Grim Shadow", "Grim Sombra", "talent name")

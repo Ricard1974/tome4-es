@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Wraithform", "Wraithform", "talent name")
+t("Wraithform", "o", "talent name")
 t("Darkfire", "Darkfire", "talent name")
 t("Flame of Urh'Rok", "Llama de Urh'Rok", "talent name")
 t("Fearscape", "Páramo del miedo", "talent name")

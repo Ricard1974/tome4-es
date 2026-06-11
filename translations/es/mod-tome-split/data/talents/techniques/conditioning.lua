@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Vitality", "Vitality", "talent name")
-t("Unflinching Resolve", "Unflinching Resolve", "talent name")
+t("Vitality", "Vitalidad", "talent name")
+t("Unflinching Resolve", "Unflinching Resolver", "talent name")
 t("#ORCHID#%s has recovered!#LAST#", "#ORCHID#%s has recovered!#LAST#", "logSeen")
-t("Daunting Presence", "Daunting Presence", "talent name")
+t("Daunting Presence", "Daunting Presencia", "talent name")
 t("Adrenaline Surge", "Surge de adrenalina", "talent name")
 

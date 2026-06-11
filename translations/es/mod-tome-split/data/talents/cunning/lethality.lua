@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Lethality", "Lethality", "talent name")
+t("Lethality", "Letalidad", "talent name")
 t("Expose Weakness", "Expose Debilidad", "talent name")
 t("Blade Flurry", "Blade Ráfaga", "talent name")
 t("Snap", "Romper", "talent name")

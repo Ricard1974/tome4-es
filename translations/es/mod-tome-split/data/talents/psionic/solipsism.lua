@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Solipsism", "Solipsism", "talent name")
+t("Solipsism", "o", "talent name")
 t("Balance", "Saldo", "talent name")
 t("Clarity", "Claridad", "talent name")
 t("Dismissal", "Dismissal", "talent name")

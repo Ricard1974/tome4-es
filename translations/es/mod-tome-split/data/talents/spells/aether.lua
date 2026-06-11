@@ -13,5 +13,5 @@ t("Aether Avatar", "Avatar de éter", "talent name")
 t("#VIOLET#%s loses 50 mana from using a non-Arcane talent!#LAST#", "#VIOLET#%s loses 50 mana from using a non-Arcane talent!#LAST#", "logSeen")
 t("At level %d: #AQUAMARINE#%s#LAST#", "At level %d: #AQUAMARINE#%s#LAST#", "tformat")
 t("#LAST# and #AQUAMARINE#", "#LAST# and #AQUAMARINE#", "_t")
-t("Pure Aether", "Pure Aether", "talent name")
+t("Pure Aether", "Puro Aether", "talent name")
 

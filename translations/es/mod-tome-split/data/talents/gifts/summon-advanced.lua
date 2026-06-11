@@ -6,7 +6,7 @@
 
 t("Master Summoner", "Maestro Invocador", "talent name")
 t("Reduces the cooldown of all summons by %d%%.", "Reduces the cooldown of all summons by %d%%.", "tformat")
-t("Grand Arrival", "Grand Arrival", "talent name")
+t("Grand Arrival", "Grandioso Llegada", "talent name")
 t("Nature's Cycle", "Ciclo de la Naturaleza", "talent name")
 t("Wild Summon", "Wild Invocar", "talent name")
 

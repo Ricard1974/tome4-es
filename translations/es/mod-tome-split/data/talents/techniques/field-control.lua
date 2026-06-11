@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Heave", "Heave", "talent name")
+t("Heave", "o Heave", "talent name")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
 t("Slow Motion", "Ralentizar Motion", "talent name")
 t("Your great dexterity allows you to see incoming projectiles (spells, arrows, ...), effectively slowing them down by %d%%.", "Your great dexterity allows you to see incoming projectiles (spells, arrows, ...), effectively slowing them down by %d%%.", "tformat")

@@ -12,7 +12,7 @@ t("A hideous, demonic entity that resembles the creature it came from.", "A hide
 t("#F53CBE#%s's Inner Demon manifests!", "#F53CBE#%s's Inner Demon manifests!", "logSeen")
 t("You can't cast this on friendly targets.", "You can't cast this on friendly targets.", "logPlayer")
 t("%s resists the demons!", "%s resists the demons!", "logSeen")
-t("Waking Nightmare", "Waking Nightmare", "talent name")
+t("Waking Nightmare", "Despertar Pesadilla", "talent name")
 t("Night Terror", "Noche Terror", "talent name")
 t("terror", "terror", "_t")
 t("A formless terror that seems to cut through the air, and its victims, like a knife.", "A formless terror that seems to cut through the air, and its victims, like a knife.", "_t")

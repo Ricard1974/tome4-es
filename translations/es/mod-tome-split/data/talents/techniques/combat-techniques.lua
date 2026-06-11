@@ -20,7 +20,7 @@ t("Fast Metabolism", "Metabolismo rápido", "talent name")
 t("Your combat focus allows you to regenerate life faster (+%0.1f life/turn).", "Your combat focus allows you to regenerate life faster (+%0.1f life/turn).", "tformat")
 t("Spell Shield", "Spell Escudo", "talent name")
 t("Rigorous training allows you to be more resistant to some spell effects (+%d spell save).", "Rigorous training allows you to be more resistant to some spell effects (+%d spell save).", "tformat")
-t("Unending Frenzy", "Unending Frenzy", "talent name")
+t("Unending Frenzy", "sin fin Frenzy", "talent name")
 t("You revel in the death of your foes, regaining %0.1f additional hate with each death you cause.", "You revel in the death of your foes, regaining %0.1f additional hate with each death you cause.", "tformat")
 t("You revel in the death of your foes, regaining %0.1f stamina with each death you cause.", "You revel in the death of your foes, regaining %0.1f stamina with each death you cause.", "tformat")
 

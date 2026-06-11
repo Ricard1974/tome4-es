@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Reproach", "Procesamiento", "talent name")
-t("Hateful Whisper", "Hateful Whisper", "talent name")
+t("Hateful Whisper", "Odio Whisper", "talent name")
 t("Agony", "Agonía", "talent name")
 t("Madness", "Locura", "talent name")
 t("Your hateful will splinters into the minds of those you torture, breaking them down. Each time you inflict Mind damage, the victim has a %0.1f%% chance of going mad for 3 turns unless they save against your Mindpower. The madness will lower the victim's Mind resistance by %0.1f%% and cause them to become confused (50%% power), slowed (30%% power), or stunned for the duration.", "Your hateful will splinters into the minds of those you torture, breaking them down. Each time you inflict Mind damage, the victim has a %0.1f%% chance of going mad for 3 turns unless they save against your Mindpower. The madness will lower the victim's Mind resistance by %0.1f%% and cause them to become confused (50%% power), slowed (30%% power), or stunned for the duration.", "tformat")

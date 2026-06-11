@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Stoneshield", "Stoneshield", "talent name")
+t("Stoneshield", "a Stoneshield", "talent name")
 t("Stone Fortress", "Piedra Fortress", "talent name")
 t("Shards", "Fragmentos", "talent name")
 t("Eldritch Stone", "Arcano Piedra", "talent name")

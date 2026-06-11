@@ -37,7 +37,7 @@ t("Hunted!", "Hunted!", "talent name")
 t("Teleport: Angolwen", "Teletransporte: Angolwen", "talent name")
 t("The spell fizzles...", "The spell fizzles...", "logPlayer")
 t("There are creatures that could be watching you; you cannot take the risk.", "There are creatures that could be watching you; you cannot take the risk.", "log")
-t("Timeport: Point Zero", "Timeport: Point Zero", "talent name")
+t("Timeport: Point Zero", "Timeport: Punto Cero", "talent name")
 t("Relentless Pursuit", "Pursuit incesante", "talent name")
 t("%s: Reducing duration of %s, using %s, by %d", "%s: Reducing duration of %s, using %s, by %d", "tformat")
 t("\

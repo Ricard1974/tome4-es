@@ -18,7 +18,7 @@ t("Curse the earth around you in a radius of %d for %d turns. Any who stand upon
 t("Choose Cursed Sentry", "Elija Cursed Sentry", "talent name")
 t("Which weapon will be your sentry?", "Which weapon will be your sentry?", "_t")
 t("Choose a sentry to instill your affliction into.", "Choose a sentry to instill your affliction into.", "_t")
-t("Cursed Sentry", "Cursed Sentry", "talent name")
+t("Cursed Sentry", "Maldito Sentry", "talent name")
 t("You cannot use %s without a weapon in your inventory!", "You cannot use %s without a weapon in your inventory!", "logPlayer")
 t("animated %s", "animated %s", "tformat")
 t("A weapon imbued with a living curse. It seems to be searching for its next victim.", "A weapon imbued with a living curse. It seems to be searching for its next victim.", "_t")

@@ -13,7 +13,7 @@ t("You can only prepare your swift hands tools outside of combat.", "You can onl
 t("Manage your swift hands readied tools.", "Manage your swift hands readied tools.", "_t")
 t("Swift Hands", "Swift Manos", "talent name")
 t("Use tool", "Use tool", "_t")
-t("Windblade", "Windblade", "talent name")
+t("Windblade", "o Windblade", "talent name")
 t("Have dealt over 50000 damage with dual wielded weapons", "Have dealt over 50000 damage with dual wielded weapons", "_t")
 t("You spin madly, generating a sharp gust of wind with your weapons that deals 320%% weapon damage to all targets within radius 4 and disarms them for 4 turns.", "You spin madly, generating a sharp gust of wind with your weapons that deals 320%% weapon damage to all targets within radius 4 and disarms them for 4 turns.", "tformat")
 t("Windtouched Speed", "Velocidad del viento", "talent name")

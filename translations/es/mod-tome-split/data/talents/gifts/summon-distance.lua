@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Flamespit", "Flamespit", "talent name")
+t("Flamespit", "o Flamespit", "talent name")
 t("@Source@ spits flames!", "@Source@ spits flames!", "_t")
 t("Flame Fury", "Flame Furia", "talent name")
 t("Acid Breath", "Aliento ácido", "talent name")
@@ -30,7 +30,7 @@ t("%s (wild summon)", "%s (invocación salvaje)", "tformat")
 t("Hydra", "Hidra", "talent name")
 t("@Source@ summons a 3-headed hydra!", "@Source@ summons a 3-headed hydra!", "_t")
 t("A strange reptilian creature with three smouldering heads.", "A strange reptilian creature with three smouldering heads.", "_t")
-t("Rimebark", "Rimebark", "talent name")
+t("Rimebark", "o Rimebark", "talent name")
 t("@Source@ summons a Rimebark!", "@Source@ summons a Rimebark!", "_t")
 t("This huge treant-like being is embedded with the fury of winter itself.", "This huge treant-like being is embedded with the fury of winter itself.", "_t")
 t("Fire Drake", "Dragón de fuego", "talent name")

@@ -6,6 +6,6 @@
 
 t("Rime Wraith", "Rime Espectro", "talent name")
 t("Frigid Plunge", "Frigid Plunge", "talent name")
-t("Gelid Host", "Gelid Host", "talent name")
+t("Gelid Host", "gelid Host", "talent name")
 t("Permafrost", "Permafrost", "talent name")
 

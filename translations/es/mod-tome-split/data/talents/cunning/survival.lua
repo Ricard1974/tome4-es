@@ -7,7 +7,7 @@
 t("Heightened Senses", "Heightened Sentidos", "talent name")
 t("Device Mastery", "Device Maestría", "talent name")
 t("Track", "Rastrear", "talent name")
-t("Danger Sense", "Danger Sense", "talent name")
+t("Danger Sense", "Peligro Sense", "talent name")
 t("Disarm Trap", "Disarm Trampa", "talent name")
 t("#CADET_BLUE#Disarm A Trap: (direction keys to select where to disarm, shift+direction keys to move freely)", "#CADET_BLUE#Disarm A Trap: (direction keys to select where to disarm, shift+direction keys to move freely)", "log")
 t("#CADET_BLUE#You don't have the skill to disarm traps.", "#CADET_BLUE#You don't have the skill to disarm traps.", "logPlayer")

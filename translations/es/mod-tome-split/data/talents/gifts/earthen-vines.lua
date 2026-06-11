@@ -7,6 +7,6 @@
 t("Stone Vines", "Piedra Vines", "talent name")
 t(" and %0.1f Arcane", " and %0.1f Arcane", "tformat")
 t("Eldritch Vines", "Arcano Vines", "talent name")
-t("Rockwalk", "Rockwalk", "talent name")
-t("Rockswallow", "Rockswallow", "talent name")
+t("Rockwalk", "Caminarrocas", "talent name")
+t("Rockswallow", "Tragarrocas", "talent name")
 

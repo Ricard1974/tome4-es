@@ -6,8 +6,8 @@
 
 t("Stalk", "Acechar", "talent name")
 t("#F53CBE#You are having trouble focusing on your prey!", "#F53CBE#You are having trouble focusing on your prey!", "logPlayer")
-t("Harass Prey", "Harass Prey", "talent name")
+t("Harass Prey", "Harass Presión", "talent name")
 t("#F53CBE#%s's %s is disrupted!", "#F53CBE#%s's %s is disrupted!", "logSeen")
 t("Beckon", "Llamar", "talent name")
-t("Surge", "Surge", "talent name")
+t("Surge", "o", "talent name")
 

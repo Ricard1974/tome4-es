@@ -6,7 +6,7 @@
 
 t("Black Ice", "Black Hielo", "talent name")
 t("Chill of the Tomb", "Escalofrío de Tumba", "talent name")
-t("Corpselight", "Corpselight", "talent name")
-t("Grave Mistake", "Grave Mistake", "talent name")
+t("Corpselight", "o Corpselight", "talent name")
+t("Grave Mistake", "Grave Error", "talent name")
 t("#STEEL_BLUE#The corpselight implodes!", "#STEEL_BLUE#The corpselight implodes!", "logSeen")
 

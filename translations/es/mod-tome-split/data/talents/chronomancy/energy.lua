@@ -9,7 +9,7 @@ t("%s(%d dissipated)#LAST#", "%s(%d dissipated)#LAST#", "tformat")
 t("Energy Absorption", "Energy Absorción", "talent name")
 t("%s resists!", "%s resists!", "logSeen")
 t("%s's %s is disrupted by the Energy Absorption!", "%s's %s is disrupted by the Energy Absorption!", "logSeen")
-t("Redux", "Redux", "talent name")
+t("Redux", "o Redux", "talent name")
 t("Entropy", "Entropía", "talent name")
 t("Each turn, for the next %d turns, one of the target's sustained talents will be deactivated.", "Each turn, for the next %d turns, one of the target's sustained talents will be deactivated.", "tformat")
 

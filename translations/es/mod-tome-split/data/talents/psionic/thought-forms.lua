@@ -12,7 +12,7 @@ t("A thought-forged bowman.  It appears ready for battle.", "A thought-forged bo
 t("Thought-Form: Warrior", "Thought-Form: Guerrero", "talent name")
 t("thought-forged warrior", "thought-forged warrior", "_t")
 t("A thought-forged warrior wielding a massive battle-axe and clad in heavy armor.  It appears ready for battle.", "A thought-forged warrior wielding a massive battle-axe and clad in heavy armor.  It appears ready for battle.", "_t")
-t("Thought-Form: Defender", "Thought-Form: Defender", "talent name")
+t("Thought-Form: Defender", "Pensamiento-Forma: Defender", "talent name")
 t("thought-forged defender", "thought-forged defender", "_t")
 t("A thought-forged defender clad in massive armor.  It wields a sword and shield and appears ready for battle.", "A thought-forged defender clad in massive armor.  It wields a sword and shield and appears ready for battle.", "_t")
 t("Thought-Forms", "Pensamiento-Formas", "talent name")

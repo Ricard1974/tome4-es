@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Slumber", "Slumber", "talent name")
+t("Slumber", "o", "talent name")
 t("%s resists the sleep!", "%s resists the sleep!", "logSeen")
 t("Restless Night", "Restless Noche", "talent name")
-t("Sandman", "Sandman", "talent name")
+t("Sandman", "o Sandman", "talent name")
 t("Dreamscape", "Paisaje onírico", "talent name")
 t("You feel it unwise to travel to the dreamscape in such a fragile form.", "You feel it unwise to travel to the dreamscape in such a fragile form.", "logPlayer")
 t("This talent cannot be used from within the Dreamscape.", "This talent cannot be used from within the Dreamscape.", "logPlayer")

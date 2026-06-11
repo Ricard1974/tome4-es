@@ -6,7 +6,7 @@
 
 t("Pulverizing Auger", "Barrena pulverizadora", "talent name")
 t("Stone Skin", "Stone Piel", "talent name")
-t("Mudslide", "Mudslide", "talent name")
+t("Mudslide", "o Mudslide", "talent name")
 t("Stone Wall", "Muro de piedra", "talent name")
 t("stone wall", "stone wall", "_t")
 t("a summoned wall of stone", "a summoned wall of stone", "_t")

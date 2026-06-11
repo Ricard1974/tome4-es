@@ -67,6 +67,6 @@ t("#CRIMSON#%s's shield deflects the blow!", "#CRIMSON#%s's shield deflects the 
 t("Can block up to 1 hit per 10 turns.", "Can block up to 1 hit per 10 turns.", "tformat")
 t("Psionic Maelstrom", "Psionic Maelstrom", "talent name")
 t("For the next 8 turns, powerful blasts of psionic energies will erupt from you, doing %d damage.", "For the next 8 turns, powerful blasts of psionic energies will erupt from you, doing %d damage.", "tformat")
-t("Melee retaliation", "Melee retaliation", "talent name")
+t("Melee retaliation", "Melee represalias", "talent name")
 t("Intermediary for melee retaliation.", "Intermediary for melee retaliation.", "tformat")
 

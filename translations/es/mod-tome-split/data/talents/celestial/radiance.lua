@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Radiance", "Radiance", "talent name")
+t("Radiance", "a Radiance", "talent name")
 t("Judgement", "Fallo", "talent name")
 t("Judgement", "Fallo", "_t")
 t("Searing Sight", "Searing Vision", "talent name")

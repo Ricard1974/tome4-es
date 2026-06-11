@@ -11,6 +11,6 @@ t("You must wield a sling!", "You must wield a sling!", "logPlayer")
 t("Inertial Shot", "Inertial Disparo", "talent name")
 t("%s is knocked back!", "%s is knocked back!", "logSeen")
 t("%s stands firm!", "%s stands firm!", "logSeen")
-t("Multishot", "Multishot", "talent name")
+t("Multishot", "Multidisparo", "talent name")
 t("You fire an average of %0.1f shots at your target, doing %d%% damage with each shot.", "You fire an average of %0.1f shots at your target, doing %d%% damage with each shot.", "tformat")
 

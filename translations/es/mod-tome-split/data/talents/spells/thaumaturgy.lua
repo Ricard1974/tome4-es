@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Orb of Thaumaturgy", "Orb de Thaumaturgy", "talent name")
-t("Multicaster", "Multicaster", "talent name")
+t("Multicaster", "a Multicaster", "talent name")
 t("#LIGHT_BLUE#%s [known, eligible]#LAST#", "#LIGHT_BLUE#%s [known, eligible]#LAST#", "tformat")
 t("#YELLOW#%s [known]#LAST#", "#YELLOW#%s [known]#LAST#", "tformat")
 t("#GREY#%s [unknown]#LAST#", "#GREY#%s [unknown]#LAST#", "tformat")

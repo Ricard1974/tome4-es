@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Dual Weapon Mastery", "Dual Weapon Maestría", "talent name")
-t("Tempo", "Tempo", "talent name")
+t("Tempo", "o Tempo", "talent name")
 t("Feint", "Finta", "talent name")
 t("You must be able to move to use this talent.", "You must be able to move to use this talent.", "logPlayer")
 t("%s cannot move!", "%s cannot move!", "logPlayer")

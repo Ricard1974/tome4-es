@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Neverending Unlife", "Neverending Unlife", "talent name")
+t("Neverending Unlife", "Nunca termina Vida privada", "talent name")
 t("Lich Regeneration (%d turns)", "Lich Regeneration (%d turns)", "tformat")
 t("Frightening Presence", "Presencia aterradora", "talent name")
 t("Shadow Invoke Darkness", "Shadow Invoke Oscuridad", "talent name")

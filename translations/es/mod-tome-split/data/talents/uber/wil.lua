@@ -22,7 +22,7 @@ t("#LIGHT_BLUE#%s's unbreakable will shrugs off the effect!", "#LIGHT_BLUE#%s's 
 t("Spell Feedback", "Spell Feedback", "talent name")
 t("Antimagic", "Antimagic", "_t")
 t("#LIGHT_BLUE##Source# punishes #Target# for casting a spell!", "#LIGHT_BLUE##Source# punishes #Target# for casting a spell!", "logCombat")
-t("Mental Tyranny", "Mental Tyranny", "talent name")
+t("Mental Tyranny", "mental", "talent name")
 t("Have dealt over 50000 mind damage", "Have dealt over 50000 mind damage", "_t")
 t("Fallen", "Caído", "talent name")
 t("Unlocked the Fallen evolution", "Unlocked the Fallen evolution", "_t")

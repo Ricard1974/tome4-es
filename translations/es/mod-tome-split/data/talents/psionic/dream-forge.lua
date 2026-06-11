@@ -11,7 +11,7 @@ t("Forge Bellows", "Forge Bellows", "talent name")
 t("%s's forge barrier", "%s's forge barrier", "tformat")
 t("a summoned wall of mental energy", "a summoned wall of mental energy", "_t")
 t("Forge Armor", "Forge Armadura", "talent name")
-t("Dreamforge", "Dreamforge", "talent name")
+t("Dreamforge", "o Dreamforge", "talent name")
 t("#GOLD#%s strikes the dreamforge!", "#GOLD#%s strikes the dreamforge!", "logSeen")
 t("#GOLD#%s begins breaking dreams!", "#GOLD#%s begins breaking dreams!", "logSeen")
 

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Realign", "Realign", "talent name")
+t("Realign", "real", "talent name")
 t("%s is cured!", "%s is cured!", "logSeen")
 t("Form and Function", "Forma and Function", "talent name")
 t("Matter is Energy", "Matter is Energia", "talent name")
