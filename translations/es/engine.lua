@@ -1246,12 +1246,12 @@ To activate it you will need to have your online events option set to "all" (whi
 t([[#{bold}##GOLD#Event#WHITE##{normal}#: Once you have purchased an event you will be able to trigger it at any later date, on whichever character you choose.
 To activate it you will need to have your online events option set to "all" (which is the default value).]], [[#{bold}##GOLD#Event#WHITE##{normal}#: Once you have purchased an event you will be able to trigger it at any later date, on whichever character you choose.
 To activate it you will need to have your online events option set to "all" (which is the default value).]], "_t")
-t("#{bold}##GOLD#Non Immediate#WHITE##{normal}#: This events adds new content that you have to find by exploration. If you die before finding it, there can be no refunds.", "#{bold}##GOLD#Non Immediate#WHITE##{normal}#: This events adds new content that you have to find by exploration. If you die before finding it, there can be no refunds.", "_t")
+t("#{bold}##GOLD#Non Immediate#WHITE##{normal}#: This events adds new content that you have to find by exploration. If you die before finding it, there can be no refunds.", "#{bold}##GOLD#No inmediato#WHITE##{normal}#: Anyade contenido que debes encontrar explorando. Si mueres antes, no hay reembolso.", "_t")
 t("#{bold}##GOLD#Once per Character#WHITE##{normal}#: This event can only be received #{bold}#once per character#{normal}#. Usualy because it adds a new zone or effect to the game that would not make sense to duplicate.", "#{bold}##GOLD#Once per Character#WHITE##{normal}#: This event can only be received #{bold}#once per character#{normal}#. Usualy because it adds a new zone or effect to the game that would not make sense to duplicate.", "_t")
 t([[#{bold}##GOLD#Shimmer Pack#WHITE##{normal}#: Once purchased the game will automatically install the shimmer pack to your game and enable it for your current character too (you will still need to use the Mirror of Reflection to switch them on).
 #LIGHT_GREEN#Bonus perk:#LAST# purchasing any shimmer pack will also give your characters a portable Mirror of Reflection to be able to change your appearance anywhere, anytime!]], [[#{bold}##GOLD#Shimmer Pack#WHITE##{normal}#: Once purchased the game will automatically install the shimmer pack to your game and enable it for your current character too (you will still need to use the Mirror of Reflection to switch them on).
 #LIGHT_GREEN#Bonus perk:#LAST# purchasing any shimmer pack will also give your characters a portable Mirror of Reflection to be able to change your appearance anywhere, anytime!]], "_t")
-t("#{bold}##GOLD#UI Pack#WHITE##{normal}#: Once purchased the game will automatically install the UI pack to your game.", "#{bold}##GOLD#UI Pack#WHITE##{normal}#: Once purchased the game will automatically install the UI pack to your game.", "_t")
+t("#{bold}##GOLD#UI Pack#WHITE##{normal}#: Once purchased the game will automatically install the UI pack to your game.", "#{bold}##GOLD#Paquete UI#WHITE##{normal}#: Se instala automaticamente al comprarlo.", "_t")
 t("#{bold}##GOLD#Vault Space#WHITE##{normal}#: Once purchased your vault space is permanently increased.", "#{bold}##GOLD#Espacio de boveda#WHITE##{normal}#: Aumenta permanentemente.", "_t")
 --]==]
 
@@ -1469,7 +1469,7 @@ section "engine/engine/interface/WorldAchievements.lua"
 t("#%s#Personal New Achievement: %s!", "#%s#Logro personal nuevo: %s!", "log")
 t("Personal New Achievement: #%s#%s", "Logro personal nuevo: #%s#%s", "tformat")
 t("#%s#New Achievement: %s!", "#%s#Nuevo logro: %s!", "log")
-t("New Achievement: #%s#%s", "New Achievement: #%s#%s", "tformat")
+t("New Achievement: #%s#%s", "Nuevo logro: #%s#%s", "tformat")
 t("New Achievement", "Nuevo logro", "_t")
 --]==]
 
@@ -1544,11 +1544,11 @@ section "engine/engine/ui/WebView.lua"
 t("Download: ", "Descarga: ", "tformat")
 t("Cancel", "Cancelar", "_t")
 t("Confirm addon install/update", "Confirmar instalación/actualización de addon", "_t")
-t("Are you sure you want to install this addon: #LIGHT_GREEN##{bold}#%s#{normal}##LAST# ?", "Are you sure you want to install this addon: #LIGHT_GREEN##{bold}#%s#{normal}##LAST# ?", "_t")
+t("Are you sure you want to install this addon: #LIGHT_GREEN##{bold}#%s#{normal}##LAST# ?", "?Seguro que quieres instalar este addon: #LIGHT_GREEN##{bold}#%s#{normal}##LAST# ?", "_t")
 t("Confirm module install/update", "Confirmar instalación/actualización de módulo", "_t")
-t("Are you sure you want to install this module: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "Are you sure you want to install this module: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "tformat")
+t("Are you sure you want to install this module: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "?Seguro que quieres instalar este modulo: #LIGHT_GREEN##{bold}#%s#{normal}##LAST#?", "tformat")
 t("Addon installed!", "¡Addon instalado!", "_t")
-t("Addon installation successful. New addons are only active for new characters.", "Addon installation successful. New addons are only active for new characters.", "_t")
+t("Addon installation successful. New addons are only active for new characters.", "Addon instalado correctamente. Solo funciona para personajes nuevos.", "_t")
 t("Game installed!", "¡Juego instalado!", "_t")
 t("Game installation successful. Have fun!", "Instalación completada. ¡Diviértete!", "_t")
 --]==]
@@ -1560,10 +1560,10 @@ section "engine/engine/utils.lua"
 
 -- new text
 --[==[
-t("%dth", "%dth", "_t")
-t("%dst", "%dst", "_t")
-t("%dnd", "%dnd", "_t")
-t("%drd", "%drd", "_t")
+t("%dth", "%to", "_t")
+t("%dst", "%do", "_t")
+t("%dnd", "%da", "_t")
+t("%drd", "%ar", "_t")
 t("an ", "un ", "_t")
 t("a ", "un ", "_t")
 t("she", "ella", "_t")
