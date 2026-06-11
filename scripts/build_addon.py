@@ -48,6 +48,16 @@ def extract_t_calls(content):
     return t_calls
 
 
+def lua_escape(s):
+    """Escapa una cadena para usarla entre comillas dobles en Lua."""
+
+    s = s.replace("\\", "\\\\")
+    s = s.replace('"', '\\"')
+    s = s.replace("\n", "\\n")
+    s = s.replace("\t", "\\t")
+    return s
+
+
 def convert_file(src_path, dest_path, mode="a"):
     """
     Convierte un archivo de Translation Toolbox al formato de locale del addon.
@@ -62,8 +72,8 @@ def convert_file(src_path, dest_path, mode="a"):
 
     with open(dest_path, mode, encoding="utf-8") as f:
         for original, translation, type_ in t_calls:
-            escaped_original = original.replace('"', '\\"')
-            escaped_translation = translation.replace('"', '\\"')
+            escaped_original = lua_escape(original)
+            escaped_translation = lua_escape(translation)
             f.write(f't("{escaped_original}", "{escaped_translation}", "{type_}")\n')
 
     return len(t_calls)
@@ -168,9 +178,13 @@ def package_addon():
 
     with zipfile.ZipFile(output_path, "w", zipfile.ZIP_DEFLATED) as zf:
         for root, dirs, files in os.walk(ADDON_DIR):
+            # Excluir .gitkeep y scripts/
+            dirs[:] = [d for d in dirs if d != "scripts"]
             for file in files:
+                if file == ".gitkeep":
+                    continue
                 file_path = Path(root) / file
-                arcname = str(file_path.relative_to(ADDON_DIR.parent))
+                arcname = str(file_path.relative_to(ADDON_DIR))
                 zf.write(file_path, arcname)
 
     print(f"  📦 Addon empaquetado: {output_path}")

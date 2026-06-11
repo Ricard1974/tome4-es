@@ -1,30 +1,34 @@
+local class = require "engine.class"
+
 -- Carga las traducciones al español para ToME4
--- Spanish translation loader for ToME4
--- Se ejecuta al cargar el addon
+-- Spanish translation addon for ToME4
 
-local locale = "es"
-
--- Cargar las traducciones del módulo principal
-local function loadMainLocale()
-	local path = "/data/locales/" .. locale .. ".lua"
-	local ok, err = dofile(path)
-	if not ok then
-		print("[ToME4-es] Error cargando " .. path .. ": " .. tostring(err))
+-- Registrar español en la lista de idiomas
+class:bindHook("I18N:listLanguages", function(self, data)
+	local list = data.list
+	local found = false
+	for _, item in ipairs(list) do
+		if item.locale == "es" then
+			found = true
+			break
+		end
 	end
-end
-
--- Cargar las traducciones del engine
-local function loadEngineLocale()
-	local path = "/data/locales/engine/" .. locale .. ".lua"
-	local ok, err = dofile(path)
-	if not ok then
-		print("[ToME4-es] Error cargando " .. path .. ": " .. tostring(err))
+	if not found then
+		list[#list+1] = {name = "Español (Spanish)", locale="es"}
 	end
-end
+end)
 
--- Hook para cargar las traducciones al inicio del juego
+-- Cargar locales al iniciar el módulo
 class:bindHook("ToME:load", function()
-	loadEngineLocale()
-	loadMainLocale()
-	print("[ToME4-es] Traducciones al español cargadas")
+	-- Intentar cargar engine locale
+	local ok, err = pcall(dofile, "/data/locales/engine/es.lua")
+	if ok then
+		print("[ToME4-es] Engine locales loaded")
+	end
+
+	-- Intentar cargar módulo locale
+	ok, err = pcall(dofile, "/data/locales/es.lua")
+	if ok then
+		print("[ToME4-es] Module locales loaded")
+	end
 end)

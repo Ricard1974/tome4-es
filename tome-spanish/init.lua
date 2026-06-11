@@ -19,7 +19,6 @@
 
 long_name = "Spanish Translation for ToME"
 short_name = "spanish"
-for_module = "tome"
 version = {1,7,6}
 addon_version = {1,0,0}
 tags = {'spanish', 'translation', 'español'}
