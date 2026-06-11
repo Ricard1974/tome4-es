@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Paquetes del addon
+*.teaa
+
+# Translation Toolbox - archivos generados
+translations/extracted-text/md5s.cfg
+
+# i18n logs
+i18n.log
