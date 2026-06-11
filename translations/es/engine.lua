@@ -640,7 +640,7 @@ t("Borderless", "Sin bordes", "_t")
 t("Windowed", "Ventana", "_t")
 t("Engine Restart Required", "Requiere reinicio del motor", "_t")
 t("Continue? %s", "¿Continuar? %s", "tformat")
-t(" (progress will be saved)", " (progress will be saved)", "_t")
+t(" (progress will be saved)", " (el progreso se guardará)", "_t")
 t("Reset Window Position?", "¿Restablecer posición de ventana?", "_t")
 t("Simply restart or restart+reset window position?", "¿Solo reiniciar o reiniciar + restablecer posición?", "_t")
 t("Restart", "Reiniciar", "_t")
@@ -697,7 +697,7 @@ t("No", "No", "_t")
 t("Yes", "Sí", "_t")
 t("Save Game", "Guardar partida", "_t")
 t("Main Menu", "Menú principal", "_t")
-t("Exit Game", "Exit Game", "_t")
+t("Exit Game", "Salir del juego", "_t")
 --]==]
 
 
@@ -707,7 +707,7 @@ section "engine/engine/dialogs/GetQuantity.lua"
 
 -- new text
 --[==[
-t("Quantity", "Quantity", "_t")
+t("Quantity", "Cantidad", "_t")
 t("Accept", "Aceptar", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Error", "Error", "_t")
@@ -721,7 +721,7 @@ section "engine/engine/dialogs/GetQuantitySlider.lua"
 
 -- new text
 --[==[
-t("Quantity", "Quantity", "_t")
+t("Quantity", "Cantidad", "_t")
 t("Accept", "Aceptar", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Error", "Error", "_t")
@@ -749,12 +749,12 @@ section "engine/engine/dialogs/KeyBinder.lua"
 
 -- new text
 --[==[
-t("Key bindings", "Key bindings", "_t")
+t("Key bindings", "Teclas", "_t")
 t("      Press a key (escape to cancel, backspace to remove) for: %s", "      Press a key (escape to cancel, backspace to remove) for: %s", "tformat")
 t("Bind key", "Asignar tecla", "_t")
 t("Bind alternate key", "Asignar tecla alternativa", "_t")
 t("Make gesture (using right mouse button) or type it (or escape) for: %s", "Make gesture (using right mouse button) or type it (or escape) for: %s", "tformat")
-t("Gesture", "Gesture", "_t")
+t("Gesture", "Gesto", "_t")
 --]==]
 
 
@@ -764,7 +764,7 @@ section "engine/engine/dialogs/LanguageSelect.lua"
 
 -- new text
 --[==[
-t("Language Selection", "Language Selection", "_t")
+t("Language Selection", "Selección de idioma", "_t")
 --]==]
 
 
@@ -774,15 +774,15 @@ section "engine/engine/dialogs/ShowAchievements.lua"
 
 -- new text
 --[==[
-t("Achievements(%s/%s)", "Achievements(%s/%s)", "tformat")
-t("Yours only", "Yours only", "_t")
+t("Achievements(%s/%s)", "Logros(%s/%s)", "tformat")
+t("Yours only", "Solo tuyos", "_t")
 t("All achieved", "Todo conseguido", "_t")
-t("Everything", "Everything", "_t")
+t("Everything", "Todo", "_t")
 t("", "", "_t")
 t("Achievement", "Logro", "_t")
 t("Category", "Categoría", "_t")
-t("When", "When", "_t")
-t("Who", "Who", "_t")
+t("When", "Cuándo", "_t")
+t("Who", "Quién", "_t")
 t([[#GOLD#Also achieved by your current character#LAST#
 ]], [[#GOLD#Also achieved by your current character#LAST#
 ]], "_t")
@@ -793,7 +793,7 @@ t([[#GOLD#Achieved on:#LAST# %s
 #GOLD#Achieved by:#LAST# %s
 %s
 #GOLD#Description:#LAST# %s]], "tformat")
-t("Progress: ", "Progress: ", "_t")
+t("Progress: ", "Progreso: ", "_t")
 t("???", "???", "_t")
 t("-- Unknown --", "-- Desconocido --", "_t")
 --]==]
@@ -808,10 +808,10 @@ section "engine/engine/dialogs/ShowEquipInven.lua"
 t("Inventory", "Inventario", "_t")
 t("", "", "_t")
 t("Category", "Categoría", "_t")
-t("Enc.", "Enc.", "_t")
-t("Equipment", "Equipment", "_t")
-t("Hotkey %s assigned", "Hotkey %s assigned", "tformat")
-t("%s assigned to hotkey %s", "%s assigned to hotkey %s", "tformat")
+t("Enc.", "Peso", "_t")
+t("Equipment", "Equipo", "_t")
+t("Hotkey %s assigned", "Tecla %s asignada", "tformat")
+t("%s assigned to hotkey %s", "%s asignado a tecla %s", "tformat")
 --]==]
 
 
@@ -821,10 +821,10 @@ section "engine/engine/dialogs/ShowEquipment.lua"
 
 -- new text
 --[==[
-t("Equipment", "Equipment", "_t")
+t("Equipment", "Equipo", "_t")
 t("", "", "_t")
 t("Category", "Categoría", "_t")
-t("Enc.", "Enc.", "_t")
+t("Enc.", "Peso", "_t")
 --]==]
 
 
@@ -834,7 +834,7 @@ section "engine/engine/dialogs/ShowErrorStack.lua"
 
 -- new text
 --[==[
-t("Lua Error", "Lua Error", "_t")
+t("Lua Error", "Error de Lua", "_t")
 t("If you already reported that error, you do not have to do it again (unless you feel the situation is different).", "If you already reported that error, you do not have to do it again (unless you feel the situation is different).", "_t")
 t("You #LIGHT_GREEN#already reported#WHITE# that error, you do not have to do it again (unless you feel the situation is different).", "You #LIGHT_GREEN#already reported#WHITE# that error, you do not have to do it again (unless you feel the situation is different).", "_t")
 t("You have already got this error but #LIGHT_RED#never reported#WHITE# it, please do.", "You have already got this error but #LIGHT_RED#never reported#WHITE# it, please do.", "_t")
@@ -848,7 +848,7 @@ The game might still work but this is suspect, please type in your current situa
 If you are not currently connected to the internet, please report this bug when you can on the forums at http://forums.te4.org/
 
 ]], "_t")
-t("What happened?: ", "What happened?: ", "_t")
+t("What happened?: ", "¿Qué pasó?: ", "_t")
 t("", "", "_t")
 t("Send", "Enviar", "_t")
 t("Close", "Cerrar", "_t")
@@ -868,7 +868,7 @@ section "engine/engine/dialogs/ShowInventory.lua"
 t("Inventory", "Inventario", "_t")
 t("", "", "_t")
 t("Category", "Categoría", "_t")
-t("Enc.", "Enc.", "_t")
+t("Enc.", "Peso", "_t")
 --]==]
 
 
@@ -878,12 +878,12 @@ section "engine/engine/dialogs/ShowPickupFloor.lua"
 
 -- new text
 --[==[
-t("Pickup", "Pickup", "_t")
+t("Pickup", "Recoger", "_t")
 t("(*) Take all", "(*) Tomar todo", "_t")
 t("", "", "_t")
 t("Item", "Objeto", "_t")
 t("Category", "Categoría", "_t")
-t("Enc.", "Enc.", "_t")
+t("Enc.", "Peso", "_t")
 --]==]
 
 
@@ -893,9 +893,9 @@ section "engine/engine/dialogs/ShowQuests.lua"
 
 -- new text
 --[==[
-t("Quest Log for %s", "Quest Log for %s", "tformat")
-t("Quest", "Quest", "_t")
-t("Status", "Status", "_t")
+t("Quest Log for %s", "Registro de misiones para %s", "tformat")
+t("Quest", "Misión", "_t")
+t("Status", "Estado", "_t")
 --]==]
 
 
@@ -909,7 +909,7 @@ t("Store", "Tienda", "_t")
 t("", "", "_t")
 t("Inventory", "Inventario", "_t")
 t("Category", "Categoría", "_t")
-t("Price", "Price", "_t")
+t("Price", "Precio", "_t")
 --]==]
 
 
@@ -919,7 +919,7 @@ section "engine/engine/dialogs/ShowText.lua"
 
 -- new text
 --[==[
-t("Text", "Text", "_t")
+t("Text", "Texto", "_t")
 --]==]
 
 
@@ -929,7 +929,7 @@ section "engine/engine/dialogs/SteamOptions.lua"
 
 -- new text
 --[==[
-t("Steam Options", "Steam Options", "_t")
+t("Steam Options", "Opciones de Steam", "_t")
 t("", "", "_t")
 t([[Enable Steam Cloud saves.
 Your saves will be put on steam cloud and always be available everywhere.
@@ -937,8 +937,8 @@ Disable if you have bandwidth limitations.#WHITE#]], [[Enable Steam Cloud saves.
 Your saves will be put on steam cloud and always be available everywhere.
 Disable if you have bandwidth limitations.#WHITE#]], "_t")
 t("#GOLD##{bold}#Cloud Saves#WHITE##{normal}#", "#GOLD##{bold}#Guardado en la nube#WHITE##{normal}#", "_t")
-t("enabled", "enabled", "_t")
-t("disabled", "disabled", "_t")
+t("enabled", "activado", "_t")
+t("disabled", "desactivado", "_t")
 t([[Purge all Steam Cloud saves.
 This will remove all saves from the cloud cloud (but not your local copy). Only use if you somehow encounter storage problems on it (which should not happen, the game automatically manages it for you).#WHITE#]], [[Purge all Steam Cloud saves.
 This will remove all saves from the cloud cloud (but not your local copy). Only use if you somehow encounter storage problems on it (which should not happen, the game automatically manages it for you).#WHITE#]], "_t")
@@ -980,9 +980,9 @@ Check out the keybinding screen in the game menu to bind hotkeys to a key (defau
 ]], "_t")
 t("", "", "_t")
 t("Talent", "Talent", "_t")
-t("Status", "Status", "_t")
-t("Hotkey %s assigned", "Hotkey %s assigned", "tformat")
-t("%s assigned to hotkey %s", "%s assigned to hotkey %s", "tformat")
+t("Status", "Estado", "_t")
+t("Hotkey %s assigned", "Tecla %s asignada", "tformat")
+t("%s assigned to hotkey %s", "%s asignado a tecla %s", "tformat")
 --]==]
 
 
@@ -1039,8 +1039,8 @@ Texts will look nicer but it can be slower on some computers.
 
 #LIGHT_RED#You must restart the game for it to take effect.#WHITE#]], "_t")
 t("#GOLD##{bold}#Antialiased texts#WHITE##{normal}#", "#GOLD##{bold}#Textos antialiased#WHITE##{normal}#", "_t")
-t("enabled", "enabled", "_t")
-t("disabled", "disabled", "_t")
+t("enabled", "activado", "_t")
+t("disabled", "desactivado", "_t")
 t([[Apply a global scaling to all fonts.
 Applies after restarting the game]], [[Apply a global scaling to all fonts.
 Applies after restarting the game]], "_t")
@@ -1199,7 +1199,7 @@ t("%s #GOLD#Online Store#LAST#", "%s #GOLD#Online Store#LAST#", "tformat")
 t("#YELLOW#-- connecting to server... --", "#YELLOW#-- conectando al servidor... --", "_t")
 t("Purchase", "Purchase", "_t")
 t("Name", "Nombre", "_t")
-t("Price", "Price", "_t")
+t("Price", "Precio", "_t")
 t("Qty", "Qty", "_t")
 t("Online Store", "Online Store", "_t")
 t("You need to be logged in before using the store. Please go back to the main menu and login.", "You need to be logged in before using the store. Please go back to the main menu and login.", "_t")
@@ -1531,7 +1531,7 @@ section "engine/engine/ui/Inventory.lua"
 t("", "", "_t")
 t("Inventory", "Inventario", "_t")
 t("Category", "Categoría", "_t")
-t("Enc.", "Enc.", "_t")
+t("Enc.", "Peso", "_t")
 --]==]
 
 
