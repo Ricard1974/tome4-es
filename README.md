@@ -52,44 +52,84 @@ git clone https://github.com/Ricard1974/tome4-es.git
 
 ## Cómo contribuir
 
-### Para traductores
+### 📋 Elige una sección para traducir
 
-1. Edita los archivos en `translations/es/`
-2. Cambia el segundo parámetro de `t()` por la traducción:
+```
+translations/es/mod-tome-split/
+├── data/
+│   ├── achievements/       🏆 Logros (~300 cadenas)
+│   ├── birth/              👶 Razas y clases (~900 cadenas)
+│   ├── chats/              💬 Diálogos con NPCs (~990 cadenas)
+│   ├── general/objects/    🎯 Objetos y equipo (~3.700 cadenas)
+│   ├── general/npcs/       👥 Nombres de criaturas (~830 cadenas)
+│   ├── lore/               📜 Textos de lore (~290 cadenas)
+│   ├── quests/             📋 Misiones (~490 cadenas)
+│   ├── talents/            ⚔️ Talentos (~3.450 cadenas)
+│   ├── timed_effects/      ⏳ Efectos temporales (~2.700 cadenas)
+│   └── zones/              🗺️ Zonas y mapas (~2.050 cadenas)
+```
 
-   ```lua
-   -- Original (sin traducir)
-   t("The Arena", "The Arena", "achievement name")
+Elige la que más te guste o la que mejor conozcas del juego.
 
-   -- Traducido
-   t("The Arena", "La Arena", "achievement name")
-   ```
+### 🖊️ Cómo traducir
 
-3. Ejecuta el script de conteo para ver tu progreso:
-   ```bash
-   python3 scripts/count_translations.py
-   ```
-4. Abre un Pull Request con tus cambios
+Cada archivo contiene llamadas `t()` con este formato:
 
-### Para desarrolladores
+```lua
+-- Sin traducir (inglés repetido 2 veces):
+t("The Arena", "The Arena", "achievement name")
+
+-- Traducido (cambiar el 2º parámetro):
+t("The Arena", "La Arena", "achievement name")
+```
+
+**Reglas:**
+
+- ✅ Cambia solo el **segundo parámetro** (entre comillas)
+- ✅ Mantén los códigos de color: `#GOLD#`, `#LIGHT_RED#`, etc.
+- ✅ Mantén los placeholders: `%s`, `%d`, `%02d`, etc.
+- ❌ No traduzcas nombres de personajes importantes ni términos técnicos
+
+### 🔄 Flujo completo
 
 ```bash
-# Construir el addon desde las traducciones
+# 1. Clonar el repo
+git clone https://github.com/Ricard1974/tome4-es.git
+cd tome4-es
+
+# 2. Elegir y editar una sección
+#    Por ejemplo, logros:
+nano translations/es/mod-tome-split/data/achievements/arena.lua
+
+# 3. Reconstruir el addon (auto-mergea + construye)
+python3 scripts/build_addon.py
+
+# 4. Ver progreso
+python3 scripts/count_translations.py
+
+# 5. Commit y push
+git add -A
+git commit -m "feat: traducidas XX cadenas de <sección>"
+git push
+
+# 6. Abrir Pull Request en GitHub
+```
+
+### 📦 Para desarrolladores
+
+```bash
+# Construir el addon
 python3 scripts/build_addon.py
 
 # Empaquetar como .teaa para distribución
 python3 scripts/build_addon.py --package
+
+# Dividir mod-tome.lua en secciones (si se regeneró)
+python3 scripts/split_sections.py
+
+# Mergear secciones de vuelta a mod-tome.lua
+python3 scripts/merge_sections.py
 ```
-
-## Archivos de traducción
-
-| Archivo                                | Contenido                                                       |
-| -------------------------------------- | --------------------------------------------------------------- |
-| `translations/es/mod-tome.lua`         | Módulo principal (logros, objetos, talentos, misiones, lore...) |
-| `translations/es/engine.lua`           | Motor del juego (interfaz, teclas, UI)                          |
-| `translations/es/mod-boot.lua`         | Arranque (razas, clases, tipos de daño)                         |
-| `translations/es/tome-items-vault.lua` | Bóveda de objetos                                               |
-| `translations/es/tome-addon-dev.lua`   | Herramientas de desarrollo                                      |
 
 ## Estructura del proyecto
 

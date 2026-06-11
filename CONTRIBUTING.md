@@ -8,76 +8,91 @@
    git clone https://github.com/TU_USUARIO/tome4-es.git
    cd tome4-es
    ```
-3. **Sincroniza** con la Translation Toolbox (si tienes el juego):
-   - Abre ToME4 con el addon de desarrollo activado
-   - Ctrl+A → Translation Tool → Extract text index
-   - Ctrl+A → Translation Tool → Rearrange translation files
-   - Copia los archivos actualizados:
-     ```bash
-     cp -r ~/.t-engine/4.0/tome/user-i18n/es/ translations/
-     cp -r ~/.t-engine/4.0/tome/user-i18n/extracted-text/ translations/
-     ```
+
+## Cómo elegir una sección
+
+Las traducciones están organizadas en archivos independientes dentro de `translations/es/mod-tome-split/`:
+
+```
+data/
+├── achievements/       🏆 Logros (~300 cadenas)
+├── birth/              👶 Razas y clases (~900 cadenas)
+├── chats/              💬 Diálogos con NPCs (~990 cadenas)
+├── general/objects/    🎯 Objetos y equipo (~3.700 cadenas)
+├── general/npcs/       👥 Nombres de criaturas (~830 cadenas)
+├── lore/               📜 Textos de lore (~290 cadenas)
+├── quests/             📋 Misiones (~490 cadenas)
+├── talents/            ⚔️ Talentos (~3.450 cadenas)
+├── timed_effects/      ⏳ Efectos temporales (~2.700 cadenas)
+└── zones/              🗺️ Zonas y mapas (~2.050 cadenas)
+```
+
+Elige la que más te guste del juego. Cada archivo es pequeño e independiente.
 
 ## Cómo traducir
 
 ### Formato
 
-Los archivos de traducción usan el formato oficial de la Translation Toolbox:
-
 ```lua
-t("texto original en inglés", "traducción al español", "tipo_de_cadena")
+-- Sin traducir (inglés repetido 2 veces):
+t("The Arena", "The Arena", "achievement name")
+
+-- Traducido (cambiar el 2º parámetro):
+t("The Arena", "La Arena", "achievement name")
 ```
 
 ### Reglas
 
-1. **Mantén los placeholders** como `%s`, `%d`, `%02d`, etc.
-2. **Mantén los códigos de color** como `#GOLD#`, `#LIGHT_RED#`, `#DARK_SEA_GREEN#`
-3. **Mantén las secuencias de escape** como `\n`, `\"`
-4. **No traduzcas**:
-   - Nombres propios de personajes (salvo que tengan traducción conocida)
-   - Nombres de habilidades mecánicas (aunque se pueden adaptar)
-   - Códigos y marcadores técnicos
-
-### Ejemplo
-
-```lua
--- Sin traducir
-t("The Arena", "The Arena", "achievement name")
-t("Unlocked Arena mode.", "Unlocked Arena mode.", "_t")
-
--- Traducido
-t("The Arena", "La Arena", "achievement name")
-t("Unlocked Arena mode.", "Modo Arena desbloqueado.", "_t")
-```
-
-### Archivos prioritarios
-
-Recomendamos empezar por este orden:
-
-1. **engine.lua** → Interfaz de usuario, teclas (637 cadenas)
-2. **mod-boot.lua** → Razas, clases, tipos de daño (266 cadenas)
-3. **mod-tome.lua** → Logros, objetos, talentos, misiones, lore (19.521 cadenas)
-4. **tome-items-vault.lua** → Bóveda de objetos (64 cadenas)
-5. **tome-addon-dev.lua** → Herramientas de desarrollo (92 cadenas)
+1. ✅ Cambia solo el **segundo parámetro** (entre comillas)
+2. ✅ Mantén los placeholders: `%s`, `%d`, `%02d`, etc.
+3. ✅ Mantén los códigos de color: `#GOLD#`, `#LIGHT_RED#`, `#DARK_SEA_GREEN#`
+4. ❌ No traduzcas nombres propios de personajes importantes ni términos técnicos
 
 ## Flujo de trabajo
 
 ```bash
-# 1. Traduce en el archivo correspondiente
-# 2. Verifica tu progreso
-python3 scripts/count_translations.py
+# 1. Elige y edita una sección
+#    Ejemplo: editar logros de la Arena
+nano translations/es/mod-tome-split/data/achievements/arena.lua
 
-# 3. Construye el addon
+# 2. Reconstruye el addon (auto-mergea + construye)
 python3 scripts/build_addon.py
 
-# 4. Prueba en el juego (opcional)
-# Copia tome-spanish/ a la carpeta de addons del juego
-# Activa el addon y comprueba que las traducciones funcionan
+# 3. Verifica tu progreso
+python3 scripts/count_translations.py
 
-# 5. Haz commit y pull request
-git add .
-git commit -m "feat: traducidas X cadenas de <archivo>"
+# 4. Prueba en el juego (opcional)
+#    Copia tome-spanish/ a la carpeta de addons del juego
+
+# 5. Commit y pull request
+git add -A
+git commit -m "feat: traducidas X cadenas de <sección>"
 git push
+```
+
+### Si traduces engine.lua o mod-boot.lua
+
+Estos archivos NO están divididos en secciones. Edítalos directamente:
+
+```bash
+nano translations/es/engine.lua      # UI y keybinds (637 cadenas)
+nano translations/es/mod-boot.lua    # Razas, clases (266 cadenas)
+```
+
+### Después de sincronizar con la Translation Toolbox
+
+Si el juego se actualiza y regeneras los archivos:
+
+```bash
+# 1. Copiar los nuevos archivos del juego
+cp -r ~/.t-engine/4.0/tome/user-i18n/es/ translations/
+cp -r ~/.t-engine/4.0/tome/user-i18n/extracted-text/ translations/
+
+# 2. Re-dividir mod-tome.lua en secciones
+python3 scripts/split_sections.py
+
+# 3. Reconstruir addon
+python3 scripts/build_addon.py
 ```
 
 ## Convenciones de traducción
