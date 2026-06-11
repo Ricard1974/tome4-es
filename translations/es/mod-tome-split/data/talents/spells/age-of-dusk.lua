@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dire Plague", "Dire Plague", "talent name")
+t("Dire Plague", "Dire Peste", "talent name")
 t("Crepuscule", "Crepúsculo", "talent name")
 t("%s resists the crepuscule!", "%s resists the crepuscule!", "logSeen")
 t("The End of All Hope", "El fin de toda la esperanza", "talent name")

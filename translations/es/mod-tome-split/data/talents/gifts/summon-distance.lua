@@ -27,7 +27,7 @@ t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimi
 t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
 t("", "", "_t")
 t("%s (wild summon)", "%s (invocación salvaje)", "tformat")
-t("Hydra", "Hydra", "talent name")
+t("Hydra", "Hidra", "talent name")
 t("@Source@ summons a 3-headed hydra!", "@Source@ summons a 3-headed hydra!", "_t")
 t("A strange reptilian creature with three smouldering heads.", "A strange reptilian creature with three smouldering heads.", "_t")
 t("Rimebark", "Rimebark", "talent name")

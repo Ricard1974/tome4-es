@@ -6,6 +6,6 @@
 
 t("Corrupted Strength", "Corrupted Fuerza", "talent name")
 t("Bloodlust", "Sangre", "talent name")
-t("Carrier", "Carrier", "talent name")
+t("Carrier", "Portador", "talent name")
 t("Acid Blood", "Sangre ácida", "talent name")
 

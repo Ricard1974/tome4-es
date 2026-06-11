@@ -10,7 +10,7 @@ t("You cannot use Death Dance without a two-handed weapon!", "You cannot use Dea
 t("Spin around, extending your weapon and damaging all targets around you for %d%% weapon damage.", "Spin around, extending your weapon and damaging all targets around you for %d%% weapon damage.", "tformat")
 t("Berserker", "Berserker", "talent name")
 t("You cannot use Berserker without a two-handed weapon!", "You cannot use Berserker without a two-handed weapon!", "logPlayer")
-t("Warshout", "Warshout", "talent name")
+t("Warshout", "Grito de guerra", "talent name")
 t("@Source@ uses Warsqueak.", "@Source@ uses Warsqueak.", "_t")
 t("@Source@ uses Warshout.", "@Source@ uses Warshout.", "_t")
 t("You cannot use Warshout without a two-handed weapon!", "You cannot use Warshout without a two-handed weapon!", "logPlayer")

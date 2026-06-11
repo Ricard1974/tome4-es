@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Shield of Light", "Escudo of Luz", "talent name")
-t("Brandish", "Brandish", "talent name")
+t("Brandish", "Brandir", "talent name")
 t("You cannot use Brandish without a shield!", "You cannot use Brandish without a shield!", "logPlayer")
 t("Retribution", "Retribución", "talent name")
 t("You cannot use Retribution without a shield!", "You cannot use Retribution without a shield!", "logPlayer")

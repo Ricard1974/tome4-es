@@ -6,6 +6,6 @@
 
 t("Frost Infusion", "Frost Infusión", "talent name")
 t("Ice Armour", "Armadura de hielo", "talent name")
-t("Flash Freeze", "Flash Freeze", "talent name")
+t("Flash Freeze", "Destello Congelar", "talent name")
 t("Ice Core", "Hielo Core", "talent name")
 

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Spacetime Tuning", "Spacetime Tuning", "talent name")
+t("Spacetime Tuning", "Espaciotiempo Sintonía", "talent name")
 t("Spacetime Tuning", "Spacetime Tuning", "_t")
 t("What's your preferred paradox level?", "What's your preferred paradox level?", "_t")
 t("Slow", "Ralentizar", "talent name")
@@ -15,7 +15,7 @@ t("Moment of Prescience", "Momento de Preciencia", "talent name")
 t("Gather the Threads", "Gather the Hilos", "talent name")
 t("Entropic Field", "Entropic Campo", "talent name")
 t("Fade From Time", "Desvanecer From Tiempo", "talent name")
-t("Paradox Clone", "Paradox Clone", "talent name")
+t("Paradox Clone", "Paradoja Clone", "talent name")
 t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
 t("%s's Paradox Clone", "%s's Paradox Clone", "tformat")
 t("The real %s... or so %s says.", "The real %s... or so %s says.", "tformat")
@@ -32,7 +32,7 @@ t("Phase shift yourself for %d turns; any damage greater than 10%% of your maxim
 t("Swap", "Intercambio", "talent name")
 t("The spell fizzles!", "The spell fizzles!", "logSeen")
 t("%s resists the swap!", "%s resists the swap!", "logSeen")
-t("Temporal Wake", "Temporal Wake", "talent name")
+t("Temporal Wake", "Temporal Estela", "talent name")
 t("You do not have line of sight.", "You do not have line of sight.", "logSeen")
 t("%s resists the stun!", "%s resists the stun!", "logSeen")
 t("Carbon Spikes", "Carbon Puas", "talent name")

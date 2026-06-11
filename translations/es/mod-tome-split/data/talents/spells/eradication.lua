@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Boneyard", "Boneyard", "talent name")
+t("Boneyard", "Osario", "talent name")
 t("#GREY#%s is resurrected by the boneyard!", "#GREY#%s is resurrected by the boneyard!", "logSeen")
 t("To The Grave", "A la tumba", "talent name")
 t("%s resists the call of the boneyard!", "%s resists the call of the boneyard!", "logSeen")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Buckler Expertise", "Buckler Expertise", "talent name")
+t("Buckler Expertise", "Broquel Pericia", "talent name")
 t("Bash and Smash", "Bash y Smash", "talent name")
 t("You require a ranged weapon and a shield to use this talent.", "You require a ranged weapon and a shield to use this talent.", "logPlayer")
 t("%s resists the knockback!", "%s resists the knockback!", "logSeen")

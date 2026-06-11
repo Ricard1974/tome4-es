@@ -9,7 +9,7 @@ t("Antimagic Zone", "Zona Antimágica", "talent name")
 t("%s resists the silence!", "%s resists the silence!", "logSeen")
 t("Antimagic Shield", "Antimagic Escudo", "talent name")
 t("#GREEN#The antimagic shield of %s crumbles.", "#GREEN#The antimagic shield of %s crumbles.", "logSeen")
-t("Mana Clash", "Mana Clash", "talent name")
+t("Mana Clash", "Maná Choque", "talent name")
 t("\
 #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "\
 #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "_t")

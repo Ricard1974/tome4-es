@@ -12,7 +12,7 @@ t("You must land in an empty space.", "You must land in an empty space.", "logPl
 t("Your Disengage was partially blocked.", "Your Disengage was partially blocked.", "logPlayer")
 t("You are not able to Disengage in that direction.", "You are not able to Disengage in that direction.", "logPlayer")
 t("Evasion", "Evasión", "talent name")
-t("Tumble", "Tumble", "talent name")
+t("Tumble", "Voltereta", "talent name")
 t("You must have an empty space to roll to.", "You must have an empty space to roll to.", "logPlayer")
 t("Trained Reactions", "Reacciones entrenadas", "talent name")
 t("#FIREBRICK##Target# reacts to %s from #Source#, mitigating the blow!#LAST#.", "#FIREBRICK##Target# reacts to %s from #Source#, mitigating the blow!#LAST#.", "logCombat")

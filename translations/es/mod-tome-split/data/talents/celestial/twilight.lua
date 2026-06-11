@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Twilight", "Twilight", "talent name")
+t("Twilight", "Crepusculo", "talent name")
 t("Jumpgate: Teleport To", "Jumpgate: Teletransporte To", "talent name")
 t("You must sustain the Jumpgate spell to be able to teleport.", "You must sustain the Jumpgate spell to be able to teleport.", "logPlayer")
 t("Instantly travel to your jumpgate, as long as you are within %d tiles of it.", "Instantly travel to your jumpgate, as long as you are within %d tiles of it.", "tformat")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Warshout", "Warshout", "talent name")
+t("Warshout", "Grito de guerra", "talent name")
 t("@Source@ uses Warsqueak.", "@Source@ uses Warsqueak.", "_t")
 t("@Source@ uses Warshout.", "@Source@ uses Warshout.", "_t")
 t("You require a two handed weapon to use this talent.", "You require a two handed weapon to use this talent.", "logPlayer")

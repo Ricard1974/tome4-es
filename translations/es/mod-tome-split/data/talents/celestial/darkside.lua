@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Brutalize", "Brutalize", "talent name")
+t("Brutalize", "Amedrentar", "talent name")
 t("%s resists the stun!", "%s resists the stun!", "logSeen")
 t("Lunacy", "Lunacy", "talent name")
 t("Flee the Sun", "Flee the Sol", "talent name")

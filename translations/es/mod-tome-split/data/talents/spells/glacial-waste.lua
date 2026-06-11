@@ -10,5 +10,5 @@ t("#GREY#Your hiemal shield regenerates to full!", "#GREY#Your hiemal shield reg
 t("#SLATE#(%d absorbed)#LAST#", "#SLATE#(%d absorbed)#LAST#", "tformat")
 t("Desolate Waste", "Desolación de desechos", "talent name")
 t("Crumbling Earth", "Tierra desmoronada", "talent name")
-t("Bleak Guard", "Bleak Guard", "talent name")
+t("Bleak Guard", "Desolado Guardia", "talent name")
 

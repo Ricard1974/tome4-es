@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Tactical Expert", "Tactical Expert", "talent name")
+t("Tactical Expert", "Táctico Experto", "talent name")
 t("Counter Attack", "Contraataque", "talent name")
 t("#Source# slams #Target# into the ground!", "#Source# slams #Target# into the ground!", "logCombat")
 t("#Source# throws #Target# to the ground!", "#Source# throws #Target# to the ground!", "logCombat")

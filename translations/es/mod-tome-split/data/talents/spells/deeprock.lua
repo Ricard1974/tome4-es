@@ -11,7 +11,7 @@ t(" and %d%% bleeding, poison, disease, and stun immunity", " and %d%% bleeding,
 t("\
 In addition, you use your physical resistance versus all damage against you.", "\
 In addition, you use your physical resistance versus all damage against you.", "_t")
-t("Volcanic Rock", "Volcanic Rock", "talent name")
-t("Boulder Rock", "Boulder Rock", "talent name")
+t("Volcanic Rock", "Volcanic Roca", "talent name")
+t("Boulder Rock", "Roca Roca", "talent name")
 t("Mountainhewn", "Mountainhewn", "talent name")
 

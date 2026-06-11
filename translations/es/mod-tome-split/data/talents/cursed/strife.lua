@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dominate", "Dominate", "talent name")
+t("Dominate", "Dominar", "talent name")
 t("Preternatural Senses", "Preternatural Sentidos", "talent name")
-t("Blindside", "Blindside", "talent name")
+t("Blindside", "Punto ciego", "talent name")
 t("The blindside fizzles!", "The blindside fizzles!", "logSeen")
 t("Repel", "Repeler", "talent name")
 

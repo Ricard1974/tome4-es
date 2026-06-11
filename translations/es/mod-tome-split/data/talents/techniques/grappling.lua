@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Grappling Stance", "Grappling Stance", "talent name")
-t("Clinch", "Clinch", "talent name")
+t("Clinch", "Agarrar", "talent name")
 t("Crushing Hold", "Crushing Hold", "talent name")
 t("Take Down", "Toma", "talent name")
 t("You cannot move!", "You cannot move!", "logPlayer")

@@ -7,6 +7,6 @@
 t("Mind Storm", "Mental Tormenta", "talent name")
 t("Feedback Loop", "Feedback Loop", "talent name")
 t("You have no feedback to start a feedback loop!", "You have no feedback to start a feedback loop!", "logPlayer")
-t("Backlash", "Backlash", "talent name")
+t("Backlash", "Reaccion", "talent name")
 t("Focused Wrath", "Focused Ira", "talent name")
 

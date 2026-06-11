@@ -6,7 +6,7 @@
 
 t("Master Marksman", "Maestro Marksman", "talent name")
 t("First Blood", "First Sangre", "talent name")
-t("Flare", "Flare", "talent name")
+t("Flare", "Bengala", "talent name")
 t("Trueshot", "Trueshot", "talent name")
 t("Enter a state of heightened focus for %d turns. While in this state your ranged attack speed is increased by %d%%, your shots do not consume ammo, and all shots capable of marking have their chance to mark increased by %d%%.", "Enter a state of heightened focus for %d turns. While in this state your ranged attack speed is increased by %d%%, your shots do not consume ammo, and all shots capable of marking have their chance to mark increased by %d%%.", "tformat")
 

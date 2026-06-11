@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Acid Infusion", "Infusión ácida", "talent name")
-t("Caustic Golem", "Caustic Golem", "talent name")
-t("Caustic Mire", "Caustic Mire", "talent name")
+t("Caustic Golem", "Cáustico Gólem", "talent name")
+t("Caustic Mire", "Cáustico Pantano", "talent name")
 t("Dissolving Acid", "Dissolving Ácido", "talent name")
 

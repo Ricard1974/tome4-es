@@ -9,5 +9,5 @@ t("#Source# shoots down '#Target#'!", "#Source# shoots down '#Target#'!", "logCo
 t("Intuitive Shots", "Zapatos intuitivos", "talent name")
 t("Sentinel", "Sentinel", "talent name")
 t("%s's %s is disrupted by the shot!", "%s's %s is disrupted by the shot!", "logSeen")
-t("Escape", "Escape", "talent name")
+t("Escape", "Escapar", "talent name")
 

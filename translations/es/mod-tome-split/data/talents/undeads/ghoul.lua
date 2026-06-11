@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("Ghoul", "Ghul", "talent name")
-t("Ghoulish Leap", "Ghoulish Leap", "talent name")
-t("Retch", "Retch", "talent name")
+t("Ghoulish Leap", "Ghoulish Salto", "talent name")
+t("Retch", "Vomitar", "talent name")
 t("%s #YELLOW_GREEN#VOMITS#LAST# on the ground!", "%s #YELLOW_GREEN#VOMITS#LAST# on the ground!", "logSeen")
 t("Gnaw", "Gnaw", "talent name")
 t("Risen Ghoul", "Risen Ghoul", "_t")

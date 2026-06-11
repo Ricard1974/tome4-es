@@ -9,5 +9,5 @@ t("Poisonous Spores", "Esporas venenosas", "talent name")
 t("@Source@ releases poisonous spores at @target@.", "@Source@ releases poisonous spores at @target@.", "_t")
 t("Acidic Skin", "Piel ácida", "talent name")
 t("The skin of @Source@ starts dripping acid.", "The skin of @Source@ starts dripping acid.", "_t")
-t("Slime Roots", "Slime Roots", "talent name")
+t("Slime Roots", "Slime Raíces", "talent name")
 

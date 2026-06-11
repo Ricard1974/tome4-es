@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dread", "Dread", "talent name")
+t("Dread", "Pavor", "talent name")
 t("Souleater", "Souleater", "talent name")
 t("#GREY#%s has fed on enough minions and starts to randomly hex foes!", "#GREY#%s has fed on enough minions and starts to randomly hex foes!", "logSeen")
 t("Neverending Peril", "Peril interminable", "talent name")

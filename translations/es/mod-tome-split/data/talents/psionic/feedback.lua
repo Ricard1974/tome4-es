@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Biofeedback", "Biofeedback", "talent name")
+t("Biofeedback", "Biorretroalimentacion", "talent name")
 t("Resonance Field", "Resonance Campo", "talent name")
 t("Amplification", "Amplificación", "talent name")
 t("Conversion", "Conversión", "talent name")

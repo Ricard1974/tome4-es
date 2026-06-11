@@ -6,7 +6,7 @@
 
 t("Agile Defense", "Defensa ágil", "talent name")
 t("%s(%d deflected)#LAST#", "%s(%d deflected)#LAST#", "tformat")
-t("Vault", "Vault", "talent name")
+t("Vault", "Boveda", "talent name")
 t("You require a shield to use this talent.", "You require a shield to use this talent.", "logPlayer")
 t("%s resists the daze!", "%s resists the daze!", "logSeen")
 t("Bull Shot", "Bull Disparo", "talent name")

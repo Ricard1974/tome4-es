@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Bind", "Bind", "talent name")
+t("Bind", "Vincular", "talent name")
 t("Greater Telekinetic Grasp", "Grasp telequinético más grande", "talent name")
 

@@ -10,5 +10,5 @@ t("Scoundrel's Strategies", "Estrategias de Scoundrel", "talent name")
 t("#CRIMSON#%s's %s is disrupted by %s wounds!#LAST#", "#CRIMSON#%s's %s is disrupted by %s wounds!#LAST#", "logSeen")
 t("Misdirection", "Misdirection", "talent name")
 t("#ORANGE#%s redirects the effect '%s'!#LAST#", "#ORANGE#%s redirects the effect '%s'!#LAST#", "logSeen")
-t("Fumble", "Fumble", "talent name")
+t("Fumble", "Torpeza", "talent name")
 

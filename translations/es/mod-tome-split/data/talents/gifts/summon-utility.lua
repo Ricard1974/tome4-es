@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Taunt", "Taunt", "talent name")
+t("Taunt", "Provocar", "talent name")
 t("Forces all hostile foes in radius %d to attack you.", "Forces all hostile foes in radius %d to attack you.", "tformat")
 t("Shell Shield", "Shell Escudo", "talent name")
 t("Under the cover of your shell, gain %d%% all resistance for %d turns", "Under the cover of your shell, gain %d%% all resistance for %d turns", "tformat")
-t("Web", "Web", "talent name")
+t("Web", "Tela", "talent name")
 t("Spread a web and throw it toward your target. If caught, it won't be able to move for %d turns.", "Spread a web and throw it toward your target. If caught, it won't be able to move for %d turns.", "tformat")
 t("Turtle", "Tortuga", "talent name")
 t("@Source@ summons a Turtle!", "@Source@ summons a Turtle!", "_t")
