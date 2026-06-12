@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ithilthum, Valley of the Moon", "Ithilthum, Valley of the Moon", "_t")
+t("Ithilthum, Valley of the Moon", "Ithilthum, Valle de la Luna", "_t")
 

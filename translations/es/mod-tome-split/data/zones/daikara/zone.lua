@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Daikara", "Daikara", "_t")
-t("BOOM!", "BOOM!", "_t")
+t("BOOM!", "¡BOOM!", "_t")
 

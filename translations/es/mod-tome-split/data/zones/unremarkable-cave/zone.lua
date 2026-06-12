@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Unremarkable Cave", "Unremarkable Cave", "_t")
+t("Unremarkable Cave", "Cueva no notable", "_t")
 

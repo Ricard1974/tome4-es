@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("Telos's Staff (Bottom Half)", "Telos's Staff (Bottom Half)", "entity name")
-t("broken staff", "broken staff", "_t")
-t("The bottom part of Telos' broken staff.", "The bottom part of Telos' broken staff.", "_t")
+t("broken staff", "personal roto", "_t")
+t("The bottom part of Telos' broken staff.", "La parte inferior del personal roto de Telos.", "_t")
 

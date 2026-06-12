@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("DEBUG -- Spawn Event", "DEBUG -- Spawn Event", "_t")
+t("DEBUG -- Spawn Event", "DEBUG -- Evento de la cosecha", "_t")
 

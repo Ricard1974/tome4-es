@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads... somewhere.", "The rift leads... somewhere.", "_t")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads... somewhere.", "El rift conduce... a algún lado.", "_t")
 

@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dragon", "dragon", "entity type")
-t("sand", "sand", "entity subtype")
+t("dragon", "dragón", "entity type")
+t("sand", "arena", "entity subtype")
 t("Briagh, Great Sand Wyrm", "Briagh, Great Sand Wyrm", "entity name")
-t("A towering sand drake stands before you. This wingless worm is mighty and could easily crush you.", "A towering sand drake stands before you. This wingless worm is mighty and could easily crush you.", "_t")
+t("A towering sand drake stands before you. This wingless worm is mighty and could easily crush you.", "Un drake de arena imponente está delante de ti. Este gusano sin alas es poderoso y podría aplastarte fácilmente.", "_t")
 

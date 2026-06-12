@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("The Iron Council (Dwarven empire main city)", "The Iron Council (Dwarven empire main city)", "entity name")
+t("The Iron Council (Dwarven empire main city)", "El Consejo de Hierro (ciudad principal del imperio enano)", "entity name")
 

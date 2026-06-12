@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Passage to the caverns", "Passage to the caverns", "_t")
-t("A dark hole in the mountain", "A dark hole in the mountain", "_t")
+t("Passage to the caverns", "Paso a las cavernas", "_t")
+t("A dark hole in the mountain", "Un agujero oscuro en la montaña", "_t")
 

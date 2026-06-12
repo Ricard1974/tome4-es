@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("wall", "wall", "entity type")
-t("underground", "underground", "entity subtype")
-t("crystals", "crystals", "entity name")
-t("Escape route from Reknor", "Escape route from Reknor", "entity name")
+t("wall", "pared", "entity type")
+t("underground", "subterráneo", "entity subtype")
+t("crystals", "cristales", "entity name")
+t("Escape route from Reknor", "Ruta de escape de Reknor", "entity name")
 t("The Deep Bellow", "The Deep Bellow", "entity name")
-t("The Dwarven Empire Incarnate", "The Dwarven Empire Incarnate", "entity name")
-t("Mystic of the Empire", "Mystic of the Empire", "entity name")
-t("Warrior of the Empire", "Warrior of the Empire", "entity name")
-t("Defender of the Empire", "Defender of the Empire", "entity name")
+t("The Dwarven Empire Incarnate", "El Imperio Enano encarnado", "entity name")
+t("Mystic of the Empire", "Místico del Imperio", "entity name")
+t("Warrior of the Empire", "Guerrero del Imperio", "entity name")
+t("Defender of the Empire", "Defensor del Imperio", "entity name")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Inventory", "Inventory", "_t")
+t("Inventory", "Inventario", "_t")
 

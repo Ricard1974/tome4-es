@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
-t("dwarf", "dwarf", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("dwarf", "enano", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
-t("dwarven guard", "dwarven guard", "entity name")
-t("A stocky dwarf, he looks angry.", "A stocky dwarf, he looks angry.", "_t")
-t("dwarven earthwarden", "dwarven earthwarden", "entity name")
+t("dwarven guard", "guardia enano", "entity name")
+t("A stocky dwarf, he looks angry.", "Un enano caldo, parece enfadado.", "_t")
+t("dwarven earthwarden", "enana tierra", "entity name")
 

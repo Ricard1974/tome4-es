@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Old Conclave Vault", "Old Conclave Vault", "_t")
+t("Old Conclave Vault", "Vault del antiguo cónclave", "_t")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New birth power: #LIGHT_GREEN#Ziguranth Sacrifice", "New birth power: #LIGHT_GREEN#Ziguranth Sacrifice", "_t")
+t("New birth power: #LIGHT_GREEN#Ziguranth Sacrifice", "Nuevo poder de nacimiento: #LIGHT GREEN#Ziguranth Sacrifice", "_t")
 

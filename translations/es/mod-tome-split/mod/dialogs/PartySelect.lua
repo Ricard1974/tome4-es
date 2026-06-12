@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Switch to which character?", "Switch to which character?", "_t")
+t("Switch to which character?", "¿Cambio a qué personaje?", "_t")
 

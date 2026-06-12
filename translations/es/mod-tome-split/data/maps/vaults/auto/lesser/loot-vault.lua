@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("scroll", "scroll", "_t")
+t("scroll", "pergamino", "_t")
 t("Mocking Note", "Mocking Note", "_t")
-t("A small scrap of paper written in a mocking tone.", "A small scrap of paper written in a mocking tone.", "_t")
+t("A small scrap of paper written in a mocking tone.", "Un pequeño trozo de papel escrito en un tono de burla.", "_t")
 

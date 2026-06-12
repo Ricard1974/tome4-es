@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("Southern Beach", "Southern Beach", "_t")
-t("Look over there!", "Look over there!", "_t")
-t("#DARK_GREEN#Melinda begins to glow with an eerie aura!", "#DARK_GREEN#Melinda begins to glow with an eerie aura!", "say")
+t("Look over there!", "¡Mira ahí!", "_t")
+t("#DARK_GREEN#Melinda begins to glow with an eerie aura!", "#DARK GREEN #Melinda comienza a brillar con un aura ebria!", "say")
 

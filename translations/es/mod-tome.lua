@@ -5,66 +5,66 @@ section "mod-tome/mod/init.lua"
 -- new text
 --[==[
 t("Tales of Maj'Eyal: Age of Ascendancy", "Tales of Maj'Eyal: Age of Ascendancy", "init.lua long_name")
-t("Though magic is still shunned in Maj'Eyal, rumours abound of secret havens of mages.", "Though magic is still shunned in Maj'Eyal, rumours abound of secret havens of mages.", "init.lua load_tips")
-t("The Rush talent lets you close in on an enemy quickly and daze them, disabling them whilst you hack down their friends.", "The Rush talent lets you close in on an enemy quickly and daze them, disabling them whilst you hack down their friends.", "init.lua load_tips")
-t("Stunning an opponent slows down their movement and reduces their damage output, giving you the opportunity to tactically reposition or finish them off at less risk.", "Stunning an opponent slows down their movement and reduces their damage output, giving you the opportunity to tactically reposition or finish them off at less risk.", "init.lua load_tips")
-t("Movement is key on the battlefield. A stationary fighter will become a dead fighter. One must always seek the position of greatest tactical advantage and continue to re-evaluate throughout the battle.", "Movement is key on the battlefield. A stationary fighter will become a dead fighter. One must always seek the position of greatest tactical advantage and continue to re-evaluate throughout the battle.", "init.lua load_tips")
-t("In the Age of Pyre the orcs learned the secrets of magic, and with their newfound powers nearly overcame the whole of Maj'Eyal.", "In the Age of Pyre the orcs learned the secrets of magic, and with their newfound powers nearly overcame the whole of Maj'Eyal.", "init.lua load_tips")
-t("The orcs once terrorised the whole continent. In the Age of Ascendancy they were rendered extinct, but rumours abound of hidden groups biding their time to return.", "The orcs once terrorised the whole continent. In the Age of Ascendancy they were rendered extinct, but rumours abound of hidden groups biding their time to return.", "init.lua load_tips")
-t("Intense willpower lets wyrmics take on the natural powers of dragons.", "Intense willpower lets wyrmics take on the natural powers of dragons.", "init.lua load_tips")
-t("Alchemists can transmute gems to create fiery explosions, and are known to travel with a sturdy golem for extra protection.", "Alchemists can transmute gems to create fiery explosions, and are known to travel with a sturdy golem for extra protection.", "init.lua load_tips")
-t("In the Age of Pyre the giant golem Atamathon was built with the sole purpose of stopping the orcish leader Garkul the Devourer. The golem was single-handedly destroyed by the orc, who then slaughtered an army of thousands before the demonic fighter was finally slain.", "In the Age of Pyre the giant golem Atamathon was built with the sole purpose of stopping the orcish leader Garkul the Devourer. The golem was single-handedly destroyed by the orc, who then slaughtered an army of thousands before the demonic fighter was finally slain.", "init.lua load_tips")
-t("None know what the Sher'Tul looked like, or what caused them all to disappear thousands of years ago. Their rare ruins are a source of mystery and terror.", "None know what the Sher'Tul looked like, or what caused them all to disappear thousands of years ago. Their rare ruins are a source of mystery and terror.", "init.lua load_tips")
-t("In deep places dark things dwell beyond description or understanding. None know the source of these hideous horrors.", "In deep places dark things dwell beyond description or understanding. None know the source of these hideous horrors.", "init.lua load_tips")
-t("Who knows what dark thoughts drive people to necromancy? Its art is as old as magic itself, and its creations have plagued all the races since the earliest memories.", "Who knows what dark thoughts drive people to necromancy? Its art is as old as magic itself, and its creations have plagued all the races since the earliest memories.", "init.lua load_tips")
-t("Some say that in their early days the Shaloren kings experimented with necromancy to preserve their flesh after death, but with little success. The Shaloren vehemently deny this.", "Some say that in their early days the Shaloren kings experimented with necromancy to preserve their flesh after death, but with little success. The Shaloren vehemently deny this.", "init.lua load_tips")
-t("120 years ago Toknor and Mirvenia united the human and halfling kingdoms and wiped out the orcish race, thus establishing the Age of Ascendancy.", "120 years ago Toknor and Mirvenia united the human and halfling kingdoms and wiped out the orcish race, thus establishing the Age of Ascendancy.", "init.lua load_tips")
-t("Some are cursed with mental powers beyond their full control, turning them to a dark life powered by hatred.", "Some are cursed with mental powers beyond their full control, turning them to a dark life powered by hatred.", "init.lua load_tips")
-t("Dreadfell has always been shunned for its haunted crypts, but of late rumours tell of a darker and more terrible power in residence.", "Dreadfell has always been shunned for its haunted crypts, but of late rumours tell of a darker and more terrible power in residence.", "init.lua load_tips")
-t("Some Sher'Tul artifacts can still be found in hidden places, but it is said they are not to be trifled with.", "Some Sher'Tul artifacts can still be found in hidden places, but it is said they are not to be trifled with.", "init.lua load_tips")
-t("Drakes and wyrms are the strongest natural creatures in the world, capable of powers far beyond most other beings.", "Drakes and wyrms are the strongest natural creatures in the world, capable of powers far beyond most other beings.", "init.lua load_tips")
-t("Giant worms tear open huge passageways through the deserts in the west. It is said great riches lie buried beneath the sand, still decorating the corpses of those who went there seeking great riches.", "Giant worms tear open huge passageways through the deserts in the west. It is said great riches lie buried beneath the sand, still decorating the corpses of those who went there seeking great riches.", "init.lua load_tips")
-t("Arcane Blades employ a fusion of melee and magical combat. Their training is harsh but the most dedicated rise to great powers.", "Arcane Blades employ a fusion of melee and magical combat. Their training is harsh but the most dedicated rise to great powers.", "init.lua load_tips")
-t("Wild infusions call upon the powers of nature to protect the flesh and rid oneself of afflictions.", "Wild infusions call upon the powers of nature to protect the flesh and rid oneself of afflictions.", "init.lua load_tips")
-t("Shield runes act instantly, letting one protect oneself quickly whilst also preparing to flee or launch a counter attack.", "Shield runes act instantly, letting one protect oneself quickly whilst also preparing to flee or launch a counter attack.", "init.lua load_tips")
-t("Greater training in the use of armour lets it be used more effectively, blocking more damage and reducing the chance of an enemy hitting a critical spot.", "Greater training in the use of armour lets it be used more effectively, blocking more damage and reducing the chance of an enemy hitting a critical spot.", "init.lua load_tips")
-t("The Thick Skin talent reduces all incoming damage, letting you survive for longer before needing to heal.", "The Thick Skin talent reduces all incoming damage, letting you survive for longer before needing to heal.", "init.lua load_tips")
-t("Regeneration infusions act over several turns, letting you anticipate damage that will be taken and prepare for it.", "Regeneration infusions act over several turns, letting you anticipate damage that will be taken and prepare for it.", "init.lua load_tips")
-t("In the most dire circumstances teleportation can be the best escape, but is not without risk.", "In the most dire circumstances teleportation can be the best escape, but is not without risk.", "init.lua load_tips")
-t("The Ziguranth are an ancient order vehemently opposed to magic. Some have become so attuned to nature they can resist arcane forces with their will alone.", "The Ziguranth are an ancient order vehemently opposed to magic. Some have become so attuned to nature they can resist arcane forces with their will alone.", "init.lua load_tips")
-t("Records say that giants once lived civilised lives, with mastery of many crafts and sciences. Now, though, they have adopted nomadic cultures, turning hostile against those that encroach on their lands.", "Records say that giants once lived civilised lives, with mastery of many crafts and sciences. Now, though, they have adopted nomadic cultures, turning hostile against those that encroach on their lands.", "init.lua load_tips")
-t("Zigur was founded by escapees of Conclave experiments during the Allure wars between humans and halflings.", "Zigur was founded by escapees of Conclave experiments during the Allure wars between humans and halflings.", "init.lua load_tips")
-t("The Thaloren and Shaloren elves have never had good relations, and have been outright hostile since the Spellblaze devastated many Thaloren lands.", "The Thaloren and Shaloren elves have never had good relations, and have been outright hostile since the Spellblaze devastated many Thaloren lands.", "init.lua load_tips")
-t("The third elven race, the Naloren, were rendered extinct after a huge cataclysm swept the eastern side of Maj'Eyal into the sea.", "The third elven race, the Naloren, were rendered extinct after a huge cataclysm swept the eastern side of Maj'Eyal into the sea.", "init.lua load_tips")
-t("Trolls were once seen as little more than beasts or pests, but the orcs trained them up for use in war and they became much more intelligent and fearsome.", "Trolls were once seen as little more than beasts or pests, but the orcs trained them up for use in war and they became much more intelligent and fearsome.", "init.lua load_tips")
-t("Some say that the foot of a halfling is lucky to own. Halflings do not take well to those who enquire too forcefully.", "Some say that the foot of a halfling is lucky to own. Halflings do not take well to those who enquire too forcefully.", "init.lua load_tips")
-t("The Nargol empire was once the largest force in Maj'Eyal, but a combination of the Spellblaze and orcish attacks have dwindled it into insignificance.", "The Nargol empire was once the largest force in Maj'Eyal, but a combination of the Spellblaze and orcish attacks have dwindled it into insignificance.", "init.lua load_tips")
-t("Some of the most powerful undead do not fall easily, and only through extreme persistence can they be put to rest.", "Some of the most powerful undead do not fall easily, and only through extreme persistence can they be put to rest.", "init.lua load_tips")
-t("History says little of the ancient race of yeeks that lived in halfling territory, but vanished before the time of the Spellblaze.", "History says little of the ancient race of yeeks that lived in halfling territory, but vanished before the time of the Spellblaze.", "init.lua load_tips")
-t("Dwarves are naturally a inquisitive people, but do not enjoy such inquisition turned on them. Most live secretive lives in their closed-off city, the Iron Throne.", "Dwarves are naturally a inquisitive people, but do not enjoy such inquisition turned on them. Most live secretive lives in their closed-off city, the Iron Throne.", "init.lua load_tips")
-t("Alchemists can bind gems to armour to grant them magical effects, to protect the wearer or improve their powers. Some commercial alchemists can imbue gems into jewellery.", "Alchemists can bind gems to armour to grant them magical effects, to protect the wearer or improve their powers. Some commercial alchemists can imbue gems into jewellery.", "init.lua load_tips")
-t("The Spellblaze was followed by the Age of Dusk, when disease was rife and civilisation collapsed. Necromancers and fell sorcerers took advantage of the chaos to spread their vile deeds.", "The Spellblaze was followed by the Age of Dusk, when disease was rife and civilisation collapsed. Necromancers and fell sorcerers took advantage of the chaos to spread their vile deeds.", "init.lua load_tips")
-t("After the Spellblaze came the Spellhunt, when the normal people rose against the arrogance of the mages and hunted them down like wolves. Some survived and went into hiding, but many innocents were killed.", "After the Spellblaze came the Spellhunt, when the normal people rose against the arrogance of the mages and hunted them down like wolves. Some survived and went into hiding, but many innocents were killed.", "init.lua load_tips")
-t("Demons are thought to come from another world, brought to Eyal by magical forces. Some are highly intelligent and follow their own ambitions. To what end, none know.", "Demons are thought to come from another world, brought to Eyal by magical forces. Some are highly intelligent and follow their own ambitions. To what end, none know.", "init.lua load_tips")
-t("The art of potion making fell into decline after the Spellhunt, and only a rare few now master the gift.", "The art of potion making fell into decline after the Spellhunt, and only a rare few now master the gift.", "init.lua load_tips")
-t("It's said that some rare powers can save your soul from the edge of death.", "It's said that some rare powers can save your soul from the edge of death.", "init.lua load_tips")
-t("Rumours tell of a shadowy cult kidnapping women and performing strange rites. Their intentions are unknown, and they have so far evaded capture.", "Rumours tell of a shadowy cult kidnapping women and performing strange rites. Their intentions are unknown, and they have so far evaded capture.", "init.lua load_tips")
-t("Though slavery is illegal there is still a black market for it, and in some areas men are even used for blood sports.", "Though slavery is illegal there is still a black market for it, and in some areas men are even used for blood sports.", "init.lua load_tips")
-t("Maj'Eyal is the biggest continent in the world of Eyal. Though records suggest other continents and islands may exist it has not been possible to cross the wide and stormy oceans since the Spellblaze and the Cataclysm.", "Maj'Eyal is the biggest continent in the world of Eyal. Though records suggest other continents and islands may exist it has not been possible to cross the wide and stormy oceans since the Spellblaze and the Cataclysm.", "init.lua load_tips")
-t("The effects of the Spellblaze were not all instant, and many centuries later the Cataclysm tore the continent apart once more, devastating coastal areas the destroying all of the Naloren lands.", "The effects of the Spellblaze were not all instant, and many centuries later the Cataclysm tore the continent apart once more, devastating coastal areas the destroying all of the Naloren lands.", "init.lua load_tips")
-t("Archers are fast and deadly, and with pinning shots can render their foes helpless as they swiftly dispatch them.", "Archers are fast and deadly, and with pinning shots can render their foes helpless as they swiftly dispatch them.", "init.lua load_tips")
-t("Reavers are powerful fighters with corrupted blood, and the strength to wield a one-handed weapon in each arm.", "Reavers are powerful fighters with corrupted blood, and the strength to wield a one-handed weapon in each arm.", "init.lua load_tips")
-t("Corruptors feed off the essence of others, and can use their own corrupted blood to launch deadly magical attacks.", "Corruptors feed off the essence of others, and can use their own corrupted blood to launch deadly magical attacks.", "init.lua load_tips")
-t("Clever rogues can lay traps to damage or debilitate their foes without having to go near them.", "Clever rogues can lay traps to damage or debilitate their foes without having to go near them.", "init.lua load_tips")
-t("Rogues can move silently and stealthily, letting them approach foes unaware or avoid them entirely.", "Rogues can move silently and stealthily, letting them approach foes unaware or avoid them entirely.", "init.lua load_tips")
-t("A movement infusion can let you quickly approach a ranged opponent, or quickly escape a melee one.", "A movement infusion can let you quickly approach a ranged opponent, or quickly escape a melee one.", "init.lua load_tips")
-t("Invisibility lets you escape notice, giving you the freedom to move or recover your resources, but reduces your damage.", "Invisibility lets you escape notice, giving you the freedom to move or recover your resources, but reduces your damage.", "init.lua load_tips")
-t("Poison is the domain of assassins and master rogues, and its cunning use can cripple or kill enemies over a long fight.", "Poison is the domain of assassins and master rogues, and its cunning use can cripple or kill enemies over a long fight.", "init.lua load_tips")
-t("Summoners can call upon a variety of natural creatures to protect and support them, reducing the risk to their own flesh considerably.", "Summoners can call upon a variety of natural creatures to protect and support them, reducing the risk to their own flesh considerably.", "init.lua load_tips")
-t("The highest sorcerers are known as archmages, and the masters amongst them are said to have the power to change the world. They are feared immensely.", "The highest sorcerers are known as archmages, and the masters amongst them are said to have the power to change the world. They are feared immensely.", "init.lua load_tips")
-t("Bulwarks are defensive fighters that can take hits more readily than other warriors whilst preparing for the most effective counter attacks.", "Bulwarks are defensive fighters that can take hits more readily than other warriors whilst preparing for the most effective counter attacks.", "init.lua load_tips")
-t("Brawlers are trained in the use of their fists and mastery of their bodies. They can be as dangerous in combat as any swordsman.", "Brawlers are trained in the use of their fists and mastery of their bodies. They can be as dangerous in combat as any swordsman.", "init.lua load_tips")
-t("Lightning is a chaotic element that is hard to control. It is said that those most attuned to it are eventually driven insane.", "Lightning is a chaotic element that is hard to control. It is said that those most attuned to it are eventually driven insane.", "init.lua load_tips")
+t("Though magic is still shunned in Maj'Eyal, rumours abound of secret havens of mages.", "Aunque la magia todavía está removida en Maj'Eyal, los rumores abundan en paraísos secretos de magos.", "init.lua load_tips")
+t("The Rush talent lets you close in on an enemy quickly and daze them, disabling them whilst you hack down their friends.", "El talento de Rush te permite acercarte rápidamente a un enemigo y desgarrarlos, desactivarlos mientras hackeas a sus amigos.", "init.lua load_tips")
+t("Stunning an opponent slows down their movement and reduces their damage output, giving you the opportunity to tactically reposition or finish them off at less risk.", "Impresionante un oponente ralentiza su movimiento y reduce su salida de daño, dándole la oportunidad de reposición táctica o acabar con ellos en menos riesgo.", "init.lua load_tips")
+t("Movement is key on the battlefield. A stationary fighter will become a dead fighter. One must always seek the position of greatest tactical advantage and continue to re-evaluate throughout the battle.", "El movimiento es clave en el campo de batalla. Un luchador estacionario se convertirá en un luchador muerto. Uno siempre debe buscar la posición de mayor ventaja táctica y seguir reevaluando a lo largo de la batalla.", "init.lua load_tips")
+t("In the Age of Pyre the orcs learned the secrets of magic, and with their newfound powers nearly overcame the whole of Maj'Eyal.", "En la Era de Pyre los orcos aprendieron los secretos de la magia, y con sus nuevos poderes casi superó a todo el Maj'Eyal.", "init.lua load_tips")
+t("The orcs once terrorised the whole continent. In the Age of Ascendancy they were rendered extinct, but rumours abound of hidden groups biding their time to return.", "Los orcos aterrorizaron a todo el continente. En la Era de la Ascendencia se extinguieron, pero los rumores abundan de grupos ocultos que piden su tiempo para regresar.", "init.lua load_tips")
+t("Intense willpower lets wyrmics take on the natural powers of dragons.", "La fuerza de voluntad intensa permite a las wyrmics tomar los poderes naturales de los dragones.", "init.lua load_tips")
+t("Alchemists can transmute gems to create fiery explosions, and are known to travel with a sturdy golem for extra protection.", "Los alquimistas pueden transmutar gemas para crear explosiones de fuego, y se sabe que viajan con un robusto golem para protección adicional.", "init.lua load_tips")
+t("In the Age of Pyre the giant golem Atamathon was built with the sole purpose of stopping the orcish leader Garkul the Devourer. The golem was single-handedly destroyed by the orc, who then slaughtered an army of thousands before the demonic fighter was finally slain.", "En la Era de Pyre el gigante golem Atamathon fue construido con el único propósito de detener al líder orcish Garkul el Devourer. El golem fue destruido de una sola mano por el orco, que luego derrotó a un ejército de miles antes de que el luchador demoníaco fuera finalmente asesinado.", "init.lua load_tips")
+t("None know what the Sher'Tul looked like, or what caused them all to disappear thousands of years ago. Their rare ruins are a source of mystery and terror.", "Ninguno sabe cómo era el Sher'Tul, o qué los hizo desaparecer hace miles de años. Sus ruinas raras son una fuente de misterio y terror.", "init.lua load_tips")
+t("In deep places dark things dwell beyond description or understanding. None know the source of these hideous horrors.", "En lugares profundos las cosas oscuras moran más allá de la descripción o la comprensión. Ninguno conoce la fuente de estos horrores horribles.", "init.lua load_tips")
+t("Who knows what dark thoughts drive people to necromancy? Its art is as old as magic itself, and its creations have plagued all the races since the earliest memories.", "¿Quién sabe qué pensamientos oscuros conducen a la gente a la necromancia? Su arte es tan viejo como la magia misma, y sus creaciones han plagado todas las razas desde los primeros recuerdos.", "init.lua load_tips")
+t("Some say that in their early days the Shaloren kings experimented with necromancy to preserve their flesh after death, but with little success. The Shaloren vehemently deny this.", "Algunos dicen que en sus primeros días los reyes de Siloren experimentaron con necromancia para preservar su carne después de la muerte, pero con poco éxito. Los Shaloren niegan esto.", "init.lua load_tips")
+t("120 years ago Toknor and Mirvenia united the human and halfling kingdoms and wiped out the orcish race, thus establishing the Age of Ascendancy.", "Hace 120 años Toknor y Mirvenia unieron los reinos humanos y despojados de la raza orcánica, estableciendo así la Era de la Ascendencia.", "init.lua load_tips")
+t("Some are cursed with mental powers beyond their full control, turning them to a dark life powered by hatred.", "Algunos son maldecidos con poderes mentales más allá de su control completo, convirtiéndolos en una vida oscura alimentada por el odio.", "init.lua load_tips")
+t("Dreadfell has always been shunned for its haunted crypts, but of late rumours tell of a darker and more terrible power in residence.", "Dreadfell siempre ha sido rechazado por sus criptas embrujadas, pero de los rumores tardíos dicen de un poder más oscuro y más terrible en la residencia.", "init.lua load_tips")
+t("Some Sher'Tul artifacts can still be found in hidden places, but it is said they are not to be trifled with.", "Algunos artefactos Sher'Tul todavía se pueden encontrar en lugares ocultos, pero se dice que no deben ser trivializados.", "init.lua load_tips")
+t("Drakes and wyrms are the strongest natural creatures in the world, capable of powers far beyond most other beings.", "Drakes y wyrms son las criaturas naturales más fuertes del mundo, capaces de poderes mucho más allá de la mayoría de otros seres.", "init.lua load_tips")
+t("Giant worms tear open huge passageways through the deserts in the west. It is said great riches lie buried beneath the sand, still decorating the corpses of those who went there seeking great riches.", "Los gusanos gigantes abren enormes pasillos a través de los desiertos en el oeste. Se dice que hay grandes riquezas sepultadas debajo de la arena, aún decorando los cadáveres de aquellos que fueron allí buscando grandes riquezas.", "init.lua load_tips")
+t("Arcane Blades employ a fusion of melee and magical combat. Their training is harsh but the most dedicated rise to great powers.", "Arcane Blades emplea una fusión de melee y combate mágico. Su entrenamiento es duro pero el ascenso más dedicado a los grandes poderes.", "init.lua load_tips")
+t("Wild infusions call upon the powers of nature to protect the flesh and rid oneself of afflictions.", "Las infusiones silvestres llaman a los poderes de la naturaleza para proteger la carne y librarse de las aflicciones.", "init.lua load_tips")
+t("Shield runes act instantly, letting one protect oneself quickly whilst also preparing to flee or launch a counter attack.", "Shield corre actúa instantáneamente, dejándose protegerse rápidamente mientras se prepara para huir o lanzar un contraataque.", "init.lua load_tips")
+t("Greater training in the use of armour lets it be used more effectively, blocking more damage and reducing the chance of an enemy hitting a critical spot.", "Una mayor formación en el uso de la armadura permite que se utilice más eficazmente, bloqueando más daño y reduciendo la posibilidad de que un enemigo golpee un punto crítico.", "init.lua load_tips")
+t("The Thick Skin talent reduces all incoming damage, letting you survive for longer before needing to heal.", "El talento de Thick Skin reduce todos los daños entrantes, dejándote sobrevivir por más tiempo antes de necesitar sanar.", "init.lua load_tips")
+t("Regeneration infusions act over several turns, letting you anticipate damage that will be taken and prepare for it.", "Las infusiones de regeneración actúan en varias vueltas, lo que le permite anticipar los daños que se tomarán y se prepararán para él.", "init.lua load_tips")
+t("In the most dire circumstances teleportation can be the best escape, but is not without risk.", "En las circunstancias más difíciles la teletransportación puede ser la mejor escapada, pero no está sin riesgo.", "init.lua load_tips")
+t("The Ziguranth are an ancient order vehemently opposed to magic. Some have become so attuned to nature they can resist arcane forces with their will alone.", "El Ziguranth es una orden antigua que se opone a la magia. Algunos se han convertido en tan atestados a la naturaleza que pueden resistir a las fuerzas arcanas con su voluntad sola.", "init.lua load_tips")
+t("Records say that giants once lived civilised lives, with mastery of many crafts and sciences. Now, though, they have adopted nomadic cultures, turning hostile against those that encroach on their lands.", "Los registros dicen que los gigantes vivieron una vez vidas civilizadas, con dominio de muchas artesanías y ciencias. Ahora, sin embargo, han adoptado culturas nómadas, hostilándose contra aquellos que invadieron sus tierras.", "init.lua load_tips")
+t("Zigur was founded by escapees of Conclave experiments during the Allure wars between humans and halflings.", "Zigur fue fundada por escapes de experimentos de Conclave durante las guerras de Allure entre humanos y aparejos.", "init.lua load_tips")
+t("The Thaloren and Shaloren elves have never had good relations, and have been outright hostile since the Spellblaze devastated many Thaloren lands.", "Los elfos Thaloren y Shaloren nunca han tenido buenas relaciones, y han sido totalmente hostiles desde que los Spellblaze devastaron muchas tierras Thaloren.", "init.lua load_tips")
+t("The third elven race, the Naloren, were rendered extinct after a huge cataclysm swept the eastern side of Maj'Eyal into the sea.", "La tercera raza elvenida, los Naloren, se extinguieron después de un enorme cataclismo barrió el lado oriental de Maj'Eyal al mar.", "init.lua load_tips")
+t("Trolls were once seen as little more than beasts or pests, but the orcs trained them up for use in war and they became much more intelligent and fearsome.", "Los trolls fueron vistos como poco más que bestias o plagas, pero los orcos los entrenaron para ser utilizados en la guerra y se volvieron mucho más inteligentes y temibles.", "init.lua load_tips")
+t("Some say that the foot of a halfling is lucky to own. Halflings do not take well to those who enquire too forcefully.", "Algunos dicen que el pie de un medio es afortunado de poseer. Los mimos no llevan bien a los que piden demasiado fuerza.", "init.lua load_tips")
+t("The Nargol empire was once the largest force in Maj'Eyal, but a combination of the Spellblaze and orcish attacks have dwindled it into insignificance.", "El imperio Nargol fue una vez la mayor fuerza en Maj'Eyal, pero una combinación de los ataques de Spellblaze y orcish lo han sumido en la insignificancia.", "init.lua load_tips")
+t("Some of the most powerful undead do not fall easily, and only through extreme persistence can they be put to rest.", "Algunos de los muertos más poderosos no caen fácilmente, y sólo a través de la persistencia extrema pueden ser puestos a descansar.", "init.lua load_tips")
+t("History says little of the ancient race of yeeks that lived in halfling territory, but vanished before the time of the Spellblaze.", "La historia dice poco de la antigua raza de los yeks que vivían en medio territorio, pero desapareció antes de la época del Spellblaze.", "init.lua load_tips")
+t("Dwarves are naturally a inquisitive people, but do not enjoy such inquisition turned on them. Most live secretive lives in their closed-off city, the Iron Throne.", "Los enanos son naturalmente un pueblo inquisitivo, pero no disfrutan de tal inquisición encendiada en ellos. La mayoría vive secreta en su ciudad cerrada, el Trono de Hierro.", "init.lua load_tips")
+t("Alchemists can bind gems to armour to grant them magical effects, to protect the wearer or improve their powers. Some commercial alchemists can imbue gems into jewellery.", "Los alquimistas pueden atar gemas para armar para otorgarles efectos mágicos, para proteger al usuario o mejorar sus poderes. Algunos alquimistas comerciales pueden infundir gemas en joyas.", "init.lua load_tips")
+t("The Spellblaze was followed by the Age of Dusk, when disease was rife and civilisation collapsed. Necromancers and fell sorcerers took advantage of the chaos to spread their vile deeds.", "El Spellblaze fue seguido por la Era de Dusk, cuando la enfermedad era rife y la civilización colapsó. Necromancers y hechiceros caídos se aprovecharon del caos para difundir sus actos viles.", "init.lua load_tips")
+t("After the Spellblaze came the Spellhunt, when the normal people rose against the arrogance of the mages and hunted them down like wolves. Some survived and went into hiding, but many innocents were killed.", "Después del Spellblaze vino el Spellhunt, cuando la gente normal se levantó contra la arrogancia de los magos y los cazaba como lobos. Algunos sobrevivieron y se escondieron, pero muchos inocentes fueron asesinados.", "init.lua load_tips")
+t("Demons are thought to come from another world, brought to Eyal by magical forces. Some are highly intelligent and follow their own ambitions. To what end, none know.", "Se cree que los demonios vienen de otro mundo, traídos a Eyal por fuerzas mágicas. Algunos son muy inteligentes y siguen sus propias ambiciones. Para qué fin, nadie lo sabe.", "init.lua load_tips")
+t("The art of potion making fell into decline after the Spellhunt, and only a rare few now master the gift.", "El arte de la poción haciendo cayó en declive después del Spellhunt, y sólo algunos raros ahora dominan el regalo.", "init.lua load_tips")
+t("It's said that some rare powers can save your soul from the edge of death.", "Se dice que algunos poderes raros pueden salvar tu alma del borde de la muerte.", "init.lua load_tips")
+t("Rumours tell of a shadowy cult kidnapping women and performing strange rites. Their intentions are unknown, and they have so far evaded capture.", "Los rumores hablan de un secta sombría que secuestra a las mujeres y hace ritos extraños. Sus intenciones son desconocidas, y hasta ahora han evadido la captura.", "init.lua load_tips")
+t("Though slavery is illegal there is still a black market for it, and in some areas men are even used for blood sports.", "Aunque la esclavitud es ilegal todavía hay un mercado negro para ella, y en algunas áreas los hombres son incluso utilizados para deportes de sangre.", "init.lua load_tips")
+t("Maj'Eyal is the biggest continent in the world of Eyal. Though records suggest other continents and islands may exist it has not been possible to cross the wide and stormy oceans since the Spellblaze and the Cataclysm.", "Maj'Eyal es el continente más grande del mundo de Eyal. Aunque los registros sugieren que otros continentes e islas pueden existir no ha sido posible cruzar los océanos anchos y tormentosos desde el Spellblaze y el Cataclismo.", "init.lua load_tips")
+t("The effects of the Spellblaze were not all instant, and many centuries later the Cataclysm tore the continent apart once more, devastating coastal areas the destroying all of the Naloren lands.", "Los efectos del Spellblaze no fueron todos instantáneos, y muchos siglos más tarde el Cataclysm destrozó el continente una vez más, devastando las zonas costeras la destrucción de todas las tierras de Naloren.", "init.lua load_tips")
+t("Archers are fast and deadly, and with pinning shots can render their foes helpless as they swiftly dispatch them.", "Los arqueros son rápidos y mortíferos, y con disparos afilados pueden hacer que sus enemigos sean indefensos mientras los envían rápidamente.", "init.lua load_tips")
+t("Reavers are powerful fighters with corrupted blood, and the strength to wield a one-handed weapon in each arm.", "Los luchadores son poderosos con sangre corrupta, y la fuerza para usar un arma de una mano en cada brazo.", "init.lua load_tips")
+t("Corruptors feed off the essence of others, and can use their own corrupted blood to launch deadly magical attacks.", "Los corredores alimentan la esencia de otros, y pueden usar su propia sangre corrupta para lanzar ataques mágicos mortales.", "init.lua load_tips")
+t("Clever rogues can lay traps to damage or debilitate their foes without having to go near them.", "Clever Rogues puede poner trampas para dañar o debilitar a sus enemigos sin tener que acercarse a ellos.", "init.lua load_tips")
+t("Rogues can move silently and stealthily, letting them approach foes unaware or avoid them entirely.", "Los rogues pueden moverse silenciosamente y sigilosamente, dejando que se acerquen a los enemigos sin darse cuenta o evitarlos por completo.", "init.lua load_tips")
+t("A movement infusion can let you quickly approach a ranged opponent, or quickly escape a melee one.", "Una infusión de movimiento puede permitir que se acerque rápidamente a un oponente de rango, o escapar rápidamente de un melee uno.", "init.lua load_tips")
+t("Invisibility lets you escape notice, giving you the freedom to move or recover your resources, but reduces your damage.", "La invisibilidad le permite escapar del aviso, dándole la libertad de mover o recuperar sus recursos, pero reduce su daño.", "init.lua load_tips")
+t("Poison is the domain of assassins and master rogues, and its cunning use can cripple or kill enemies over a long fight.", "El veneno es el dominio de los asesinos y del maestro rogues, y su uso astuto puede criticar o matar enemigos durante una larga lucha.", "init.lua load_tips")
+t("Summoners can call upon a variety of natural creatures to protect and support them, reducing the risk to their own flesh considerably.", "Losvocadores pueden invocar a una variedad de criaturas naturales para protegerlas y apoyarlas, reduciendo considerablemente el riesgo a su propia carne.", "init.lua load_tips")
+t("The highest sorcerers are known as archmages, and the masters amongst them are said to have the power to change the world. They are feared immensely.", "Los brujos más altos son conocidos como arquemas, y se dice que los maestros entre ellos tienen el poder de cambiar el mundo. Se temen inmensamente.", "init.lua load_tips")
+t("Bulwarks are defensive fighters that can take hits more readily than other warriors whilst preparing for the most effective counter attacks.", "Bulwarks son luchadores defensivos que pueden tomar golpes más fácilmente que otros guerreros mientras se preparan para los ataques de contra más eficaces.", "init.lua load_tips")
+t("Brawlers are trained in the use of their fists and mastery of their bodies. They can be as dangerous in combat as any swordsman.", "Los frenos están entrenados en el uso de sus puños y dominio de sus cuerpos. Pueden ser tan peligrosos en combate como cualquier espadachín.", "init.lua load_tips")
+t("Lightning is a chaotic element that is hard to control. It is said that those most attuned to it are eventually driven insane.", "El rayo es un elemento caótico que es difícil de controlar. Se dice que los más atentados a él son eventualmente locos.", "init.lua load_tips")
 --]==]
 
 ------------------------------------------------
@@ -73,77 +73,74 @@ section "mod-tome/mod/load.lua"
 
 -- new text
 --[==[
-t("In main hand", "In main hand", "_t")
-t("Most weapons are wielded in the main hand.", "Most weapons are wielded in the main hand.", "_t")
-t("In off hand", "In off hand", "_t")
-t("You can use shields or a second weapon in your off-hand, if you have the talents for it.", "You can use shields or a second weapon in your off-hand, if you have the talents for it.", "_t")
-t("Psionic focus", "Psionic focus", "_t")
-t("Object held in your telekinetic grasp. It can be a weapon or some other item to provide a benefit to your psionic powers.", "Object held in your telekinetic grasp. It can be a weapon or some other item to provide a benefit to your psionic powers.", "_t")
-t("On fingers", "On fingers", "_t")
-t("Rings are worn on fingers.", "Rings are worn on fingers.", "_t")
-t("Around neck", "Around neck", "_t")
-t("Amulets are worn around the neck.", "Amulets are worn around the neck.", "_t")
-t("Light source", "Light source", "_t")
-t("A light source allows you to see in the dark places of the world.", "A light source allows you to see in the dark places of the world.", "_t")
-t("Main armor", "Main armor", "_t")
-t("Armor protects you from physical attacks. The heavier the armor the more it hinders the use of talents and spells.", "Armor protects you from physical attacks. The heavier the armor the more it hinders the use of talents and spells.", "_t")
+t("In main hand", "En la mano principal", "_t")
+t("Most weapons are wielded in the main hand.", "La mayoría de las armas están en la mano principal.", "_t")
+t("In off hand", "En la mano", "_t")
+t("You can use shields or a second weapon in your off-hand, if you have the talents for it.", "Puedes usar escudos o una segunda arma en la mano, si tienes los talentos para ello.", "_t")
+t("Psionic focus", "Enfoque psicológico", "_t")
+t("Object held in your telekinetic grasp. It can be a weapon or some other item to provide a benefit to your psionic powers.", "Objeto mantenido en su comprensión telequinética. Puede ser un arma o algún otro artículo para proporcionar un beneficio a sus poderes psionicos.", "_t")
+t("On fingers", "En los dedos", "_t")
+t("Rings are worn on fingers.", "Los anillos se usan en los dedos.", "_t")
+t("Around neck", "Sobre el cuello", "_t")
+t("Amulets are worn around the neck.", "Los amuletos se llevan alrededor del cuello.", "_t")
+t("Light source", "Fuente de luz", "_t")
+t("A light source allows you to see in the dark places of the world.", "Una fuente de luz te permite ver en los lugares oscuros del mundo.", "_t")
+t("Main armor", "Armadura principal", "_t")
+t("Armor protects you from physical attacks. The heavier the armor the more it hinders the use of talents and spells.", "Armor te protege de los ataques físicos. Cuanto más pesado es la armadura más dificulta el uso de talentos y hechizos.", "_t")
 t("Cloak", "Cloak", "_t")
-t("A cloak can simply keep you warm or grant you wondrous powers should you find a magical one.", "A cloak can simply keep you warm or grant you wondrous powers should you find a magical one.", "_t")
-t("On head", "On head", "_t")
-t("You can wear helmets or crowns on your head.", "You can wear helmets or crowns on your head.", "_t")
-t("Around waist", "Around waist", "_t")
-t("Belts are worn around your waist.", "Belts are worn around your waist.", "_t")
-t("On hands", "On hands", "_t")
-t("Various gloves can be worn on your hands.", "Various gloves can be worn on your hands.", "_t")
-t("On feet", "On feet", "_t")
-t("Sandals or boots can be worn on your feet.", "Sandals or boots can be worn on your feet.", "_t")
-t("Tool", "Tool", "_t")
-t("This is your readied tool, always available immediately.", "This is your readied tool, always available immediately.", "_t")
+t("A cloak can simply keep you warm or grant you wondrous powers should you find a magical one.", "Un manto puede simplemente mantenerte caliente o concederte poderes maravillosos si encuentras uno mágico.", "_t")
+t("On head", "En la cabeza", "_t")
+t("You can wear helmets or crowns on your head.", "Puedes usar cascos o coronas en la cabeza.", "_t")
+t("Around waist", "Alrededor de la cintura", "_t")
+t("Belts are worn around your waist.", "Las correas se llevan alrededor de tu cintura.", "_t")
+t("On hands", "En las manos", "_t")
+t("Various gloves can be worn on your hands.", "Se pueden usar varios guantes en las manos.", "_t")
+t("On feet", "De pie", "_t")
+t("Sandals or boots can be worn on your feet.", "Sandalias o botas se pueden usar en los pies.", "_t")
+t("Tool", "Herramienta", "_t")
+t("This is your readied tool, always available immediately.", "Esta es tu herramienta de lectura, siempre disponible inmediatamente.", "_t")
 t("Quiver", "Quiver", "_t")
-t("Your readied ammo.", "Your readied ammo.", "_t")
+t("Your readied ammo.", "Tu munición leída.", "_t")
 t("Socketed Gems", "Socketed Gems", "_t")
-t("Gems worn in/on the body, providing their worn bonuses.", "Gems worn in/on the body, providing their worn bonuses.", "_t")
-t("Second weapon set: In main hand", "Second weapon set: In main hand", "_t")
-t("Weapon Set 2: Most weapons are wielded in the main hand. Press 'x' to switch weapon sets.", "Weapon Set 2: Most weapons are wielded in the main hand. Press 'x' to switch weapon sets.", "_t")
-t("Second weapon set: In off hand", "Second weapon set: In off hand", "_t")
-t("Weapon Set 2: You can use shields or a second weapon in your off-hand, if you have the talents for it. Press 'x' to switch weapon sets.", "Weapon Set 2: You can use shields or a second weapon in your off-hand, if you have the talents for it. Press 'x' to switch weapon sets.", "_t")
-t("Second weapon set: psionic focus", "Second weapon set: psionic focus", "_t")
-t("Weapon Set 2: Object held in your telekinetic grasp. It can be a weapon or some other item to provide a benefit to your psionic powers. Press 'x' to switch weapon sets.", "Weapon Set 2: Object held in your telekinetic grasp. It can be a weapon or some other item to provide a benefit to your psionic powers. Press 'x' to switch weapon sets.", "_t")
-t("Second weapon set: Quiver", "Second weapon set: Quiver", "_t")
-t("Weapon Set 2: Your readied ammo.", "Weapon Set 2: Your readied ammo.", "_t")
-t("Swift Hands", "Swift Hands", "_t")
-t("List of items that can be instantly used by swift hands.", "List of items that can be instantly used by swift hands.", "_t")
-t("Strength", "Strength", "stat name")
-t("str", "str", "stat short_name")
-t("Strength defines your character's ability to apply physical force. It increases your melee damage, damage done with heavy weapons, your chance to resist physical effects, and carrying capacity.", "Strength defines your character's ability to apply physical force. It increases your melee damage, damage done with heavy weapons, your chance to resist physical effects, and carrying capacity.", "_t")
-t("Dexterity", "Dexterity", "stat name")
-t("dex", "dex", "stat short_name")
-t("Dexterity defines your character's ability to be agile and alert. It increases your chance to hit, your ability to avoid attacks, and your damage with light or ranged weapons.", "Dexterity defines your character's ability to be agile and alert. It increases your chance to hit, your ability to avoid attacks, and your damage with light or ranged weapons.", "_t")
-t("Magic", "Magic", "stat name")
+t("Gems worn in/on the body, providing their worn bonuses.", "Gemas gastadas en / en el cuerpo, proporcionando sus bonos usados.", "_t")
+t("Second weapon set: In main hand", "Segundo conjunto de armas: en la mano principal", "_t")
+t("Second weapon set: In off hand", "Segundo conjunto de armas: en la mano", "_t")
+t("Second weapon set: psionic focus", "Segundo conjunto de armas: enfoque tóxico", "_t")
+t("Second weapon set: Quiver", "Segundo juego de armas: Quiver", "_t")
+t("Weapon Set 2: Your readied ammo.", "Juego de arma 2: Tu munición leída.", "_t")
+t("Swift Hands", "Manos giratorias", "_t")
+t("List of items that can be instantly used by swift hands.", "Lista de artículos que pueden ser utilizados instantáneamente por manos rápidas.", "_t")
+t("Strength", "Fuerza", "stat name")
+t("str", "fuer", "stat short_name")
+t("Strength defines your character's ability to apply physical force. It increases your melee damage, damage done with heavy weapons, your chance to resist physical effects, and carrying capacity.", "La fuerza define la capacidad de su personaje para aplicar la fuerza física. Aumenta su daño meleo, daño causado con armas pesadas, su oportunidad de resistir los efectos físicos y la capacidad de carga.", "_t")
+t("Dexterity", "Destreza", "stat name")
+t("dex", "des", "stat short_name")
+t("Dexterity defines your character's ability to be agile and alert. It increases your chance to hit, your ability to avoid attacks, and your damage with light or ranged weapons.", "La destreza define la capacidad de su personaje para ser ágil y alerta. Aumenta su oportunidad de golpear, su capacidad de evitar ataques, y su daño con armas ligeras o variadas.", "_t")
+t("Magic", "Magia", "stat name")
 t("mag", "mag", "stat short_name")
-t("Magic defines your character's ability to manipulate the magical energy of the world. It increases your spell power, and the effect of spells and other magic items.", "Magic defines your character's ability to manipulate the magical energy of the world. It increases your spell power, and the effect of spells and other magic items.", "_t")
-t("Willpower", "Willpower", "stat name")
-t("wil", "wil", "stat short_name")
-t("Willpower defines your character's ability to concentrate. It increases your mana, stamina and PSI capacity, and your chance to resist mental attacks.", "Willpower defines your character's ability to concentrate. It increases your mana, stamina and PSI capacity, and your chance to resist mental attacks.", "_t")
-t("Cunning", "Cunning", "stat name")
-t("cun", "cun", "stat short_name")
-t("Cunning defines your character's ability to learn, think, and react. It allows you to learn many worldly abilities, and increases your mental capabilities and chance of critical hits.", "Cunning defines your character's ability to learn, think, and react. It allows you to learn many worldly abilities, and increases your mental capabilities and chance of critical hits.", "_t")
-t("Constitution", "Constitution", "stat name")
+t("Magic defines your character's ability to manipulate the magical energy of the world. It increases your spell power, and the effect of spells and other magic items.", "Magic define la capacidad de tu personaje para manipular la energía mágica del mundo. Aumenta tu poder de hechizo, y el efecto de los hechizos y otros elementos mágicos.", "_t")
+t("Willpower", "Voluntad", "stat name")
+t("wil", "vol", "stat short_name")
+t("Willpower defines your character's ability to concentrate. It increases your mana, stamina and PSI capacity, and your chance to resist mental attacks.", "Willpower define la capacidad de tu personaje para concentrarte. Aumenta su capacidad de maná, resistencia y PSI, y su oportunidad de resistir ataques mentales.", "_t")
+t("Cunning", "Astucia", "stat name")
+t("cun", "ast", "stat short_name")
+t("Cunning defines your character's ability to learn, think, and react. It allows you to learn many worldly abilities, and increases your mental capabilities and chance of critical hits.", "Cunning define la capacidad de tu personaje para aprender, pensar y reaccionar. Le permite aprender muchas habilidades mundanas, y aumenta sus capacidades mentales y posibilidades de éxitos críticos.", "_t")
+t("Constitution", "Constitución", "stat name")
 t("con", "con", "stat short_name")
-t("Constitution defines your character's ability to withstand and resist damage. It increases your maximum life and physical resistance.", "Constitution defines your character's ability to withstand and resist damage. It increases your maximum life and physical resistance.", "_t")
+t("Constitution defines your character's ability to withstand and resist damage. It increases your maximum life and physical resistance.", "La Constitución define la capacidad de su personaje para soportar y resistir el daño. Aumenta su vida máxima y resistencia física.", "_t")
 t("Luck", "Luck", "stat name")
-t("lck", "lck", "stat short_name")
-t("Luck defines your character's fortune when dealing with unknown events. It increases your critical strike chance, your chance of random encounters, ...", "Luck defines your character's fortune when dealing with unknown events. It increases your critical strike chance, your chance of random encounters, ...", "_t")
-t("All kinds of weapons", "All kinds of weapons", "_t")
-t("All kinds of armours", "All kinds of armours", "_t")
-t("Rings and Amulets", "Rings and Amulets", "_t")
+t("lck", "ick", "stat short_name")
+t("Luck defines your character's fortune when dealing with unknown events. It increases your critical strike chance, your chance of random encounters, ...", "La suerte define la fortuna de tu personaje cuando se trata de eventos desconocidos. Aumenta su oportunidad de huelga crítica, su oportunidad de encuentros aleatorios, ...", "_t")
+t("All kinds of weapons", "Todo tipo de armas", "_t")
+t("All kinds of armours", "Todo tipo de armaduras", "_t")
+t("Rings and Amulets", "Anillos y amuletos", "_t")
 t("Gems", "Gems", "_t")
-t("Infusions, Runes, ...", "Infusions, Runes, ...", "_t")
+t("Infusions, Runes, ...", "Infusiones, Runes, ...", "_t")
 t("Tinkers", "Tinkers", "_t")
-t("Miscellaneous", "Miscellaneous", "_t")
-t("Quest and plot related items", "Quest and plot related items", "_t")
-t("Transmogrification Chest", "Transmogrification Chest", "_t")
-t("All", "All", "_t")
+t("Miscellaneous", "Varios", "_t")
+t("Quest and plot related items", "Búsqueda y trama artículos relacionados", "_t")
+t("Transmogrification Chest", "Chest de transmogrificación", "_t")
+t("All", "Todos", "_t")
 --]==]
 
 ------------------------------------------------
@@ -1241,32 +1238,32 @@ section "mod-tome/data/resources.lua"
 
 -- new text
 --[==[
-t("Air", "Air", "_t")
-t("Air capacity in your lungs. Entities that need not breathe are not affected.", "Air capacity in your lungs. Entities that need not breathe are not affected.", "_t")
-t("Stamina", "Stamina", "_t")
-t("Stamina represents your physical fatigue.  Most physical abilities consume it.", "Stamina represents your physical fatigue.  Most physical abilities consume it.", "_t")
+t("Air", "Aire", "_t")
+t("Air capacity in your lungs. Entities that need not breathe are not affected.", "Capacidad de aire en los pulmones. Las entidades que no necesitan respirar no se ven afectadas.", "_t")
+t("Stamina", "Resistencia", "_t")
+t("Stamina represents your physical fatigue.  Most physical abilities consume it.", "La resistencia representa tu fatiga física. La mayoría de las habilidades físicas lo consumen.", "_t")
 t("Mana", "Mana", "_t")
-t("Mana represents your reserve of magical energies. Most spells cast consume mana and each sustained spell reduces your maximum mana.", "Mana represents your reserve of magical energies. Most spells cast consume mana and each sustained spell reduces your maximum mana.", "_t")
-t("Equilibrium", "Equilibrium", "_t")
-t("Equilibrium represents your standing in the grand balance of nature. The closer it is to 0 the more balanced you are. Being out of equilibrium will adversely affect your ability to use Wild Gifts.", "Equilibrium represents your standing in the grand balance of nature. The closer it is to 0 the more balanced you are. Being out of equilibrium will adversely affect your ability to use Wild Gifts.", "_t")
-t("%d (%d%%%% fail)", "%d (%d%%%% fail)", "tformat")
-t("%d(fail: %s)", "%d(fail: %s)", "tformat")
+t("Mana represents your reserve of magical energies. Most spells cast consume mana and each sustained spell reduces your maximum mana.", "Mana representa tu reserva de energías mágicas. La mayoría de los hechizos lanzado consume maná y cada hechizo sostenido reduce su maná máximo.", "_t")
+t("Equilibrium", "Equilibrio", "_t")
+t("Equilibrium represents your standing in the grand balance of nature. The closer it is to 0 the more balanced you are. Being out of equilibrium will adversely affect your ability to use Wild Gifts.", "Equilibrio representa su posición en el gran equilibrio de la naturaleza. Cuanto más cerca está a 0 más equilibrado eres. Estar fuera de equilibrio afectará negativamente su capacidad de utilizar Regalos Salvajes.", "_t")
+t("%d (%d%%%% fail)", "¿Por qué", "tformat")
+t("%d(fail: %s)", " PH0 (fail:   PH1  )", "tformat")
 t("Vim", "Vim", "_t")
-t("Vim represents the amount of life energy/souls you have stolen. Each corruption talent requires some.", "Vim represents the amount of life energy/souls you have stolen. Each corruption talent requires some.", "_t")
-t("Positive energy", "Positive energy", "_t")
-t("Positive energy represents your reserve of positive power. It slowly increases.", "Positive energy represents your reserve of positive power. It slowly increases.", "_t")
-t("Negative energy", "Negative energy", "_t")
-t("Negative energy represents your reserve of negative power. It slowly increases.", "Negative energy represents your reserve of negative power. It slowly increases.", "_t")
-t("Hate", "Hate", "_t")
-t("Hate represents your soul's primal antipathy towards others.  It generally decreases whenever you have no outlet for your rage, and increases when you are damaged or destroy others.", "Hate represents your soul's primal antipathy towards others.  It generally decreases whenever you have no outlet for your rage, and increases when you are damaged or destroy others.", "_t")
+t("Vim represents the amount of life energy/souls you have stolen. Each corruption talent requires some.", "Vim representa la cantidad de energía de vida/almas que has robado. Cada talento de corrupción requiere algo.", "_t")
+t("Positive energy", "Energía positiva", "_t")
+t("Positive energy represents your reserve of positive power. It slowly increases.", "La energía positiva representa su reserva de poder positivo. Se incrementa lentamente.", "_t")
+t("Negative energy", "Energía negativa", "_t")
+t("Negative energy represents your reserve of negative power. It slowly increases.", "La energía negativa representa su reserva de energía negativa. Se incrementa lentamente.", "_t")
+t("Hate", "Odio", "_t")
+t("Hate represents your soul's primal antipathy towards others.  It generally decreases whenever you have no outlet for your rage, and increases when you are damaged or destroy others.", "El odio representa la antipatía primaria de tu alma hacia otros. Generalmente disminuye cuando no tienes salida para tu rabia, y aumenta cuando estás dañado o destruye a otros.", "_t")
 t("Paradox", "Paradox", "_t")
-t("Paradox represents how much damage you've done to the space-time continuum. A high Paradox score makes Chronomancy less reliable and more dangerous to use but also amplifies its effects.", "Paradox represents how much damage you've done to the space-time continuum. A high Paradox score makes Chronomancy less reliable and more dangerous to use but also amplifies its effects.", "_t")
-t("%d/%d (%d%%%%)", "%d/%d (%d%%%%)", "tformat")
-t("%d/%d(anom: %s)", "%d/%d(anom: %s)", "tformat")
+t("Paradox represents how much damage you've done to the space-time continuum. A high Paradox score makes Chronomancy less reliable and more dangerous to use but also amplifies its effects.", "La paradoja representa cuánto daño has hecho al continuo espacio-tiempo. Una puntuación alta paradoja hace que la cronomancia sea menos confiable y más peligroso para usar, pero también amplifica sus efectos.", "_t")
+t("%d/%d (%d%%%%)", " PH0                 %%%%)", "tformat")
+t("%d/%d(anom: %s)", " PH0        (anom:   PH2   )", "tformat")
 t("Psi", "Psi", "_t")
-t("Psi represents your reserve of psychic energy.", "Psi represents your reserve of psychic energy.", "_t")
-t("Souls", "Souls", "_t")
-t("This is the number of soul fragments you have extracted from your foes for your own use.", "This is the number of soul fragments you have extracted from your foes for your own use.", "_t")
+t("Psi represents your reserve of psychic energy.", "Psi representa tu reserva de energía psíquica.", "_t")
+t("Souls", "Almas", "_t")
+t("This is the number of soul fragments you have extracted from your foes for your own use.", "Este es el número de fragmentos de alma que has extraído de tus enemigos para tu propio uso.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -1622,115 +1619,115 @@ section "mod-tome/data/ingredients.lua"
 
 -- new text
 --[==[
-t("organic", "organic", "entity type")
-t("length of troll intestine", "length of troll intestine", "entity name")
-t("A length of troll intestines. Fortunately, the troll appears to have eaten nothing in some time.", "A length of troll intestines. Fortunately, the troll appears to have eaten nothing in some time.", "_t")
-t("Kindly empty it before returning.", "Kindly empty it before returning.", "_t")
-t("skeleton mage skull", "skeleton mage skull", "entity name")
-t("The skull of a skeleton mage. The eyes have stopped glowing... for now.", "The skull of a skeleton mage. The eyes have stopped glowing... for now.", "_t")
-t("If the eyes are still glowing, please bash it around a bit until they fade. I'll not have another one of those coming alive and wreaking havoc in my lab.", "If the eyes are still glowing, please bash it around a bit until they fade. I'll not have another one of those coming alive and wreaking havoc in my lab.", "_t")
-t("ritch stinger", "ritch stinger", "entity name")
-t("A ritch stinger, still glistening with venom.", "A ritch stinger, still glistening with venom.", "_t")
-t("Keep as much venom in it as possible.", "Keep as much venom in it as possible.", "_t")
-t("orc heart", "orc heart", "entity name")
-t("The heart of an orc. Perhaps surprisingly, it isn't green.", "The heart of an orc. Perhaps surprisingly, it isn't green.", "_t")
-t("If you can fetch me a still-beating orc heart, that would be even better. But you don't look like a master necromancer to me.", "If you can fetch me a still-beating orc heart, that would be even better. But you don't look like a master necromancer to me.", "_t")
-t("naga tongue", "naga tongue", "entity name")
-t("A severed naga tongue. It reeks of brine.", "A severed naga tongue. It reeks of brine.", "_t")
-t("Best results occur with tongues never tainted by profanity, so if you happen to know any saintly nagas...", "Best results occur with tongues never tainted by profanity, so if you happen to know any saintly nagas...", "_t")
-t("vial of greater demon bile", "vial of greater demon bile", "entity name")
-t("A vial of greater demon bile. It hurts your sinuses even with the vial's stopper firmly in place.", "A vial of greater demon bile. It hurts your sinuses even with the vial's stopper firmly in place.", "_t")
-t("Don't drink it, even if it tells you to.", "Don't drink it, even if it tells you to.", "_t")
-t("pouch of bone giant dust", "pouch of bone giant dust", "entity name")
-t("Once the magics animating the bone giant fled, its remains crumbled to dust. It might be your imagination, but it looks like the dust occasionally stirs on its own.", "Once the magics animating the bone giant fled, its remains crumbled to dust. It might be your imagination, but it looks like the dust occasionally stirs on its own.", "_t")
-t("Never, ever to be confused with garlic powder. Trust me.", "Never, ever to be confused with garlic powder. Trust me.", "_t")
-t("ice ant stinger", "ice ant stinger", "entity name")
-t("Wickedly sharp and still freezing cold.", "Wickedly sharp and still freezing cold.", "_t")
-t("If you've the means to eliminate the little venom problem, these make miraculous instant drink-chilling straws.", "If you've the means to eliminate the little venom problem, these make miraculous instant drink-chilling straws.", "_t")
-t("minotaur nose", "minotaur nose", "entity name")
-t("The severed front half of a minotaur snout, ring and all.", "The severed front half of a minotaur snout, ring and all.", "_t")
-t("You'll need to find one with a ring, preferably an expensive one.", "You'll need to find one with a ring, preferably an expensive one.", "_t")
-t("vial of elder vampire blood", "vial of elder vampire blood", "entity name")
-t("Thick, clotted, and foul. The vial is cold to the touch.", "Thick, clotted, and foul. The vial is cold to the touch.", "_t")
-t("Once you've gotten it, cross some moving water on your way back.", "Once you've gotten it, cross some moving water on your way back.", "_t")
-t("multi-hued wyrm scale", "multi-hued wyrm scale", "entity name")
-t("Beautiful and nearly impregnable. Separating it from the dragon must have been hard work.", "Beautiful and nearly impregnable. Separating it from the dragon must have been hard work.", "_t")
-t("If you think collecting one of these is hard, try liquefying one.", "If you think collecting one of these is hard, try liquefying one.", "_t")
-t("giant spider spinneret", "giant spider spinneret", "entity name")
-t("An ugly, ripped-out chunk of giant spider. Bits of silk protrude from an orifice.", "An ugly, ripped-out chunk of giant spider. Bits of silk protrude from an orifice.", "_t")
-t("The spiders in your barn won't do. You'll know a giant spider when you see one, though they're rare in Maj'Eyal.", "The spiders in your barn won't do. You'll know a giant spider when you see one, though they're rare in Maj'Eyal.", "_t")
-t("honey tree root", "honey tree root", "entity name")
-t("The severed end of one of a honey tree's roots. It wriggles around occasionally, seemingly unwilling to admit that it's dead... and a *plant*.", "The severed end of one of a honey tree's roots. It wriggles around occasionally, seemingly unwilling to admit that it's dead... and a *plant*.", "_t")
-t("Keep a firm grip on it. These things will dig themselves right back into the ground if you drop them.", "Keep a firm grip on it. These things will dig themselves right back into the ground if you drop them.", "_t")
-t("bloated horror heart", "bloated horror heart", "entity name")
-t("Diseased-looking and reeking. It seems to be decaying as you watch.", "Diseased-looking and reeking. It seems to be decaying as you watch.", "_t")
-t("Don't worry if it dissolves. Just don't get any on you.", "Don't worry if it dissolves. Just don't get any on you.", "_t")
-t("electric eel tail", "electric eel tail", "entity name")
+t("organic", "orgánico", "entity type")
+t("length of troll intestine", "longitud del intestino del troll", "entity name")
+t("A length of troll intestines. Fortunately, the troll appears to have eaten nothing in some time.", "Una longitud de intestinos de troll. Afortunadamente, el troll parece no haber comido nada en algún momento.", "_t")
+t("Kindly empty it before returning.", "Amablemente vacía antes de regresar.", "_t")
+t("skeleton mage skull", "cráneo de mage esqueleto", "entity name")
+t("The skull of a skeleton mage. The eyes have stopped glowing... for now.", "El cráneo de un esqueleto. Los ojos han dejado de brillar... por ahora.", "_t")
+t("If the eyes are still glowing, please bash it around a bit until they fade. I'll not have another one of those coming alive and wreaking havoc in my lab.", "Si los ojos siguen brillando, por favor, ponlo alrededor un poco hasta que se desvanecen. No tendré otro de esos que están vivos y causan estragos en mi laboratorio.", "_t")
+t("ritch stinger", "ritch aguijón", "entity name")
+t("A ritch stinger, still glistening with venom.", "Un aguijón, aún brillando con veneno.", "_t")
+t("Keep as much venom in it as possible.", "Mantén tanto veneno en él como sea posible.", "_t")
+t("orc heart", "corazón", "entity name")
+t("The heart of an orc. Perhaps surprisingly, it isn't green.", "El corazón de un orco. Tal vez sorprendentemente, no es verde.", "_t")
+t("If you can fetch me a still-beating orc heart, that would be even better. But you don't look like a master necromancer to me.", "Si puedes traerme un corazón de orc que aún come, eso sería aún mejor. Pero no pareces un necromancer maestro para mí.", "_t")
+t("naga tongue", "lengua naga", "entity name")
+t("A severed naga tongue. It reeks of brine.", "Una lengua de naga cortada. Apesta a Brine.", "_t")
+t("Best results occur with tongues never tainted by profanity, so if you happen to know any saintly nagas...", "Los mejores resultados ocurren con lenguas nunca contaminadas por la profanidad, así que si resultas conocer cualquier nagas santa...", "_t")
+t("vial of greater demon bile", "vial de mayor bilia demoníaca", "entity name")
+t("A vial of greater demon bile. It hurts your sinuses even with the vial's stopper firmly in place.", "Un frasco de mayor bilia de demonios. Duele tus senos incluso con el tapón del frasco firmemente en su lugar.", "_t")
+t("Don't drink it, even if it tells you to.", "No lo bebas, aunque te lo diga.", "_t")
+t("pouch of bone giant dust", "bolsa de polvo gigante de hueso", "entity name")
+t("Once the magics animating the bone giant fled, its remains crumbled to dust. It might be your imagination, but it looks like the dust occasionally stirs on its own.", "Una vez que las magias animando al gigante huyeron, sus restos se desmoronaron al polvo. Puede ser tu imaginación, pero parece que el polvo ocasionalmente se mueve por sí mismo.", "_t")
+t("Never, ever to be confused with garlic powder. Trust me.", "Nunca, para estar confundido con polvo de ajo. Confía en mí.", "_t")
+t("ice ant stinger", "hielo hormiguero", "entity name")
+t("Wickedly sharp and still freezing cold.", "Wickedly sharp and still freeze cold.", "_t")
+t("If you've the means to eliminate the little venom problem, these make miraculous instant drink-chilling straws.", "Si usted tiene los medios para eliminar el pequeño problema del veneno, estos hacen pajitas milagrosas instantáneas.", "_t")
+t("minotaur nose", "nariz minotauro", "entity name")
+t("The severed front half of a minotaur snout, ring and all.", "El frente cortado medio de un hocico de minotauro, anillo y todo.", "_t")
+t("You'll need to find one with a ring, preferably an expensive one.", "Necesitarás encontrar uno con un anillo, preferiblemente uno caro.", "_t")
+t("vial of elder vampire blood", "vial de sangre de vampiro anciano", "entity name")
+t("Thick, clotted, and foul. The vial is cold to the touch.", "Ladrón, obstruido y sucio. El frasco es frío al tacto.", "_t")
+t("Once you've gotten it, cross some moving water on your way back.", "Una vez que lo hayas conseguido, cruza un poco de agua en movimiento de regreso.", "_t")
+t("multi-hued wyrm scale", "escama de dragón multicolor", "entity name")
+t("Beautiful and nearly impregnable. Separating it from the dragon must have been hard work.", "Hermosa y casi inexpugnable. Separarlo del dragón debe haber sido un trabajo duro.", "_t")
+t("If you think collecting one of these is hard, try liquefying one.", "Si piensas que recoger uno de estos es duro, intenta licuar uno.", "_t")
+t("giant spider spinneret", "gigante araña hilandera", "entity name")
+t("An ugly, ripped-out chunk of giant spider. Bits of silk protrude from an orifice.", "Un feo pedazo de araña gigante. Un poco de protrusión de seda de un orificio.", "_t")
+t("The spiders in your barn won't do. You'll know a giant spider when you see one, though they're rare in Maj'Eyal.", "Las arañas de tu granero no lo harán. Conocerás una araña gigante cuando la veas, aunque son raras en Maj'Eyal.", "_t")
+t("honey tree root", "árbol de miel", "entity name")
+t("The severed end of one of a honey tree's roots. It wriggles around occasionally, seemingly unwilling to admit that it's dead... and a *plant*.", "El extremo cortado de una de las raíces de un árbol de miel. A veces, parece que no quiere admitir que está muerto... y una planta.", "_t")
+t("Keep a firm grip on it. These things will dig themselves right back into the ground if you drop them.", "Mantenga un control firme en él. Estas cosas se cavarán de vuelta al suelo si las dejas caer.", "_t")
+t("bloated horror heart", "corazón de terror hinchado", "entity name")
+t("Diseased-looking and reeking. It seems to be decaying as you watch.", "Parece enfermo y apesta. Parece estar decayendo mientras miras.", "_t")
+t("Don't worry if it dissolves. Just don't get any on you.", "No te preocupes si se disuelve. No te metas.", "_t")
+t("electric eel tail", "eel eléctrico cola", "entity name")
 t("Slimy, wriggling, and crackling with electricity.", "Slimy, wriggling, and crackling with electricity.", "_t")
-t("I know, I know. Where does the eel stop and the tail start? It doesn't much matter. The last ten inches or so should do nicely.", "I know, I know. Where does the eel stop and the tail start? It doesn't much matter. The last ten inches or so should do nicely.", "_t")
-t("vial of squid ink", "vial of squid ink", "entity name")
-t("Thick, black and opaque.", "Thick, black and opaque.", "_t")
-t("However annoying this will be for you to gather, I promise that the reek it produces in my lab will prove even more annoying.", "However annoying this will be for you to gather, I promise that the reek it produces in my lab will prove even more annoying.", "_t")
-t("bear paw", "bear paw", "entity name")
-t("Large and hairy with flesh-rending claws. It smells slightly of fish.", "Large and hairy with flesh-rending claws. It smells slightly of fish.", "_t")
-t("You'd think I could get one of these from a local hunter, but they've had no luck. Don't get eaten.", "You'd think I could get one of these from a local hunter, but they've had no luck. Don't get eaten.", "_t")
-t("ice wyrm tooth", "ice wyrm tooth", "entity name")
-t("This tooth has been blunted with age, but still looks more than capable of doing its job.", "This tooth has been blunted with age, but still looks more than capable of doing its job.", "_t")
-t("Ice Wyrms lose teeth fairly often, so you might get lucky and not have to do battle with one. But dress warm just in case.", "Ice Wyrms lose teeth fairly often, so you might get lucky and not have to do battle with one. But dress warm just in case.", "_t")
-t("red crystal shard", "red crystal shard", "entity name")
-t("Tiny flames still dance ethereally inside this transparent crystal, though its heat seems to have faded... you hope.", "Tiny flames still dance ethereally inside this transparent crystal, though its heat seems to have faded... you hope.", "_t")
-t("I hear these can be found in a cave near Elvala. I also hear that they can cause you to spontaneously combust, so no need to explain if you come back hideously scarred.", "I hear these can be found in a cave near Elvala. I also hear that they can cause you to spontaneously combust, so no need to explain if you come back hideously scarred.", "_t")
-t("vial of fire wyrm saliva", "vial of fire wyrm saliva", "entity name")
-t("Clear and slightly thicker than water. It froths when shaken.", "Clear and slightly thicker than water. It froths when shaken.", "_t")
-t("Keep this stuff well away from your campfire unless you want me to have to find a new, more alive adventurer.", "Keep this stuff well away from your campfire unless you want me to have to find a new, more alive adventurer.", "_t")
-t("chunk of ghoul flesh", "chunk of ghoul flesh", "entity name")
-t("Rotten and reeking. It still twitches occasionally.", "Rotten and reeking. It still twitches occasionally.", "_t")
-t("Unfortunately for you, the chunks that regularly fall off ghouls won't do. I need one freshly carved off.", "Unfortunately for you, the chunks that regularly fall off ghouls won't do. I need one freshly carved off.", "_t")
-t("mummified bone", "mummified bone", "entity name")
-t("Bits of dry flesh still cling to this ancient bone.", "Bits of dry flesh still cling to this ancient bone.", "_t")
-t("That is, a bone from a corpse that's undergone mummification. Actually, any bit of the body would do, but the bones are the only parts you're certain to find when you kick a mummy apart. I recommend finding one that doesn't apply curses.", "That is, a bone from a corpse that's undergone mummification. Actually, any bit of the body would do, but the bones are the only parts you're certain to find when you kick a mummy apart. I recommend finding one that doesn't apply curses.", "_t")
-t("sandworm tooth", "sandworm tooth", "entity name")
-t("Tiny, dark grey, and wickedly sharp. It looks more like rock than bone.", "Tiny, dark grey, and wickedly sharp. It looks more like rock than bone.", "_t")
-t("Yes, sandworms have teeth. They're just very small and well back from where you're ever likely to see them and live.", "Yes, sandworms have teeth. They're just very small and well back from where you're ever likely to see them and live.", "_t")
-t("black mamba head", "black mamba head", "entity name")
-t("Unlike the rest of the black mamba, the severed head isn't moving.", "Unlike the rest of the black mamba, the severed head isn't moving.", "_t")
-t("If you get bitten, I can save your life if you still manage to bring back the head... and if it happens within about a minute from my door. Good luck.", "If you get bitten, I can save your life if you still manage to bring back the head... and if it happens within about a minute from my door. Good luck.", "_t")
-t("snow giant kidney", "snow giant kidney", "entity name")
-t("As unpleasant-looking as any exposed organ.", "As unpleasant-looking as any exposed organ.", "_t")
-t("I suggest not killing the snow giant by impaling it through the kidneys. You'll just have to find another.", "I suggest not killing the snow giant by impaling it through the kidneys. You'll just have to find another.", "_t")
-t("storm wyrm claw", "storm wyrm claw", "entity name")
-t("Bluish and wickedly sharp. It makes your arm hair stand on end.", "Bluish and wickedly sharp. It makes your arm hair stand on end.", "_t")
-t("I recommend severing one of their dewclaws. They're smaller and easier to remove, but they've never been blunted by use, so be careful you don't poke yourself. Oh yes, and don't get eaten.", "I recommend severing one of their dewclaws. They're smaller and easier to remove, but they've never been blunted by use, so be careful you don't poke yourself. Oh yes, and don't get eaten.", "_t")
-t("green worm", "green worm", "entity name")
-t("A dead green worm, painstakingly separated from its tangle of companions.", "A dead green worm, painstakingly separated from its tangle of companions.", "_t")
-t("Try to get any knots out before returning. Wear gloves.", "Try to get any knots out before returning. Wear gloves.", "_t")
-t("vial of wight ectoplasm", "vial of wight ectoplasm", "entity name")
-t("Cloudy and thick. Only by bottling it can you prevent it from evaporating within minutes.", "Cloudy and thick. Only by bottling it can you prevent it from evaporating within minutes.", "_t")
-t("If you ingest any of this, never mind coming back here. Please.", "If you ingest any of this, never mind coming back here. Please.", "_t")
-t("xorn fragment", "xorn fragment", "entity name")
-t("Looks much like any other rock, though this one was recently sentient and trying to murder you.", "Looks much like any other rock, though this one was recently sentient and trying to murder you.", "_t")
-t("Avoid fragments that contained the xorn's eyes. You've no idea how unpleasant it is being watched by your ingredients.", "Avoid fragments that contained the xorn's eyes. You've no idea how unpleasant it is being watched by your ingredients.", "_t")
-t("warg claw", "warg claw", "entity name")
-t("Unpleasantly large and sharp for a canine's claw.", "Unpleasantly large and sharp for a canine's claw.", "_t")
-t("My usual ingredient gatherers draw the line at hunting wargs. Feel free to mock them on your way back.", "My usual ingredient gatherers draw the line at hunting wargs. Feel free to mock them on your way back.", "_t")
-t("pouch of faeros ash", "pouch of faeros ash", "entity name")
-t("Unremarkable grey ash.", "Unremarkable grey ash.", "_t")
-t("They're creatures of pure flame, and likely of extraplanar origin, but the ash of objects consumed by their fire has remarkable properties.", "They're creatures of pure flame, and likely of extraplanar origin, but the ash of objects consumed by their fire has remarkable properties.", "_t")
-t("wretchling eyeball", "wretchling eyeball", "entity name")
-t("Small and bloodshot. Its dead gaze still burns your skin.", "Small and bloodshot. Its dead gaze still burns your skin.", "_t")
-t("Evil little things, wretchlings. Feel free to kill as many as you can, though I just need the one intact eyeball.", "Evil little things, wretchlings. Feel free to kill as many as you can, though I just need the one intact eyeball.", "_t")
-t("faerlhing fang", "faerlhing fang", "entity name")
-t("It still drips venom and crackles with magical energy.", "It still drips venom and crackles with magical energy.", "_t")
-t("I've lost a number of adventurers to this one, but I'm sure you'll be fine.", "I've lost a number of adventurers to this one, but I'm sure you'll be fine.", "_t")
-t("vampire lord fang", "vampire lord fang", "entity name")
-t("Brilliantly white, but surrounded by blackest magic.", "Brilliantly white, but surrounded by blackest magic.", "_t")
-t("You should definitely consider not pricking yourself with it.", "You should definitely consider not pricking yourself with it.", "_t")
-t("hummerhorn wing", "hummerhorn wing", "entity name")
-t("Translucent and delicate-looking, but surprisingly durable.", "Translucent and delicate-looking, but surprisingly durable.", "_t")
-t("If you've not encountered hummerhorns before, they're like wasps, only gigantic and lethal.", "If you've not encountered hummerhorns before, they're like wasps, only gigantic and lethal.", "_t")
-t("pouch of luminous horror dust", "pouch of luminous horror dust", "entity name")
-t("Weightless and glowing; not your usual dust.", "Weightless and glowing; not your usual dust.", "_t")
-t("Not to be confused with radiant horrors. If you encounter the latter, then I suppose there are always more adventurers.", "Not to be confused with radiant horrors. If you encounter the latter, then I suppose there are always more adventurers.", "_t")
+t("I know, I know. Where does the eel stop and the tail start? It doesn't much matter. The last ten inches or so should do nicely.", "Lo sé, lo sé. ¿Dónde se para el anguila y empieza la cola? No importa mucho. Las últimas diez pulgadas o así debería hacerlo bien.", "_t")
+t("vial of squid ink", "vial de tinta calamar", "entity name")
+t("Thick, black and opaque.", "Esposa, negra y opaca.", "_t")
+t("However annoying this will be for you to gather, I promise that the reek it produces in my lab will prove even more annoying.", "Sin embargo molesto que esto sea para que se reúnan, prometo que la búsqueda que produce en mi laboratorio resultará aún más molesto.", "_t")
+t("bear paw", "oso paw", "entity name")
+t("Large and hairy with flesh-rending claws. It smells slightly of fish.", "Grande y peludo con garras de carne. Huele un poco a pescado.", "_t")
+t("You'd think I could get one of these from a local hunter, but they've had no luck. Don't get eaten.", "Creerías que podría conseguir uno de estos de un cazador local, pero no han tenido suerte. No te comas.", "_t")
+t("ice wyrm tooth", "hielo wyrm dientes", "entity name")
+t("This tooth has been blunted with age, but still looks more than capable of doing its job.", "Este diente ha sido rozado con la edad, pero todavía parece más que capaz de hacer su trabajo.", "_t")
+t("Ice Wyrms lose teeth fairly often, so you might get lucky and not have to do battle with one. But dress warm just in case.", "Hielo Wyrms pierde los dientes bastante a menudo, así que podrías tener suerte y no tener que luchar con uno. Pero vestido caliente por si acaso.", "_t")
+t("red crystal shard", "cristal rojo duro", "entity name")
+t("Tiny flames still dance ethereally inside this transparent crystal, though its heat seems to have faded... you hope.", "Las pequeñas llamas siguen bailando en el interior de este cristal transparente, aunque su calor parece haberse desvanecido... esperas.", "_t")
+t("I hear these can be found in a cave near Elvala. I also hear that they can cause you to spontaneously combust, so no need to explain if you come back hideously scarred.", "He oído que se pueden encontrar en una cueva cerca de Elvala. También oigo que pueden causar que te combustáis espontáneamente, así que no hay necesidad de explicar si regresas horriblemente asustado.", "_t")
+t("vial of fire wyrm saliva", "vial de fuego wyrm saliva", "entity name")
+t("Clear and slightly thicker than water. It froths when shaken.", "Clara y ligeramente más gruesa que el agua. Se frota cuando se sacude.", "_t")
+t("Keep this stuff well away from your campfire unless you want me to have to find a new, more alive adventurer.", "Mantenga esto lejos de su fogata a menos que quiera que tenga que encontrar un nuevo aventurero más vivo.", "_t")
+t("chunk of ghoul flesh", "pedazo de carne hueca", "entity name")
+t("Rotten and reeking. It still twitches occasionally.", "Rotten y reeking. Todavía se mueve ocasionalmente.", "_t")
+t("Unfortunately for you, the chunks that regularly fall off ghouls won't do. I need one freshly carved off.", "Desafortunadamente para ti, los pedazos que caen regularmente no harán. Necesito una recién tallada.", "_t")
+t("mummified bone", "hueso momificado", "entity name")
+t("Bits of dry flesh still cling to this ancient bone.", "Los trozos de carne seca todavía se aferran a este hueso antiguo.", "_t")
+t("That is, a bone from a corpse that's undergone mummification. Actually, any bit of the body would do, but the bones are the only parts you're certain to find when you kick a mummy apart. I recommend finding one that doesn't apply curses.", "Es decir, un hueso de un cadáver que está bajo momificación. En realidad, cualquier parte del cuerpo lo haría, pero los huesos son las únicas partes que estás seguro de encontrar cuando pateas a una momia separada. Recomiendo encontrar uno que no aplique maldiciones.", "_t")
+t("sandworm tooth", "dientes de gusano de arena", "entity name")
+t("Tiny, dark grey, and wickedly sharp. It looks more like rock than bone.", "Tiny, gris oscuro, y perversamente afilado. Parece más como roca que hueso.", "_t")
+t("Yes, sandworms have teeth. They're just very small and well back from where you're ever likely to see them and live.", "Sí, las lombrices tienen dientes. Son muy pequeñas y bien de vuelta desde donde es probable que los veas y vivas.", "_t")
+t("black mamba head", "cabeza negra de mamba", "entity name")
+t("Unlike the rest of the black mamba, the severed head isn't moving.", "A diferencia del resto de la mamba negra, la cabeza cortada no se mueve.", "_t")
+t("If you get bitten, I can save your life if you still manage to bring back the head... and if it happens within about a minute from my door. Good luck.", "Si te pican, puedo salvar tu vida si aún logras traer la cabeza... y si sucede a un minuto de mi puerta. Buena suerte.", "_t")
+t("snow giant kidney", "riñón gigante de nieve", "entity name")
+t("As unpleasant-looking as any exposed organ.", "Tan desagradable como cualquier órgano expuesto.", "_t")
+t("I suggest not killing the snow giant by impaling it through the kidneys. You'll just have to find another.", "Sugiero no matar al gigante de la nieve impalándolo a través de los riñones. Tendrás que encontrar otro.", "_t")
+t("storm wyrm claw", "tormenta wyrm garra", "entity name")
+t("Bluish and wickedly sharp. It makes your arm hair stand on end.", "Deslumbrante y malhumorado. Hace que el pelo del brazo se pare al final.", "_t")
+t("I recommend severing one of their dewclaws. They're smaller and easier to remove, but they've never been blunted by use, so be careful you don't poke yourself. Oh yes, and don't get eaten.", "Recomiendo separar uno de sus defectos. Son más pequeñas y más fáciles de eliminar, pero nunca han sido rotulados por el uso, así que ten cuidado de que no te atropellas. Sí, y no te comas.", "_t")
+t("green worm", "gusano verde", "entity name")
+t("A dead green worm, painstakingly separated from its tangle of companions.", "Un gusano verde muerto, cuidadosamente separado de su enredo de compañeros.", "_t")
+t("Try to get any knots out before returning. Wear gloves.", "Trate de sacar nudos antes de regresar. Use guantes.", "_t")
+t("vial of wight ectoplasm", "frasco de ectoplasma de wight", "entity name")
+t("Cloudy and thick. Only by bottling it can you prevent it from evaporating within minutes.", "Nublado y grueso. Sólo embotellando puede evitar que se evapore en minutos.", "_t")
+t("If you ingest any of this, never mind coming back here. Please.", "Si ingieres algo de esto, no importa volver aquí. Por favor.", "_t")
+t("xorn fragment", "fragmento de xorn", "entity name")
+t("Looks much like any other rock, though this one was recently sentient and trying to murder you.", "Se parece mucho a cualquier otra roca, aunque esta fue recientemente sensible e intentando asesinarte.", "_t")
+t("Avoid fragments that contained the xorn's eyes. You've no idea how unpleasant it is being watched by your ingredients.", "Evite fragmentos que contienen los ojos del xorn. No tienes idea de lo desagradable que es estar vigilado por tus ingredientes.", "_t")
+t("warg claw", "garra de huargo", "entity name")
+t("Unpleasantly large and sharp for a canine's claw.", "Es desagradablemente grande y agudo para la garra de un canino.", "_t")
+t("My usual ingredient gatherers draw the line at hunting wargs. Feel free to mock them on your way back.", "Mis habituales coleccionistas de ingredientes dibujan la línea en las verrugas de caza. Siéntete libre de burlarte de ellos de regreso.", "_t")
+t("pouch of faeros ash", "bolsa de ceniza de faeros", "entity name")
+t("Unremarkable grey ash.", "Ceniza gris irremarcable.", "_t")
+t("They're creatures of pure flame, and likely of extraplanar origin, but the ash of objects consumed by their fire has remarkable properties.", "Son criaturas de llama pura, y probablemente de origen extraplanar, pero la ceniza de los objetos consumidos por su fuego tiene propiedades notables.", "_t")
+t("wretchling eyeball", "bola de ojos miserable", "entity name")
+t("Small and bloodshot. Its dead gaze still burns your skin.", "Pequeño y sangriento. Su mirada muerta aún quema tu piel.", "_t")
+t("Evil little things, wretchlings. Feel free to kill as many as you can, though I just need the one intact eyeball.", "Pequeñas cosas malvadas, miserables. Siéntete libre de matar tantos como puedas, aunque necesito el globo ocular intacto.", "_t")
+t("faerlhing fang", "colmillo de faerlhing", "entity name")
+t("It still drips venom and crackles with magical energy.", "Todavía gotea veneno y grietas con energía mágica.", "_t")
+t("I've lost a number of adventurers to this one, but I'm sure you'll be fine.", "He perdido a varios aventureros a este, pero seguro que estarás bien.", "_t")
+t("vampire lord fang", "vampiro lord fang", "entity name")
+t("Brilliantly white, but surrounded by blackest magic.", "Brillantemente blanco, pero rodeado de magia negra.", "_t")
+t("You should definitely consider not pricking yourself with it.", "Definitivamente deberías considerar no pincharte con él.", "_t")
+t("hummerhorn wing", "ala de cuernozumbador", "entity name")
+t("Translucent and delicate-looking, but surprisingly durable.", "Translúcido y delicado, pero sorprendentemente duradero.", "_t")
+t("If you've not encountered hummerhorns before, they're like wasps, only gigantic and lethal.", "Si no has encontrado hummerhorns antes, son como avispas, sólo gigantesca y letal.", "_t")
+t("pouch of luminous horror dust", "bolsa de polvo de terror luminoso", "entity name")
+t("Weightless and glowing; not your usual dust.", "Impresionante y brillante; no su polvo habitual.", "_t")
+t("Not to be confused with radiant horrors. If you encounter the latter, then I suppose there are always more adventurers.", "No confundirse con horrores radiantes. Si te encuentras con este último, supongo que siempre hay más aventureros.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -7265,15 +7262,15 @@ section "mod-tome/data/talents.lua"
 
 -- new text
 --[==[
-t("#LIGHT_STEEL_BLUE#%s (Class Evolution)", "#LIGHT_STEEL_BLUE#%s (Class Evolution)", "tformat")
-t("#SANDY_BROWN#%s (Race Evolution)", "#SANDY_BROWN#%s (Race Evolution)", "tformat")
-t("a spell", "a spell", "_t")
-t("a mind power", "a mind power", "_t")
-t("a nature gift", "a nature gift", "_t")
-t("an antimagic ability", "an antimagic ability", "_t")
-t("a summon power", "a summon power", "_t")
-t("necromancy", "necromancy", "_t")
-t("usable during Aether Avatar", "usable during Aether Avatar", "_t")
+t("#LIGHT_STEEL_BLUE#%s (Class Evolution)", "#LIGHT STEEL BLUE#  PH0   (Class Evolution)", "tformat")
+t("#SANDY_BROWN#%s (Race Evolution)", "#SANDY BROWN# PH0   (Race Evolution)", "tformat")
+t("a spell", "un hechizo", "_t")
+t("a mind power", "un poder mental", "_t")
+t("a nature gift", "un regalo de naturaleza", "_t")
+t("an antimagic ability", "una habilidad antimagia", "_t")
+t("a summon power", "un poder de convocatoria", "_t")
+t("necromancy", "necromancia", "_t")
+t("usable during Aether Avatar", "usable durante Aether Avatar", "_t")
 --]==]
 
 ------------------------------------------------
@@ -10044,7 +10041,7 @@ section "mod-tome/data/timed_effects.lua"
 
 -- new text
 --[==[
-t("%s from %s", "%s from %s", "tformat")
+t("%s from %s", " PH0   de   PH1  ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -16913,30 +16910,30 @@ section "mod-tome/data/general/stores/basic.lua"
 
 -- new text
 --[==[
-t("heavy armour smith", "heavy armour smith", "entity name")
+t("heavy armour smith", "herrero de armadura pesada", "entity name")
 t("tanner", "tanner", "entity name")
-t("tailor", "tailor", "entity name")
-t("sword smith", "sword smith", "entity name")
+t("tailor", "sastrería", "entity name")
+t("sword smith", "espada herrero", "entity name")
 t("axe smith", "axe smith", "entity name")
 t("mindstar collector", "mindstar collector", "entity name")
 t("mace smith", "mace smith", "entity name")
-t("two handed weapons", "two handed weapons", "entity name")
-t("one handed weapons", "one handed weapons", "entity name")
-t("archery", "archery", "entity name")
-t("knife smith", "knife smith", "entity name")
-t("staff carver", "staff carver", "entity name")
-t("infusion store", "infusion store", "entity name")
+t("two handed weapons", "dos armas entregadas", "entity name")
+t("one handed weapons", "armas entregadas", "entity name")
+t("archery", "arco", "entity name")
+t("knife smith", "cuchillo herrero", "entity name")
+t("staff carver", "and personal carver", "entity name")
+t("infusion store", "tienda de infusión", "entity name")
 t("rune store", "rune store", "entity name")
-t("gem store", "gem store", "entity name")
-t("tool store", "tool store", "entity name")
+t("gem store", "joyería", "entity name")
+t("tool store", "tienda de herramientas", "entity name")
 t("staves and wands store", "staves and wands store", "entity name")
-t("jewelry store", "jewelry store", "entity name")
-t("rune store and library", "rune store and library", "entity name")
-t("rare goods", "rare goods", "entity name")
-t("library", "library", "entity name")
+t("jewelry store", "joyería", "entity name")
+t("rune store and library", "escaparate y biblioteca", "entity name")
+t("rare goods", "bienes raros", "entity name")
+t("library", "biblioteca", "entity name")
 t("armour smith", "armour smith", "entity name")
-t("shady library", "shady library", "entity name")
-t("gladiator's wares", "gladiator's wares", "entity name")
+t("shady library", "shady biblioteca", "entity name")
+t("gladiator's wares", "las guerras del gladiador", "entity name")
 t("staves", "staves", "entity name")
 --]==]
 
@@ -18958,9 +18955,9 @@ section "mod-tome/data/zones/abashed-expanse/grids.lua"
 
 -- new text
 --[==[
-t("unstable wormhole", "unstable wormhole", "entity name")
-t("stable wormhole", "stable wormhole", "_t")
-t("#VIOLET#The wormhole absorbs energies and stabilizes. You can now use it to travel.", "#VIOLET#The wormhole absorbs energies and stabilizes. You can now use it to travel.", "logSeen")
+t("unstable wormhole", "agujero de gusano inestable", "entity name")
+t("stable wormhole", "agujero de gusano estable", "_t")
+t("#VIOLET#The wormhole absorbs energies and stabilizes. You can now use it to travel.", "#VIOLET#El agujero de gusano absorbe energías y se estabiliza. Ahora puedes usarlo para viajar.", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -18970,8 +18967,8 @@ section "mod-tome/data/zones/abashed-expanse/npcs.lua"
 -- new text
 --[==[
 t("Spacial Disturbance", "Spacial Disturbance", "entity name")
-t("A hole in the fabric of space, it seems to be the source of the expanse instability.", "A hole in the fabric of space, it seems to be the source of the expanse instability.", "_t")
-t("and folded out of existence", "and folded out of existence", "_t")
+t("A hole in the fabric of space, it seems to be the source of the expanse instability.", "Un agujero en la tela del espacio, parece ser la fuente de la inestabilidad de la extensión.", "_t")
+t("and folded out of existence", "y plegado fuera de la existencia", "_t")
 --]==]
 
 ------------------------------------------------
@@ -18981,8 +18978,8 @@ section "mod-tome/data/zones/abashed-expanse/objects.lua"
 -- new text
 --[==[
 t("Void Star", "Void Star", "entity name")
-t("tiny black star", "tiny black star", "_t")
-t("It looks like a very tiny star -- deep black -- and yet it somehow shines.", "It looks like a very tiny star -- deep black -- and yet it somehow shines.", "_t")
+t("tiny black star", "pequeña estrella negra", "_t")
+t("It looks like a very tiny star -- deep black -- and yet it somehow shines.", "Parece una estrella muy pequeña... negra profunda... y de alguna manera brilla.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19000,7 +18997,7 @@ section "mod-tome/data/zones/ancient-elven-ruins/grids.lua"
 
 -- new text
 --[==[
-t("teleporting circle to the surface", "teleporting circle to the surface", "entity name")
+t("teleporting circle to the surface", "círculo teletransportado a la superficie", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19009,19 +19006,19 @@ section "mod-tome/data/zones/ancient-elven-ruins/npcs.lua"
 
 -- new text
 --[==[
-t("undead", "undead", "entity type")
-t("mummy", "mummy", "entity subtype")
-t("Greater Mummy Lord", "Greater Mummy Lord", "entity name")
-t("The wrappings of this mummy radiate with so much power it feels like wind is blowing from them.", "The wrappings of this mummy radiate with so much power it feels like wind is blowing from them.", "_t")
-t("and raised as a soulless shuffling mummy", "and raised as a soulless shuffling mummy", "_t")
-t("ancient elven mummy", "ancient elven mummy", "entity name")
-t("An animated corpse in mummy wrappings.", "An animated corpse in mummy wrappings.", "_t")
-t("animated mummy wrappings", "animated mummy wrappings", "entity name")
-t("An animated set of mummy wrappings, without a corpse inside; it seems like it cannot move.", "An animated set of mummy wrappings, without a corpse inside; it seems like it cannot move.", "_t")
-t("rotting mummy", "rotting mummy", "entity name")
-t("A rotting animated corpse in mummy wrappings.", "A rotting animated corpse in mummy wrappings.", "_t")
-t("greater mummy", "greater mummy", "entity name")
-t("An animated corpse in mummy wrappings, both very well preserved.", "An animated corpse in mummy wrappings, both very well preserved.", "_t")
+t("undead", "no-muerto", "entity type")
+t("mummy", "momía", "entity subtype")
+t("Greater Mummy Lord", "Gran Mami Lord", "entity name")
+t("The wrappings of this mummy radiate with so much power it feels like wind is blowing from them.", "Los envoltorios de esta momia irradian con tanto poder se siente como si el viento les soplara.", "_t")
+t("and raised as a soulless shuffling mummy", "y criado como una momia sin alma", "_t")
+t("ancient elven mummy", "antigua madre de elven", "entity name")
+t("An animated corpse in mummy wrappings.", "Un cuerpo animado en envolturas de momia.", "_t")
+t("animated mummy wrappings", "envoltorios de momia animados", "entity name")
+t("An animated set of mummy wrappings, without a corpse inside; it seems like it cannot move.", "Un conjunto animado de envolturas de momia, sin un cadáver dentro; parece que no puede moverse.", "_t")
+t("rotting mummy", "mamá podrida", "entity name")
+t("A rotting animated corpse in mummy wrappings.", "Un cuerpo animado envolvente de momia.", "_t")
+t("greater mummy", "mayor mamá", "entity name")
+t("An animated corpse in mummy wrappings, both very well preserved.", "Un cuerpo animado en envolturas de momia, ambos muy bien conservados.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19030,18 +19027,18 @@ section "mod-tome/data/zones/ancient-elven-ruins/objects.lua"
 
 -- new text
 --[==[
-t("ancient papyrus scroll", "ancient papyrus scroll", "entity name")
-t("This seems to be an account of the last days of a great Shaloren mage.", "This seems to be an account of the last days of a great Shaloren mage.", "_t")
-t("Bindings of Eternal Night", "Bindings of Eternal Night", "entity name")
-t("blackened, slithering mummy wrappings", "blackened, slithering mummy wrappings", "_t")
-t("Woven through with fell magics of undeath, these bindings suck the light and life out of everything they touch. Any who don them will find themselves suspended in a nightmarish limbo between life and death.", "Woven through with fell magics of undeath, these bindings suck the light and life out of everything they touch. Any who don them will find themselves suspended in a nightmarish limbo between life and death.", "_t")
-t("A complementing item would be your crowning glory.", "A complementing item would be your crowning glory.", "_t")
-t("Crown of Eternal Night", "Crown of Eternal Night", "entity name")
-t("blackened crown", "blackened crown", "_t")
-t("This crown looks useless, yet you can feel it is woven with fell magics of undeath. Maybe it has a use.", "This crown looks useless, yet you can feel it is woven with fell magics of undeath. Maybe it has a use.", "_t")
-t("You need to find something to bind its powers.", "You need to find something to bind its powers.", "_t")
-t("#ANTIQUE_WHITE#The Crown of Eternal Night seems to react with the Bindings, you feel tremendous dark power.", "#ANTIQUE_WHITE#The Crown of Eternal Night seems to react with the Bindings, you feel tremendous dark power.", "logSeen")
-t("#ANTIQUE_WHITE#The powerful darkness aura you felt wanes away.", "#ANTIQUE_WHITE#The powerful darkness aura you felt wanes away.", "logPlayer")
+t("ancient papyrus scroll", "antiguo papiro pergamino", "entity name")
+t("This seems to be an account of the last days of a great Shaloren mage.", "Esto parece ser una cuenta de los últimos días de un gran sabio Shaloren.", "_t")
+t("Bindings of Eternal Night", "Lazos de la noche eterna", "entity name")
+t("blackened, slithering mummy wrappings", "envoltorios de momia ennegrecidos", "_t")
+t("Woven through with fell magics of undeath, these bindings suck the light and life out of everything they touch. Any who don them will find themselves suspended in a nightmarish limbo between life and death.", "Tejido con magias caídas de la inmuerte, estas ataduras chupan la luz y la vida de todo lo que tocan. Cualquiera que los haga se encontrará suspendido en un limbo de noche entre la vida y la muerte.", "_t")
+t("A complementing item would be your crowning glory.", "Un elemento complementario sería tu gloria coronadora.", "_t")
+t("Crown of Eternal Night", "Corona de la noche eterna", "entity name")
+t("blackened crown", "corona negra", "_t")
+t("This crown looks useless, yet you can feel it is woven with fell magics of undeath. Maybe it has a use.", "Esta corona parece inútil, pero puedes sentir que está tejida con magias caídas de la muerte. Tal vez tenga un uso.", "_t")
+t("You need to find something to bind its powers.", "Necesitas encontrar algo para atar sus poderes.", "_t")
+t("#ANTIQUE_WHITE#The Crown of Eternal Night seems to react with the Bindings, you feel tremendous dark power.", "#ANTIQUE WHITE#La Corona de la Noche Eterna parece reaccionar con los Bindings, te sientes tremendo poder oscuro.", "logSeen")
+t("#ANTIQUE_WHITE#The powerful darkness aura you felt wanes away.", "#ANTIQUE WHITE#El poderoso aura de la oscuridad que sentiste vanes lejos.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -19059,9 +19056,9 @@ section "mod-tome/data/zones/ardhungol/grids.lua"
 
 -- new text
 --[==[
-t("unstable wormhole", "unstable wormhole", "entity name")
-t("#VIOLET#The wormhole absorbs the energy of the spell and teleports %s away!", "#VIOLET#The wormhole absorbs the energy of the spell and teleports %s away!", "logSeen")
-t("#VIOLET#The wormhole absorbs the energy of the spell and explodes in a burst of nullmagic!", "#VIOLET#The wormhole absorbs the energy of the spell and explodes in a burst of nullmagic!", "logSeen")
+t("unstable wormhole", "agujero de gusano inestable", "entity name")
+t("#VIOLET#The wormhole absorbs the energy of the spell and teleports %s away!", "#VIOLET#El agujero de gusano absorbe la energía del hechizo y los teleports   PH0    de distancia!", "logSeen")
+t("#VIOLET#The wormhole absorbs the energy of the spell and explodes in a burst of nullmagic!", "#VIOLET#El agujero de gusano absorbe la energía del hechizo y explota en una explosión de nuloma!", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -19071,15 +19068,15 @@ section "mod-tome/data/zones/ardhungol/npcs.lua"
 -- new text
 --[==[
 t("Ungolë", "Ungolë", "entity name")
-t("A huge spider, shrouded in darkness, her red glowing eyes darting to fix on you. She looks hungry.", "A huge spider, shrouded in darkness, her red glowing eyes darting to fix on you. She looks hungry.", "_t")
-t("and devoured alongside a Sun Paladin", "and devoured alongside a Sun Paladin", "_t")
+t("A huge spider, shrouded in darkness, her red glowing eyes darting to fix on you. She looks hungry.", "Una araña enorme, deslumbrada en la oscuridad, sus ojos rojos brillantes se atrevieron a arreglarte. Tiene hambre.", "_t")
+t("and devoured alongside a Sun Paladin", "y devorado junto a un Sun Paladin", "_t")
 t("Sun Paladin Rashim", "Sun Paladin Rashim", "_t")
 t("xhaiak", "xhaiak", "entity subtype")
 t("xhaiak arachnomancer", "xhaiak arachnomancer", "entity name")
-t("A strange looking humanoid spiderkin, its body half covered by a light flowing robe. It looks like tiny spiders are crawling on his skin.", "A strange looking humanoid spiderkin, its body half covered by a light flowing robe. It looks like tiny spiders are crawling on his skin.", "_t")
+t("A strange looking humanoid spiderkin, its body half covered by a light flowing robe. It looks like tiny spiders are crawling on his skin.", "Una extraña araña humanoides, su cuerpo medio cubierto por una bata de luz que fluye. Parece que las pequeñas arañas se arrastran sobre su piel.", "_t")
 t("shiaak", "shiaak", "entity subtype")
 t("shiaak venomblade", "shiaak venomblade", "entity name")
-t("A strange looking humanoid, covered in black chitinous skin. He dual wields sinuous daggers and seems bent on plunging them in your body.", "A strange looking humanoid, covered in black chitinous skin. He dual wields sinuous daggers and seems bent on plunging them in your body.", "_t")
+t("A strange looking humanoid, covered in black chitinous skin. He dual wields sinuous daggers and seems bent on plunging them in your body.", "Un humanoide extraño, cubierto de piel negra chitina. El doble pelaja dagas sinuosas y parece inclinado en su cuerpo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19088,15 +19085,15 @@ section "mod-tome/data/zones/ardhungol/objects.lua"
 
 -- new text
 --[==[
-t("diary page", "diary page", "entity name")
-t("A page of a diary.", "A page of a diary.", "_t")
-t("scrap of paper", "scrap of paper", "entity name")
-t("A scrap of paper.", "A scrap of paper.", "_t")
+t("diary page", "página de diario", "entity name")
+t("A page of a diary.", "Una página de un diario.", "_t")
+t("scrap of paper", "chatarra de papel", "entity name")
+t("A scrap of paper.", "Un trozo de papel.", "_t")
 t("Rod of Spydric Poison", "Rod of Spydric Poison", "entity name")
-t("poison dripping wand", "poison dripping wand", "_t")
-t("This rod carved out of a giant spider fang continuously drips venom.", "This rod carved out of a giant spider fang continuously drips venom.", "_t")
-t("shoot a bolt of spydric poison out to range %d, dealing %0.2f nature damage (based on Magic) over %d turns while rendering the target unable to move", "shoot a bolt of spydric poison out to range %d, dealing %0.2f nature damage (based on Magic) over %d turns while rendering the target unable to move", "tformat")
-t("%s activates %s %s!", "%s activates %s %s!", "logSeen")
+t("poison dripping wand", "varita de goteo de veneno", "_t")
+t("This rod carved out of a giant spider fang continuously drips venom.", "Esta barra esculpida de un ventilador de araña gigante continuamente gotea veneno.", "_t")
+t("shoot a bolt of spydric poison out to range %d, dealing %0.2f nature damage (based on Magic) over %d turns while rendering the target unable to move", "disparar un tornillo de veneno espídrico a rango   PH0   , tratando   PH1    daño natural (basado en Magic) sobre   PH2  gira mientras que el objetivo no puede moverse", "tformat")
+t("%s activates %s %s!", " PH0   activa   PH1     PH2   !", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -19114,8 +19111,8 @@ section "mod-tome/data/zones/arena-unlock/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity name")
-t("closed gate", "closed gate", "entity name")
+t("wall", "pared", "entity name")
+t("closed gate", "puerta cerrada", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19124,16 +19121,16 @@ section "mod-tome/data/zones/arena-unlock/npcs.lua"
 
 -- new text
 --[==[
-t("gladiator", "gladiator", "entity name")
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("A menacing man in heavy armor, wielding a mace. He looks battle-hardened.", "A menacing man in heavy armor, wielding a mace. He looks battle-hardened.", "_t")
-t("halfling slinger", "halfling slinger", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("A Halfling slinger. He seems adept at combat.", "A Halfling slinger. He seems adept at combat.", "_t")
-t("arcane blade", "arcane blade", "entity name")
-t("A Human Arcane Blade. His body shows multiple scars from battle.", "A Human Arcane Blade. His body shows multiple scars from battle.", "_t")
-t("Cornac rogue", "Cornac rogue", "_t")
+t("gladiator", "gladiador", "entity name")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("A menacing man in heavy armor, wielding a mace. He looks battle-hardened.", "Un hombre amenazador con armaduras pesadas, con un mace. Parece endurecido.", "_t")
+t("halfling slinger", "slinger a medias", "entity name")
+t("halfling", "mediador", "entity subtype")
+t("A Halfling slinger. He seems adept at combat.", "Un eslinger medio. Parece adepto en el combate.", "_t")
+t("arcane blade", "arcane hoja", "entity name")
+t("A Human Arcane Blade. His body shows multiple scars from battle.", "Una espada de Arcane Humana. Su cuerpo muestra múltiples cicatrices de la batalla.", "_t")
+t("Cornac rogue", "Cornaco pícaro", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19151,11 +19148,11 @@ section "mod-tome/data/zones/arena/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("wall", "wall", "entity name")
-t("closed gate", "closed gate", "entity name")
-t("open gate", "open gate", "entity name")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("wall", "pared", "entity name")
+t("closed gate", "puerta cerrada", "entity name")
+t("open gate", "puerta abierta", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19164,72 +19161,72 @@ section "mod-tome/data/zones/arena/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("skeletal rat", "skeletal rat", "entity name")
-t("undead", "undead", "entity type")
-t("The diminutive skeleton of a giant rat, charged with evil energies. Nobody understands the usefulness of undead rodents until several of them come after you.", "The diminutive skeleton of a giant rat, charged with evil energies. Nobody understands the usefulness of undead rodents until several of them come after you.", "_t")
-t("homeless fighter", "homeless fighter", "entity name")
-t("Will fight for a meal.", "Will fight for a meal.", "_t")
-t("golden crystal", "golden crystal", "entity name")
-t("A formation of golden crystal. It emits a golden radiance equalling the sun itself.", "A formation of golden crystal. It emits a golden radiance equalling the sun itself.", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("skeletal rat", "rata esquelética", "entity name")
+t("undead", "no-muerto", "entity type")
+t("The diminutive skeleton of a giant rat, charged with evil energies. Nobody understands the usefulness of undead rodents until several of them come after you.", "El esqueleto diminutivo de una rata gigante, cargada de energías malignas. Nadie entiende la utilidad de los roedores no muertos hasta que varios de ellos vienen tras de ti.", "_t")
+t("homeless fighter", "luchador sin hogar", "entity name")
+t("Will fight for a meal.", "Luchará por una comida.", "_t")
+t("golden crystal", "cristal de oro", "entity name")
+t("A formation of golden crystal. It emits a golden radiance equalling the sun itself.", "Una formación de cristal dorado. Emite un resplandor dorado igual al sol mismo.", "_t")
 t("master alchemist", "master alchemist", "entity name")
-t("Deadly fighters using explosive gems to attack.", "Deadly fighters using explosive gems to attack.", "_t")
+t("Deadly fighters using explosive gems to attack.", "Combatientes mortales usando gemas explosivas para atacar.", "_t")
 t("multihued wyrmic", "multihued wyrmic", "entity name")
-t("A powerful wyrmic with mastery over several elements.", "A powerful wyrmic with mastery over several elements.", "_t")
+t("A powerful wyrmic with mastery over several elements.", "Una poderosa wyrmic con maestría sobre varios elementos.", "_t")
 t("master slinger", "master slinger", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("Expert slingers on hire by the arena. They are great at their jobs.", "Expert slingers on hire by the arena. They are great at their jobs.", "_t")
-t("gladiator", "gladiator", "entity name")
-t("Mercenaries hired by the arena for the sole purpose of entertainment. They make a living beating people up.", "Mercenaries hired by the arena for the sole purpose of entertainment. They make a living beating people up.", "_t")
-t("reaver", "reaver", "entity name")
-t("A warrior of death.", "A warrior of death.", "_t")
-t("headless horror", "headless horror", "entity name")
-t("A headless gangly humanoid with a large distended stomach. Was captured and tamed by the first master of the arena.", "A headless gangly humanoid with a large distended stomach. Was captured and tamed by the first master of the arena.", "_t")
-t("#AQUAMARINE#As %s falls all its eyes fall to the ground!", "#AQUAMARINE#As %s falls all its eyes fall to the ground!", "logSeen")
+t("halfling", "mediador", "entity subtype")
+t("Expert slingers on hire by the arena. They are great at their jobs.", "Expertos en alquiler por la arena. Son geniales en sus trabajos.", "_t")
+t("gladiator", "gladiador", "entity name")
+t("Mercenaries hired by the arena for the sole purpose of entertainment. They make a living beating people up.", "Mercenarios contratados por la arena para el único propósito del entretenimiento. Se ganan la vida golpeando a la gente.", "_t")
+t("reaver", "tranquilizador", "entity name")
+t("A warrior of death.", "Un guerrero de la muerte.", "_t")
+t("headless horror", "horror sin cabeza", "entity name")
+t("A headless gangly humanoid with a large distended stomach. Was captured and tamed by the first master of the arena.", "Un humanoide sin cabeza con un gran estómago desatendido. Fue capturado y domesticado por el primer maestro de la arena.", "_t")
+t("#AQUAMARINE#As %s falls all its eyes fall to the ground!", "#AQUAMARINE#As   PH0   cae todos sus ojos al suelo!", "logSeen")
 t("Ryal", "Ryal", "entity name")
-t("A gargantuan bone giant resembling a wingless wyrm. He is fully sentient and surprisingly fast.", "A gargantuan bone giant resembling a wingless wyrm. He is fully sentient and surprisingly fast.", "_t")
+t("A gargantuan bone giant resembling a wingless wyrm. He is fully sentient and surprisingly fast.", "Un gigante de huesos gargantuos que se parece a un wyrm sin alas. Es muy sensible y sorprendentemente rápido.", "_t")
 t("Fryjia Loren", "Fryjia Loren", "entity name")
-t("A young girl with skin pale as snow. She is small, but deadly in battle, unleashing a constant barrage of ice shards.", "A young girl with skin pale as snow. She is small, but deadly in battle, unleashing a constant barrage of ice shards.", "_t")
+t("A young girl with skin pale as snow. She is small, but deadly in battle, unleashing a constant barrage of ice shards.", "Una joven con piel pálida como nieve. Ella es pequeña, pero mortal en la batalla, desatando una constante barraca de hielo.", "_t")
 t("Riala Shalarak", "Riala Shalarak", "entity name")
-t("A strong female magician. Years of experience make her a dangerous combatant.", "A strong female magician. Years of experience make her a dangerous combatant.", "_t")
+t("A strong female magician. Years of experience make her a dangerous combatant.", "Una mujer mago fuerte. Años de experiencia la convierten en una combatiente peligrosa.", "_t")
 t("Valfren Loren", "Valfren Loren", "entity name")
-t("A massive suit of armor with a massive axe containing a massively cursed person. He is cursed to fight eternally.", "A massive suit of armor with a massive axe containing a massively cursed person. He is cursed to fight eternally.", "_t")
+t("A massive suit of armor with a massive axe containing a massively cursed person. He is cursed to fight eternally.", "Un traje masivo de armadura con un hacha enorme que contiene una persona enormemente maldecida. Está maldito para luchar eternamente.", "_t")
 t("Rej Arkatis", "Rej Arkatis", "entity name")
-t("A Cornac fighter of respectable talent. He emerged from nowhere and became the true master of fighting.", "A Cornac fighter of respectable talent. He emerged from nowhere and became the true master of fighting.", "_t")
+t("A Cornac fighter of respectable talent. He emerged from nowhere and became the true master of fighting.", "Un luchador Cornac de talento respetable. Él surgió de la nada y se convirtió en el verdadero maestro de la lucha.", "_t")
 t("slinger", "slinger", "entity name")
-t("Ranged fighters coming to the arena looking for wealth and glory, just like you.", "Ranged fighters coming to the arena looking for wealth and glory, just like you.", "_t")
-t("high slinger", "high slinger", "entity name")
-t("alchemist", "alchemist", "entity name")
-t("blood mage", "blood mage", "entity name")
-t("A man dressed in black robes. You feel weak as you hear his ominous chanting.", "A man dressed in black robes. You feel weak as you hear his ominous chanting.", "_t")
+t("Ranged fighters coming to the arena looking for wealth and glory, just like you.", "Combatientes Ranged viniendo a la arena buscando riqueza y gloria, como tú.", "_t")
+t("high slinger", "slinger alto", "entity name")
+t("alchemist", "alquimista", "entity name")
+t("blood mage", "sangre mage", "entity name")
+t("A man dressed in black robes. You feel weak as you hear his ominous chanting.", "Un hombre vestido de túnica negra. Te sientes débil cuando escuchas su canto ominoso.", "_t")
 t("hexer", "hexer", "entity name")
-t("A man dressed in black robes. You feel a thousand curses being put on you.", "A man dressed in black robes. You feel a thousand curses being put on you.", "_t")
-t("rogue", "rogue", "entity name")
-t("Stealthy fighters trying to achieve victory with trickery. Be careful or they will steal your sight!", "Stealthy fighters trying to achieve victory with trickery. Be careful or they will steal your sight!", "_t")
-t("trickster", "trickster", "entity name")
-t("Stealthy ranged fighters trying to achieve victory with trickery. Be careful or they will shoot your heart!", "Stealthy ranged fighters trying to achieve victory with trickery. Be careful or they will shoot your heart!", "_t")
+t("A man dressed in black robes. You feel a thousand curses being put on you.", "Un hombre vestido de túnica negra. Siento mil maldiciones que se te ponen.", "_t")
+t("rogue", "pícaro", "entity name")
+t("Stealthy fighters trying to achieve victory with trickery. Be careful or they will steal your sight!", "Combatientes Stealthy tratando de lograr la victoria con el truco. ¡Ten cuidado o te robarán la vista!", "_t")
+t("trickster", "tramposo", "entity name")
+t("Stealthy ranged fighters trying to achieve victory with trickery. Be careful or they will shoot your heart!", "Luchadores Stealthy intentando lograr la victoria con el truco. ¡Ten cuidado o te dispararán el corazón!", "_t")
 t("shadowblade", "shadowblade", "entity name")
-t("Stealthy fighters trying to achieve victory with trickery. Be careful or they will steal your life!", "Stealthy fighters trying to achieve victory with trickery. Be careful or they will steal your life!", "_t")
-t("fire wyrmic", "fire wyrmic", "entity name")
-t("A fire wyrmic aspiring to win the tournament. He comes paired with an ice wyrmic.", "A fire wyrmic aspiring to win the tournament. He comes paired with an ice wyrmic.", "_t")
-t("ice wyrmic", "ice wyrmic", "entity name")
-t("An ice wyrmic aspiring to win the tournament. He comes paired with a fire wyrmic.", "An ice wyrmic aspiring to win the tournament. He comes paired with a fire wyrmic.", "_t")
-t("sand wyrmic", "sand wyrmic", "entity name")
-t("A sand wyrmic aspiring to win the tournament. He comes paired with a storm wyrmic.", "A sand wyrmic aspiring to win the tournament. He comes paired with a storm wyrmic.", "_t")
-t("storm wyrmic", "storm wyrmic", "entity name")
-t("A storm wyrmic aspiring to win the tournament. He comes paired with a sand wyrmic.", "A storm wyrmic aspiring to win the tournament. He comes paired with a sand wyrmic.", "_t")
-t("high gladiator", "high gladiator", "entity name")
-t("great gladiator", "great gladiator", "entity name")
-t("martyr", "martyr", "entity name")
-t("A devout soldier.", "A devout soldier.", "_t")
+t("Stealthy fighters trying to achieve victory with trickery. Be careful or they will steal your life!", "Combatientes Stealthy tratando de lograr la victoria con el truco. ¡Ten cuidado o te robarán la vida!", "_t")
+t("fire wyrmic", "fuego wyrmic", "entity name")
+t("A fire wyrmic aspiring to win the tournament. He comes paired with an ice wyrmic.", "Un fuego wyrmic aspira a ganar el torneo. Viene emparejado con una wyrmic de hielo.", "_t")
+t("ice wyrmic", "hielo wyrmic", "entity name")
+t("An ice wyrmic aspiring to win the tournament. He comes paired with a fire wyrmic.", "Un helado wyrmic aspira a ganar el torneo. Viene emparejado con un fuego wyrmic.", "_t")
+t("sand wyrmic", "arena wyrmic", "entity name")
+t("A sand wyrmic aspiring to win the tournament. He comes paired with a storm wyrmic.", "Una arena wyrmic aspira a ganar el torneo. Viene emparejado con una tormenta wyrmic.", "_t")
+t("storm wyrmic", "tormenta wyrmic", "entity name")
+t("A storm wyrmic aspiring to win the tournament. He comes paired with a sand wyrmic.", "Una tormenta wyrmic aspira a ganar el torneo. Viene emparejado con una wyrmic de arena.", "_t")
+t("high gladiator", "alto gladiador", "entity name")
+t("great gladiator", "gran gladiador", "entity name")
+t("martyr", "mártir", "entity name")
+t("A devout soldier.", "Un soldado devoto.", "_t")
 t("anorithil", "anorithil", "entity name")
-t("elf", "elf", "entity subtype")
-t("Warriors from afar. They use the power of light and darkness against you!", "Warriors from afar. They use the power of light and darkness against you!", "_t")
-t("sun paladin", "sun paladin", "entity name")
-t("Warriors from afar. They wield the power of light, and a mean sword.", "Warriors from afar. They wield the power of light, and a mean sword.", "_t")
-t("star crusader", "star crusader", "entity name")
-t("Warriors from afar. They wield the power of light, and a mean sword. Darkness, too.", "Warriors from afar. They wield the power of light, and a mean sword. Darkness, too.", "_t")
+t("elf", "elfo", "entity subtype")
+t("Warriors from afar. They use the power of light and darkness against you!", "Guerreros de lejos. ¡Usan el poder de la luz y la oscuridad contra ti!", "_t")
+t("sun paladin", "paladín", "entity name")
+t("Warriors from afar. They wield the power of light, and a mean sword.", "Guerreros de lejos. Manejaron el poder de la luz, y una espada mala.", "_t")
+t("star crusader", "estrella cruzada", "entity name")
+t("Warriors from afar. They wield the power of light, and a mean sword. Darkness, too.", "Guerreros de lejos. Manejaron el poder de la luz, y una espada mala. Oscuridad, también.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19238,18 +19235,18 @@ section "mod-tome/data/zones/arena/objects.lua"
 
 -- new text
 --[==[
-t("Arena for dummies", "Arena for dummies", "entity name")
-t("A note explaining the arena's scoring rules. Someone must have dropped it.", "A note explaining the arena's scoring rules. Someone must have dropped it.", "_t")
-t("a pair of leather boots of disengagement", "a pair of leather boots of disengagement", "entity name")
-t("armor", "armor", "entity type")
-t("feet", "feet", "entity subtype")
-t("A pair of boots made of leather. They seem to be of exceptional quality.", "A pair of boots made of leather. They seem to be of exceptional quality.", "_t")
-t("a pair of leather boots of phasing", "a pair of leather boots of phasing", "entity name")
-t("blink to a nearby random location within range %d (based on Magic)", "blink to a nearby random location within range %d (based on Magic)", "tformat")
-t("%s uses %s!", "%s uses %s!", "logSeen")
-t("a pair of leather boots of rushing", "a pair of leather boots of rushing", "entity name")
+t("Arena for dummies", "Arena para muñecos", "entity name")
+t("A note explaining the arena's scoring rules. Someone must have dropped it.", "Una nota explicando las reglas de la arena. Alguien debe haberlo dejado.", "_t")
+t("a pair of leather boots of disengagement", "un par de botas de cuero de separación", "entity name")
+t("armor", "armadura", "entity type")
+t("feet", "pies", "entity subtype")
+t("A pair of boots made of leather. They seem to be of exceptional quality.", "Un par de botas hechas de cuero. Parecen ser de calidad excepcional.", "_t")
+t("a pair of leather boots of phasing", "un par de botas de cuero de phasing", "entity name")
+t("blink to a nearby random location within range %d (based on Magic)", "enlace a una ubicación cercana al azar dentro del rango   PH0   (basado en Magic)", "tformat")
+t("%s uses %s!", " PH0  utiliza   PH1   !", "logSeen")
+t("a pair of leather boots of rushing", "un par de botas de cuero de prisa", "entity name")
 t("elm longbow of piercing arrows", "elm longbow of piercing arrows", "entity name")
-t("rough leather sling of flare", "rough leather sling of flare", "entity name")
+t("rough leather sling of flare", "piel gruesa de bengala", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19259,25 +19256,25 @@ section "mod-tome/data/zones/arena/zone.lua"
 -- new text
 --[==[
 t("The Arena", "La Arena", "_t")
-t("#GOLD#Miniboss round starts!!", "#GOLD#Miniboss round starts!!", "log")
-t("#VIOLET#Boss round starts!!!", "#VIOLET#Boss round starts!!!", "log")
-t("#LIGHT_RED#Final round starts!!!!", "#LIGHT_RED#Final round starts!!!!", "log")
-t("#YELLOW#The gates open!", "#YELLOW#The gates open!", "log")
-t("#LIGHT_RED#The gates close!", "#LIGHT_RED#The gates close!", "log")
-t("RANK UP!!", "RANK UP!!", "_t")
-t("#LIGHT_GREEN#The public is pleased by your performance! You now have the rank of #WHITE#%s#LIGHT_GREEN#!", "#LIGHT_GREEN#The public is pleased by your performance! You now have the rank of #WHITE#%s#LIGHT_GREEN#!", "log")
-t("%d kills!", "%d kills!", "tformat")
-t("#YELLOW#You killed %d enemies in a single turn! The public is excited!", "#YELLOW#You killed %d enemies in a single turn! The public is excited!", "log")
-t("#YELLOW#Items lying around will disappear in #WHITE#%d#YELLOW# turns!#LAST#", "#YELLOW#Items lying around will disappear in #WHITE#%d#YELLOW# turns!#LAST#", "log")
-t("#VIOLET#Boss round!!!", "#VIOLET#Boss round!!!", "log")
+t("#GOLD#Miniboss round starts!!", "#GOLD#Miniboss round starts!", "log")
+t("#VIOLET#Boss round starts!!!", "#VIOLET #Boss round starts!!!", "log")
+t("#LIGHT_RED#Final round starts!!!!", "#LIGHT RED #Final round starts!!!!", "log")
+t("#YELLOW#The gates open!", "#YELLOW #Las puertas se abren!", "log")
+t("#LIGHT_RED#The gates close!", "¡Las puertas cierran!", "log")
+t("RANK UP!!", "¡ARRIBA!", "_t")
+t("#LIGHT_GREEN#The public is pleased by your performance! You now have the rank of #WHITE#%s#LIGHT_GREEN#!", "#LIGHT GREEN# ¡El público está satisfecho por su actuación! ¡Ahora tienes el rango de #WHITE#  PH0  #LIGHT GREEN#!", "log")
+t("%d kills!", "¡Mata!", "tformat")
+t("#YELLOW#You killed %d enemies in a single turn! The public is excited!", "#YELLOW# You killed   PH0   enemigos in a single turn! ¡El público está emocionado!", "log")
+t("#YELLOW#Items lying around will disappear in #WHITE#%d#YELLOW# turns!#LAST#", "#YELLOW#Items lying around will disappeared in #WHITE# PH0 ## #YELLOW# turns#", "log")
+t("#VIOLET#Boss round!!!", "#VIOLET #Boss round!!!", "log")
 t("#GOLD#Miniboss round!", "#GOLD#Miniboss round!", "log")
-t("#LIGHT_RED#Final round!!!", "#LIGHT_RED#Final round!!!", "log")
-t("Round Clear! +%s EXP!", "Round Clear! +%s EXP!", "tformat")
-t("%sWave clear!", "%sWave clear!", "log")
-t("%sClear bonus: %s%s%s! Score bonus: %s%s%s! Danger bonus: %s%s%s! Rank bonus: %s%s%s!", "%sClear bonus: %s%s%s! Score bonus: %s%s%s! Danger bonus: %s%s%s! Rank bonus: %s%s%s!", "log")
-t("%sYour experience increases by %s%d%s!", "%sYour experience increases by %s%d%s!", "log")
-t("%sYou earn %s gold for your victory!", "%sYou earn %s gold for your victory!", "log")
-t("Arena mode", "Arena mode", "_t")
+t("#LIGHT_RED#Final round!!!", "#LIGHT RED #Final round!!!", "log")
+t("Round Clear! +%s EXP!", "¡Despejado!", "tformat")
+t("%sWave clear!", "¡Espera!", "log")
+t("%sClear bonus: %s%s%s! Score bonus: %s%s%s! Danger bonus: %s%s%s! Rank bonus: %s%s%s!", " PH0                                 Bono de puntuación:   PH4            PH6   ! Bonificación del peligro:   PH7                                                                                                                                                                                                                                                        Rank bonus:   PH10             PH12    !", "log")
+t("%sYour experience increases by %s%d%s!", " PH0  Tu experiencia aumenta por   PH1                                                                                                                                                                                                                                                  !", "log")
+t("%sYou earn %s gold for your victory!", " PH0  Usted gana   PH1   oro para su victoria!", "log")
+t("Arena mode", "Modo de arena", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19286,8 +19283,8 @@ section "mod-tome/data/zones/blighted-ruins/grids.lua"
 
 -- new text
 --[==[
-t("unholy circle", "unholy circle", "entity name")
-t("broken unholy circle", "broken unholy circle", "entity name")
+t("unholy circle", "círculo impío", "entity name")
+t("broken unholy circle", "roto círculo impío", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19296,17 +19293,17 @@ section "mod-tome/data/zones/blighted-ruins/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Necromancer", "Necromancer", "entity name")
-t("A Human dressed in black robes. He mumbles in a harsh tongue. He seems to think you are his slave.", "A Human dressed in black robes. He mumbles in a harsh tongue. He seems to think you are his slave.", "_t")
-t("Half-Finished Bone Giant", "Half-Finished Bone Giant", "entity name")
-t("fleshy experiment", "fleshy experiment", "entity name")
-t("This pile of rotting flesh twitches and makes horrid noises.", "This pile of rotting flesh twitches and makes horrid noises.", "_t")
-t("boney experiment", "boney experiment", "entity name")
-t("This pile of bones appears to move on its own, but it can't seem to organise itself into something dangerous.", "This pile of bones appears to move on its own, but it can't seem to organise itself into something dangerous.", "_t")
-t("sanguine experiment", "sanguine experiment", "entity name")
-t("It looks like a giant blood clot. Is that what its creator intended?", "It looks like a giant blood clot. Is that what its creator intended?", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Necromancer", "Nigromante", "entity name")
+t("A Human dressed in black robes. He mumbles in a harsh tongue. He seems to think you are his slave.", "Un humano vestido con mantas negras. Se agita en una lengua dura. Parece pensar que eres su esclavo.", "_t")
+t("Half-Finished Bone Giant", "Mestizo gigante de bonificación", "entity name")
+t("fleshy experiment", "experimento carnal", "entity name")
+t("This pile of rotting flesh twitches and makes horrid noises.", "Esta pila de carnes podridas y hace ruidos horribles.", "_t")
+t("boney experiment", "experiencia ósea", "entity name")
+t("This pile of bones appears to move on its own, but it can't seem to organise itself into something dangerous.", "Esta pila de huesos parece moverse por su cuenta, pero no puede parecer organizarse en algo peligroso.", "_t")
+t("sanguine experiment", "experimento de sanguine", "entity name")
+t("It looks like a giant blood clot. Is that what its creator intended?", "Parece un coágulo de sangre gigante. ¿Es eso lo que pretendía su creador?", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19315,13 +19312,13 @@ section "mod-tome/data/zones/blighted-ruins/objects.lua"
 
 -- new text
 --[==[
-t("armor", "armor", "entity type")
-t("cloak", "cloak", "entity subtype")
+t("armor", "armadura", "entity type")
+t("cloak", "capa", "entity subtype")
 t("Cloak of Deception", "Cloak of Deception", "entity name")
-t("black cloak", "black cloak", "_t")
-t("A black cloak, with subtle illusion enchantments woven into its very fabric.", "A black cloak, with subtle illusion enchantments woven into its very fabric.", "_t")
-t("journal page", "journal page", "entity name")
-t("A paper scrap, left by the Necromancer.", "A paper scrap, left by the Necromancer.", "_t")
+t("black cloak", "negro capa", "_t")
+t("A black cloak, with subtle illusion enchantments woven into its very fabric.", "Un manto negro, con sutiles encantamientos de ilusión tejidos en su propia tela.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A paper scrap, left by the Necromancer.", "Un trozo de papel, dejado por el Necromancer.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19330,7 +19327,7 @@ section "mod-tome/data/zones/blighted-ruins/zone.lua"
 
 -- new text
 --[==[
-t("Blighted Ruins", "Blighted Ruins", "_t")
+t("Blighted Ruins", "Ruinas llenas", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19339,10 +19336,10 @@ section "mod-tome/data/zones/briagh-lair/npcs.lua"
 
 -- new text
 --[==[
-t("dragon", "dragon", "entity type")
-t("sand", "sand", "entity subtype")
+t("dragon", "dragón", "entity type")
+t("sand", "arena", "entity subtype")
 t("Briagh, Great Sand Wyrm", "Briagh, Great Sand Wyrm", "entity name")
-t("A towering sand drake stands before you. This wingless worm is mighty and could easily crush you.", "A towering sand drake stands before you. This wingless worm is mighty and could easily crush you.", "_t")
+t("A towering sand drake stands before you. This wingless worm is mighty and could easily crush you.", "Un drake de arena imponente está delante de ti. Este gusano sin alas es poderoso y podría aplastarte fácilmente.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19351,7 +19348,7 @@ section "mod-tome/data/zones/briagh-lair/objects.lua"
 
 -- new text
 --[==[
-t("Resonating Diamond", "Resonating Diamond", "entity name")
+t("Resonating Diamond", "Diamante resonante", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19360,7 +19357,7 @@ section "mod-tome/data/zones/briagh-lair/zone.lua"
 
 -- new text
 --[==[
-t("Briagh's Lair", "Briagh's Lair", "_t")
+t("Briagh's Lair", "Lair de Briagh", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19369,11 +19366,11 @@ section "mod-tome/data/zones/charred-scar/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
+t("floor", "planta baja", "entity type")
 t("lava", "lava", "entity subtype")
-t("Farportal: the Far East", "Farportal: the Far East", "entity name")
-t("A farportal is a way to travel incredible distances in the blink of an eye. They usually require an external item to use.", "A farportal is a way to travel incredible distances in the blink of an eye. They usually require an external item to use.", "_t")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back to the far east.", "#VIOLET#You enter the swirling portal and in the blink of an eye you are back to the far east.", "_t")
+t("Farportal: the Far East", "Farportal: el Lejano Oriente", "entity name")
+t("A farportal is a way to travel incredible distances in the blink of an eye. They usually require an external item to use.", "Un farportal es una manera de viajar distancias increíbles en el abrir y cerrar de ojos. Por lo general requieren un artículo externo para usar.", "_t")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back to the far east.", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos estás de vuelta al lejano este.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19382,22 +19379,22 @@ section "mod-tome/data/zones/charred-scar/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("human sun-paladin", "human sun-paladin", "entity name")
-t("A Human in shiny plate armour.", "A Human in shiny plate armour.", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("human sun-paladin", "humano sol-paladina", "entity name")
+t("A Human in shiny plate armour.", "Un humano con armadura de placa brillante.", "_t")
 t("High Sun-Paladin Rodmour", "High Sun-Paladin Rodmour", "entity name")
-t("Go %s! We will hold the line!", "Go %s! We will hold the line!", "tformat")
-t("orc", "orc", "entity subtype")
-t("orc warrior", "orc warrior", "entity name")
-t("A fierce soldier-orc.", "A fierce soldier-orc.", "_t")
+t("Go %s! We will hold the line!", "¡Vamos! ¡Mantendremos la línea!", "tformat")
+t("orc", "orco", "entity subtype")
+t("orc warrior", "guerrero orc", "entity name")
+t("A fierce soldier-orc.", "Un feroz soldado-orc.", "_t")
 t("shalore", "shalore", "entity subtype")
 t("Elandar", "Elandar", "entity name")
-t("Renegade mages from Angolwen, the Sorcerers have set up in the Far East, slowly growing corrupt. Now they must be stopped.", "Renegade mages from Angolwen, the Sorcerers have set up in the Far East, slowly growing corrupt. Now they must be stopped.", "_t")
-t("Damn you, you only postpone your death! Fyrk!", "Damn you, you only postpone your death! Fyrk!", "_t")
+t("Renegade mages from Angolwen, the Sorcerers have set up in the Far East, slowly growing corrupt. Now they must be stopped.", "Renegado mages de Angolwen, los Hechiceros se han establecido en el Lejano Oriente, lentamente creciendo corrupto. Ahora deben detenerse.", "_t")
+t("Damn you, you only postpone your death! Fyrk!", "¡Maldito seas, sólo pospones tu muerte! ¡Fyrk!", "_t")
 t("Argoniel", "Argoniel", "entity name")
 t("Fyrk, Faeros High Guard", "Fyrk, Faeros High Guard", "entity name")
-t("and a sole piece of char was sent to his masters as a totem", "and a sole piece of char was sent to his masters as a totem", "_t")
+t("and a sole piece of char was sent to his masters as a totem", "y un único pedazo de char fue enviado a sus maestros como un totem", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19407,7 +19404,7 @@ section "mod-tome/data/zones/charred-scar/zone.lua"
 -- new text
 --[==[
 t("Charred Scar", "Charred Scar", "_t")
-t("Hurry down south while the sun-paladins are holding off the orcs. Make their sacrifice worth it!", "Hurry down south while the sun-paladins are holding off the orcs. Make their sacrifice worth it!", "_t")
+t("Hurry down south while the sun-paladins are holding off the orcs. Make their sacrifice worth it!", "Apúrate hacia el sur mientras los sun-paladins están sosteniendo los orcos. ¡Haz que su sacrificio valga la pena!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19416,14 +19413,14 @@ section "mod-tome/data/zones/conclave-vault/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("wall", "wall", "entity name")
-t("body remains", "body remains", "entity name")
-t("bone pile", "bone pile", "entity name")
-t("infusion rack", "infusion rack", "entity name")
-t("operating table", "operating table", "entity name")
-t("broken vat", "broken vat", "entity name")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("wall", "pared", "entity name")
+t("body remains", "restos corporales", "entity name")
+t("bone pile", "pila de hueso", "entity name")
+t("infusion rack", "de infusión", "entity name")
+t("operating table", "mesa de operaciones", "entity name")
+t("broken vat", "vatio roto", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19432,18 +19429,18 @@ section "mod-tome/data/zones/conclave-vault/npcs.lua"
 
 -- new text
 --[==[
-t("old vats", "old vats", "entity name")
-t("structure", "structure", "entity type")
+t("old vats", "viejos cubos", "entity name")
+t("structure", "estructura", "entity type")
 t("vat", "vat", "entity subtype")
-t("degenerated ogric mass", "degenerated ogric mass", "entity name")
-t("This huge mass of deformed flesh was probably once an ogre, but something had gone wrong.", "This huge mass of deformed flesh was probably once an ogre, but something had gone wrong.", "_t")
+t("degenerated ogric mass", "degenerada masa de peregrinos", "entity name")
+t("This huge mass of deformed flesh was probably once an ogre, but something had gone wrong.", "Esta enorme masa de carne deforme era probablemente una vez un ogro, pero algo había ido mal.", "_t")
 t("ogric abomination", "ogric abomination", "entity name")
-t("This ogre seems to have tried to graft golem parts on its own body. To various interresting results.", "This ogre seems to have tried to graft golem parts on its own body. To various interresting results.", "_t")
-t("ogre sentry", "ogre sentry", "entity name")
-t("This greatsword-wielding ogre looks at you with contempt and hatred.", "This greatsword-wielding ogre looks at you with contempt and hatred.", "_t")
+t("This ogre seems to have tried to graft golem parts on its own body. To various interresting results.", "Este ogro parece haber intentado injertar partes de golem en su propio cuerpo. A diversos resultados interrelacionados.", "_t")
+t("ogre sentry", "ogro centry", "entity name")
+t("This greatsword-wielding ogre looks at you with contempt and hatred.", "Este ogro de gran espada te mira con desprecio y odio.", "_t")
 t("Healer Astelrid", "Healer Astelrid", "entity name")
-t("An enormous ogre, clad in a tattered set of robes with an officer's badge.  She clutches a healer's staff, wrapped in casting plaster and scalpels for use as a massive spiked club.", "An enormous ogre, clad in a tattered set of robes with an officer's badge.  She clutches a healer's staff, wrapped in casting plaster and scalpels for use as a massive spiked club.", "_t")
-t("and spliced for experiments", "and spliced for experiments", "_t")
+t("An enormous ogre, clad in a tattered set of robes with an officer's badge.  She clutches a healer's staff, wrapped in casting plaster and scalpels for use as a massive spiked club.", "Un enorme ogro, colgado en un conjunto de túnicas con la placa de un oficial. Aprieta el personal de un sanador, envuelto en yeso de fundición y escalpelos para su uso como un club masivo.", "_t")
+t("and spliced for experiments", "para experimentos", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19453,12 +19450,12 @@ section "mod-tome/data/zones/conclave-vault/objects.lua"
 -- new text
 --[==[
 t("log of healer Astelrid", "log of healer Astelrid", "entity name")
-t("A very faded note, nearly unreadable.", "A very faded note, nearly unreadable.", "_t")
-t("investigator Churrack note", "investigator Churrack note", "entity name")
-t("Astelrid's Clubstaff", "Astelrid's Clubstaff", "entity name")
-t("huge maul", "huge maul", "_t")
-t("Like its former owner, this was once an instrument of altruistic healing, before fury and fear caused its twisting into a sadistic weapon.  Surges of restorative magic can be faintly felt under the layers of plaster and sharp surgical equipment.", "Like its former owner, this was once an instrument of altruistic healing, before fury and fear caused its twisting into a sadistic weapon.  Surges of restorative magic can be faintly felt under the layers of plaster and sharp surgical equipment.", "_t")
-t("Improves the contribution of primary stats on infusions and runes by 15%", "Improves the contribution of primary stats on infusions and runes by 15%", "_t")
+t("A very faded note, nearly unreadable.", "Una nota muy de moda, casi imposible de leer.", "_t")
+t("investigator Churrack note", "detective Churrack", "entity name")
+t("Astelrid's Clubstaff", "Club de Astelrid", "entity name")
+t("huge maul", "enorme maul", "_t")
+t("Like its former owner, this was once an instrument of altruistic healing, before fury and fear caused its twisting into a sadistic weapon.  Surges of restorative magic can be faintly felt under the layers of plaster and sharp surgical equipment.", "Al igual que su anterior propietario, esto fue una vez un instrumento de curación altruista, antes de la furia y el miedo causó su torsión en un arma sádica. La magia restaurativa se puede sentir débilmente bajo las capas de yeso y el equipo quirúrgico agudo.", "_t")
+t("Improves the contribution of primary stats on infusions and runes by 15%", "Mejora la contribución de las estadísticas primarias sobre infusiones y runas en un 15%", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19467,7 +19464,7 @@ section "mod-tome/data/zones/conclave-vault/zone.lua"
 
 -- new text
 --[==[
-t("Old Conclave Vault", "Old Conclave Vault", "_t")
+t("Old Conclave Vault", "Vault del antiguo cónclave", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19476,10 +19473,10 @@ section "mod-tome/data/zones/crypt-kryl-feijan/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("sealed door", "sealed door", "entity name")
-t("demonic symbol", "demonic symbol", "entity name")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("sealed door", "puerta sellada", "entity name")
+t("demonic symbol", "símbolo demoníaco", "entity name")
 t("altar", "altar", "entity name")
 --]==]
 
@@ -19490,14 +19487,14 @@ section "mod-tome/data/zones/crypt-kryl-feijan/npcs.lua"
 -- new text
 --[==[
 t("Kryl-Feijan", "Kryl-Feijan", "entity name")
-t("and devoured as a demonic breakfast", "and devoured as a demonic breakfast", "_t")
+t("and devoured as a demonic breakfast", "y devorado como un desayuno demoníaco", "_t")
 t("Melinda", "Melinda", "entity name")
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("A female Human with twisted sigils scored into her naked flesh. Her wrists and ankles are sore and hurt by ropes and chains. You can discern great beauty beyond the stains of blood covering her skin.", "A female Human with twisted sigils scored into her naked flesh. Her wrists and ankles are sore and hurt by ropes and chains. You can discern great beauty beyond the stains of blood covering her skin.", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("A female Human with twisted sigils scored into her naked flesh. Her wrists and ankles are sore and hurt by ropes and chains. You can discern great beauty beyond the stains of blood covering her skin.", "Una mujer humana con sigiles torcidos anotó en su carne desnuda. Sus muñecas y tobillos están doloridos y heridos por cuerdas y cadenas. Usted puede discernir gran belleza más allá de las manchas de sangre que cubren su piel.", "_t")
 t("Acolyte of the Sect of Kryl-Feijan", "Acolyte of the Sect of Kryl-Feijan", "entity name")
-t("elf", "elf", "entity subtype")
-t("Black-robed Elves with a mad look in their eyes.", "Black-robed Elves with a mad look in their eyes.", "_t")
+t("elf", "elfo", "entity subtype")
+t("Black-robed Elves with a mad look in their eyes.", "Elfos negros con una mirada loca en sus ojos.", "_t")
 t("Melinda", "Melinda", "_t")
 --]==]
 
@@ -19507,8 +19504,8 @@ section "mod-tome/data/zones/crypt-kryl-feijan/objects.lua"
 
 -- new text
 --[==[
-t("Writhing Essence of Nightmares", "Writhing Essence of Nightmares", "entity name")
-t("Whispers seem to ceaselessly emanate from this writhing mass of black tentacles, murmuring unspeakable horrors into the ears of any unfortunate enough to hear them.", "Whispers seem to ceaselessly emanate from this writhing mass of black tentacles, murmuring unspeakable horrors into the ears of any unfortunate enough to hear them.", "_t")
+t("Writhing Essence of Nightmares", "Esencia de matrimonios nocturnos", "entity name")
+t("Whispers seem to ceaselessly emanate from this writhing mass of black tentacles, murmuring unspeakable horrors into the ears of any unfortunate enough to hear them.", "Los silbidos parecen emanar incesantemente de esta masa de tentáculos negros, murmurando horrores indescriptibles en los oídos de cualquier desafortunado lo suficiente para escucharlos.", "_t")
 t("writhing mindstar", "writhing mindstar", "_t")
 --]==]
 
@@ -19518,13 +19515,13 @@ section "mod-tome/data/zones/crypt-kryl-feijan/zone.lua"
 
 -- new text
 --[==[
-t("Dark crypt", "Dark crypt", "_t")
+t("Dark crypt", "Cifra oscura", "_t")
 t("Crypt", "Crypt", "_t")
-t("You hear an eerie chanting echoing from a distance.", "You hear an eerie chanting echoing from a distance.", "_t")
-t("The chanting grows louder. You hear a sudden high-pitched scream.", "The chanting grows louder. You hear a sudden high-pitched scream.", "_t")
-t("The cultists are about to sacrifice the woman. Stop them!", "The cultists are about to sacrifice the woman. Stop them!", "_t")
-t("The woman lets out a sudden ear-splitting scream that turns from pain to horror as her stomach is ripped open from within by long dark claws. A towering black demon arises, rending her flesh to shreds, and replacing her dying scream with a terrifying roar.", "The woman lets out a sudden ear-splitting scream that turns from pain to horror as her stomach is ripped open from within by long dark claws. A towering black demon arises, rending her flesh to shreds, and replacing her dying scream with a terrifying roar.", "_t")
-t("You cannot abandon Melinda here!", "You cannot abandon Melinda here!", "_t")
+t("You hear an eerie chanting echoing from a distance.", "Escuchas un canto extraño resonando desde lejos.", "_t")
+t("The chanting grows louder. You hear a sudden high-pitched scream.", "El canto crece más fuerte. Escuchas un grito repentino y agudo.", "_t")
+t("The cultists are about to sacrifice the woman. Stop them!", "Los cultos están a punto de sacrificar a la mujer. ¡Detenlos!", "_t")
+t("The woman lets out a sudden ear-splitting scream that turns from pain to horror as her stomach is ripped open from within by long dark claws. A towering black demon arises, rending her flesh to shreds, and replacing her dying scream with a terrifying roar.", "La mujer deja salir un repentino grito que se vuelve del dolor al horror mientras su estómago se abre por dentro con largas garras oscuras. Un gigantesco demonio negro se levanta, rendiendo su carne a los arbustos, y reemplazando su grito moribundo con un terrible rugido.", "_t")
+t("You cannot abandon Melinda here!", "¡No puedes abandonar a Melinda aquí!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19533,11 +19530,11 @@ section "mod-tome/data/zones/daikara/grids.lua"
 
 -- new text
 --[==[
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads... somewhere.", "The rift leads... somewhere.", "_t")
-t("Temporal Rift", "Temporal Rift", "_t")
-t("Are you sure you want to enter? There's no telling where you will end up or if you will be able to make it back.", "Are you sure you want to enter? There's no telling where you will end up or if you will be able to make it back.", "_t")
-t("The rift is too unstable to cross it.", "The rift is too unstable to cross it.", "log")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads... somewhere.", "El rift conduce... a algún lado.", "_t")
+t("Temporal Rift", "Robo temporal", "_t")
+t("Are you sure you want to enter? There's no telling where you will end up or if you will be able to make it back.", "¿Seguro que quieres entrar? No se sabe dónde terminará o si será capaz de recuperarlo.", "_t")
+t("The rift is too unstable to cross it.", "El borde es demasiado inestable para cruzarlo.", "log")
 --]==]
 
 ------------------------------------------------
@@ -19546,17 +19543,17 @@ section "mod-tome/data/zones/daikara/npcs.lua"
 
 -- new text
 --[==[
-t("dragon", "dragon", "entity type")
-t("ice", "ice", "entity subtype")
-t("Rantha the Worm", "Rantha the Worm", "entity name")
-t("Claws and teeth. Ice and death. Dragons are not all extinct it seems...", "Claws and teeth. Ice and death. Dragons are not all extinct it seems...", "_t")
-t("and fed to the hatchlings", "and fed to the hatchlings", "_t")
-t("I have heard there is a dragon hunter in the Daikara that is unhappy about the wyrm being already dead.", "I have heard there is a dragon hunter in the Daikara that is unhappy about the wyrm being already dead.", "_t")
-t("fire", "fire", "entity subtype")
-t("Varsha the Writhing", "Varsha the Writhing", "entity name")
-t("Claws and teeth. Fire and death. Dragons are not all extinct it seems...", "Claws and teeth. Fire and death. Dragons are not all extinct it seems...", "_t")
-t("Massok the Dragonslayer", "Massok the Dragonslayer", "entity name")
-t("A huge and heavily-scarred orc with a gigantic sword. His helm is fashioned from a dragon's skull.", "A huge and heavily-scarred orc with a gigantic sword. His helm is fashioned from a dragon's skull.", "_t")
+t("dragon", "dragón", "entity type")
+t("ice", "hielo", "entity subtype")
+t("Rantha the Worm", "Rantha el gusano", "entity name")
+t("Claws and teeth. Ice and death. Dragons are not all extinct it seems...", "Garras y dientes. Hielo y muerte. Los dragones no están todos extintos, parece...", "_t")
+t("and fed to the hatchlings", "y alimentado a los hatchling", "_t")
+t("I have heard there is a dragon hunter in the Daikara that is unhappy about the wyrm being already dead.", "He oído que hay un cazador de dragones en el Daikara que es infeliz sobre el wyrm ya muerto.", "_t")
+t("fire", "fuego", "entity subtype")
+t("Varsha the Writhing", "Varsha el amor", "entity name")
+t("Claws and teeth. Fire and death. Dragons are not all extinct it seems...", "Garras y dientes. Fuego y muerte. Los dragones no están todos extintos, parece...", "_t")
+t("Massok the Dragonslayer", "Massok el Dragonslayer", "entity name")
+t("A huge and heavily-scarred orc with a gigantic sword. His helm is fashioned from a dragon's skull.", "Un enorme orco muy escarado con una espada gigante. Su timón está modelado del cráneo de un dragón.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19565,8 +19562,8 @@ section "mod-tome/data/zones/daikara/objects.lua"
 
 -- new text
 --[==[
-t("daikara expedition note", "daikara expedition note", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
+t("daikara expedition note", "nota de la expedición daikara", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
 t("Rune of the Rift", "Rune of the Rift", "entity name")
 --]==]
 
@@ -19577,7 +19574,7 @@ section "mod-tome/data/zones/daikara/zone.lua"
 -- new text
 --[==[
 t("Daikara", "Daikara", "_t")
-t("BOOM!", "BOOM!", "_t")
+t("BOOM!", "¡BOOM!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19586,7 +19583,7 @@ section "mod-tome/data/zones/deep-bellow/grids.lua"
 
 -- new text
 --[==[
-t("The Iron Council (Dwarven empire main city)", "The Iron Council (Dwarven empire main city)", "entity name")
+t("The Iron Council (Dwarven empire main city)", "El Consejo de Hierro (ciudad principal del imperio enano)", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19595,16 +19592,16 @@ section "mod-tome/data/zones/deep-bellow/npcs.lua"
 
 -- new text
 --[==[
-t("The Mouth", "The Mouth", "entity name")
-t("and revived as a screeching drem bat", "and revived as a screeching drem bat", "_t")
-t("#CRIMSON#%s seems invulnerable, there must be an other way to kill it!", "#CRIMSON#%s seems invulnerable, there must be an other way to kill it!", "logSeen")
-t("I have heard a dwarf whispering about some abomination in the deep bellow.", "I have heard a dwarf whispering about some abomination in the deep bellow.", "_t")
-t("slimy crawler", "slimy crawler", "entity name")
-t("#AQUAMARINE#With the Mouth's death its crawler also falls lifeless on the ground!", "#AQUAMARINE#With the Mouth's death its crawler also falls lifeless on the ground!", "logSeen")
-t("#AQUAMARINE#As #Source# falls you notice that #Target# seems to shudder in pain!", "#AQUAMARINE#As #Source# falls you notice that #Target# seems to shudder in pain!", "logCombat")
-t("The Abomination", "The Abomination", "entity name")
-t("A horrid mass of pustulent flesh, sinew, and bone; this creature seems to constantly be in pain. Two heads glare malevolently at you, an intruder in its domain.", "A horrid mass of pustulent flesh, sinew, and bone; this creature seems to constantly be in pain. Two heads glare malevolently at you, an intruder in its domain.", "_t")
-t("A parchment falls to the floor near The Abomination.", "A parchment falls to the floor near The Abomination.", "logSeen")
+t("The Mouth", "El Mouth", "entity name")
+t("and revived as a screeching drem bat", "y revivido como un murciélago de esperma", "_t")
+t("#CRIMSON#%s seems invulnerable, there must be an other way to kill it!", "#CRIMSON#       Parece invulnerable, debe haber otra manera de matarlo!", "logSeen")
+t("I have heard a dwarf whispering about some abomination in the deep bellow.", "He oído un enano susurrando sobre una abominación en el profundo vientre.", "_t")
+t("slimy crawler", "slimy rastreador", "entity name")
+t("#AQUAMARINE#With the Mouth's death its crawler also falls lifeless on the ground!", "#AQUAMARINE#Con la muerte del Mouth, su rastreador también cae sin vida en el suelo!", "logSeen")
+t("#AQUAMARINE#As #Source# falls you notice that #Target# seems to shudder in pain!", "#AQUAMARINE#Como #Source# caes notando que #Target# parece estremecerse en el dolor!", "logCombat")
+t("The Abomination", "La abominación", "entity name")
+t("A horrid mass of pustulent flesh, sinew, and bone; this creature seems to constantly be in pain. Two heads glare malevolently at you, an intruder in its domain.", "Una masa horrible de carne pústulenta, sinueva y hueso; esta criatura parece estar constantemente sufriendo. Dos cabezas brillan masculinamente en usted, un intruso en su dominio.", "_t")
+t("A parchment falls to the floor near The Abomination.", "Un pergamino cae al suelo cerca de la abominación.", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -19613,11 +19610,11 @@ section "mod-tome/data/zones/deep-bellow/objects.lua"
 
 -- new text
 --[==[
-t("Deep Bellow excavation report %d", "Deep Bellow excavation report %d", "tformat")
-t("A paper scrap.", "A paper scrap.", "_t")
-t("letter to Rolf (3)", "letter to Rolf (3)", "entity name")
-t("letter to Weisman (4)", "letter to Weisman (4)", "entity name")
-t("Last Will of Rolf", "Last Will of Rolf", "entity name")
+t("Deep Bellow excavation report %d", "Informe de excavación profunda de Bellow   PH0  ", "tformat")
+t("A paper scrap.", "Un trozo de papel.", "_t")
+t("letter to Rolf (3)", "carta a Rolf (3)", "entity name")
+t("letter to Weisman (4)", "carta a Weisman (4)", "entity name")
+t("Last Will of Rolf", "Última Voluntad de Rolf", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19635,7 +19632,7 @@ section "mod-tome/data/zones/demon-plane-spell/grids.lua"
 
 -- new text
 --[==[
-t("#Source# burns #Target#!", "#Source# burns #Target#!", "logCombat")
+t("#Source# burns #Target#!", "¡#Source# quema a #Target#!", "logCombat")
 t("#Source# heals #Target#!", "#Source# heals #Target#!", "logCombat")
 --]==]
 
@@ -19655,12 +19652,12 @@ section "mod-tome/data/zones/demon-plane/grids.lua"
 -- new text
 --[==[
 t("Demonic Portal", "Demonic Portal", "entity name")
-t("This portal seems to be connected with Maj'Eyal; you could probably use it to go back.", "This portal seems to be connected with Maj'Eyal; you could probably use it to go back.", "_t")
-t("Back and there again", "Back and there again", "_t")
-t("Enter the portal back to Maj'Eyal? (Warning loot Draebor first)", "Enter the portal back to Maj'Eyal? (Warning loot Draebor first)", "_t")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back to Maj'Eyal, near the Daikara.", "#VIOLET#You enter the swirling portal and in the blink of an eye you are back to Maj'Eyal, near the Daikara.", "logPlayer")
-t("Stay", "Stay", "_t")
-t("Enter", "Enter", "_t")
+t("This portal seems to be connected with Maj'Eyal; you could probably use it to go back.", "Este portal parece estar conectado con Maj'Eyal; probablemente podría utilizarlo para regresar.", "_t")
+t("Back and there again", "Atrás y allá de nuevo", "_t")
+t("Enter the portal back to Maj'Eyal? (Warning loot Draebor first)", "¿Entrar el portal de vuelta a Maj'Eyal? (Warning loot Draebor first)", "_t")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back to Maj'Eyal, near the Daikara.", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos vuelves a Maj'Eyal, cerca del Daikara.", "logPlayer")
+t("Stay", "Quédate", "_t")
+t("Enter", "Entra", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19669,12 +19666,12 @@ section "mod-tome/data/zones/demon-plane/npcs.lua"
 
 -- new text
 --[==[
-t("demon", "demon", "entity type")
-t("minor", "minor", "entity subtype")
-t("Draebor, the Imp", "Draebor, the Imp", "entity name")
-t("An intensely irritating git of a monster.", "An intensely irritating git of a monster.", "_t")
-t("Back and there again", "Back and there again", "_t")
-t("As the annoying imp falls a portal appears under its corpse.", "As the annoying imp falls a portal appears under its corpse.", "_t")
+t("demon", "demonios", "entity type")
+t("minor", "menor", "entity subtype")
+t("Draebor, the Imp", "Draebor, el Imp", "entity name")
+t("An intensely irritating git of a monster.", "Un git intensamente irritante de un monstruo.", "_t")
+t("Back and there again", "Atrás y allá de nuevo", "_t")
+t("As the annoying imp falls a portal appears under its corpse.", "Mientras el imp molesto cae un portal aparece bajo su cuerpo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19683,11 +19680,11 @@ section "mod-tome/data/zones/demon-plane/objects.lua"
 
 -- new text
 --[==[
-t("Shifting Boots", "Shifting Boots", "entity name")
-t("pair of shifting boots", "pair of shifting boots", "_t")
-t("Those leather boots can make anybody as annoying as their former possessor, Draebor.", "Those leather boots can make anybody as annoying as their former possessor, Draebor.", "_t")
-t("blink to a nearby random location within range %d (based on Magic)", "blink to a nearby random location within range %d (based on Magic)", "tformat")
-t("%s taps %s %s together!", "%s taps %s %s together!", "logSeen")
+t("Shifting Boots", "Botas de cambio", "entity name")
+t("pair of shifting boots", "par de botas de cambio", "_t")
+t("Those leather boots can make anybody as annoying as their former possessor, Draebor.", "Esas botas de cuero pueden hacer a cualquiera tan molesto como su antiguo poseedor, Draebor.", "_t")
+t("blink to a nearby random location within range %d (based on Magic)", "enlace a una ubicación cercana al azar dentro del rango   PH0   (basado en Magic)", "tformat")
+t("%s taps %s %s together!", " PH0                         juntos!", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -19705,8 +19702,8 @@ section "mod-tome/data/zones/dreadfell-ambush/npcs.lua"
 
 -- new text
 --[==[
-t("Ukruk the Fierce", "Ukruk the Fierce", "entity name")
-t("This ugly orc looks really nasty and vicious. He is obviously looking for something and bears an unknown symbol on his shield.", "This ugly orc looks really nasty and vicious. He is obviously looking for something and bears an unknown symbol on his shield.", "_t")
+t("Ukruk the Fierce", "Ukruk el Fierce", "entity name")
+t("This ugly orc looks really nasty and vicious. He is obviously looking for something and bears an unknown symbol on his shield.", "Este feo orco se ve muy desagradable y vicioso. Obviamente está buscando algo y lleva un símbolo desconocido en su escudo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19716,7 +19713,7 @@ section "mod-tome/data/zones/dreadfell-ambush/objects.lua"
 -- new text
 --[==[
 t("hastily written log", "hastily written log", "entity name")
-t("A paper scrap, left by Ukruk.", "A paper scrap, left by Ukruk.", "_t")
+t("A paper scrap, left by Ukruk.", "Un trozo de papel, dejado por Ukruk.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19725,7 +19722,7 @@ section "mod-tome/data/zones/dreadfell-ambush/zone.lua"
 
 -- new text
 --[==[
-t("Ambush!", "Ambush!", "_t")
+t("Ambush!", "¡Ambush!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19734,7 +19731,7 @@ section "mod-tome/data/zones/dreadfell/grids.lua"
 
 -- new text
 --[==[
-t("sign post with a note", "sign post with a note", "entity name")
+t("sign post with a note", "post de firma con nota", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19743,21 +19740,21 @@ section "mod-tome/data/zones/dreadfell/npcs.lua"
 
 -- new text
 --[==[
-t("undead", "undead", "entity type")
-t("vampire", "vampire", "entity subtype")
-t("The Master", "The Master", "entity name")
-t("A terrifying vampiric figure of power, with flowing robes and an intense aura of fright.  His cold, sinewy flesh seems to cling to this world through greed and malice, and his eyes betray a strength of mind beyond any puny mortal.  All nearby are utterly subservient to his will, though he stands aloof from them, as if to say he needs not the pathetic meddling of minions to help him overcome his foes.  Your eyes are drawn to a dark staff in his hands which seems to suck the very life from the air around it.  It looks ancient and dangerous and terrible, and the sight of it fills you with fervent desire.", "A terrifying vampiric figure of power, with flowing robes and an intense aura of fright.  His cold, sinewy flesh seems to cling to this world through greed and malice, and his eyes betray a strength of mind beyond any puny mortal.  All nearby are utterly subservient to his will, though he stands aloof from them, as if to say he needs not the pathetic meddling of minions to help him overcome his foes.  Your eyes are drawn to a dark staff in his hands which seems to suck the very life from the air around it.  It looks ancient and dangerous and terrible, and the sight of it fills you with fervent desire.", "_t")
-t("and raised as his tortured undead thrall", "and raised as his tortured undead thrall", "_t")
-t("It has been months since the hero cleansed the Dreadfell, yet rumours are growing: evil is back.", "It has been months since the hero cleansed the Dreadfell, yet rumours are growing: evil is back.", "_t")
-t("skeleton", "skeleton", "entity subtype")
+t("undead", "no-muerto", "entity type")
+t("vampire", "vampiro", "entity subtype")
+t("The Master", "El Maestro", "entity name")
+t("A terrifying vampiric figure of power, with flowing robes and an intense aura of fright.  His cold, sinewy flesh seems to cling to this world through greed and malice, and his eyes betray a strength of mind beyond any puny mortal.  All nearby are utterly subservient to his will, though he stands aloof from them, as if to say he needs not the pathetic meddling of minions to help him overcome his foes.  Your eyes are drawn to a dark staff in his hands which seems to suck the very life from the air around it.  It looks ancient and dangerous and terrible, and the sight of it fills you with fervent desire.", "Una terrible figura vampirica de poder, con túnicas fluyentes y un intenso aura de miedo. Su carne fría y sensata parece aferrarse a este mundo a través de la codicia y la malicia, y sus ojos traicionan una fuerza mental más allá de cualquier mortal puntiagudo. Todos los cercanos están totalmente subordinados a su voluntad, aunque él se mantiene alejado de ellos, como si dijera que no necesita la patética intromisión de los mineros para ayudarlo a superar sus enemigos. Tus ojos están atraídos a un personal oscuro en sus manos que parece chupar la misma vida del aire que la rodea. Se ve antigua y peligrosa y terrible, y la vista de ella te llena de ferviente deseo.", "_t")
+t("and raised as his tortured undead thrall", "y criado como su torturado muerto", "_t")
+t("It has been months since the hero cleansed the Dreadfell, yet rumours are growing: evil is back.", "Han pasado meses desde que el héroe limpió el Dreadfell, pero los rumores están creciendo: el mal ha vuelto.", "_t")
+t("skeleton", "esqueleto", "entity subtype")
 t("Pale Drake", "Pale Drake", "entity name")
-t("A malevolent skeleton archmage that has taken control of the Dreadfell since the Master's demise.", "A malevolent skeleton archmage that has taken control of the Dreadfell since the Master's demise.", "_t")
-t("ghoul", "ghoul", "entity subtype")
-t("Borfast the Broken", "Borfast the Broken", "entity name")
-t("and offered to his dark Master", "and offered to his dark Master", "_t")
-t("ghost", "ghost", "entity subtype")
+t("A malevolent skeleton archmage that has taken control of the Dreadfell since the Master's demise.", "Un arquema esqueleto malévolo que ha tomado el control del Dreadfell desde la desaparición del Maestro.", "_t")
+t("ghoul", "ghul", "entity subtype")
+t("Borfast the Broken", "Borfast el roto", "entity name")
+t("and offered to his dark Master", "y ofrecido a su oscuro Maestro", "_t")
+t("ghost", "fantasma", "entity subtype")
 t("Aletta Soultorn", "Aletta Soultorn", "entity name")
-t("and offered to her dark Master", "and offered to her dark Master", "_t")
+t("and offered to her dark Master", "y ofrecido a su oscuro Maestro", "_t")
 t("Filio Flightfond", "Filio Flightfond", "entity name")
 --]==]
 
@@ -19767,12 +19764,12 @@ section "mod-tome/data/zones/dreadfell/objects.lua"
 
 -- new text
 --[==[
-t("paper scrap", "paper scrap", "entity name")
-t("A smudged poem chalked on a dark piece of slate", "A smudged poem chalked on a dark piece of slate", "_t")
-t("A poem written in scribbled, child-like writing", "A poem written in scribbled, child-like writing", "_t")
-t("A poem written in an elegant Gothic script", "A poem written in an elegant Gothic script", "_t")
-t("a letter from the Master", "a letter from the Master", "entity name")
-t("A letter written in a bold, commanding script", "A letter written in a bold, commanding script", "_t")
+t("paper scrap", "papel chatarra", "entity name")
+t("A smudged poem chalked on a dark piece of slate", "Un poema manchado se tiró sobre un pedazo oscuro de pizarra", "_t")
+t("A poem written in scribbled, child-like writing", "Un poema escrito en la escritura del niño", "_t")
+t("A poem written in an elegant Gothic script", "Un poema escrito en un elegante guión gótico", "_t")
+t("a letter from the Master", "una carta del Maestro", "entity name")
+t("A letter written in a bold, commanding script", "Una carta escrita en un guión audaz y ordenado", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19790,20 +19787,20 @@ section "mod-tome/data/zones/dreams/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("grass", "grass", "entity subtype")
-t("Dream Portal", "Dream Portal", "entity name")
-t("wall", "wall", "entity type")
-t("mouse hole", "mouse hole", "entity name")
-t("A hole small enough that only you can go through.", "A hole small enough that only you can go through.", "_t")
+t("floor", "planta baja", "entity type")
+t("grass", "hierba", "entity subtype")
+t("Dream Portal", "Portal de sueño", "entity name")
+t("wall", "pared", "entity type")
+t("mouse hole", "agujero del ratón", "entity name")
+t("A hole small enough that only you can go through.", "Un agujero lo suficientemente pequeño que solo puedes atravesar.", "_t")
 t("Dreamstone", "Dreamstone", "entity name")
-t("You touch the dreamstone and it disappears. You feel better.", "You touch the dreamstone and it disappears. You feel better.", "logPlayer")
-t("bamboo hut", "bamboo hut", "entity subtype")
-t("weird floor", "weird floor", "entity name")
-t("bamboo wall", "bamboo wall", "entity name")
-t("floor", "floor", "entity subtype")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
+t("You touch the dreamstone and it disappears. You feel better.", "Tocas la piedra de los sueños y desaparece. Te sientes mejor.", "logPlayer")
+t("bamboo hut", "cabaña de bambú", "entity subtype")
+t("weird floor", "piso raro", "entity name")
+t("bamboo wall", "muro de bambú", "entity name")
+t("floor", "planta baja", "entity subtype")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19812,19 +19809,19 @@ section "mod-tome/data/zones/dreams/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("yeek", "yeek", "entity subtype")
-t("yeek illusion", "yeek illusion", "entity name")
-t("What?!", "What?!", "_t")
-t("Who are you?", "Who are you?", "_t")
-t("What do you want?", "What do you want?", "_t")
-t("Why are you here?", "Why are you here?", "_t")
-t("Where are you going?", "Where are you going?", "_t")
-t("Do you have anything worth living for?", "Do you have anything worth living for?", "_t")
-t("GRrrrrrllllll!", "GRrrrrrllllll!", "_t")
-t("lost wife", "lost wife", "entity name")
-t("bloated horror", "bloated horror", "entity subtype")
-t("Your wife has been turned into a giant, bloated form that towers above you. Mucus and slime ooze from every orifice, dripping onto the floor. The sight and the smell make you retch.", "Your wife has been turned into a giant, bloated form that towers above you. Mucus and slime ooze from every orifice, dripping onto the floor. The sight and the smell make you retch.", "_t")
+t("yeek illusion", "ilusiones", "entity name")
+t("What?!", "¿Qué!", "_t")
+t("Who are you?", "¿Quién eres?", "_t")
+t("What do you want?", "¿Qué quieres?", "_t")
+t("Why are you here?", "¿Por qué estás aquí?", "_t")
+t("Where are you going?", "¿Adónde vas?", "_t")
+t("Do you have anything worth living for?", "¿Tienes algo por lo que vale la pena vivir?", "_t")
+t("GRrrrrrllllll!", "¡Grrrrrllllllll!", "_t")
+t("lost wife", "esposa perdida", "entity name")
+t("bloated horror", "horror hinchado", "entity subtype")
+t("Your wife has been turned into a giant, bloated form that towers above you. Mucus and slime ooze from every orifice, dripping onto the floor. The sight and the smell make you retch.", "Tu esposa se ha convertido en una forma gigante, hinchada que se eleva sobre ti. Mucus y slime ooze de cada orificio, goteando en el suelo. La vista y el olor te hacen retch.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19833,14 +19830,14 @@ section "mod-tome/data/zones/dreams/zone.lua"
 
 -- new text
 --[==[
-t("Dreams", "Dreams", "_t")
-t("Dream of vulnerability", "Dream of vulnerability", "_t")
-t("Dream of loss", "Dream of loss", "_t")
-t("Dream ???", "Dream ???", "_t")
+t("Dreams", "Sueños", "_t")
+t("Dream of vulnerability", "Sueño de vulnerabilidad", "_t")
+t("Dream of loss", "Sueño de pérdida", "_t")
+t("Dream ???", "¿Sueño?", "_t")
 t("frail mouse", "frail mouse", "_t")
-t("lost man", "lost man", "_t")
-t("%s has %d stat point(s) to spend. Press p to use them.", "%s has %d stat point(s) to spend. Press p to use them.", "log")
-t("Deep slumber...", "Deep slumber...", "_t")
+t("lost man", "hombre perdido", "_t")
+t("%s has %d stat point(s) to spend. Press p to use them.", " PH0   tiene   PH1      punto(s) para gastar. Presione p para usarlos.", "log")
+t("Deep slumber...", "Un sueño profundo...", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19849,9 +19846,9 @@ section "mod-tome/data/zones/dreamscape-talent/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("cloud", "cloud", "entity subtype")
-t("floor", "floor", "entity name")
+t("floor", "planta baja", "entity type")
+t("cloud", "nube", "entity subtype")
+t("floor", "planta baja", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19869,10 +19866,10 @@ section "mod-tome/data/zones/eidolon-plane/npcs.lua"
 
 -- new text
 --[==[
-t("unknown", "unknown", "entity type")
-t("unknown", "unknown", "entity subtype")
-t("The Eidolon", "The Eidolon", "entity name")
-t("A ripple in the void that somehow seems... alive, this creature stares at you with interest.", "A ripple in the void that somehow seems... alive, this creature stares at you with interest.", "_t")
+t("unknown", "desconocida", "entity type")
+t("unknown", "desconocida", "entity subtype")
+t("The Eidolon", "El Eidolon", "entity name")
+t("A ripple in the void that somehow seems... alive, this creature stares at you with interest.", "Una onda en el vacío que de alguna manera parece... viva, esta criatura te mira con interés.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19882,8 +19879,8 @@ section "mod-tome/data/zones/eidolon-plane/zone.lua"
 -- new text
 --[==[
 t("Eidolon Plane", "Eidolon Plane", "_t")
-t("The Eidolon Plane seems not to physically exist in the same way the normal world does. You cannot seem to drop anything here. %s comes back into your backpack.", "The Eidolon Plane seems not to physically exist in the same way the normal world does. You cannot seem to drop anything here. %s comes back into your backpack.", "logPlayer")
-t("#LIGHT_RED#You are sent back to the material plane!", "#LIGHT_RED#You are sent back to the material plane!", "logPlayer")
+t("The Eidolon Plane seems not to physically exist in the same way the normal world does. You cannot seem to drop anything here. %s comes back into your backpack.", "El Plano Eidolon parece no existir físicamente de la misma manera que el mundo normal. Parece que no puedes dejar nada aquí. Vuelve a tu mochila.", "logPlayer")
+t("#LIGHT_RED#You are sent back to the material plane!", "#LIGHT RED# You are sent back to the material plano!", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -19892,8 +19889,8 @@ section "mod-tome/data/zones/eruan/grids.lua"
 
 -- new text
 --[==[
-t("Farportal: Charred Scar", "Farportal: Charred Scar", "entity name")
-t("#VIOLET#You enter the swirling portal while it fades away and in the blink of an eye you set foot on hellish land, the heart of a volcano...", "#VIOLET#You enter the swirling portal while it fades away and in the blink of an eye you set foot on hellish land, the heart of a volcano...", "_t")
+t("Farportal: Charred Scar", "Farportal: Carred Scar", "entity name")
+t("#VIOLET#You enter the swirling portal while it fades away and in the blink of an eye you set foot on hellish land, the heart of a volcano...", "#VIOLET# Entras en el portal giratorio mientras se desvanece y en el abrir y cerrar de ojos pones un pie en tierra infernal, el corazón de un volcán...", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19902,10 +19899,10 @@ section "mod-tome/data/zones/eruan/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Sun Paladin Guren", "Sun Paladin Guren", "entity name")
-t("A Human warrior, clad in shining plate armour. Power radiates from him.", "A Human warrior, clad in shining plate armour. Power radiates from him.", "_t")
+t("A Human warrior, clad in shining plate armour. Power radiates from him.", "Un guerrero humano, revestido de brillante armadura de placa. El poder irradia de él.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19923,10 +19920,10 @@ section "mod-tome/data/zones/flooded-cave/npcs.lua"
 
 -- new text
 --[==[
-t("dragon", "dragon", "entity type")
-t("water", "water", "entity subtype")
-t("Ukllmswwik the Wise", "Ukllmswwik the Wise", "entity name")
-t("It looks like a cross between a shark and a dragon, only nastier.", "It looks like a cross between a shark and a dragon, only nastier.", "_t")
+t("dragon", "dragón", "entity type")
+t("water", "agua", "entity subtype")
+t("Ukllmswwik the Wise", "Ukllmswwik el Wise", "entity name")
+t("It looks like a cross between a shark and a dragon, only nastier.", "Parece una cruz entre un tiburón y un dragón, sólo más salvaje.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19935,7 +19932,7 @@ section "mod-tome/data/zones/flooded-cave/zone.lua"
 
 -- new text
 --[==[
-t("Flooded Cave", "Flooded Cave", "_t")
+t("Flooded Cave", "Cueva inundada", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19945,9 +19942,9 @@ section "mod-tome/data/zones/gladium/grids.lua"
 -- new text
 --[==[
 t("Gladium Control Orb", "Gladium Control Orb", "entity name")
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("glass wall", "glass wall", "entity name")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("glass wall", "muro de vidrio", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -19956,7 +19953,7 @@ section "mod-tome/data/zones/gladium/zone.lua"
 
 -- new text
 --[==[
-t("Fortress Gladium", "Fortress Gladium", "_t")
+t("Fortress Gladium", "Fortaleza Gladium", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19965,15 +19962,15 @@ section "mod-tome/data/zones/golem-graveyard/grids.lua"
 
 -- new text
 --[==[
-t("the remains of Atamathon", "the remains of Atamathon", "entity name")
+t("the remains of Atamathon", "los restos de Atamathon", "entity name")
 t("Atamathon", "Atamathon", "_t")
-t("It seems that your %s is made to fit inside the empty eye socket of Atamathon. This is probably very unwise.", "It seems that your %s is made to fit inside the empty eye socket of Atamathon. This is probably very unwise.", "tformat")
-t("The socket seems broken.", "The socket seems broken.", "log")
-t("#LIGHT_RED#As you insert the gem the golem starts to shake. All its systems and magics are reactivating.", "#LIGHT_RED#As you insert the gem the golem starts to shake. All its systems and magics are reactivating.", "log")
-t("#LIGHT_RED#Atamathon walks the world again, but without control.", "#LIGHT_RED#Atamathon walks the world again, but without control.", "log")
-t("Activating defenses. Targetting hostile. **DESTRUCTION**!", "Activating defenses. Targetting hostile. **DESTRUCTION**!", "_t")
-t("Insert", "Insert", "_t")
-t("Cancel", "Cancel", "_t")
+t("It seems that your %s is made to fit inside the empty eye socket of Atamathon. This is probably very unwise.", "Parece que tu   PH0   está hecho para encajar dentro de la toma de ojos vacía de Atamathon. Esto es probablemente muy insensato.", "tformat")
+t("The socket seems broken.", "La toma parece rota.", "log")
+t("#LIGHT_RED#As you insert the gem the golem starts to shake. All its systems and magics are reactivating.", "#LIGHT RED#A medida que insertas la gema el golem comienza a sacudirse. Todos sus sistemas y magias están reactivando.", "log")
+t("#LIGHT_RED#Atamathon walks the world again, but without control.", "#LIGHT RED #Atamathon vuelve al mundo, pero sin control.", "log")
+t("Activating defenses. Targetting hostile. **DESTRUCTION**!", "Activando defensas. Ataque hostil. ¡Destrucción**!", "_t")
+t("Insert", "Insertar", "_t")
+t("Cancel", "Cancelar", "_t")
 --]==]
 
 ------------------------------------------------
@@ -19982,17 +19979,17 @@ section "mod-tome/data/zones/golem-graveyard/npcs.lua"
 
 -- new text
 --[==[
-t("Atamathon the Giant Golem", "Atamathon the Giant Golem", "entity name")
-t("This giant golem was constructed by the Halflings during the Pyre Wars to fight the orcs, but was felled by Garkul the Devourer. Someone foolish has tried to reconstruct it, but has lost control of it, and now it rampages in search of its original creators, who are long dead. Its body is made of marble, its joints of solid voratun, and its eyes of purest ruby. At over 40 feet tall, it towers above you, and its crimson orbs seem to glow with rage.", "This giant golem was constructed by the Halflings during the Pyre Wars to fight the orcs, but was felled by Garkul the Devourer. Someone foolish has tried to reconstruct it, but has lost control of it, and now it rampages in search of its original creators, who are long dead. Its body is made of marble, its joints of solid voratun, and its eyes of purest ruby. At over 40 feet tall, it towers above you, and its crimson orbs seem to glow with rage.", "_t")
-t("DESTROY!", "DESTROY!", "_t")
-t("LIFE-ENDING SYSTEMS ACTIVATED!", "LIFE-ENDING SYSTEMS ACTIVATED!", "_t")
-t("GLORY TO THE HALFLINGS!", "GLORY TO THE HALFLINGS!", "_t")
-t("YOUR DEATH IS NECESSARY", "YOUR DEATH IS NECESSARY", "_t")
-t("ACTIVATING PAIN GIVING SUBMODULES!", "ACTIVATING PAIN GIVING SUBMODULES!", "_t")
-t("YOUR LIFE WILL END, PLEASE DO NOT RESIST!", "YOUR LIFE WILL END, PLEASE DO NOT RESIST!", "_t")
-t("RESISTANCE IS FUTILE, YOUR WILL BE EXTERMINATED!", "RESISTANCE IS FUTILE, YOUR WILL BE EXTERMINATED!", "_t")
-t("PLEASE STAY STEADY AS YOU ARE ERASED FROM THE WORLD!", "PLEASE STAY STEADY AS YOU ARE ERASED FROM THE WORLD!", "_t")
-t("EXECUTE PHASE COMMENCING!", "EXECUTE PHASE COMMENCING!", "_t")
+t("Atamathon the Giant Golem", "Atamathon el gigante Golem", "entity name")
+t("This giant golem was constructed by the Halflings during the Pyre Wars to fight the orcs, but was felled by Garkul the Devourer. Someone foolish has tried to reconstruct it, but has lost control of it, and now it rampages in search of its original creators, who are long dead. Its body is made of marble, its joints of solid voratun, and its eyes of purest ruby. At over 40 feet tall, it towers above you, and its crimson orbs seem to glow with rage.", "Este gigante golem fue construido por los Halflings durante las guerras de Pyre para luchar contra los orcos, pero fue caido por Garkul el Devourer. Alguien tonto ha tratado de reconstruirlo, pero ha perdido el control de ella, y ahora se desborda en busca de sus creadores originales, que están muertos por mucho tiempo. Su cuerpo está hecho de mármol, sus articulaciones de voratun sólido, y sus ojos de rubí más puro. A más de 40 pies de altura, se eleva sobre ti, y sus orbes carmesí parecen brillar con ira.", "_t")
+t("DESTROY!", "¡DESTROY!", "_t")
+t("LIFE-ENDING SYSTEMS ACTIVATED!", "¡SISTEMAS DE VIDA ACTIVAS!", "_t")
+t("GLORY TO THE HALFLINGS!", "¡GLORY TO THE HALFLINGS!", "_t")
+t("YOUR DEATH IS NECESSARY", "TU MUERTE ES NECESARIA", "_t")
+t("ACTIVATING PAIN GIVING SUBMODULES!", "¡ACTIVANDO SUBMODULOS PAIN GIVING!", "_t")
+t("YOUR LIFE WILL END, PLEASE DO NOT RESIST!", "¡TU VIDA TERMINARÁ, POR FAVOR, NO TE MOLESTES!", "_t")
+t("RESISTANCE IS FUTILE, YOUR WILL BE EXTERMINATED!", "RESISTENCIA ES FUTILE, ¡TU VOLUNTAD SERÁ EXTERMINIADA!", "_t")
+t("PLEASE STAY STEADY AS YOU ARE ERASED FROM THE WORLD!", "¡POR FAVOR, QUÉDATE QUIETO MIENTRAS ESTÁS HERIDO DEL MUNDO!", "_t")
+t("EXECUTE PHASE COMMENCING!", "¡EXCUTE PHASE COMMENCING!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20001,7 +19998,7 @@ section "mod-tome/data/zones/golem-graveyard/objects.lua"
 
 -- new text
 --[==[
-t("red", "red", "entity subtype")
+t("red", "rojo", "entity subtype")
 t("Atamathon's Ruby Eye", "Atamathon's Ruby Eye", "entity name")
 --]==]
 
@@ -20011,7 +20008,7 @@ section "mod-tome/data/zones/golem-graveyard/zone.lua"
 
 -- new text
 --[==[
-t("Golem Graveyard", "Golem Graveyard", "_t")
+t("Golem Graveyard", "Cementerio de Golem", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20020,18 +20017,18 @@ section "mod-tome/data/zones/gorbat-pride/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity subtype")
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity name")
-t("wall", "wall", "entity type")
-t("roost", "roost", "entity subtype")
-t("wall", "wall", "entity name")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
-t("sand", "sand", "entity subtype")
-t("huge loose rock", "huge loose rock", "entity name")
-t("This rock seems to have been sealed off. You need to find a way to open it.", "This rock seems to have been sealed off. You need to find a way to open it.", "_t")
-t("#VIOLET#You hear a rock crumbling opening.", "#VIOLET#You hear a rock crumbling opening.", "log")
+t("floor", "planta baja", "entity subtype")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity name")
+t("wall", "pared", "entity type")
+t("roost", "¡no", "entity subtype")
+t("wall", "pared", "entity name")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
+t("sand", "arena", "entity subtype")
+t("huge loose rock", "enorme roca suelta", "entity name")
+t("This rock seems to have been sealed off. You need to find a way to open it.", "Esta roca parece haber sido sellada. Necesitas encontrar una manera de abrirla.", "_t")
+t("#VIOLET#You hear a rock crumbling opening.", "#VIOLET #You hear a rock crumbling opening.", "log")
 --]==]
 
 ------------------------------------------------
@@ -20040,9 +20037,9 @@ section "mod-tome/data/zones/gorbat-pride/npcs.lua"
 
 -- new text
 --[==[
-t("Gorbat, Supreme Wyrmic of the Pride", "Gorbat, Supreme Wyrmic of the Pride", "entity name")
-t("An orc with scaly skin, claws and a pair of small wings on his back.", "An orc with scaly skin, claws and a pair of small wings on his back.", "_t")
-t("and fed to the hatchlings", "and fed to the hatchlings", "_t")
+t("Gorbat, Supreme Wyrmic of the Pride", "Gorbat, suprema Wyrmic del Orgullo", "entity name")
+t("An orc with scaly skin, claws and a pair of small wings on his back.", "Un orco con piel escamosa, garras y un par de alas pequeñas en su espalda.", "_t")
+t("and fed to the hatchlings", "y alimentado a los hatchling", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20051,8 +20048,8 @@ section "mod-tome/data/zones/gorbat-pride/objects.lua"
 
 -- new text
 --[==[
-t("draft note", "draft note", "entity name")
-t("A note.", "A note.", "_t")
+t("draft note", "proyecto de nota", "entity name")
+t("A note.", "Una nota.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20070,9 +20067,9 @@ section "mod-tome/data/zones/grushnak-pride/grids.lua"
 
 -- new text
 --[==[
-t("entrance to a slimy pit", "entrance to a slimy pit", "entity name")
-t("training dummy", "training dummy", "entity name")
-t("training", "training", "entity type")
+t("entrance to a slimy pit", "entrada a un pozo delgado", "entity name")
+t("training dummy", "entrenamiento", "entity name")
+t("training", "capacitación", "entity type")
 t("dummy", "dummy", "entity subtype")
 --]==]
 
@@ -20100,9 +20097,9 @@ section "mod-tome/data/zones/grushnak-pride/npcs.lua"
 
 -- new text
 --[==[
-t("Grushnak, Battlemaster of the Pride", "Grushnak, Battlemaster of the Pride", "entity name")
-t("An old orc, covered in battle scars, he looks fierce and very, very, dangerous.", "An old orc, covered in battle scars, he looks fierce and very, very, dangerous.", "_t")
-t("and mounted on the barracks wall", "and mounted on the barracks wall", "_t")
+t("Grushnak, Battlemaster of the Pride", "Grushnak, Battlemaster del orgullo", "entity name")
+t("An old orc, covered in battle scars, he looks fierce and very, very, dangerous.", "Un viejo orc, cubierto de cicatrices de batalla, se ve feroz y muy, muy, peligroso.", "_t")
+t("and mounted on the barracks wall", "y montado en el muro de los barracones", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20111,10 +20108,10 @@ section "mod-tome/data/zones/grushnak-pride/objects.lua"
 
 -- new text
 --[==[
-t("draft note", "draft note", "entity name")
-t("A note.", "A note.", "_t")
-t("The Legend of Garkul", "The Legend of Garkul", "entity name")
-t("The Legend of Garkul the Devourer, mightiest of all orcs.", "The Legend of Garkul the Devourer, mightiest of all orcs.", "_t")
+t("draft note", "proyecto de nota", "entity name")
+t("A note.", "Una nota.", "_t")
+t("The Legend of Garkul", "La leyenda de Garkul", "entity name")
+t("The Legend of Garkul the Devourer, mightiest of all orcs.", "La leyenda de Garkul el devoto, más poderoso de todos los orcos.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20132,23 +20129,22 @@ section "mod-tome/data/zones/halfling-ruins/npcs.lua"
 
 -- new text
 --[==[
-t("Subject Z", "Subject Z", "entity name")
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("This seems to be the 'subject Z' the notes spoke about. He looks human, but this cannot be -- he would be about five thousand years old!", "This seems to be the 'subject Z' the notes spoke about. He looks human, but this cannot be -- he would be about five thousand years old!", "_t")
-t("and bloodily smeared across the granite walls", "and bloodily smeared across the granite walls", "_t")
-t("Sacrifice for the Way!", "Sacrifice for the Way!", "_t")
-t("#LIGHT_RED#Intense fight", "#LIGHT_RED#Intense fight", "_t")
-t("#GOLD#You hastily activate your Rod of Recall, vowing to come back later!", "#GOLD#You hastily activate your Rod of Recall, vowing to come back later!", "say")
-t("Space around you starts to dissolve...", "Space around you starts to dissolve...", "logPlayer")
-t("Emergency recall", "Emergency recall", "_t")
-t("Stay and fight!", "Stay and fight!", "_t")
-t("Halfling?! DIE!!!!!", "Halfling?! DIE!!!!!", "_t")
-t("The Way sent you?", "The Way sent you?", "_t")
-t("You.. saved me?", "You.. saved me?", "_t")
+t("Subject Z", "Asunto Z", "entity name")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("and bloodily smeared across the granite walls", "y manchado de sangre a través de las paredes de granito", "_t")
+t("Sacrifice for the Way!", "¡Sacrificio por el Camino!", "_t")
+t("#LIGHT_RED#Intense fight", "#LIGHT RED #Intense fight", "_t")
+t("#GOLD#You hastily activate your Rod of Recall, vowing to come back later!", "#GOLD# You hastily activa your Rod of Recall, pledgeing to come back later!", "say")
+t("Space around you starts to dissolve...", "El espacio que te rodea comienza a disolver...", "logPlayer")
+t("Emergency recall", "Memoria de emergencia", "_t")
+t("Stay and fight!", "¡Quédate y pelea!", "_t")
+t("Halfling?! DIE!!!!!", "¡Mestizo! ¡DIE!", "_t")
+t("The Way sent you?", "¿El Camino te envió?", "_t")
+t("You.. saved me?", "Tú... ¿me salvaste?", "_t")
 t("Yeek Wayist", "Yeek Wayist", "entity name")
 t("yeek", "yeek", "entity subtype")
-t("This creature is about as tall as a halfling. It is covered in white silky fur and has a disproportionate head. The weirdest thing about it though, its weapon simply floats in front of it.", "This creature is about as tall as a halfling. It is covered in white silky fur and has a disproportionate head. The weirdest thing about it though, its weapon simply floats in front of it.", "_t")
+t("This creature is about as tall as a halfling. It is covered in white silky fur and has a disproportionate head. The weirdest thing about it though, its weapon simply floats in front of it.", "Esta criatura es tan alta como mediana. Está cubierto de piel sedosa blanca y tiene una cabeza desproporcionada. La cosa más rara de ella, sin embargo, su arma simplemente flota delante de ella.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20157,15 +20153,15 @@ section "mod-tome/data/zones/halfling-ruins/objects.lua"
 
 -- new text
 --[==[
-t("research log of halfling mage Hompalan", "research log of halfling mage Hompalan", "entity name")
-t("A very faded research note, nearly unreadable.", "A very faded research note, nearly unreadable.", "_t")
-t("order for Director Hompalan", "order for Director Hompalan", "entity name")
-t("A very faded note, nearly unreadable.", "A very faded note, nearly unreadable.", "_t")
+t("research log of halfling mage Hompalan", "historial de investigación de medias mage Hompalan", "entity name")
+t("A very faded research note, nearly unreadable.", "Una nota de investigación muy de moda, casi imposible de leer.", "_t")
+t("order for Director Hompalan", "orden del Director Hompalan", "entity name")
+t("A very faded note, nearly unreadable.", "Una nota muy de moda, casi imposible de leer.", "_t")
 t("Yeek-fur Robe", "Yeek-fur Robe", "entity name")
-t("sleek fur robe", "sleek fur robe", "_t")
-t("A beautifully soft robe of fine white fur. It looks designed for a halfling noble, with glorious sapphires sewn across the hems. But entrancing as it is, you can't help but feel a little queasy wearing it.", "A beautifully soft robe of fine white fur. It looks designed for a halfling noble, with glorious sapphires sewn across the hems. But entrancing as it is, you can't help but feel a little queasy wearing it.", "_t")
-t("#RED#You feel disgusted touching this thing!", "#RED#You feel disgusted touching this thing!", "logPlayer")
-t("#LIGHT_BLUE#You feel this robe was made for you!", "#LIGHT_BLUE#You feel this robe was made for you!", "logPlayer")
+t("sleek fur robe", "manto de piel elegante", "_t")
+t("A beautifully soft robe of fine white fur. It looks designed for a halfling noble, with glorious sapphires sewn across the hems. But entrancing as it is, you can't help but feel a little queasy wearing it.", "Una hermosa túnica suave de piel blanca fina. Se ve diseñado para un noble medio, con zafiros gloriosos cosidos a través de los timbres. Pero entrando como es, no puedes evitar sentirte un poco mariquita con él.", "_t")
+t("#RED#You feel disgusted touching this thing!", "#RED# Te sientes disgustado tocando esta cosa!", "logPlayer")
+t("#LIGHT_BLUE#You feel this robe was made for you!", "#LIGHT BLUE#Sientes que esta túnica fue hecha para ti!", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -20174,7 +20170,7 @@ section "mod-tome/data/zones/halfling-ruins/zone.lua"
 
 -- new text
 --[==[
-t("Ruined halfling complex", "Ruined halfling complex", "_t")
+t("Ruined halfling complex", "Complejo mediocre en ruinas", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20183,9 +20179,9 @@ section "mod-tome/data/zones/heart-gloom/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("dark_grass", "dark_grass", "entity subtype")
-t("tree", "tree", "entity name")
+t("wall", "pared", "entity type")
+t("dark_grass", "dark grass", "entity subtype")
+t("tree", "árbol", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -20194,20 +20190,20 @@ section "mod-tome/data/zones/heart-gloom/npcs.lua"
 
 -- new text
 --[==[
-t("gloomy ", "gloomy ", "_t")
-t("deformed ", "deformed ", "_t")
-t("sick ", "sick ", "_t")
-t("dreaming ", "dreaming ", "_t")
-t("slumbering ", "slumbering ", "_t")
-t("dozing ", "dozing ", "_t")
-t("The Withering Thing", "The Withering Thing", "entity name")
-t("This deformed beast might have been a wolf before, but now it is just... terrible.", "This deformed beast might have been a wolf before, but now it is just... terrible.", "_t")
-t("and corrupted into a pile of writhing worms", "and corrupted into a pile of writhing worms", "_t")
+t("gloomy ", "glotón", "_t")
+t("deformed ", "deformed", "_t")
+t("sick ", "enfermos", "_t")
+t("dreaming ", "soñando", "_t")
+t("slumbering ", "sueño", "_t")
+t("dozing ", "dozing", "_t")
+t("The Withering Thing", "La cosa persistente", "entity name")
+t("This deformed beast might have been a wolf before, but now it is just... terrible.", "Esta bestia deforme podría haber sido un lobo antes, pero ahora es... terrible.", "_t")
+t("and corrupted into a pile of writhing worms", "y corrompido en un montón de gusanos", "_t")
 t("horror", "horror", "entity type")
 t("eldritch", "eldritch", "entity subtype")
-t("The Dreaming One", "The Dreaming One", "entity name")
-t("This strange globe of blue light seems to be alive and asleep. Nothing about it moves, yet you can feel the crushing power of its dreams assaulting your mind.", "This strange globe of blue light seems to be alive and asleep. Nothing about it moves, yet you can feel the crushing power of its dreams assaulting your mind.", "_t")
-t("and absorbed into nightmares forever", "and absorbed into nightmares forever", "_t")
+t("The Dreaming One", "El Sueño Uno", "entity name")
+t("This strange globe of blue light seems to be alive and asleep. Nothing about it moves, yet you can feel the crushing power of its dreams assaulting your mind.", "Este extraño globo de luz azul parece estar vivo y dormido. Nada de eso se mueve, sin embargo puedes sentir el poder aplastante de sus sueños agrediendo tu mente.", "_t")
+t("and absorbed into nightmares forever", "y absorbido en pesadillas para siempre", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20216,7 +20212,7 @@ section "mod-tome/data/zones/heart-gloom/zone.lua"
 
 -- new text
 --[==[
-t("Heart of the Gloom", "Heart of the Gloom", "_t")
+t("Heart of the Gloom", "Corazón del Gloom", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20225,24 +20221,24 @@ section "mod-tome/data/zones/high-peak/grids.lua"
 
 -- new text
 --[==[
-t("Farportal: the Far East", "Farportal: the Far East", "entity name")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the Far East, with no trace of the portal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the Far East, with no trace of the portal...", "_t")
-t("Farportal: Iron Throne", "Farportal: Iron Throne", "entity name")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the slopes of the Iron Throne, with no trace of the portal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the slopes of the Iron Throne, with no trace of the portal...", "_t")
-t("Farportal: the Void", "Farportal: the Void", "entity name")
-t("#LIGHT_BLUE#You use the orb on the portal, shutting it down easily.", "#LIGHT_BLUE#You use the orb on the portal, shutting it down easily.", "logPlayer")
-t("%s (disabled)", "%s (disabled)", "tformat")
+t("Farportal: the Far East", "Farportal: el Lejano Oriente", "entity name")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the Far East, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el enlace de un ojo pones un pie en el Lejano Oriente, sin rastro del portal...", "_t")
+t("Farportal: Iron Throne", "Farportal: Trono de hierro", "entity name")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the slopes of the Iron Throne, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el enlace de un ojo pones un pie en las pistas del Trono de Hierro, sin rastro del portal...", "_t")
+t("Farportal: the Void", "Farportal: el Vacío", "entity name")
+t("#LIGHT_BLUE#You use the orb on the portal, shutting it down easily.", "#LIGHT BLUE#Usas el orbe en el portal, cerrándolo fácilmente.", "logPlayer")
+t("%s (disabled)", " PH0   (discapacitado)", "tformat")
 t("Invocation Portal: Undeath", "Invocation Portal: Undeath", "entity name")
-t("An invocation portal, perpetually summoning beings through it.", "An invocation portal, perpetually summoning beings through it.", "_t")
-t("Invocation Portal: Elements", "Invocation Portal: Elements", "entity name")
-t("Invocation Portal: Dragons", "Invocation Portal: Dragons", "entity name")
-t("Invocation Portal: Destruction", "Invocation Portal: Destruction", "entity name")
-t("Portal: The Sanctum", "Portal: The Sanctum", "entity name")
-t("This portal seems to connect to another part of this level.", "This portal seems to connect to another part of this level.", "_t")
-t("#GOLD#This portal looks like it reacts only to the Orb of Many Ways.", "#GOLD#This portal looks like it reacts only to the Orb of Many Ways.", "say")
-t("#VIOLET#You enter the swirling portal and appear in a large room with other portals and the two wizards.", "#VIOLET#You enter the swirling portal and appear in a large room with other portals and the two wizards.", "_t")
+t("An invocation portal, perpetually summoning beings through it.", "Un portal de invocación, convocando perpetuamente a los seres a través de él.", "_t")
+t("Invocation Portal: Elements", "Portal de Invocación: Elementos", "entity name")
+t("Invocation Portal: Dragons", "Portal de Invocación: Dragones", "entity name")
+t("Invocation Portal: Destruction", "Portal de Invocación: Destrucción", "entity name")
+t("Portal: The Sanctum", "Portal: El Santuario", "entity name")
+t("This portal seems to connect to another part of this level.", "Este portal parece conectarse a otra parte de este nivel.", "_t")
+t("#GOLD#This portal looks like it reacts only to the Orb of Many Ways.", "#GOLD#Este portal parece que sólo reacciona al Orbe de Many Ways.", "say")
+t("#VIOLET#You enter the swirling portal and appear in a large room with other portals and the two wizards.", "#VIOLET# Entras en el portal giratorio y apareces en una habitación grande con otros portales y los dos magos.", "_t")
 t("Elandar", "Elandar", "_t")
-t("next level", "next level", "entity name")
+t("next level", "siguiente nivel", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -20251,17 +20247,17 @@ section "mod-tome/data/zones/high-peak/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("shalore", "shalore", "entity subtype")
 t("Elandar", "Elandar", "entity name")
-t("Renegade mages from Angolwen, the Sorcerers have set up in the Far East, slowly growing corrupt. Now they must be stopped.", "Renegade mages from Angolwen, the Sorcerers have set up in the Far East, slowly growing corrupt. Now they must be stopped.", "_t")
-t("human", "human", "entity subtype")
+t("Renegade mages from Angolwen, the Sorcerers have set up in the Far East, slowly growing corrupt. Now they must be stopped.", "Renegado mages de Angolwen, los Hechiceros se han establecido en el Lejano Oriente, lentamente creciendo corrupto. Ahora deben detenerse.", "_t")
+t("human", "humanos", "entity subtype")
 t("Argoniel", "Argoniel", "entity name")
 t("Fallen Sun Paladin Aeryn", "Fallen Sun Paladin Aeryn", "entity name")
-t("A beautiful woman, clad in shining plate armour. Power radiates from her.", "A beautiful woman, clad in shining plate armour. Power radiates from her.", "_t")
+t("A beautiful woman, clad in shining plate armour. Power radiates from her.", "Una mujer hermosa, vestida de brillante armadura de placa. El poder irradia de ella.", "_t")
 t("High Sun Paladin Aeryn", "High Sun Paladin Aeryn", "entity name")
 t("Caldizar", "Caldizar", "entity name")
-t("A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "_t")
+t("A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "Una criatura está delante de ti, con largos apéndices tipo tentáculo y un bache en lugar de una cabeza. Un intenso aura de poder irradia de este ser diferente a cualquier cosa que hayas sentido antes. Sólo puede ser un Sher'Tul. ¡Un Sher'Tul vivo!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20270,23 +20266,23 @@ section "mod-tome/data/zones/high-peak/objects.lua"
 
 -- new text
 --[==[
-t("bloodsoaked diamond", "bloodsoaked diamond", "entity name")
-t("A strangely wet diamond.", "A strangely wet diamond.", "_t")
-t("bloodsoaked athame", "bloodsoaked athame", "entity name")
-t("A strangely wet athame.", "A strangely wet athame.", "_t")
-t("journal", "journal", "entity name")
-t("A magically-preserved journal.", "A magically-preserved journal.", "_t")
+t("bloodsoaked diamond", "diamante empapado de sangre", "entity name")
+t("A strangely wet diamond.", "Un diamante extrañamente húmedo.", "_t")
+t("bloodsoaked athame", "sangre empapada athame", "entity name")
+t("A strangely wet athame.", "Un athame extrañamente húmedo.", "_t")
+t("journal", "diario", "entity name")
+t("A magically-preserved journal.", "Una revista mágicamente conservada.", "_t")
 t("Awakened Staff of Absorption", "Awakened Staff of Absorption", "entity name")
 t("ominous, dark runed staff", "ominous, dark runed staff", "_t")
-t("absorb the essence (ignoring resistance and bypassing most defenses) of a target in range %d, draining 30%% of its life and increasing your own damage by 30%% for %d turns", "absorb the essence (ignoring resistance and bypassing most defenses) of a target in range %d, draining 30%% of its life and increasing your own damage by 30%% for %d turns", "tformat")
-t("was absorbed by the %s held by %s", "was absorbed by the %s held by %s", "tformat")
-t("#Source# brandishes %s %s, absorbing the essence of #target#!", "#Source# brandishes %s %s, absorbing the essence of #target#!", "logCombat")
-t("#ORCHID# %d essence drain#LAST#", "#ORCHID# %d essence drain#LAST#", "tformat")
-t("gem", "gem", "entity type")
-t("white", "white", "entity subtype")
-t("Pearl of Life and Death", "Pearl of Life and Death", "entity name")
-t("shining pearl", "shining pearl", "_t")
-t("A pearl, three times the size of a normal pearl, that glitters in infinite colours, with slight patterns ever shifting away.", "A pearl, three times the size of a normal pearl, that glitters in infinite colours, with slight patterns ever shifting away.", "_t")
+t("absorb the essence (ignoring resistance and bypassing most defenses) of a target in range %d, draining 30%% of its life and increasing your own damage by 30%% for %d turns", "absorber la esencia (ignorando la resistencia y superando la mayoría de las defensas) de un objetivo en rango   PH0  , drenando el 30% de su vida y aumentando su propio daño en un 30%% para   PH1  vueltas", "tformat")
+t("was absorbed by the %s held by %s", "fue absorbido por el   PH0   sostenido por   PH1  ", "tformat")
+t("#Source# brandishes %s %s, absorbing the essence of #target#!", "#Source# brandishes   PH0     PH1  , absorbiendo la esencia de #target#!", "logCombat")
+t("#ORCHID# %d essence drain#LAST#", "#ORCHID#   PH0   esencial drain#LAST#", "tformat")
+t("gem", "gema", "entity type")
+t("white", "blanco", "entity subtype")
+t("Pearl of Life and Death", "Perla de Vida y Muerte", "entity name")
+t("shining pearl", "brillante perla", "_t")
+t("A pearl, three times the size of a normal pearl, that glitters in infinite colours, with slight patterns ever shifting away.", "Una perla, tres veces el tamaño de una perla normal, que brilla en colores infinitos, con ligeros patrones que siempre se alejan.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20296,8 +20292,8 @@ section "mod-tome/data/zones/high-peak/zone.lua"
 -- new text
 --[==[
 t("High Peak", "High Peak", "_t")
-t("High Peak: The Sanctum", "High Peak: The Sanctum", "_t")
-t("High Peak (%d)", "High Peak (%d)", "tformat")
+t("High Peak: The Sanctum", "Alto pico: el santuario", "_t")
+t("High Peak (%d)", "Alto pico (  PH0  )", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -20315,34 +20311,34 @@ section "mod-tome/data/zones/infinite-dungeon/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("grass", "grass", "entity subtype")
-t("huge loose rock", "huge loose rock", "entity name")
-t("underground", "underground", "entity subtype")
-t("crystal", "crystal", "entity subtype")
-t("sand", "sand", "entity subtype")
-t("autumn_grass", "autumn_grass", "entity subtype")
+t("wall", "pared", "entity type")
+t("grass", "hierba", "entity subtype")
+t("huge loose rock", "enorme roca suelta", "entity name")
+t("underground", "subterráneo", "entity subtype")
+t("crystal", "cristal", "entity subtype")
+t("sand", "arena", "entity subtype")
+t("autumn_grass", "otoño grass", "entity subtype")
 t("lava", "lava", "entity subtype")
-t("burnt", "burnt", "entity subtype")
-t("burnt passage", "burnt passage", "entity name")
-t("floor", "floor", "entity type")
-t("snowy_grass", "snowy_grass", "entity subtype")
-t("snowy grass", "snowy grass", "entity name")
-t("winter tree", "winter tree", "entity name")
-t("rock", "rock", "entity subtype")
-t("snowy passage", "snowy passage", "entity name")
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads to another floor of the dungeon.", "The rift leads to another floor of the dungeon.", "_t")
-t("rift", "rift", "entity subtype")
-t("crack in spacetime", "crack in spacetime", "entity name")
-t("underwater", "underwater", "entity subtype")
-t("underwater", "underwater", "entity name")
-t("coral wall", "coral wall", "entity name")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
-t("next level", "next level", "entity name")
-t("lava floor", "lava floor", "entity name")
-t("lava wall", "lava wall", "entity name")
+t("burnt", "quemado", "entity subtype")
+t("burnt passage", "pasaje quemado", "entity name")
+t("floor", "planta baja", "entity type")
+t("snowy_grass", "snowy grass", "entity subtype")
+t("snowy grass", "hierba nevada", "entity name")
+t("winter tree", "árbol de invierno", "entity name")
+t("rock", "roca", "entity subtype")
+t("snowy passage", "pasaje de nieve", "entity name")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads to another floor of the dungeon.", "El borde conduce a otro piso de la mazmorra.", "_t")
+t("rift", "grieta", "entity subtype")
+t("crack in spacetime", "grieta en el espacio-tiempo", "entity name")
+t("underwater", "bajo el agua", "entity subtype")
+t("underwater", "bajo el agua", "entity name")
+t("coral wall", "muro de coral", "entity name")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
+t("next level", "siguiente nivel", "entity name")
+t("lava floor", "suelo de lava", "entity name")
+t("lava wall", "muro de lava", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -20351,25 +20347,25 @@ section "mod-tome/data/zones/infinite-dungeon/objects.lua"
 
 -- new text
 --[==[
-t("The Hunter and the Hunted", "The Hunter and the Hunted", "entity name")
-t("The infinite hunt.", "The infinite hunt.", "_t")
-t("potion", "potion", "entity type")
-t("potion", "potion", "entity subtype")
+t("The Hunter and the Hunted", "El cazador y la caza", "entity name")
+t("The infinite hunt.", "La caza infinita.", "_t")
+t("potion", "poción", "entity type")
+t("potion", "poción", "entity subtype")
 t("Potion of Martial Prowess", "Potion of Martial Prowess", "entity name")
-t("phial filled with metallic liquid", "phial filled with metallic liquid", "_t")
-t("This potent elixir can give insights into martial combat to those unlucky enough to ignore the basics.", "This potent elixir can give insights into martial combat to those unlucky enough to ignore the basics.", "_t")
-t("%s quaffs the %s!", "%s quaffs the %s!", "logSeen")
-t("#VIOLET#You seem to understand the basic martial pratices. (Combat Training talents unlocked)", "#VIOLET#You seem to understand the basic martial pratices. (Combat Training talents unlocked)", "logPlayer")
-t("#VIOLET#You seem to now know how to properly use a bow or a sling.", "#VIOLET#You seem to now know how to properly use a bow or a sling.", "logPlayer")
-t("#VIOLET#Images of yourself beating people with a stick spring into your mind. (Staff Combat category can be bought)", "#VIOLET#Images of yourself beating people with a stick spring into your mind. (Staff Combat category can be bought)", "logPlayer")
-t("#VIOLET#You suddenly understand how to channel your mental force through mindstars. (Mindstar Mastery category can be bought)", "#VIOLET#You suddenly understand how to channel your mental force through mindstars. (Mindstar Mastery category can be bought)", "logPlayer")
-t("#VIOLET#It seems you already knew all the elixir could teach you.", "#VIOLET#It seems you already knew all the elixir could teach you.", "logPlayer")
-t("Antimagic Wyrm Bile Extract", "Antimagic Wyrm Bile Extract", "entity name")
-t("phial filled with slimy liquid", "phial filled with slimy liquid", "_t")
-t("This potent elixir extracted from a powerful wyrm can grant the power to repel arcane forces.", "This potent elixir extracted from a powerful wyrm can grant the power to repel arcane forces.", "_t")
-t("Antimagic", "Antimagic", "_t")
-t("Quaffing this potion will grant you access to the antimagic talents but at the cost of all access to runes, arcane items and spells.", "Quaffing this potion will grant you access to the antimagic talents but at the cost of all access to runes, arcane items and spells.", "_t")
-t("You cannot use your %s anymore; it is tainted by magic.", "You cannot use your %s anymore; it is tainted by magic.", "logPlayer")
+t("phial filled with metallic liquid", "phial rellenado con líquido metálico", "_t")
+t("This potent elixir can give insights into martial combat to those unlucky enough to ignore the basics.", "Este potente elixir puede dar información sobre el combate marcial a aquellos lo suficientemente desafortunados para ignorar los fundamentos.", "_t")
+t("%s quaffs the %s!", " PH0   quaffs the   PH1   !", "logSeen")
+t("#VIOLET#You seem to understand the basic martial pratices. (Combat Training talents unlocked)", "#VIOLET# Pareces entender las prácticas marciales básicas. (Combat Formación talentos desbloqueados)", "logPlayer")
+t("#VIOLET#You seem to now know how to properly use a bow or a sling.", "#VIOLET#Ahora pareces saber cómo usar correctamente un arco o un sling.", "logPlayer")
+t("#VIOLET#Images of yourself beating people with a stick spring into your mind. (Staff Combat category can be bought)", "#VIOLET #Images of you beating people with a stick spring into your mind. (Se puede comprar la categoría de combate de personal)", "logPlayer")
+t("#VIOLET#You suddenly understand how to channel your mental force through mindstars. (Mindstar Mastery category can be bought)", "#VIOLET#De repente entiendes cómo canalizar tu fuerza mental a través de las estrellas mentales. (Mindstar Mastery categoría se puede comprar)", "logPlayer")
+t("#VIOLET#It seems you already knew all the elixir could teach you.", "#VIOLET# Parece que ya sabías que todo el elixir podía enseñarte.", "logPlayer")
+t("Antimagic Wyrm Bile Extract", "Extracto Antimagic Wyrm Bile", "entity name")
+t("phial filled with slimy liquid", "phial relleno con líquido delgado", "_t")
+t("This potent elixir extracted from a powerful wyrm can grant the power to repel arcane forces.", "Este potente elixir extraído de un poderoso wyrm puede otorgar el poder para repeler las fuerzas arcanas.", "_t")
+t("Antimagic", "Antimagia", "_t")
+t("Quaffing this potion will grant you access to the antimagic talents but at the cost of all access to runes, arcane items and spells.", "Cuarenta de esta poción le otorgará acceso a los talentos antimagicos pero a costa de todo el acceso a runas, artículos arcanos y hechizos.", "_t")
+t("You cannot use your %s anymore; it is tainted by magic.", "Ya no puedes usar tu   PH0   ; está manchada por la magia.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -20378,39 +20374,39 @@ section "mod-tome/data/zones/infinite-dungeon/zone.lua"
 
 -- new text
 --[==[
-t("Infinite Dungeon", "Infinite Dungeon", "_t")
-t(", carefully excavated area", ", carefully excavated area", "_t")
-t(" wilderness", " wilderness", "_t")
-t(" cavern", " cavern", "_t")
-t(" network of corridors", " network of corridors", "_t")
-t(", settled area", ", settled area", "_t")
-t(", constructed area", ", constructed area", "_t")
-t(", subsided area", ", subsided area", "_t")
-t(", geometrically ordered area", ", geometrically ordered area", "_t")
+t("Infinite Dungeon", "Infinito Dungeon", "_t")
+t(", carefully excavated area", ", área cuidadosamente excavada", "_t")
+t(" wilderness", "desierto", "_t")
+t(" cavern", "caverna", "_t")
+t(" network of corridors", "red de corredores", "_t")
+t(", settled area", ", zona asentada", "_t")
+t(", constructed area", ", superficie construida", "_t")
+t(", subsided area", ", zona subsiderada", "_t")
+t(", geometrically ordered area", ", área geométricamente ordenada", "_t")
 t("hewn", "hewn", "_t")
 t("sylvan", "sylvan", "_t")
-t("subterranean", "subterranean", "_t")
-t("crystalline", "crystalline", "_t")
-t("sandy", "sandy", "_t")
-t("arrid", "arrid", "_t")
+t("subterranean", "subterráneo", "_t")
+t("crystalline", "cristalino", "_t")
+t("sandy", "arena", "_t")
+t("arrid", "llegada", "_t")
 t("slimey", "slimey", "_t")
-t("humid, tropical", "humid, tropical", "_t")
+t("humid, tropical", "húmedo, tropical", "_t")
 t("unhewn", "unhewn", "_t")
-t("burned", "burned", "_t")
-t("mountainous", "mountainous", "_t")
-t("alpine", "alpine", "_t")
-t("cold, wooded", "cold, wooded", "_t")
-t("empty", "empty", "_t")
-t("flooded", "flooded", "_t")
+t("burned", "quemado", "_t")
+t("mountainous", "montañoso", "_t")
+t("alpine", "alpino", "_t")
+t("cold, wooded", "frío, arbolado", "_t")
+t("empty", "vacío", "_t")
+t("flooded", "inundaciones", "_t")
 t("molten", "molten", "_t")
-t("temperate", "temperate", "_t")
+t("temperate", "templado", "_t")
 t("\
 Encroaching terrain:\
 %s%s", "\
 Encroaching terrain:\
 %s%s", "tformat")
-t("indistinct", "indistinct", "_t")
-t("continuation of the Infinite Dungeon", "continuation of the Infinite Dungeon", "_t")
+t("indistinct", "indistinto", "_t")
+t("continuation of the Infinite Dungeon", "continuación del Infinito Dungeon", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20419,17 +20415,17 @@ section "mod-tome/data/zones/keepsake-meadow/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("grass", "grass", "entity subtype")
-t("troll stew", "troll stew", "entity name")
-t("floor", "floor", "entity type")
-t("grass", "grass", "entity name")
-t("dirt", "dirt", "entity subtype")
-t("cave floor", "cave floor", "entity name")
-t("cave marker", "cave marker", "entity name")
-t("floor", "floor", "entity subtype")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
+t("wall", "pared", "entity type")
+t("grass", "hierba", "entity subtype")
+t("troll stew", "guiso de troll", "entity name")
+t("floor", "planta baja", "entity type")
+t("grass", "hierba", "entity name")
+t("dirt", "tierra", "entity subtype")
+t("cave floor", "planta baja", "entity name")
+t("cave marker", "marcador de la cueva", "entity name")
+t("floor", "planta baja", "entity subtype")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -20438,41 +20434,41 @@ section "mod-tome/data/zones/keepsake-meadow/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("To arms!", "To arms!", "_t")
-t("Monster!", "Monster!", "_t")
-t("Die!", "Die!", "_t")
-t("You will not kill us!", "You will not kill us!", "_t")
-t("We will end this!", "We will end this!", "_t")
-t("caravan merchant", "caravan merchant", "entity name")
-t("A caravan merchant.", "A caravan merchant.", "_t")
-t("caravan guard", "caravan guard", "entity name")
-t("A caravan guard.", "A caravan guard.", "_t")
-t("caravan porter", "caravan porter", "entity name")
-t("A caravan porter.", "A caravan porter.", "_t")
-t("war dog", "war dog", "entity name")
-t("This is a large dog, bred and trained for fighting.", "This is a large dog, bred and trained for fighting.", "_t")
-t("corrupted war dog", "corrupted war dog", "entity name")
-t("This is a large dog, bred and trained for fighting. Something about the way it moves doesn't look normal.", "This is a large dog, bred and trained for fighting. Something about the way it moves doesn't look normal.", "_t")
-t("undead", "undead", "entity type")
-t("shadow", "shadow", "entity subtype")
-t("shadow claw", "shadow claw", "entity name")
-t("A shadow, almost humanoid in shape. Long claws extend in front of it as is swims through the air.", "A shadow, almost humanoid in shape. Long claws extend in front of it as is swims through the air.", "_t")
-t("shadow stalker", "shadow stalker", "entity name")
-t("A shadow, almost humanoid in shape. It seems to move carefully and with cunning before swiftly striking.", "A shadow, almost humanoid in shape. It seems to move carefully and with cunning before swiftly striking.", "_t")
-t("A shadow, almost humanoid in shape. At times its form seems to be a force of will rather than something real.", "A shadow, almost humanoid in shape. At times its form seems to be a force of will rather than something real.", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("To arms!", "¡A los brazos!", "_t")
+t("Monster!", "¡Monstruo!", "_t")
+t("Die!", "¡Muere!", "_t")
+t("You will not kill us!", "¡No nos matarás!", "_t")
+t("We will end this!", "¡Terminaremos con esto!", "_t")
+t("caravan merchant", "caravana comerciante", "entity name")
+t("A caravan merchant.", "Un comerciante de caravanas.", "_t")
+t("caravan guard", "caravana", "entity name")
+t("A caravan guard.", "Un guardia de caravana.", "_t")
+t("caravan porter", "caravana portero", "entity name")
+t("A caravan porter.", "Un portero de caravanas.", "_t")
+t("war dog", "perro de guerra", "entity name")
+t("This is a large dog, bred and trained for fighting.", "Este es un perro grande, criado y entrenado para luchar.", "_t")
+t("corrupted war dog", "perro de guerra corrupto", "entity name")
+t("This is a large dog, bred and trained for fighting. Something about the way it moves doesn't look normal.", "Este es un perro grande, criado y entrenado para luchar. Algo sobre la forma en que se mueve no parece normal.", "_t")
+t("undead", "no-muerto", "entity type")
+t("shadow", "sombra", "entity subtype")
+t("shadow claw", "sombra", "entity name")
+t("A shadow, almost humanoid in shape. Long claws extend in front of it as is swims through the air.", "Una sombra, casi humanoide en forma. Las garras largas se extienden delante de ella, ya que nada por el aire.", "_t")
+t("shadow stalker", "sombra acechador", "entity name")
+t("A shadow, almost humanoid in shape. It seems to move carefully and with cunning before swiftly striking.", "Una sombra, casi humanoide en forma. Parece moverse cuidadosamente y con astucia antes de golpear rápidamente.", "_t")
+t("A shadow, almost humanoid in shape. At times its form seems to be a force of will rather than something real.", "Una sombra, casi humanoide en forma. A veces su forma parece ser una fuerza de voluntad en lugar de algo real.", "_t")
 t("thalore", "thalore", "entity subtype")
 t("Companion Warrior", "Companion Warrior", "entity name")
-t("This elf is a companion of Berethh. He's dressed in light armor and wields a sword.", "This elf is a companion of Berethh. He's dressed in light armor and wields a sword.", "_t")
+t("This elf is a companion of Berethh. He's dressed in light armor and wields a sword.", "Este elfo es un compañero de Berethh. Está vestido con armadura ligera y tiene una espada.", "_t")
 t("Companion Archer", "Companion Archer", "entity name")
-t("This elf is a companion of Berethh. He's dressed in light armor and wields a bow.", "This elf is a companion of Berethh. He's dressed in light armor and wields a bow.", "_t")
+t("This elf is a companion of Berethh. He's dressed in light armor and wields a bow.", "Este elfo es un compañero de Berethh. Está vestido con armadura ligera y dobla un arco.", "_t")
 t("Kyless", "Kyless", "entity name")
-t("This is Kyless, your old friend. He seems dirtier than you recall and a good bit more dangerous.", "This is Kyless, your old friend. He seems dirtier than you recall and a good bit more dangerous.", "_t")
-t("and fed to his corrupted dogs", "and fed to his corrupted dogs", "_t")
+t("This is Kyless, your old friend. He seems dirtier than you recall and a good bit more dangerous.", "Este es Kyless, tu viejo amigo. Parece más sucio de lo que recuerdas y un poco más peligroso.", "_t")
+t("and fed to his corrupted dogs", "y alimentado a sus perros corruptos", "_t")
 t("Berethh", "Berethh", "entity name")
-t("This is Berethh, your old friend. He is dressed in well-worn leather and skillfully wields a bow. There is something noble about the way he carries himself but his expression carries no emotion.", "This is Berethh, your old friend. He is dressed in well-worn leather and skillfully wields a bow. There is something noble about the way he carries himself but his expression carries no emotion.", "_t")
-t("and quickly burned in a pyre", "and quickly burned in a pyre", "_t")
+t("This is Berethh, your old friend. He is dressed in well-worn leather and skillfully wields a bow. There is something noble about the way he carries himself but his expression carries no emotion.", "Este es Berethh, tu viejo amigo. Está vestido de cuero bien dorado y hábilmente empuña un arco. Hay algo noble sobre la forma en que se lleva, pero su expresión no lleva emoción.", "_t")
+t("and quickly burned in a pyre", "y rápidamente quemado en un piro", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20481,20 +20477,20 @@ section "mod-tome/data/zones/keepsake-meadow/objects.lua"
 
 -- new text
 --[==[
-t("folded up piece of paper", "folded up piece of paper", "entity name")
-t("A folded up piece of paper with a few notes written on it.", "A folded up piece of paper with a few notes written on it.", "_t")
+t("folded up piece of paper", "pedazo de papel doblado", "entity name")
+t("A folded up piece of paper with a few notes written on it.", "Un pedazo de papel doblado con algunas notas escritas en él.", "_t")
 t("Iron Acorn", "Iron Acorn", "entity name")
-t("misc", "misc", "entity type")
+t("misc", "varios", "entity type")
 t("trinket", "trinket", "entity subtype")
-t("A small acorn, crafted crudely out of iron.", "A small acorn, crafted crudely out of iron.", "_t")
-t("You cannot bring yourself to drop the %s", "You cannot bring yourself to drop the %s", "logPlayer")
-t("A small acorn, crafted crudely out of iron. It once belonged to Bander, but now it is yours. You find having the acorn helps to anchor your mind and prepare you for the trials ahead.", "A small acorn, crafted crudely out of iron. It once belonged to Bander, but now it is yours. You find having the acorn helps to anchor your mind and prepare you for the trials ahead.", "_t")
+t("A small acorn, crafted crudely out of iron.", "Una pequeña bellota, hecha crudamente de hierro.", "_t")
+t("You cannot bring yourself to drop the %s", "No puedes traerte a ti mismo para dejar caer el   PH0 ", "logPlayer")
+t("A small acorn, crafted crudely out of iron. It once belonged to Bander, but now it is yours. You find having the acorn helps to anchor your mind and prepare you for the trials ahead.", "Una pequeña bellota, hecha crudamente de hierro. Una vez perteneció a Bander, pero ahora es tuyo. Encontrarás que tener el bellota ayuda a anclar tu mente y prepararte para las pruebas que hay por delante.", "_t")
 t("Cold Iron Acorn", "Cold Iron Acorn", "entity name")
-t("A small acorn, crafted crudely out of iron. It once belonged to Bander, but now it is yours. The acorn serves as a reminder of who and what you are.", "A small acorn, crafted crudely out of iron. It once belonged to Bander, but now it is yours. The acorn serves as a reminder of who and what you are.", "_t")
-t("journal page", "journal page", "entity name")
-t("A page containing an entry from Kyless' journal.", "A page containing an entry from Kyless' journal.", "_t")
-t("Kyless' Book", "Kyless' Book", "entity name")
-t("This was the book that gave power to Kyless and eventually led to his doom. The book is simple in appearance, bound in leather with no markings on the cover. All of the pages are blank.", "This was the book that gave power to Kyless and eventually led to his doom. The book is simple in appearance, bound in leather with no markings on the cover. All of the pages are blank.", "_t")
+t("A small acorn, crafted crudely out of iron. It once belonged to Bander, but now it is yours. The acorn serves as a reminder of who and what you are.", "Una pequeña bellota, hecha crudamente de hierro. Una vez perteneció a Bander, pero ahora es tuyo. El bellota sirve como recordatorio de quién y qué eres.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A page containing an entry from Kyless' journal.", "Una página que contiene una entrada del diario de Kyless.", "_t")
+t("Kyless' Book", "Libro de Kyless", "entity name")
+t("This was the book that gave power to Kyless and eventually led to his doom. The book is simple in appearance, bound in leather with no markings on the cover. All of the pages are blank.", "Este era el libro que dio poder a Kyless y eventualmente condujo a su perdición. El libro es simple en apariencia, atado en cuero sin marcas en la cubierta. Todas las páginas están en blanco.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20503,13 +20499,13 @@ section "mod-tome/data/zones/keepsake-meadow/traps.lua"
 
 -- new text
 --[==[
-t("event", "event", "entity type")
-t("event", "event", "entity subtype")
-t("creeping darkness", "creeping darkness", "entity name")
-t("trap", "trap", "_t")
-t("A creeping darkness spreads through the air!", "A creeping darkness spreads through the air!", "_t")
-t("summon shadow", "summon shadow", "entity name")
-t("A shadow traces across the floor.", "A shadow traces across the floor.", "_t")
+t("event", "evento", "entity type")
+t("event", "evento", "entity subtype")
+t("creeping darkness", "oscuridad", "entity name")
+t("trap", "trampa", "_t")
+t("A creeping darkness spreads through the air!", "¡Una oscuridad espeluznante se extiende por el aire!", "_t")
+t("summon shadow", "llamada sombra", "entity name")
+t("A shadow traces across the floor.", "Una sombra rastrea el suelo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20527,10 +20523,10 @@ section "mod-tome/data/zones/lake-nur/grids.lua"
 
 -- new text
 --[==[
-t("way to the old forest", "way to the old forest", "entity name")
-t("entrance to the Sher'Tul ruins", "entrance to the Sher'Tul ruins", "entity name")
-t("#ANTIQUE_WHITE#You notice a hole that could fit the gem key you found earlier, inserting it reveals the passage to the next level.", "#ANTIQUE_WHITE#You notice a hole that could fit the gem key you found earlier, inserting it reveals the passage to the next level.", "logPlayer")
-t("#ANTIQUE_WHITE#The way seems closed, maybe you need a key.", "#ANTIQUE_WHITE#The way seems closed, maybe you need a key.", "logPlayer")
+t("way to the old forest", "camino al viejo bosque", "entity name")
+t("entrance to the Sher'Tul ruins", "entrada a las ruinas Sher'Tul", "entity name")
+t("#ANTIQUE_WHITE#You notice a hole that could fit the gem key you found earlier, inserting it reveals the passage to the next level.", "#ANTIQUE WHITE#Usted nota un agujero que podría caber la llave de gema que encontró antes, insertándola revela el paso al siguiente nivel.", "logPlayer")
+t("#ANTIQUE_WHITE#The way seems closed, maybe you need a key.", "#ANTIQUE WHITE#El camino parece cerrado, tal vez necesites una llave.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -20539,8 +20535,8 @@ section "mod-tome/data/zones/lake-nur/objects.lua"
 
 -- new text
 --[==[
-t("journal page", "journal page", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20550,8 +20546,8 @@ section "mod-tome/data/zones/lake-nur/zone.lua"
 -- new text
 --[==[
 t("Lake of Nur", "Lake of Nur", "_t")
-t("You descend into the submerged ruins. The walls look extremely ancient, yet you feel power within this place.", "You descend into the submerged ruins. The walls look extremely ancient, yet you feel power within this place.", "_t")
-t("As you descend to the next level you traverse a kind of magical barrier keeping the water away. The barrier seems to be failing however and the next level is flooded too.", "As you descend to the next level you traverse a kind of magical barrier keeping the water away. The barrier seems to be failing however and the next level is flooded too.", "_t")
+t("You descend into the submerged ruins. The walls look extremely ancient, yet you feel power within this place.", "Bajas a las ruinas sumergidas. Las paredes parecen extremadamente antiguas, pero sientes poder dentro de este lugar.", "_t")
+t("As you descend to the next level you traverse a kind of magical barrier keeping the water away. The barrier seems to be failing however and the next level is flooded too.", "Al descender al siguiente nivel se atraviesa una especie de barrera mágica manteniendo el agua lejos. La barrera parece estar fallando sin embargo y el siguiente nivel está inundado también.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20560,18 +20556,18 @@ section "mod-tome/data/zones/last-hope-graveyard/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("grass", "grass", "entity subtype")
-t("tree", "tree", "entity name")
-t("floor", "floor", "entity type")
-t("road", "road", "entity subtype")
+t("wall", "pared", "entity type")
+t("grass", "hierba", "entity subtype")
+t("tree", "árbol", "entity name")
+t("floor", "planta baja", "entity type")
+t("road", "carretera", "entity subtype")
 t("cobblestone road", "cobblestone road", "entity name")
-t("grave", "grave", "entity name")
-t("coffin", "coffin", "entity name")
-t("open coffin", "open coffin", "entity name")
-t("open mausoleum", "open mausoleum", "entity name")
-t("floor", "floor", "entity subtype")
-t("ritualistic symbol", "ritualistic symbol", "entity name")
+t("grave", "tumba", "entity name")
+t("coffin", "ataúd", "entity name")
+t("open coffin", "ataúd abierto", "entity name")
+t("open mausoleum", "abierta mausoleo", "entity name")
+t("floor", "planta baja", "entity subtype")
+t("ritualistic symbol", "símbolo ritualista", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -20581,10 +20577,10 @@ section "mod-tome/data/zones/last-hope-graveyard/npcs.lua"
 -- new text
 --[==[
 t("Celia", "Celia", "entity name")
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("A tall woman stands before you in a stained robe. Her sallow skin is marked by pox and open sores, but her eyes are bright and keen. The bulge around her abdomen would indicate that she is several months pregnant.", "A tall woman stands before you in a stained robe. Her sallow skin is marked by pox and open sores, but her eyes are bright and keen. The bulge around her abdomen would indicate that she is several months pregnant.", "_t")
-t("You receive: %s.", "You receive: %s.", "logPlayer")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("A tall woman stands before you in a stained robe. Her sallow skin is marked by pox and open sores, but her eyes are bright and keen. The bulge around her abdomen would indicate that she is several months pregnant.", "Una mujer alta está delante de ti con una manta manchada. Su piel sallow está marcada por pox y llagas abiertas, pero sus ojos son brillantes y agudos. La bala alrededor de su abdomen indicaría que está embarazada de varios meses.", "_t")
+t("You receive: %s.", "Usted recibe:   PH0  .", "logPlayer")
 t("Celia", "Celia", "_t")
 --]==]
 
@@ -20594,15 +20590,15 @@ section "mod-tome/data/zones/last-hope-graveyard/objects.lua"
 
 -- new text
 --[==[
-t("creased letter", "creased letter", "entity name")
-t("A letter.", "A letter.", "_t")
-t("misc", "misc", "entity type")
-t("heart", "heart", "entity subtype")
-t("Celia's Still Beating Heart", "Celia's Still Beating Heart", "entity name")
-t("bloody heart", "bloody heart", "_t")
-t("The living heart of the necromancer Celia, carved out of her chest and preserved with magic.", "The living heart of the necromancer Celia, carved out of her chest and preserved with magic.", "_t")
-t("extract a tiny part of Celia's soul", "extract a tiny part of Celia's soul", "_t")
-t("You squeeze Celia's heart in your hand, absorbing part of her soul into your necrotic aura.", "You squeeze Celia's heart in your hand, absorbing part of her soul into your necrotic aura.", "logPlayer")
+t("creased letter", "letra arrugada", "entity name")
+t("A letter.", "Una carta.", "_t")
+t("misc", "varios", "entity type")
+t("heart", "corazón", "entity subtype")
+t("Celia's Still Beating Heart", "Celia sigue golpeando el corazón", "entity name")
+t("bloody heart", "corazón", "_t")
+t("The living heart of the necromancer Celia, carved out of her chest and preserved with magic.", "El corazón vivo del necromancer Celia, tallado en su pecho y conservado con magia.", "_t")
+t("extract a tiny part of Celia's soul", "extrae una pequeña parte del alma de Celia", "_t")
+t("You squeeze Celia's heart in your hand, absorbing part of her soul into your necrotic aura.", "Exprimes el corazón de Celia en tu mano, absorbiendo parte de su alma en tu aura necrótica.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -20611,14 +20607,14 @@ section "mod-tome/data/zones/last-hope-graveyard/zone.lua"
 
 -- new text
 --[==[
-t("Last Hope Graveyard", "Last Hope Graveyard", "_t")
+t("Last Hope Graveyard", "El cementerio de la última esperanza", "_t")
 t("Mausoleum", "Mausoleum", "_t")
-t("You were not the first here: the corpse was turned into an undead.", "You were not the first here: the corpse was turned into an undead.", "log")
-t("There is nothing there.", "There is nothing there.", "log")
-t("The corpse had a treasure!", "The corpse had a treasure!", "log")
-t("Open the coffin", "Open the coffin", "_t")
-t("In rich families the dead are sometimes put to rest with some treasures. However they also sometime protect the coffins with powerful curses. Open?", "In rich families the dead are sometimes put to rest with some treasures. However they also sometime protect the coffins with powerful curses. Open?", "_t")
-t("#YELLOW#You hear all the doors being shattered into pieces.", "#YELLOW#You hear all the doors being shattered into pieces.", "log")
+t("You were not the first here: the corpse was turned into an undead.", "No fuiste el primero aquí: el cadáver se convirtió en un muerto.", "log")
+t("There is nothing there.", "No hay nada allí.", "log")
+t("The corpse had a treasure!", "¡El cadáver tenía un tesoro!", "log")
+t("Open the coffin", "Abre el ataúd", "_t")
+t("In rich families the dead are sometimes put to rest with some treasures. However they also sometime protect the coffins with powerful curses. Open?", "En familias ricas los muertos a veces descansan con algunos tesoros. Sin embargo, también alguna vez protegen los ataúdes con poderosas maldiciones. ¿Abre?", "_t")
+t("#YELLOW#You hear all the doors being shattered into pieces.", "#YELLOW# You hear all the door being shattered into pieces.", "log")
 --]==]
 
 ------------------------------------------------
@@ -20627,10 +20623,10 @@ section "mod-tome/data/zones/mark-spellblaze/grids.lua"
 
 -- new text
 --[==[
-t("Heart of the Sandworm Queen", "Heart of the Sandworm Queen", "_t")
-t("The altar seems to react to the heart. You feel you could corrupt it here.", "The altar seems to react to the heart. You feel you could corrupt it here.", "_t")
-t("#GREEN#You put the heart on the altar. The heart shrivels and shakes, vibrating with new corrupt forces.", "#GREEN#You put the heart on the altar. The heart shrivels and shakes, vibrating with new corrupt forces.", "log")
-t("Cancel", "Cancel", "_t")
+t("Heart of the Sandworm Queen", "Corazón de la reina del gusano", "_t")
+t("The altar seems to react to the heart. You feel you could corrupt it here.", "El altar parece reaccionar al corazón. Crees que podrías corromperlo aquí.", "_t")
+t("#GREEN#You put the heart on the altar. The heart shrivels and shakes, vibrating with new corrupt forces.", "# GREEN# Pusiste el corazón en el altar. El corazón brilla y sacude, vibrando con nuevas fuerzas corruptas.", "log")
+t("Cancel", "Cancelar", "_t")
 t("Corrupt", "Corrupt", "_t")
 --]==]
 
@@ -20641,7 +20637,7 @@ section "mod-tome/data/zones/mark-spellblaze/npcs.lua"
 -- new text
 --[==[
 t("Grand Corruptor", "Grand Corruptor", "entity name")
-t("An Elven corruptor, drawn to these blighted lands.", "An Elven corruptor, drawn to these blighted lands.", "_t")
+t("An Elven corruptor, drawn to these blighted lands.", "Un corruptor Elven, atraído a estas tierras desoladas.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20650,20 +20646,20 @@ section "mod-tome/data/zones/mark-spellblaze/objects.lua"
 
 -- new text
 --[==[
-t("draft letter", "draft letter", "entity name")
-t("A letter.", "A letter.", "_t")
+t("draft letter", "proyecto de carta", "entity name")
+t("A letter.", "Una carta.", "_t")
 t("corpse", "corpse", "entity type")
-t("heart", "heart", "entity subtype")
-t("Corrupted heart of the Sandworm Queen", "Corrupted heart of the Sandworm Queen", "entity name")
-t("pulsing organ", "pulsing organ", "_t")
-t("The heart of the Sandworm Queen, ripped from her dead body and corrupted in the mark of the spellblaze altar. You could ... consume it, should you feel mad enough.", "The heart of the Sandworm Queen, ripped from her dead body and corrupted in the mark of the spellblaze altar. You could ... consume it, should you feel mad enough.", "_t")
-t("consume the heart", "consume the heart", "_t")
-t("#00FFFF#You consume the heart and feel the corruption fill you!", "#00FFFF#You consume the heart and feel the corruption fill you!", "logPlayer")
-t("You have %d stat point(s) to spend. Press p to use them.", "You have %d stat point(s) to spend. Press p to use them.", "logPlayer")
-t("You have %d class talent point(s) to spend. Press p to use them.", "You have %d class talent point(s) to spend. Press p to use them.", "logPlayer")
-t("You have %d generic talent point(s) to spend. Press p to use them.", "You have %d generic talent point(s) to spend. Press p to use them.", "logPlayer")
-t("You are transformed by the corrupted heart of the Queen!", "You are transformed by the corrupted heart of the Queen!", "logPlayer")
-t("#00FF00#You gain an affinity for blight. You can now learn new Vile Life talents (press p).", "#00FF00#You gain an affinity for blight. You can now learn new Vile Life talents (press p).", "logPlayer")
+t("heart", "corazón", "entity subtype")
+t("Corrupted heart of the Sandworm Queen", "Corazón corregido de la reina del gusano", "entity name")
+t("pulsing organ", "órgano pulsante", "_t")
+t("The heart of the Sandworm Queen, ripped from her dead body and corrupted in the mark of the spellblaze altar. You could ... consume it, should you feel mad enough.", "El corazón de la reina de la selva, arrancado de su cuerpo muerto y corrompido en la marca del altar de la ortografía. Podrías... consumirlo, si te sientes lo suficientemente loco.", "_t")
+t("consume the heart", "consumir el corazón", "_t")
+t("#00FFFF#You consume the heart and feel the corruption fill you!", "¡Consumes el corazón y sientes que la corrupción te llena!", "logPlayer")
+t("You have %d stat point(s) to spend. Press p to use them.", "Usted tiene   PH0     punto(s) para gastar. Presione p para usarlos.", "logPlayer")
+t("You have %d class talent point(s) to spend. Press p to use them.", "Usted tiene   PH0    puntos de talento de clase para gastar. Presione p para usarlos.", "logPlayer")
+t("You have %d generic talent point(s) to spend. Press p to use them.", "Usted tiene   PH0     puntos genéricos de talento para gastar. Presione p para usarlos.", "logPlayer")
+t("You are transformed by the corrupted heart of the Queen!", "¡Eres transformado por el corazón corrupto de la Reina!", "logPlayer")
+t("#00FF00#You gain an affinity for blight. You can now learn new Vile Life talents (press p).", "Ganas una afinidad por la luz. Ahora puedes aprender nuevos talentos Vile Life (press p).", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -20672,7 +20668,7 @@ section "mod-tome/data/zones/mark-spellblaze/zone.lua"
 
 -- new text
 --[==[
-t("Mark of the Spellblaze", "Mark of the Spellblaze", "_t")
+t("Mark of the Spellblaze", "Marca del Spellblaze", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20681,13 +20677,13 @@ section "mod-tome/data/zones/maze/grids.lua"
 
 -- new text
 --[==[
-t("teleporting circle to the surface", "teleporting circle to the surface", "entity name")
-t("wall", "wall", "entity type")
-t("cracks", "cracks", "entity subtype")
-t("huge crack in the floor", "huge crack in the floor", "entity name")
-t("Crack in the floor", "Crack in the floor", "_t")
-t("Jump", "Jump", "_t")
-t("Stay", "Stay", "_t")
+t("teleporting circle to the surface", "círculo teletransportado a la superficie", "entity name")
+t("wall", "pared", "entity type")
+t("cracks", "grietas", "entity subtype")
+t("huge crack in the floor", "enorme crack en el suelo", "entity name")
+t("Crack in the floor", "Cangrejo en el suelo", "_t")
+t("Jump", "Salto", "_t")
+t("Stay", "Quédate", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20697,18 +20693,18 @@ section "mod-tome/data/zones/maze/npcs.lua"
 -- new text
 --[==[
 t("horror", "horror", "entity type")
-t("corrupted", "corrupted", "entity subtype")
+t("corrupted", "corrupto", "entity subtype")
 t("Horned Horror", "Horned Horror", "entity name")
-t("Some horrible power has twisted this brutish minotaur into something altogether more terrifying. Huge tentacles undulate from its back as it clenches and unclenches its powerful fists.", "Some horrible power has twisted this brutish minotaur into something altogether more terrifying. Huge tentacles undulate from its back as it clenches and unclenches its powerful fists.", "_t")
-t("and revived as a mindless horror", "and revived as a mindless horror", "_t")
-t("Have you hard about the patrol that disappeared in the maze in the west?", "Have you hard about the patrol that disappeared in the maze in the west?", "_t")
-t("giant", "giant", "entity type")
-t("minotaur", "minotaur", "entity subtype")
-t("Minotaur of the Labyrinth", "Minotaur of the Labyrinth", "entity name")
-t("A fearsome bull-headed monster, he swings a mighty axe as he curses all who defy him.", "A fearsome bull-headed monster, he swings a mighty axe as he curses all who defy him.", "_t")
-t("and hung on a wall-spike", "and hung on a wall-spike", "_t")
+t("Some horrible power has twisted this brutish minotaur into something altogether more terrifying. Huge tentacles undulate from its back as it clenches and unclenches its powerful fists.", "Un poder horrible ha torcido este minotauro bruto en algo más aterrador. Grandes tentáculos undular de su espalda mientras abraza y sumerge sus puños poderosos.", "_t")
+t("and revived as a mindless horror", "y revivido como un horror sin sentido", "_t")
+t("Have you hard about the patrol that disappeared in the maze in the west?", "¿Tienes dificultades con la patrulla que desapareció en el laberinto del oeste?", "_t")
+t("giant", "gigante", "entity type")
+t("minotaur", "minotauro", "entity subtype")
+t("Minotaur of the Labyrinth", "Minotauro del laberinto", "entity name")
+t("A fearsome bull-headed monster, he swings a mighty axe as he curses all who defy him.", "Un monstruo temeroso de cabeza de toro, columpia un hacha fuerte mientras maldice a todos los que le desafian.", "_t")
+t("and hung on a wall-spike", "y colgado en una placa de pared", "_t")
 t("Nimisil", "Nimisil", "entity name")
-t("Covered by eerie luminescent growths and protuberances, this spider now haunts the maze's silent passageways.", "Covered by eerie luminescent growths and protuberances, this spider now haunts the maze's silent passageways.", "_t")
+t("Covered by eerie luminescent growths and protuberances, this spider now haunts the maze's silent passageways.", "Cubierta de crecimientos y protuberancias luminiscentes extraños, esta araña ahora persigue los pasajes silenciosos del laberinto.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20717,10 +20713,10 @@ section "mod-tome/data/zones/maze/objects.lua"
 
 -- new text
 --[==[
-t("torn diary page", "torn diary page", "entity name")
-t("A diary, left by an adventurer.", "A diary, left by an adventurer.", "_t")
-t("the perfect killing device", "the perfect killing device", "entity name")
-t("Some notes describing how to create poison gas traps, left by an unfortunate rogue.", "Some notes describing how to create poison gas traps, left by an unfortunate rogue.", "_t")
+t("torn diary page", "página de diario roto", "entity name")
+t("A diary, left by an adventurer.", "Un diario, dejado por un aventurero.", "_t")
+t("the perfect killing device", "el perfecto dispositivo de asesinato", "entity name")
+t("Some notes describing how to create poison gas traps, left by an unfortunate rogue.", "Algunas notas describiendo cómo crear trampas de gas venenoso, dejadas por un lamentable pícaro.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20729,7 +20725,7 @@ section "mod-tome/data/zones/maze/zone.lua"
 
 -- new text
 --[==[
-t("The Maze", "The Maze", "_t")
+t("The Maze", "El laberinto", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20738,19 +20734,19 @@ section "mod-tome/data/zones/murgol-lair/npcs.lua"
 
 -- new text
 --[==[
-t("Murgol, the Yaech Lord", "Murgol, the Yaech Lord", "entity name")
-t("You can feel the psionic waves of power come from this yaech.", "You can feel the psionic waves of power come from this yaech.", "_t")
-t("and flushed out to sea", "and flushed out to sea", "_t")
-t("humanoid", "humanoid", "entity type")
+t("Murgol, the Yaech Lord", "Murgol, el Señor Yaech", "entity name")
+t("You can feel the psionic waves of power come from this yaech.", "Puedes sentir que las ondas psionic del poder provienen de este grito.", "_t")
+t("and flushed out to sea", "y fluído hacia el mar", "_t")
+t("humanoid", "humanoide", "entity type")
 t("naga", "naga", "entity subtype")
 t("naga tidewarden", "naga tidewarden", "entity name")
 t("naga tidecaller", "naga tidecaller", "entity name")
-t("A slithering noise accompanies the movement of this strange creature, whose snake-like tail gives rise to the body of a beautiful elf-like woman. As she moves her delicate hands water rises from the ground, and you feel that here is no mere monster, but a creature of awe and power.", "A slithering noise accompanies the movement of this strange creature, whose snake-like tail gives rise to the body of a beautiful elf-like woman. As she moves her delicate hands water rises from the ground, and you feel that here is no mere monster, but a creature of awe and power.", "_t")
+t("A slithering noise accompanies the movement of this strange creature, whose snake-like tail gives rise to the body of a beautiful elf-like woman. As she moves her delicate hands water rises from the ground, and you feel that here is no mere monster, but a creature of awe and power.", "Un ruido estruendoso acompaña al movimiento de esta extraña criatura, cuya cola de serpiente da lugar al cuerpo de una hermosa mujer como elfo. A medida que mueve sus delicadas manos, el agua sale del suelo, y sientes que aquí no hay un monstruo, sino una criatura de asombro y poder.", "_t")
 t("naga nereid", "naga nereid", "entity name")
-t("Green eyes stare out from behind strands of long, golden hair, which falls down in waves over smooth, pale skin. Your eyes are drawn to the bare flesh, but as they look further they see dark scales stretching out into a long serpent's tail. You look up as she moves, her hair parting to reveal a slim and beautiful face with high cheekbones and full lips. Yet for all the allure of this wondrous creature the terror of the serpentine tail sends shivers down your spine.", "Green eyes stare out from behind strands of long, golden hair, which falls down in waves over smooth, pale skin. Your eyes are drawn to the bare flesh, but as they look further they see dark scales stretching out into a long serpent's tail. You look up as she moves, her hair parting to reveal a slim and beautiful face with high cheekbones and full lips. Yet for all the allure of this wondrous creature the terror of the serpentine tail sends shivers down your spine.", "_t")
-t("Lady Nashva the Streambender", "Lady Nashva the Streambender", "entity name")
-t("Water circles slowly on the ground around this naga's tail. Her dark tail is coiled tight, making her look short, but her calm and confident stare assure you that she will not be easily overcome. As the water begins to rise around her the air starts to shimmer, and you feel her dark eyes are penetrating into you deeper than is comfortable.", "Water circles slowly on the ground around this naga's tail. Her dark tail is coiled tight, making her look short, but her calm and confident stare assure you that she will not be easily overcome. As the water begins to rise around her the air starts to shimmer, and you feel her dark eyes are penetrating into you deeper than is comfortable.", "_t")
-t("and brought back to Vargh for experimentations", "and brought back to Vargh for experimentations", "_t")
+t("Green eyes stare out from behind strands of long, golden hair, which falls down in waves over smooth, pale skin. Your eyes are drawn to the bare flesh, but as they look further they see dark scales stretching out into a long serpent's tail. You look up as she moves, her hair parting to reveal a slim and beautiful face with high cheekbones and full lips. Yet for all the allure of this wondrous creature the terror of the serpentine tail sends shivers down your spine.", "Los ojos verdes miran por detrás las hebras de pelo largo y dorado, que cae en ondas sobre la piel suave y pálida. Tus ojos están atraídos a la carne desnuda, pero mientras miran más allá, ven escamas oscuras extendiéndose hacia la cola de una serpiente larga. Miras hacia arriba mientras se mueve, su cabello se separa para revelar una cara delgada y hermosa con mejillas altas y labios llenos. Sin embargo, para todo el encanto de esta criatura maravillosa el terror de la cola serpentina envía shivers por tu columna.", "_t")
+t("Lady Nashva the Streambender", "Lady Nashva el Streambender", "entity name")
+t("Water circles slowly on the ground around this naga's tail. Her dark tail is coiled tight, making her look short, but her calm and confident stare assure you that she will not be easily overcome. As the water begins to rise around her the air starts to shimmer, and you feel her dark eyes are penetrating into you deeper than is comfortable.", "El agua círculos lentamente en el suelo alrededor de la cola de esta naga. Su cola oscura está enrollada apretada, haciendo que se vea corta, pero su mirada tranquila y segura le asegura que no será fácilmente superada. A medida que el agua comienza a levantarse alrededor de ella el aire comienza a brillar, y sientes que sus ojos oscuros están penetrando en ti más profundamente que cómodo.", "_t")
+t("and brought back to Vargh for experimentations", "y traído de vuelta a Vargh para experimentaciones", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20760,7 +20756,7 @@ section "mod-tome/data/zones/murgol-lair/zone.lua"
 -- new text
 --[==[
 t("Murgol Lair", "Murgol Lair", "_t")
-t("As you enter the lair you can hear the distorted sound of fighting. Somebody is already invading the lair.", "As you enter the lair you can hear the distorted sound of fighting. Somebody is already invading the lair.", "_t")
+t("As you enter the lair you can hear the distorted sound of fighting. Somebody is already invading the lair.", "Mientras entras en la guarida puedes escuchar el sonido distorsionado de la lucha. Alguien ya está invadiendo la guarida.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20769,11 +20765,11 @@ section "mod-tome/data/zones/norgos-lair/npcs.lua"
 
 -- new text
 --[==[
-t("Norgos, the Frozen", "Norgos, the Frozen", "entity name")
-t("and was turned into icicles", "and was turned into icicles", "_t")
-t("Norgos, the Guardian", "Norgos, the Guardian", "entity name")
-t("This ancient bear long guarded the western side of the forest, but as of late he started growing mad, attacking even the Thaloren.", "This ancient bear long guarded the western side of the forest, but as of late he started growing mad, attacking even the Thaloren.", "_t")
-t("and was feasted upon by wolves", "and was feasted upon by wolves", "_t")
+t("Norgos, the Frozen", "Norgos, el Frozen", "entity name")
+t("and was turned into icicles", "y se convirtió en iciclos", "_t")
+t("Norgos, the Guardian", "Norgos, The Guardian", "entity name")
+t("This ancient bear long guarded the western side of the forest, but as of late he started growing mad, attacking even the Thaloren.", "Este oso antiguo guardó durante mucho tiempo el lado occidental del bosque, pero a finales empezó a enloquecer, atacando incluso a los Thaloren.", "_t")
+t("and was feasted upon by wolves", "y fue festejado por lobos", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20791,11 +20787,11 @@ section "mod-tome/data/zones/noxious-caldera/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("grass", "grass", "entity subtype")
-t("altar of dreams", "altar of dreams", "entity name")
-t("Altar of Dreams", "Altar of Dreams", "_t")
-t("Looking into the altar will let you experience a dream. Without the influence of Mindworm, it'll however have no power over your body. Do you wish to look?", "Looking into the altar will let you experience a dream. Without the influence of Mindworm, it'll however have no power over your body. Do you wish to look?", "_t")
+t("wall", "pared", "entity type")
+t("grass", "hierba", "entity subtype")
+t("altar of dreams", "altar de sueños", "entity name")
+t("Altar of Dreams", "Altar de los sueños", "_t")
+t("Looking into the altar will let you experience a dream. Without the influence of Mindworm, it'll however have no power over your body. Do you wish to look?", "Mirar en el altar te permitirá experimentar un sueño. Sin la influencia de Mindworm, sin embargo no tendrá poder sobre su cuerpo. ¿Quieres mirar?", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20804,13 +20800,13 @@ section "mod-tome/data/zones/noxious-caldera/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("thalore", "thalore", "entity subtype")
 t("Mindworm", "Mindworm", "entity name")
-t("This tall Thalore's eyes are lost in the distance; you can sense that he barely sees you.", "This tall Thalore's eyes are lost in the distance; you can sense that he barely sees you.", "_t")
-t("and mind-probed", "and mind-probed", "_t")
+t("This tall Thalore's eyes are lost in the distance; you can sense that he barely sees you.", "Los ojos de este alto Thalore están perdidos en la distancia; puedes sentir que apenas te ve.", "_t")
+t("and mind-probed", "y mental", "_t")
 t("Fumes", "Fumes", "_t")
-t("As Mindworm dies you can feel the fumes getting less poisonous for your mind.", "As Mindworm dies you can feel the fumes getting less poisonous for your mind.", "_t")
+t("As Mindworm dies you can feel the fumes getting less poisonous for your mind.", "Mientras Mindworm muere puedes sentir que los vapores son menos venenosos para tu mente.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20819,8 +20815,8 @@ section "mod-tome/data/zones/noxious-caldera/objects.lua"
 
 -- new text
 --[==[
-t("tattered paper scrap", "tattered paper scrap", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
+t("tattered paper scrap", "pedazo de papel tattered", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20829,10 +20825,10 @@ section "mod-tome/data/zones/noxious-caldera/zone.lua"
 
 -- new text
 --[==[
-t("Noxious Caldera", "Noxious Caldera", "_t")
+t("Noxious Caldera", "Caldera Noxious", "_t")
 t("Dogroth Caldera", "Dogroth Caldera", "_t")
-t("The noxious fumes of the caldera are slowly affecting you...", "The noxious fumes of the caldera are slowly affecting you...", "_t")
-t("dream", "dream", "_t")
+t("The noxious fumes of the caldera are slowly affecting you...", "Los humos nocivos de la caldera le están afectando lentamente...", "_t")
+t("dream", "sueño", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20841,14 +20837,14 @@ section "mod-tome/data/zones/old-forest/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("dark_grass", "dark_grass", "entity subtype")
-t("grass", "grass", "entity name")
-t("wall", "wall", "entity type")
-t("tree", "tree", "entity name")
-t("tall thick tree", "tall thick tree", "entity name")
-t("way to the lake of Nur", "way to the lake of Nur", "entity name")
-t("grass", "grass", "entity subtype")
+t("floor", "planta baja", "entity type")
+t("dark_grass", "dark grass", "entity subtype")
+t("grass", "hierba", "entity name")
+t("wall", "pared", "entity type")
+t("tree", "árbol", "entity name")
+t("tall thick tree", "alto árbol grueso", "entity name")
+t("way to the lake of Nur", "camino al lago de Nur", "entity name")
+t("grass", "hierba", "entity subtype")
 --]==]
 
 ------------------------------------------------
@@ -20857,21 +20853,21 @@ section "mod-tome/data/zones/old-forest/npcs.lua"
 
 -- new text
 --[==[
-t("giant", "giant", "entity type")
-t("crystal", "crystal", "entity subtype")
+t("giant", "gigante", "entity type")
+t("crystal", "cristal", "entity subtype")
 t("Shardskin", "Shardskin", "entity name")
-t("This crystalline structure seems to be filled with a malevolent aura. Through the crystal surface you can still see the remains of what once was a huge tree.", "This crystalline structure seems to be filled with a malevolent aura. Through the crystal surface you can still see the remains of what once was a huge tree.", "_t")
-t("and integrated into the crystaline structure", "and integrated into the crystaline structure", "_t")
-t("Have you heard, the old forest seems to have been claimed by a new evil!", "Have you heard, the old forest seems to have been claimed by a new evil!", "_t")
+t("This crystalline structure seems to be filled with a malevolent aura. Through the crystal surface you can still see the remains of what once was a huge tree.", "Esta estructura cristalina parece estar llena de un aura malévolo. A través de la superficie de cristal todavía se pueden ver los restos de lo que una vez fue un árbol enorme.", "_t")
+t("and integrated into the crystaline structure", "integrado en la estructura cristalina", "_t")
+t("Have you heard, the old forest seems to have been claimed by a new evil!", "¿Has oído que el viejo bosque parece haber sido reclamado por un nuevo mal!", "_t")
 t("treant", "treant", "entity subtype")
 t("Wrathroot", "Wrathroot", "entity name")
-t("The ancient grey willow tree, ruler of the Old Forest. He despises trespassers in his territory.", "The ancient grey willow tree, ruler of the Old Forest. He despises trespassers in his territory.", "_t")
-t("and digested by treants", "and digested by treants", "_t")
-t("cute little bunny", "cute little bunny", "entity name")
-t("It looks at you with cute little eyes before jumping at you with razor sharp teeth.", "It looks at you with cute little eyes before jumping at you with razor sharp teeth.", "_t")
-t("(how pathetic)", "(how pathetic)", "_t")
+t("The ancient grey willow tree, ruler of the Old Forest. He despises trespassers in his territory.", "El antiguo sauce gris, gobernante del Bosque Antiguo. Desprecia a los transgresores en su territorio.", "_t")
+t("and digested by treants", "y digerido por los tragantes", "_t")
+t("cute little bunny", "lindo conejito", "entity name")
+t("It looks at you with cute little eyes before jumping at you with razor sharp teeth.", "Te mira con lindos ojos pequeños antes de saltarte con dientes afilados de afeitar.", "_t")
+t("(how pathetic)", "(que patético)", "_t")
 t("Snaproot", "Snaproot", "entity name")
-t("This ancient Treant's bark is scorched almost black. It sees humanity as a scourge, to be purged.", "This ancient Treant's bark is scorched almost black. It sees humanity as a scourge, to be purged.", "_t")
+t("This ancient Treant's bark is scorched almost black. It sees humanity as a scourge, to be purged.", "La corteza de este antiguo Treant es casi negra. Ve a la humanidad como un flagelo, para ser purgado.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20880,8 +20876,8 @@ section "mod-tome/data/zones/old-forest/objects.lua"
 
 -- new text
 --[==[
-t("journal page", "journal page", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20899,18 +20895,18 @@ section "mod-tome/data/zones/orc-breeding-pit/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("orc", "orc", "entity subtype")
-t("orc baby", "orc baby", "entity name")
-t("Crawling on all fours, this green-skinned creature is far from cute, with vicious little sharp teeth and nails, and slime still sticking to its skin.", "Crawling on all fours, this green-skinned creature is far from cute, with vicious little sharp teeth and nails, and slime still sticking to its skin.", "_t")
-t("orc child", "orc child", "entity name")
-t("This small orc has a malicious and greedy look in its eyes. Its veins pulse with new life and it moves with surprising speed. Though not fully developed you can still see the muscles forming on its long limbs, leading to clawed fingers and toes.", "This small orc has a malicious and greedy look in its eyes. Its veins pulse with new life and it moves with surprising speed. Though not fully developed you can still see the muscles forming on its long limbs, leading to clawed fingers and toes.", "_t")
-t("young orc", "young orc", "entity name")
-t("This young orc is almost fully formed, with hard muscles prominently visible beneath its thick skin. Whilst it has lost some of the wild energy of its younger siblings you can see the gleams of intelligence and cold calculation behind its dark eyes.", "This young orc is almost fully formed, with hard muscles prominently visible beneath its thick skin. Whilst it has lost some of the wild energy of its younger siblings you can see the gleams of intelligence and cold calculation behind its dark eyes.", "_t")
-t("orc mother", "orc mother", "entity name")
+t("humanoid", "humanoide", "entity type")
+t("orc", "orco", "entity subtype")
+t("orc baby", "oc baby", "entity name")
+t("Crawling on all fours, this green-skinned creature is far from cute, with vicious little sharp teeth and nails, and slime still sticking to its skin.", "Arrastrándose en los cuatros, esta criatura de piel verde está lejos de ser linda, con dientes y clavos poco afilados y poco afilados, y el baboso sigue pegando a su piel.", "_t")
+t("orc child", "niño", "entity name")
+t("This small orc has a malicious and greedy look in its eyes. Its veins pulse with new life and it moves with surprising speed. Though not fully developed you can still see the muscles forming on its long limbs, leading to clawed fingers and toes.", "Este pequeño orco tiene una mirada maliciosa y codictiva en sus ojos. Sus venas pulsan con nueva vida y se mueve con sorprendente velocidad. Aunque no completamente desarrollado todavía se puede ver los músculos formando en sus extremidades largas, llevando a dedos y dedos garrados.", "_t")
+t("young orc", "joven", "entity name")
+t("This young orc is almost fully formed, with hard muscles prominently visible beneath its thick skin. Whilst it has lost some of the wild energy of its younger siblings you can see the gleams of intelligence and cold calculation behind its dark eyes.", "Este orc joven está casi completamente formado, con músculos duros prominentemente visible bajo su piel gruesa. Mientras que ha perdido parte de la energía salvaje de sus hermanos más jóvenes se puede ver los rayos de inteligencia y el cálculo frío detrás de sus ojos oscuros.", "_t")
+t("orc mother", "madre", "entity name")
 t("Orc Greatmother", "Orc Greatmother", "entity name")
-t("and given to the children as a plaything", "and given to the children as a plaything", "_t")
-t("#PURPLE#As the orc greatmother falls you realize you have dealt a crippling blow to the orcs.", "#PURPLE#As the orc greatmother falls you realize you have dealt a crippling blow to the orcs.", "log")
+t("and given to the children as a plaything", "y dado a los niños como un juguete", "_t")
+t("#PURPLE#As the orc greatmother falls you realize you have dealt a crippling blow to the orcs.", "#PURPLE#A medida que la gran madre del orco cae te das cuenta de que has hecho un golpe de lio a los orcos.", "log")
 --]==]
 
 ------------------------------------------------
@@ -20919,11 +20915,11 @@ section "mod-tome/data/zones/orc-breeding-pit/objects.lua"
 
 -- new text
 --[==[
-t("draft note", "draft note", "entity name")
-t("A note.", "A note.", "_t")
-t("Clinician Korbek's experimental notes", "Clinician Korbek's experimental notes", "entity name")
-t("Birthing new orcs ...", "Birthing new orcs ...", "_t")
-t("Captain Gumlarat's report", "Captain Gumlarat's report", "entity name")
+t("draft note", "proyecto de nota", "entity name")
+t("A note.", "Una nota.", "_t")
+t("Clinician Korbek's experimental notes", "Notas experimentales de Korbek Clínica", "entity name")
+t("Birthing new orcs ...", "Naciendo nuevos orcos...", "_t")
+t("Captain Gumlarat's report", "Informe del Capitán Gumlarat", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -20932,9 +20928,9 @@ section "mod-tome/data/zones/orc-breeding-pit/zone.lua"
 
 -- new text
 --[==[
-t("Orc breeding pits", "Orc breeding pits", "_t")
+t("Orc breeding pits", "Orc fosos de cría", "_t")
 t("Orc Breeding Pit", "Orc Breeding Pit", "_t")
-t("You arrive in a small underground structure. There are orcs there and as soon as they notice you they scream 'Protect the mothers!'.", "You arrive in a small underground structure. There are orcs there and as soon as they notice you they scream 'Protect the mothers!'.", "_t")
+t("You arrive in a small underground structure. There are orcs there and as soon as they notice you they scream 'Protect the mothers!'.", "Llegas a una pequeña estructura subterránea. Hay orcos allí y tan pronto como te noten ellos gritan 'Protege a las madres!'.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20943,8 +20939,8 @@ section "mod-tome/data/zones/paradox-plane/grids.lua"
 
 -- new text
 --[==[
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads... somewhere.", "The rift leads... somewhere.", "_t")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads... somewhere.", "El rift conduce... a algún lado.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20955,8 +20951,8 @@ section "mod-tome/data/zones/paradox-plane/npcs.lua"
 --[==[
 t("elemental", "elemental", "entity type")
 t("temporal", "temporal", "entity subtype")
-t("Epoch", "Epoch", "entity name")
-t("A huge being composed of sparking blue and yellow energy stands before you.  It shifts and flows as it moves, at once erratic and graceful.", "A huge being composed of sparking blue and yellow energy stands before you.  It shifts and flows as it moves, at once erratic and graceful.", "_t")
+t("Epoch", "Epoca", "entity name")
+t("A huge being composed of sparking blue and yellow energy stands before you.  It shifts and flows as it moves, at once erratic and graceful.", "Un enorme ser compuesto de energía brillante azul y amarilla se encuentra ante ti. Cambia y fluye a medida que se mueve, a la vez errático y agraciado.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20965,8 +20961,8 @@ section "mod-tome/data/zones/paradox-plane/objects.lua"
 
 -- new text
 --[==[
-t("Epoch's Curve", "Epoch's Curve", "entity name")
-t("white ash longbow", "white ash longbow", "_t")
+t("Epoch's Curve", "Curva de la época", "entity name")
+t("white ash longbow", "de ceniza blanca longbow", "_t")
 --]==]
 
 ------------------------------------------------
@@ -20984,20 +20980,20 @@ section "mod-tome/data/zones/rak-shor-pride/npcs.lua"
 
 -- new text
 --[==[
-t("Rak'shor, Grand Necromancer of the Pride", "Rak'shor, Grand Necromancer of the Pride", "entity name")
-t("An old orc, wearing black robes. He commands his undead armies to destroy you.", "An old orc, wearing black robes. He commands his undead armies to destroy you.", "_t")
-t("and raised as a malformed servant", "and raised as a malformed servant", "_t")
-t("Rotting Titan", "Rotting Titan", "entity name")
-t("This gigantic mass of flesh and stone moves slowly, the ground rumbling with each step it takes. Its body seems to constantly pulsate and reform. Massive stones at the end of each limb form massive blunt weapons.", "This gigantic mass of flesh and stone moves slowly, the ground rumbling with each step it takes. Its body seems to constantly pulsate and reform. Massive stones at the end of each limb form massive blunt weapons.", "_t")
-t("The ground shakes as %s steps!", "The ground shakes as %s steps!", "logSeen")
-t("Glacial Legion", "Glacial Legion", "entity name")
-t("A massive, shifting, ethereal form floats in the air around an orb of frozen blood.  The air around it condenses into freezing pools on the floor beneath it.", "A massive, shifting, ethereal form floats in the air around an orb of frozen blood.  The air around it condenses into freezing pools on the floor beneath it.", "_t")
-t("Heavy Sentinel", "Heavy Sentinel", "entity name")
-t("A towering creature, made from the bones of countless bodies. An aura of flame billows from within its chest.", "A towering creature, made from the bones of countless bodies. An aura of flame billows from within its chest.", "_t")
+t("Rak'shor, Grand Necromancer of the Pride", "Rak'shor, Gran Necromancer del Orgullo", "entity name")
+t("An old orc, wearing black robes. He commands his undead armies to destroy you.", "Un viejo orc, con ropa negra. Manda a sus ejércitos muertos vivientes para destruirlos.", "_t")
+t("and raised as a malformed servant", "y criado como sirviente malformado", "_t")
+t("Rotting Titan", "Titán rotativo", "entity name")
+t("This gigantic mass of flesh and stone moves slowly, the ground rumbling with each step it takes. Its body seems to constantly pulsate and reform. Massive stones at the end of each limb form massive blunt weapons.", "Esta gigantesca masa de carne y piedra se mueve lentamente, la tierra retuyendo con cada paso que toma. Su cuerpo parece pulsar y reformar constantemente. Las piedras masivas al final de cada miembro forman armas contundentes masivas.", "_t")
+t("The ground shakes as %s steps!", "El suelo se sacude como pasos   PH0  !", "logSeen")
+t("Glacial Legion", "Legión glacial", "entity name")
+t("A massive, shifting, ethereal form floats in the air around an orb of frozen blood.  The air around it condenses into freezing pools on the floor beneath it.", "Una forma masiva, cambiante, etérea flota en el aire alrededor de un orbe de sangre congelada. El aire alrededor se condensa en piscinas heladas en el suelo debajo.", "_t")
+t("Heavy Sentinel", "Sentinel pesado", "entity name")
+t("A towering creature, made from the bones of countless bodies. An aura of flame billows from within its chest.", "Una criatura imponente, hecha de los huesos de innumerables cuerpos. Un aura de llamas se billows de dentro de su pecho.", "_t")
 t("Arch Zephyr", "Arch Zephyr", "entity name")
-t("The robes of this ancient vampire billow with intense winds. Bolts of lightning arc along its body. In its hand it holds a bow, electricity streaking across it.", "The robes of this ancient vampire billow with intense winds. Bolts of lightning arc along its body. In its hand it holds a bow, electricity streaking across it.", "_t")
+t("The robes of this ancient vampire billow with intense winds. Bolts of lightning arc along its body. In its hand it holds a bow, electricity streaking across it.", "Las túnicas de este antiguo billow vampiro con vientos intensos. Bolts of lightning arc along its body. En su mano sostiene un arco, la electricidad que se extiende a través de él.", "_t")
 t("Void Spectre", "Void Spectre", "entity name")
-t("Intense Arcane energy whirls in the air around this ethereal form.", "Intense Arcane energy whirls in the air around this ethereal form.", "_t")
+t("Intense Arcane energy whirls in the air around this ethereal form.", "Intensa energía Arcane lloriquea en el aire alrededor de esta forma etérea.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21006,8 +21002,8 @@ section "mod-tome/data/zones/rak-shor-pride/objects.lua"
 
 -- new text
 --[==[
-t("draft note", "draft note", "entity name")
-t("A note.", "A note.", "_t")
+t("draft note", "proyecto de nota", "entity name")
+t("A note.", "Una nota.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21016,7 +21012,7 @@ section "mod-tome/data/zones/rak-shor-pride/zone.lua"
 
 -- new text
 --[==[
-t("Rak'shor Pride", "Rak'shor Pride", "_t")
+t("Rak'shor Pride", "Pride del caballo de Rak", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21025,7 +21021,7 @@ section "mod-tome/data/zones/reknor-escape/grids.lua"
 
 -- new text
 --[==[
-t("The Iron Council (Dwarven empire main city)", "The Iron Council (Dwarven empire main city)", "entity name")
+t("The Iron Council (Dwarven empire main city)", "El Consejo de Hierro (ciudad principal del imperio enano)", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21034,14 +21030,14 @@ section "mod-tome/data/zones/reknor-escape/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("orc", "orc", "entity subtype")
-t("Brotoq the Reaver", "Brotoq the Reaver", "entity name")
-t("A huge orc blocks your way to the Iron Council. You must pass.", "A huge orc blocks your way to the Iron Council. You must pass.", "_t")
-t(", who ate their brains still warm,", ", who ate their brains still warm,", "_t")
-t("dwarf", "dwarf", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("orc", "orco", "entity subtype")
+t("Brotoq the Reaver", "Brotoq el Reaver", "entity name")
+t("A huge orc blocks your way to the Iron Council. You must pass.", "Un enorme orc bloquea su camino al Consejo de Hierro. Debes pasar.", "_t")
+t(", who ate their brains still warm,", ", que comió su cerebro todavía caliente,", "_t")
+t("dwarf", "enano", "entity subtype")
 t("Norgan", "Norgan", "entity name")
-t("Norgan and you are the sole survivors of the Reknor expedition; your duty is to make sure the news makes it back to the Iron Council.", "Norgan and you are the sole survivors of the Reknor expedition; your duty is to make sure the news makes it back to the Iron Council.", "_t")
+t("Norgan and you are the sole survivors of the Reknor expedition; your duty is to make sure the news makes it back to the Iron Council.", "Norgan y usted son los únicos sobrevivientes de la expedición Reknor; su deber es asegurarse de que la noticia lo hace volver al Consejo de Hierro.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21051,8 +21047,8 @@ section "mod-tome/data/zones/reknor-escape/objects.lua"
 -- new text
 --[==[
 t("Fake Skullcleaver", "Fake Skullcleaver", "entity name")
-t("fake crimson waraxe", "fake crimson waraxe", "_t")
-t("A small but sharp axe, with a handle made of polished bone.  The blade has chopped through the skulls of many, and has been stained a deep crimson.", "A small but sharp axe, with a handle made of polished bone.  The blade has chopped through the skulls of many, and has been stained a deep crimson.", "_t")
+t("fake crimson waraxe", "falso carmesí waraxe", "_t")
+t("A small but sharp axe, with a handle made of polished bone.  The blade has chopped through the skulls of many, and has been stained a deep crimson.", "Un hacha pequeña pero afilada, con un mango hecho de hueso pulido. La espada ha picado a través de los cráneos de muchos, y ha sido manchado un profundo carmesí.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21061,7 +21057,7 @@ section "mod-tome/data/zones/reknor-escape/zone.lua"
 
 -- new text
 --[==[
-t("Escape from Reknor", "Escape from Reknor", "_t")
+t("Escape from Reknor", "Escape de Reknor", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21070,9 +21066,9 @@ section "mod-tome/data/zones/reknor/grids.lua"
 
 -- new text
 --[==[
-t("Farportal: the Far East", "Farportal: the Far East", "entity name")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on an unfamiliar cave, with no trace of the portal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on an unfamiliar cave, with no trace of the portal...", "_t")
-t("Iron Throne Edict", "Iron Throne Edict", "entity name")
+t("Farportal: the Far East", "Farportal: el Lejano Oriente", "entity name")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on an unfamiliar cave, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos pones un pie en una cueva desconocida, sin rastro del portal...", "_t")
+t("Iron Throne Edict", "Edicto del Trono de Hierro", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21081,23 +21077,23 @@ section "mod-tome/data/zones/reknor/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("orc", "orc", "entity subtype")
-t("Golbug the Destroyer", "Golbug the Destroyer", "entity name")
-t("A huge and muscular orc of unknown breed. He looks both menacing and cunning...", "A huge and muscular orc of unknown breed. He looks both menacing and cunning...", "_t")
-t("They say that after it has been confirmed orcs still inhabited Reknor, they found a mighty demon there.", "They say that after it has been confirmed orcs still inhabited Reknor, they found a mighty demon there.", "_t")
-t("Danger...", "Danger...", "_t")
-t("When last you saw it, this cavern was littered with the corpses of orcs that you had slain. Now many, many more corpses carpet the floor, all charred and reeking of sulfur. An orange glow dimly illuminates the far reaches of the cavern to the east.", "When last you saw it, this cavern was littered with the corpses of orcs that you had slain. Now many, many more corpses carpet the floor, all charred and reeking of sulfur. An orange glow dimly illuminates the far reaches of the cavern to the east.", "_t")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("orc", "orco", "entity subtype")
+t("Golbug the Destroyer", "Golbug el Destructor", "entity name")
+t("A huge and muscular orc of unknown breed. He looks both menacing and cunning...", "Un enorme y musculoso orc de raza desconocida. Se ve amenazador y astuto...", "_t")
+t("They say that after it has been confirmed orcs still inhabited Reknor, they found a mighty demon there.", "Dicen que después de haber sido confirmados los orcos aún habitados Reknor, encontraron allí un poderoso demonio.", "_t")
+t("Danger...", "Peligro...", "_t")
+t("When last you saw it, this cavern was littered with the corpses of orcs that you had slain. Now many, many more corpses carpet the floor, all charred and reeking of sulfur. An orange glow dimly illuminates the far reaches of the cavern to the east.", "Cuando la última vez que la viste, esta caverna fue encendida con los cadáveres de orcos que habías matado. Ahora muchos, muchos más cadáveres alfombran el suelo, todos carbonizados y rebuscando de azufre. Un resplandor anaranjado ilumina ligeramente los extremos de la caverna al este.", "_t")
+t("human", "humanos", "entity subtype")
 t("Harno, Herald of Last Hope", "Harno, Herald of Last Hope", "entity name")
-t("This is one of the heralds of Last Hope. He seems to be looking for you.", "This is one of the heralds of Last Hope. He seems to be looking for you.", "_t")
-t("#LIGHT_RED#You hear a death cry. '%s I have a messag... ARG!'", "#LIGHT_RED#You hear a death cry. '%s I have a messag... ARG!'", "logPlayer")
-t("demon", "demon", "entity type")
-t("major", "major", "entity subtype")
+t("This is one of the heralds of Last Hope. He seems to be looking for you.", "Este es uno de los heraldos de la Última Esperanza. Parece estar buscándote.", "_t")
+t("#LIGHT_RED#You hear a death cry. '%s I have a messag... ARG!'", "Oíste un grito de muerte. '  PH0   Tengo un lío... ¡ARG", "logPlayer")
+t("demon", "demonios", "entity type")
+t("major", "principales", "entity subtype")
 t("Lithfengel", "Lithfengel", "entity name")
-t("A terrible demon of decay and atrophy, drawn to the energy of the farportal. A beast of blight!", "A terrible demon of decay and atrophy, drawn to the energy of the farportal. A beast of blight!", "_t")
-t("Back and there again", "Back and there again", "_t")
-t("A careful examination of the demon's body turns up a Blood-Runed Athame and a Resonating Diamond, both covered in soot and gore but otherwise in good condition.", "A careful examination of the demon's body turns up a Blood-Runed Athame and a Resonating Diamond, both covered in soot and gore but otherwise in good condition.", "_t")
+t("A terrible demon of decay and atrophy, drawn to the energy of the farportal. A beast of blight!", "Un terrible demonio de decaimiento y atrofia, atraído a la energía de la farportal. ¡Una bestia de luz!", "_t")
+t("Back and there again", "Atrás y allá de nuevo", "_t")
+t("A careful examination of the demon's body turns up a Blood-Runed Athame and a Resonating Diamond, both covered in soot and gore but otherwise in good condition.", "Un examen cuidadoso del cuerpo del demonio aparece un Athame de la Sangre y un Diamante Resonante, ambos cubiertos de hollín y gore pero de otro modo en buenas condiciones.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21106,21 +21102,21 @@ section "mod-tome/data/zones/reknor/objects.lua"
 
 -- new text
 --[==[
-t("Sealed Scroll of Last Hope", "Sealed Scroll of Last Hope", "entity name")
-t("open the seal and read the message", "open the seal and read the message", "_t")
-t("Resonating Diamond", "Resonating Diamond", "entity name")
-t("You cannot bring yourself to drop the %s", "You cannot bring yourself to drop the %s", "logPlayer")
-t("misc", "misc", "entity type")
-t("misc", "misc", "entity subtype")
-t("Blood-Runed Athame", "Blood-Runed Athame", "entity name")
+t("Sealed Scroll of Last Hope", "Tornillo sellado de la última esperanza", "entity name")
+t("open the seal and read the message", "abrir el sello y leer el mensaje", "_t")
+t("Resonating Diamond", "Diamante resonante", "entity name")
+t("You cannot bring yourself to drop the %s", "No puedes traerte a ti mismo para dejar caer el   PH0 ", "logPlayer")
+t("misc", "varios", "entity type")
+t("misc", "varios", "entity subtype")
+t("Blood-Runed Athame", "Athame de sangre", "entity name")
 t("athame", "athame", "_t")
-t("An athame, covered in blood runes. It radiates power.", "An athame, covered in blood runes. It radiates power.", "_t")
+t("An athame, covered in blood runes. It radiates power.", "Un athame, cubierto de sangre. irradia poder.", "_t")
 t("Iron Throne Profits History", "Iron Throne Profits History", "entity name")
-t("A journal of the profits history of the Iron Throne dwarves.", "A journal of the profits history of the Iron Throne dwarves.", "_t")
+t("A journal of the profits history of the Iron Throne dwarves.", "Un diario de la historia de las ganancias de los enanos del Trono de Hierro.", "_t")
 t("Iron Throne trade ledger", "Iron Throne trade ledger", "entity name")
-t("A trade ledger of the Iron Throne dwarves.", "A trade ledger of the Iron Throne dwarves.", "_t")
-t("Iron Throne Reknor expedition, last words", "Iron Throne Reknor expedition, last words", "entity name")
-t("Last words of a dwarven expedition to secure Reknor.", "Last words of a dwarven expedition to secure Reknor.", "_t")
+t("A trade ledger of the Iron Throne dwarves.", "Un libro de comercio de los enanos del trono de hierro.", "_t")
+t("Iron Throne Reknor expedition, last words", "Expedición de Iron Throne Reknor, últimas palabras", "entity name")
+t("Last words of a dwarven expedition to secure Reknor.", "Últimas palabras de una expedición enana para asegurar a Reknor.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21138,11 +21134,11 @@ section "mod-tome/data/zones/rhaloren-camp/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("shalore", "shalore", "entity subtype")
 t("Rhaloren Inquisitor", "Rhaloren Inquisitor", "entity name")
-t("This tall elf rushes at you, wielding both her greatsword and magical spells.", "This tall elf rushes at you, wielding both her greatsword and magical spells.", "_t")
-t("and hung from the rafters", "and hung from the rafters", "_t")
+t("This tall elf rushes at you, wielding both her greatsword and magical spells.", "Este alto elfo se precipita en ti, escupiendo tanto su gran espada como sus hechizos mágicos.", "_t")
+t("and hung from the rafters", "y colgado de los botes", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21151,9 +21147,9 @@ section "mod-tome/data/zones/rhaloren-camp/objects.lua"
 
 -- new text
 --[==[
-t("letter", "letter", "entity name")
-t("A letter.", "A letter.", "_t")
-t("a carefully preserved letter", "a carefully preserved letter", "entity name")
+t("letter", "carta", "entity name")
+t("A letter.", "Una carta.", "_t")
+t("a carefully preserved letter", "una carta cuidadosamente conservada", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21181,28 +21177,28 @@ section "mod-tome/data/zones/ring-of-blood/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("yaech", "yaech", "entity subtype")
 t("Blood Master", "Blood Master", "entity name")
-t("This small humanoid is covered in silky white fur. Its bulging eyes stare deep into your mind.", "This small humanoid is covered in silky white fur. Its bulging eyes stare deep into your mind.", "_t")
+t("This small humanoid is covered in silky white fur. Its bulging eyes stare deep into your mind.", "Este pequeño humanoide está cubierto de piel blanca sedosa. Sus ojos hinchados miran profundamente en tu mente.", "_t")
 t("spectator", "spectator", "entity name")
-t("Blood!", "Blood!", "_t")
-t("Fight!", "Fight!", "_t")
-t("To the death!", "To the death!", "_t")
-t("Oh this is great", "Oh this is great", "_t")
-t("I love the smell of death...", "I love the smell of death...", "_t")
-t("Slavers forever!", "Slavers forever!", "_t")
-t("human", "human", "entity subtype")
-t("slave combatant", "slave combatant", "entity name")
-t("This humanoid has been enslaved by the yaech's mental powers.", "This humanoid has been enslaved by the yaech's mental powers.", "_t")
-t("slaver", "slaver", "entity name")
-t("A slaver.", "A slaver.", "_t")
-t("I am free!", "I am free!", "_t")
-t("At last, freedom!", "At last, freedom!", "_t")
-t("Thanks for this!", "Thanks for this!", "_t")
-t("The mental hold is gone!", "The mental hold is gone!", "_t")
-t("enthralled slave", "enthralled slave", "entity name")
-t("A slave.", "A slave.", "_t")
+t("Blood!", "¡Sangre!", "_t")
+t("Fight!", "¡Pelea!", "_t")
+t("To the death!", "¡A la muerte!", "_t")
+t("Oh this is great", "Oh esto es genial", "_t")
+t("I love the smell of death...", "Me encanta el olor de la muerte...", "_t")
+t("Slavers forever!", "¡Esclavos para siempre!", "_t")
+t("human", "humanos", "entity subtype")
+t("slave combatant", "esclavista combatiente", "entity name")
+t("This humanoid has been enslaved by the yaech's mental powers.", "Este humanoide ha sido esclavizado por los poderes mentales de los Yaech.", "_t")
+t("slaver", "esclavista", "entity name")
+t("A slaver.", "Esclavista.", "_t")
+t("I am free!", "¡Soy libre!", "_t")
+t("At last, freedom!", "¡Por fin, libertad!", "_t")
+t("Thanks for this!", "¡Gracias por esto!", "_t")
+t("The mental hold is gone!", "¡El control mental se ha ido!", "_t")
+t("enthralled slave", "esclavo esclavizado", "entity name")
+t("A slave.", "Un esclavo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21211,9 +21207,9 @@ section "mod-tome/data/zones/ring-of-blood/objects.lua"
 
 -- new text
 --[==[
-t("Bloodcaller", "Bloodcaller", "entity name")
-t("You won the Ring of Blood trial, and this is your reward.", "You won the Ring of Blood trial, and this is your reward.", "_t")
-t("bloody ring", "bloody ring", "_t")
+t("Bloodcaller", "Sangre", "entity name")
+t("You won the Ring of Blood trial, and this is your reward.", "Ganaste el juicio de Anillo de Sangre, y esta es tu recompensa.", "_t")
+t("bloody ring", "maldito anillo", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21222,8 +21218,8 @@ section "mod-tome/data/zones/ring-of-blood/zone.lua"
 
 -- new text
 --[==[
-t("Ring of Blood", "Ring of Blood", "_t")
-t("Slavers Compound (%d)", "Slavers Compound (%d)", "tformat")
+t("Ring of Blood", "Anillo de sangre", "_t")
+t("Slavers Compound (%d)", "Esclavistas compuestos (  PH0  )", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -21232,14 +21228,14 @@ section "mod-tome/data/zones/ritch-tunnels/npcs.lua"
 
 -- new text
 --[==[
-t("insect", "insect", "entity type")
+t("insect", "insectos", "entity type")
 t("ritch", "ritch", "entity subtype")
-t(", who incubated her eggs in the corpse,", ", who incubated her eggs in the corpse,", "_t")
-t("ritch flamespitter", "ritch flamespitter", "entity name")
+t(", who incubated her eggs in the corpse,", ", que incubaron sus huevos en el cuerpo,", "_t")
+t("ritch flamespitter", "gritch flamespitter", "entity name")
 t("ritch impaler", "ritch impaler", "entity name")
-t("chitinous ritch", "chitinous ritch", "entity name")
-t("Ritch Great Hive Mother", "Ritch Great Hive Mother", "entity name")
-t("This huge ritch seems to be the mother of all those here. Her sharp, fiery, claws dart toward you!", "This huge ritch seems to be the mother of all those here. Her sharp, fiery, claws dart toward you!", "_t")
+t("chitinous ritch", "chitín", "entity name")
+t("Ritch Great Hive Mother", "Gran Hive madre", "entity name")
+t("This huge ritch seems to be the mother of all those here. Her sharp, fiery, claws dart toward you!", "Este enorme ritch parece ser la madre de todos esos aquí. ¡Su fuerte, ardiente, garras se atrevieron hacia ti!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21257,27 +21253,27 @@ section "mod-tome/data/zones/ruined-dungeon/grids.lua"
 
 -- new text
 --[==[
-t("inscription", "inscription", "entity name")
-t("way into the infinite dungeon", "way into the infinite dungeon", "entity name")
-t("Infinite Dungeon", "Infinite Dungeon", "_t")
-t("You have accomplished great deads, but if you enter the infinite dungeon there will be no way back you will go on and on until you meet your glorious death.", "You have accomplished great deads, but if you enter the infinite dungeon there will be no way back you will go on and on until you meet your glorious death.", "_t")
-t("You should not go there. There is no way back. Ever. Maybe later when you have done all you must do.", "You should not go there. There is no way back. Ever. Maybe later when you have done all you must do.", "_t")
-t("sealed door", "sealed door", "entity name")
-t("orb", "orb", "entity name")
-t("Strange Orb", "Strange Orb", "_t")
-t("The orb looks inactive.", "The orb looks inactive.", "_t")
-t("The orb seems to drip water.", "The orb seems to drip water.", "_t")
-t("The orb is covered in dust.", "The orb is covered in dust.", "_t")
-t("The orb is floating in the air.", "The orb is floating in the air.", "_t")
-t("Small seeds seem to be growing inside the orb.", "Small seeds seem to be growing inside the orb.", "_t")
-t("The orb swirls with magical energies.", "The orb swirls with magical energies.", "_t")
-t("Flames burst out of the orb.", "Flames burst out of the orb.", "_t")
-t("The orb seems to absorb all light.", "The orb seems to absorb all light.", "_t")
-t("The orb is drips with thick blood.", "The orb is drips with thick blood.", "_t")
-t("The orb is icy to the touch.", "The orb is icy to the touch.", "_t")
-t("Time seems to slow down around the orb.", "Time seems to slow down around the orb.", "_t")
-t("Your mind is filled with strange thoughts as you approach the orb.", "Your mind is filled with strange thoughts as you approach the orb.", "_t")
-t("The orb seems to corrupt all it touches.", "The orb seems to corrupt all it touches.", "_t")
+t("inscription", "inscripción", "entity name")
+t("way into the infinite dungeon", "camino a la mazmorra infinita", "entity name")
+t("Infinite Dungeon", "Infinito Dungeon", "_t")
+t("You have accomplished great deads, but if you enter the infinite dungeon there will be no way back you will go on and on until you meet your glorious death.", "Has logrado grandes muertos, pero si entras en la mazmorra infinita no habrá manera de volver, seguirás y seguirás hasta que encuentres tu gloriosa muerte.", "_t")
+t("You should not go there. There is no way back. Ever. Maybe later when you have done all you must do.", "No deberías ir allí. No hay manera de volver. Nunca. Quizás más tarde cuando hayas hecho todo lo que debes hacer.", "_t")
+t("sealed door", "puerta sellada", "entity name")
+t("orb", "orbe", "entity name")
+t("Strange Orb", "Orbe extraño", "_t")
+t("The orb looks inactive.", "El orbe parece inactivo.", "_t")
+t("The orb seems to drip water.", "El orbe parece gotear agua.", "_t")
+t("The orb is covered in dust.", "El orbe está cubierto de polvo.", "_t")
+t("The orb is floating in the air.", "El orbe flota en el aire.", "_t")
+t("Small seeds seem to be growing inside the orb.", "Las semillas pequeñas parecen estar creciendo dentro del orbe.", "_t")
+t("The orb swirls with magical energies.", "El orbe gira con energías mágicas.", "_t")
+t("Flames burst out of the orb.", "Las llamas salen del orbe.", "_t")
+t("The orb seems to absorb all light.", "El orbe parece absorber toda la luz.", "_t")
+t("The orb is drips with thick blood.", "El orbe es goteo con sangre gruesa.", "_t")
+t("The orb is icy to the touch.", "El orb está helado al tacto.", "_t")
+t("Time seems to slow down around the orb.", "El tiempo parece disminuir alrededor del orbe.", "_t")
+t("Your mind is filled with strange thoughts as you approach the orb.", "Tu mente está llena de pensamientos extraños mientras te acercas al orbe.", "_t")
+t("The orb seems to corrupt all it touches.", "El orbe parece corromper todo lo que toca.", "_t")
 t("\
 Do you touch it?", "\
 Do you touch it?", "_t")
@@ -21292,14 +21288,14 @@ section "mod-tome/data/zones/ruined-dungeon/zone.lua"
 t("Ruined Dungeon", "Ruined Dungeon", "_t")
 t("#rng# the Guardian", "#rng# the Guardian", "_t")
 t("Guardian", "Guardian", "_t")
-t("You can hear a magical trigger firing off.", "You can hear a magical trigger firing off.", "_t")
-t("Strange Orb", "Strange Orb", "_t")
-t("The orb seems to react badly to your touch; there is a high shriek!", "The orb seems to react badly to your touch; there is a high shriek!", "_t")
-t("The orb burns to your touch and a loud shout screams out!", "The orb burns to your touch and a loud shout screams out!", "_t")
-t("The orb reacts violently to your touch and the walls begin to rumble!", "The orb reacts violently to your touch and the walls begin to rumble!", "_t")
-t("%s appears out of the thin air!", "%s appears out of the thin air!", "logSeen")
-t("The orb glows brightly. There is a loud crack coming from the northern central chamber.", "The orb glows brightly. There is a loud crack coming from the northern central chamber.", "_t")
-t("The orb glows brightly.", "The orb glows brightly.", "_t")
+t("You can hear a magical trigger firing off.", "Puedes oír un disparador mágico.", "_t")
+t("Strange Orb", "Orbe extraño", "_t")
+t("The orb seems to react badly to your touch; there is a high shriek!", "El orbe parece reaccionar mal a tu tacto; ¡hay un alto shriek!", "_t")
+t("The orb burns to your touch and a loud shout screams out!", "¡El orbe arde a tu toque y grita un fuerte grito!", "_t")
+t("The orb reacts violently to your touch and the walls begin to rumble!", "¡El orbe reacciona violentamente a tu tacto y las paredes comienzan a resonar!", "_t")
+t("%s appears out of the thin air!", " PH0   aparece fuera del aire delgado!", "logSeen")
+t("The orb glows brightly. There is a loud crack coming from the northern central chamber.", "El orbe brilla brillantemente. Hay una fuerte grieta proveniente de la cámara central del norte.", "_t")
+t("The orb glows brightly.", "El orbe brilla brillantemente.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21308,18 +21304,18 @@ section "mod-tome/data/zones/ruins-kor-pul/npcs.lua"
 
 -- new text
 --[==[
-t("undead", "undead", "entity type")
-t("skeleton", "skeleton", "entity subtype")
-t("The Shade", "The Shade", "entity name")
-t("This skeleton looks nasty. There are red flames in its empty eye sockets. It wields a nasty sword and strides toward you, throwing spells.", "This skeleton looks nasty. There are red flames in its empty eye sockets. It wields a nasty sword and strides toward you, throwing spells.", "_t")
-t("and left to rot", "and left to rot", "_t")
-t(".. yes I tell you! The old ruins of Kor'Pul are still haunted!", ".. yes I tell you! The old ruins of Kor'Pul are still haunted!", "_t")
-t("The Possessed", "The Possessed", "entity name")
-t("He is the leader of a gang of bandits that killed the Shade of Kor'Pul, however it is obvious the Shade was merely displaced. It is now possessing the corpse of his killer.", "He is the leader of a gang of bandits that killed the Shade of Kor'Pul, however it is obvious the Shade was merely displaced. It is now possessing the corpse of his killer.", "_t")
-t("and used as a new host", "and used as a new host", "_t")
-t("ghost", "ghost", "entity subtype")
+t("undead", "no-muerto", "entity type")
+t("skeleton", "esqueleto", "entity subtype")
+t("The Shade", "El Shade", "entity name")
+t("This skeleton looks nasty. There are red flames in its empty eye sockets. It wields a nasty sword and strides toward you, throwing spells.", "Este esqueleto parece desagradable. Hay llamas rojas en sus tomas de ojos vacías. Maneja una espada desagradable y lucha hacia ti, lanzando hechizos.", "_t")
+t("and left to rot", "y se fue a pudrirse", "_t")
+t(".. yes I tell you! The old ruins of Kor'Pul are still haunted!", ".. si te lo digo! ¡Las viejas ruinas de Kor'Pul aún están embrujadas!", "_t")
+t("The Possessed", "Los Possessed", "entity name")
+t("He is the leader of a gang of bandits that killed the Shade of Kor'Pul, however it is obvious the Shade was merely displaced. It is now possessing the corpse of his killer.", "Es el líder de una banda de bandidos que mataron al Shade de Kor'Pul, sin embargo es obvio que el Shade estaba simplemente desplazado. Ahora está poseyendo el cadáver de su asesino.", "_t")
+t("and used as a new host", "y utilizado como un nuevo anfitrión", "_t")
+t("ghost", "fantasma", "entity subtype")
 t("Kor's Fury", "Kor's Fury", "entity name")
-t("The Shade's colossal will keeps it anchored to this world, now as a vengeful, insane spirit.", "The Shade's colossal will keeps it anchored to this world, now as a vengeful, insane spirit.", "_t")
+t("The Shade's colossal will keeps it anchored to this world, now as a vengeful, insane spirit.", "El colosal de Shade lo mantendrá anclado a este mundo, ahora como un espíritu vengativo y loco.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21328,8 +21324,8 @@ section "mod-tome/data/zones/ruins-kor-pul/objects.lua"
 
 -- new text
 --[==[
-t("journal page", "journal page", "entity name")
-t("A journal page, left by an adventurer.", "A journal page, left by an adventurer.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A journal page, left by an adventurer.", "Una página de diario, izquierda por un aventurero.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21338,7 +21334,7 @@ section "mod-tome/data/zones/ruins-kor-pul/zone.lua"
 
 -- new text
 --[==[
-t("Ruins of Kor'Pul", "Ruins of Kor'Pul", "_t")
+t("Ruins of Kor'Pul", "Ruinas de Kor'Pul", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21347,20 +21343,20 @@ section "mod-tome/data/zones/sandworm-lair/npcs.lua"
 
 -- new text
 --[==[
-t("vermin", "vermin", "entity type")
-t("sandworm", "sandworm", "entity subtype")
+t("vermin", "alimaña", "entity type")
+t("sandworm", "gusano de arena", "entity subtype")
 t("sandworm burrower", "sandworm burrower", "entity name")
-t("huge sandworm burrower", "huge sandworm burrower", "entity name")
+t("huge sandworm burrower", "enorme burrower de gusano de arena", "entity name")
 t("Sandworm Queen", "Sandworm Queen", "entity name")
-t("Before you stands the queen of the sandworms. Massive and bloated, she slithers toward you, calling for her offspring!", "Before you stands the queen of the sandworms. Massive and bloated, she slithers toward you, calling for her offspring!", "_t")
-t("and swallowed whole", "and swallowed whole", "_t")
+t("Before you stands the queen of the sandworms. Massive and bloated, she slithers toward you, calling for her offspring!", "Antes de que te quedes con la reina de las flores. Masiva y hinchada, ella se desliza hacia ti, pidiendo su descendencia!", "_t")
+t("and swallowed whole", "y tragar todo", "_t")
 t("Rumbling...", "Rumbling...", "_t")
-t("The ground shakes.  Something very large is stirring in the distance.", "The ground shakes.  Something very large is stirring in the distance.", "_t")
-t("Did you hear? Something seems to have devoured all the last sandworms!", "Did you hear? Something seems to have devoured all the last sandworms!", "_t")
-t("dragon", "dragon", "entity type")
-t("sand", "sand", "entity subtype")
+t("The ground shakes.  Something very large is stirring in the distance.", "El suelo se sacude. Algo muy grande se mueve en la distancia.", "_t")
+t("Did you hear? Something seems to have devoured all the last sandworms!", "¿Has oído? ¡Algo parece haber devorado todas las últimas sandworms!", "_t")
+t("dragon", "dragón", "entity type")
+t("sand", "arena", "entity subtype")
 t("Corrupted Sand Wyrm", "Corrupted Sand Wyrm", "entity name")
-t("The sandworms are gone, devoured by this shrieking, warped horror.", "The sandworms are gone, devoured by this shrieking, warped horror.", "_t")
+t("The sandworms are gone, devoured by this shrieking, warped horror.", "Los gusanos de arena se han ido, devorados por este afligido horror.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21369,30 +21365,30 @@ section "mod-tome/data/zones/sandworm-lair/objects.lua"
 
 -- new text
 --[==[
-t("Song of the Sands", "Song of the Sands", "entity name")
-t("Some people get the weirdest ideas!", "Some people get the weirdest ideas!", "_t")
+t("Song of the Sands", "Canción de las arenas", "entity name")
+t("Some people get the weirdest ideas!", "¡Alguna gente tiene las ideas más raras!", "_t")
 t("corpse", "corpse", "entity type")
-t("heart", "heart", "entity subtype")
-t("Heart of the Sandworm Queen", "Heart of the Sandworm Queen", "entity name")
-t("pulsing organ", "pulsing organ", "_t")
-t("consume the heart", "consume the heart", "_t")
-t("#00FFFF#You consume the heart and feel the knowledge of this very old creature fill you!", "#00FFFF#You consume the heart and feel the knowledge of this very old creature fill you!", "logPlayer")
-t("You have %d stat point(s) to spend. Press p to use them.", "You have %d stat point(s) to spend. Press p to use them.", "logPlayer")
-t("You have %d class talent point(s) to spend. Press p to use them.", "You have %d class talent point(s) to spend. Press p to use them.", "logPlayer")
-t("You have %d generic talent point(s) to spend. Press p to use them.", "You have %d generic talent point(s) to spend. Press p to use them.", "logPlayer")
-t("You are transformed by the heart of the Queen!", "You are transformed by the heart of the Queen!", "logPlayer")
-t("#00FF00#You gain an affinity for nature. You can now learn new Harmony talents (press p).", "#00FF00#You gain an affinity for nature. You can now learn new Harmony talents (press p).", "logPlayer")
-t("blood", "blood", "entity subtype")
+t("heart", "corazón", "entity subtype")
+t("Heart of the Sandworm Queen", "Corazón de la reina del gusano", "entity name")
+t("pulsing organ", "órgano pulsante", "_t")
+t("consume the heart", "consumir el corazón", "_t")
+t("#00FFFF#You consume the heart and feel the knowledge of this very old creature fill you!", "#00FF#Usted consume el corazón y siente el conocimiento de esta vieja criatura te llena!", "logPlayer")
+t("You have %d stat point(s) to spend. Press p to use them.", "Usted tiene   PH0     punto(s) para gastar. Presione p para usarlos.", "logPlayer")
+t("You have %d class talent point(s) to spend. Press p to use them.", "Usted tiene   PH0    puntos de talento de clase para gastar. Presione p para usarlos.", "logPlayer")
+t("You have %d generic talent point(s) to spend. Press p to use them.", "Usted tiene   PH0     puntos genéricos de talento para gastar. Presione p para usarlos.", "logPlayer")
+t("You are transformed by the heart of the Queen!", "¡Eres transformado por el corazón de la Reina!", "logPlayer")
+t("#00FF00#You gain an affinity for nature. You can now learn new Harmony talents (press p).", "Ganas una afinidad por la naturaleza. Ahora puedes aprender nuevos talentos de Armonía (press p).", "logPlayer")
+t("blood", "sangre", "entity subtype")
 t("Wyrm Bile", "Wyrm Bile", "entity name")
-t("putrescent potion", "putrescent potion", "_t")
-t("A vial of thick, lumpy fluid. Who knows what this will do to you if you drink it?", "A vial of thick, lumpy fluid. Who knows what this will do to you if you drink it?", "_t")
-t("drink the vile fluid", "drink the vile fluid", "_t")
-t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "_t")
-t("#00FFFF#You drink the wyrm bile and feel forever transformed!", "#00FFFF#You drink the wyrm bile and feel forever transformed!", "logPlayer")
-t("You have %d category point(s) to spend. Press p to use them.", "You have %d category point(s) to spend. Press p to use them.", "log")
-t("#00FF00#Your stats have changed! (Str %s, Dex %s, Mag %s, Wil %s, Cun %s, Con %s)", "#00FF00#Your stats have changed! (Str %s, Dex %s, Mag %s, Wil %s, Cun %s, Con %s)", "logPlayer")
-t("red", "red", "entity subtype")
-t("Atamathon's Lost Ruby Eye", "Atamathon's Lost Ruby Eye", "entity name")
+t("putrescent potion", "poción putrescente", "_t")
+t("A vial of thick, lumpy fluid. Who knows what this will do to you if you drink it?", "Un frasco de líquido grueso y lleno. ¿Quién sabe qué te hará esto si lo bebes?", "_t")
+t("drink the vile fluid", "beber el líquido vile", "_t")
+t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Tu timetravel no tiene efecto en los resultados predeterminados como este.", "_t")
+t("#00FFFF#You drink the wyrm bile and feel forever transformed!", "#00FF#Bebes la bilis del wyrm y te sientes transformado para siempre!", "logPlayer")
+t("You have %d category point(s) to spend. Press p to use them.", "Usted tiene   PH0    categoría punto(s) para gastar. Presione p para usarlos.", "log")
+t("#00FF00#Your stats have changed! (Str %s, Dex %s, Mag %s, Wil %s, Cun %s, Con %s)", "¡Tus estadísticas han cambiado! (Str   PH0   , Dex   PH1  , Mag   PH2  , Wil   PH3   , Cun   PH4   , Con   PH5   )", "logPlayer")
+t("red", "rojo", "entity subtype")
+t("Atamathon's Lost Ruby Eye", "Atamathon Lost Ruby Eye", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21402,7 +21398,7 @@ section "mod-tome/data/zones/sandworm-lair/zone.lua"
 -- new text
 --[==[
 t("Sandworm lair", "Sandworm lair", "_t")
-t("#OLIVE_DRAB#You feel the ground shaking from the west.", "#OLIVE_DRAB#You feel the ground shaking from the west.", "log")
+t("#OLIVE_DRAB#You feel the ground shaking from the west.", "#OLIVE DRAB #Sientes el suelo temblando desde el oeste.", "log")
 --]==]
 
 ------------------------------------------------
@@ -21411,12 +21407,12 @@ section "mod-tome/data/zones/scintillating-caves/npcs.lua"
 
 -- new text
 --[==[
-t("Spellblaze Crystal", "Spellblaze Crystal", "entity name")
-t("A formation of purple crystal. It seems strangely aware.", "A formation of purple crystal. It seems strangely aware.", "_t")
-t("and vaporised into nothingness", "and vaporised into nothingness", "_t")
-t("I heard that some old crystals are nearly alive now in the scintillating caves.", "I heard that some old crystals are nearly alive now in the scintillating caves.", "_t")
+t("Spellblaze Crystal", "Cristal Spellblaze", "entity name")
+t("A formation of purple crystal. It seems strangely aware.", "Una formación de cristal morado. Parece extrañamente consciente.", "_t")
+t("and vaporised into nothingness", "y vaporizado en la nada", "_t")
+t("I heard that some old crystals are nearly alive now in the scintillating caves.", "Escuché que algunos cristales viejos están casi vivos ahora en las cuevas de cincela.", "_t")
 t("Spellblaze Simulacrum", "Spellblaze Simulacrum", "entity name")
-t("A formation of purple crystal, but where the others could only be described as polyhedral, this construct seems to strangely resemble... you, if you were much, much larger.", "A formation of purple crystal, but where the others could only be described as polyhedral, this construct seems to strangely resemble... you, if you were much, much larger.", "_t")
+t("A formation of purple crystal, but where the others could only be described as polyhedral, this construct seems to strangely resemble... you, if you were much, much larger.", "Una formación de cristal púrpura, pero donde los otros sólo podían describirse como poliedral, este constructo parece extrañamente parecido... tú, si fueras mucho, mucho más grande.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21425,9 +21421,9 @@ section "mod-tome/data/zones/scintillating-caves/objects.lua"
 
 -- new text
 --[==[
-t("research log", "research log", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
-t("exploration log", "exploration log", "entity name")
+t("research log", "historial de investigación", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
+t("exploration log", "log", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21436,9 +21432,9 @@ section "mod-tome/data/zones/scintillating-caves/zone.lua"
 
 -- new text
 --[==[
-t("Scintillating Caves", "Scintillating Caves", "_t")
-t("Caves...", "Caves...", "_t")
-t("As you enter the caves you notice the magic here has distorted the land, making sharp angles and turns.", "As you enter the caves you notice the magic here has distorted the land, making sharp angles and turns.", "_t")
+t("Scintillating Caves", "Cuevas centelleantes", "_t")
+t("Caves...", "Cuevas...", "_t")
+t("As you enter the caves you notice the magic here has distorted the land, making sharp angles and turns.", "Mientras entras en las cuevas notas que la magia aquí ha distorsionado la tierra, haciendo ángulos agudos y giros.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21447,7 +21443,7 @@ section "mod-tome/data/zones/shadow-crypt/grids.lua"
 
 -- new text
 --[==[
-t("teleporting circle to the surface", "teleporting circle to the surface", "entity name")
+t("teleporting circle to the surface", "círculo teletransportado a la superficie", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21457,13 +21453,13 @@ section "mod-tome/data/zones/shadow-crypt/npcs.lua"
 -- new text
 --[==[
 t("Rak'Shor Cultist", "Rak'Shor Cultist", "entity name")
-t("An old orc, wearing black robes. He seems to be responsible for the creation of the shades.", "An old orc, wearing black robes. He seems to be responsible for the creation of the shades.", "_t")
-t("but nobody knew why they suddenly became evil", "but nobody knew why they suddenly became evil", "_t")
-t("As your shade dies, the magical veil protecting the stairs out vanishes.", "As your shade dies, the magical veil protecting the stairs out vanishes.", "logSeen")
-t("#GREY#The #Source# looks deep into your eyes. You feel torn apart!", "#GREY#The #Source# looks deep into your eyes. You feel torn apart!", "logCombat")
+t("An old orc, wearing black robes. He seems to be responsible for the creation of the shades.", "Un viejo orc, con ropa negra. Parece ser responsable de la creación de los tonos.", "_t")
+t("but nobody knew why they suddenly became evil", "pero nadie sabía por qué de repente se hicieron mal", "_t")
+t("As your shade dies, the magical veil protecting the stairs out vanishes.", "Mientras tu sombra muere, el velo mágico que protege las escaleras se desvanece.", "logSeen")
+t("#GREY#The #Source# looks deep into your eyes. You feel torn apart!", "#GREY# The #Source# looks deep into your eyes. ¡Te sientes destrozado!", "logCombat")
 t("Ra'kk kor merk ZUR!!!", "Ra'kk kor merk ZUR!!!", "_t")
-t("FOR THE WAY! Die cultist!", "FOR THE WAY! Die cultist!", "_t")
-t("#PURPLE#The #Source# looks afraid, he did not plan on his creation turning against him!", "#PURPLE#The #Source# looks afraid, he did not plan on his creation turning against him!", "logCombat")
+t("FOR THE WAY! Die cultist!", "¡Por el camino! ¡Muere culto!", "_t")
+t("#PURPLE#The #Source# looks afraid, he did not plan on his creation turning against him!", "#PURPLE#The #Source# se ve asustado, no planeó su creación girando contra él!", "logCombat")
 --]==]
 
 ------------------------------------------------
@@ -21484,7 +21480,7 @@ section "mod-tome/data/zones/shertul-fortress-caldizar/grids.lua"
 t("Sher'Tul Control Orb", "Sher'Tul Control Orb", "entity name")
 t("Exploratory Farportal", "Exploratory Farportal", "entity name")
 t("Farportal", "Farportal", "_t")
-t("The farportal seems to be inactive", "The farportal seems to be inactive", "_t")
+t("The farportal seems to be inactive", "El farportal parece estar inactivo", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21494,7 +21490,7 @@ section "mod-tome/data/zones/shertul-fortress-caldizar/npcs.lua"
 -- new text
 --[==[
 t("Caldizar", "Caldizar", "entity name")
-t("A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "_t")
+t("A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "Una criatura está delante de ti, con largos apéndices tipo tentáculo y un bache en lugar de una cabeza. Un intenso aura de poder irradia de este ser diferente a cualquier cosa que hayas sentido antes. Sólo puede ser un Sher'Tul. ¡Un Sher'Tul vivo!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21504,9 +21500,9 @@ section "mod-tome/data/zones/shertul-fortress-caldizar/zone.lua"
 -- new text
 --[==[
 t("Unknown Sher'Tul Fortress", "Unknown Sher'Tul Fortress", "_t")
-t("Unknown Sher'Tul Fortress (%s)", "Unknown Sher'Tul Fortress (%s)", "tformat")
-t("Unknown the Sher'Tul Fortress", "Unknown the Sher'Tul Fortress", "_t")
-t("With a sudden jolt you find yourself... somewhere familiar. The smooth walls and gentle lighting remind you of your fortress. And yet it feels different too. There is a gentle humming noise in the background, and your whole body feels light, almost weightless, such that the slightest movement propels you into the air. You have the odd feeling that you are not on Maj'Eyal any longer... From ahead you sense something both terrible and wonderful, and trepidation fills every corner of your being.", "With a sudden jolt you find yourself... somewhere familiar. The smooth walls and gentle lighting remind you of your fortress. And yet it feels different too. There is a gentle humming noise in the background, and your whole body feels light, almost weightless, such that the slightest movement propels you into the air. You have the odd feeling that you are not on Maj'Eyal any longer... From ahead you sense something both terrible and wonderful, and trepidation fills every corner of your being.", "_t")
+t("Unknown Sher'Tul Fortress (%s)", "Unknown Sher'Tul Fortress (  PH0  )", "tformat")
+t("Unknown the Sher'Tul Fortress", "Desconocida la fortaleza Sher'Tul", "_t")
+t("With a sudden jolt you find yourself... somewhere familiar. The smooth walls and gentle lighting remind you of your fortress. And yet it feels different too. There is a gentle humming noise in the background, and your whole body feels light, almost weightless, such that the slightest movement propels you into the air. You have the odd feeling that you are not on Maj'Eyal any longer... From ahead you sense something both terrible and wonderful, and trepidation fills every corner of your being.", "Con una sacudida repentina te encuentras... en algún lugar familiar. Las paredes suaves y la iluminación suave le recuerdan a su fortaleza. Y sin embargo se siente diferente también. Hay un ruido suave en el fondo, y todo el cuerpo siente luz, casi sin peso, de tal manera que el movimiento más leve le lleva al aire. Tienes la extraña sensación de que ya no estás en Maj'Eyal... Desde adelante sientes algo terrible y maravilloso, y la trepidación llena cada rincón de tu ser.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21515,32 +21511,32 @@ section "mod-tome/data/zones/shertul-fortress/grids.lua"
 
 -- new text
 --[==[
-t("%0.2f Energy Stored", "%0.2f Energy Stored", "tformat")
-t("stair back to the lake of Nur", "stair back to the lake of Nur", "entity name")
-t("teleportation circle to the surface", "teleportation circle to the surface", "entity name")
-t("teleportation circle for Melinda", "teleportation circle for Melinda", "entity name")
+t("%0.2f Energy Stored", " PH0  Energy Stored", "tformat")
+t("stair back to the lake of Nur", "escalera de regreso al lago de Nur", "entity name")
+t("teleportation circle to the surface", "círculo de teletransportación a la superficie", "entity name")
+t("teleportation circle for Melinda", "círculo de teletransportación para Melinda", "entity name")
 t("Sher'Tul Control Orb", "Sher'Tul Control Orb", "entity name")
 t("Exploratory Farportal", "Exploratory Farportal", "entity name")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in a strangely familiar zone, right next to a farportal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in a strangely familiar zone, right next to a farportal...", "log")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in strange empty space...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in strange empty space...", "log")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in a strangely familiar zone, right next to a farportal...", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos pones un pie en una zona extrañamente familiar, justo al lado de un faro...", "log")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in strange empty space...", "#VIOLET# Entras en el portal giratorio y en el enlace de un ojo pones un pie en un espacio vacío extraño...", "log")
 t("Exploratory Farportal", "Exploratory Farportal", "_t")
-t("The farportal seems to be inactive", "The farportal seems to be inactive", "_t")
-t("The farportal is broken and will not be usable anymore.", "The farportal is broken and will not be usable anymore.", "_t")
-t("The fortress does not have enough energy to power a trip through the portal.", "The fortress does not have enough energy to power a trip through the portal.", "_t")
-t("Do you want to travel in the farportal? You cannot know where you will end up.", "Do you want to travel in the farportal? You cannot know where you will end up.", "_t")
-t("Exploratory Farportal exit", "Exploratory Farportal exit", "_t")
-t("#VIOLET#As %s falls you notice a portal appearing.", "#VIOLET#As %s falls you notice a portal appearing.", "logSeen")
-t("#VIOLET#Your rod of recall shakes, a portal appears beneath you.", "#VIOLET#Your rod of recall shakes, a portal appears beneath you.", "logSeen")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in an unfamiliar zone, with no trace of the portal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in an unfamiliar zone, with no trace of the portal...", "log")
-t("Library of Lost Mysteries", "Library of Lost Mysteries", "entity name")
-t("Yiilkgur's Library of Lost Mysteries", "Yiilkgur's Library of Lost Mysteries", "_t")
-t("Receiving the lost knowledge of the universe...", "Receiving the lost knowledge of the universe...", "_t")
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("mural painting", "mural painting", "entity name")
+t("The farportal seems to be inactive", "El farportal parece estar inactivo", "_t")
+t("The farportal is broken and will not be usable anymore.", "El farportal está roto y ya no será usable.", "_t")
+t("The fortress does not have enough energy to power a trip through the portal.", "La fortaleza no tiene suficiente energía para hacer un viaje a través del portal.", "_t")
+t("Do you want to travel in the farportal? You cannot know where you will end up.", "¿Quieres viajar en el farportal? No puedes saber dónde terminarás.", "_t")
+t("Exploratory Farportal exit", "Salida exploratoria Farportal", "_t")
+t("#VIOLET#As %s falls you notice a portal appearing.", "#VIOLET#As   PH0   se nota que aparece un portal.", "logSeen")
+t("#VIOLET#Your rod of recall shakes, a portal appears beneath you.", "#VIOLET #Tu vara de batidos de memoria, un portal aparece debajo de ti.", "logSeen")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in an unfamiliar zone, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos pones un pie en una zona desconocida, sin rastro del portal...", "log")
+t("Library of Lost Mysteries", "Biblioteca de los misterios perdidos", "entity name")
+t("Yiilkgur's Library of Lost Mysteries", "Biblioteca de los misterios perdidos de Yiilkgur", "_t")
+t("Receiving the lost knowledge of the universe...", "Recibiendo el conocimiento perdido del universo...", "_t")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("mural painting", "mural pintura", "entity name")
 t("Training Control Orb", "Training Control Orb", "entity name")
 t("Training Monitor Orb", "Training Monitor Orb", "entity name")
-t("Mirror of Reflection", "Mirror of Reflection", "entity name")
+t("Mirror of Reflection", "Espejo de reflexión", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21549,20 +21545,20 @@ section "mod-tome/data/zones/shertul-fortress/npcs.lua"
 
 -- new text
 --[==[
-t("Weirdling Beast", "Weirdling Beast", "entity name")
-t("A roughly humanoid creature, with tentacle-like appendages in the place of arms and legs. You gasp in horror as you notice it has no head. Putrid warts form quickly on its skin and explode as quickly.", "A roughly humanoid creature, with tentacle-like appendages in the place of arms and legs. You gasp in horror as you notice it has no head. Putrid warts form quickly on its skin and explode as quickly.", "_t")
-t("and slowly consumed", "and slowly consumed", "_t")
-t("#LIGHT_RED#As the Weirdling beast falls it shrieks one last time and the door behind it shatters and explodes, revealing the room behind it. The stair up vanishes!", "#LIGHT_RED#As the Weirdling beast falls it shrieks one last time and the door behind it shatters and explodes, revealing the room behind it. The stair up vanishes!", "log")
-t("Teleportation portal to the Sher'Tul Fortress", "Teleportation portal to the Sher'Tul Fortress", "_t")
+t("Weirdling Beast", "Bestia rara", "entity name")
+t("A roughly humanoid creature, with tentacle-like appendages in the place of arms and legs. You gasp in horror as you notice it has no head. Putrid warts form quickly on its skin and explode as quickly.", "Una criatura aproximadamente humanoide, con apéndices similares al tentáculo en lugar de brazos y piernas. Te arruinas de horror cuando notas que no tiene cabeza. Las verrugas putidas se forman rápidamente en su piel y explotan tan rápido.", "_t")
+t("and slowly consumed", "y consumido lentamente", "_t")
+t("#LIGHT_RED#As the Weirdling beast falls it shrieks one last time and the door behind it shatters and explodes, revealing the room behind it. The stair up vanishes!", "#LIGHT RED#A medida que la bestia de Weirdling cae se aflige una última vez y la puerta detrás de ella se rompe y explota, revelando la habitación detrás de ella. ¡La escalera se desvanece!", "log")
+t("Teleportation portal to the Sher'Tul Fortress", "Portal de teletransportación a la Fortaleza Sher'Tul", "_t")
 t("Sher'Tul", "Sher'Tul", "entity subtype")
-t("Fortress Shadow", "Fortress Shadow", "entity name")
-t("The shadow created by the fortress, it resembles somewhat the horrors you saw previously, but it is not the same.", "The shadow created by the fortress, it resembles somewhat the horrors you saw previously, but it is not the same.", "_t")
-t("training", "training", "entity type")
+t("Fortress Shadow", "Fortaleza Sombra", "entity name")
+t("The shadow created by the fortress, it resembles somewhat the horrors you saw previously, but it is not the same.", "La sombra creada por la fortaleza, se parece un poco a los horrores que viste anteriormente, pero no es lo mismo.", "_t")
+t("training", "capacitación", "entity type")
 t("dummy", "dummy", "entity subtype")
 t("Training Dummy", "Training Dummy", "entity name")
-t("Training dummy.", "Training dummy.", "_t")
-t("Pumpkin, the little kitty", "Pumpkin, the little kitty", "entity name")
-t("An orange kitty with a white star blaze on his chest. Has a strange affinity for licking your face whenever possible.", "An orange kitty with a white star blaze on his chest. Has a strange affinity for licking your face whenever possible.", "_t")
+t("Training dummy.", "Capullo de entrenamiento.", "_t")
+t("Pumpkin, the little kitty", "Calabaza, el pequeño gatito", "entity name")
+t("An orange kitty with a white star blaze on his chest. Has a strange affinity for licking your face whenever possible.", "Un gatito naranja con una estrella blanca en el pecho. Tiene una extraña afinidad por lamerte la cara cuando sea posible.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21571,7 +21567,7 @@ section "mod-tome/data/zones/shertul-fortress/objects.lua"
 
 -- new text
 --[==[
-t("simple gown", "simple gown", "entity name")
+t("simple gown", "simple vestido", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21580,13 +21576,13 @@ section "mod-tome/data/zones/shertul-fortress/zone.lua"
 
 -- new text
 --[==[
-t("Yiilkgur, the Sher'Tul Fortress", "Yiilkgur, the Sher'Tul Fortress", "_t")
-t("%s (Yiilkgur, the Sher'Tul Fortress)", "%s (Yiilkgur, the Sher'Tul Fortress)", "tformat")
+t("Yiilkgur, the Sher'Tul Fortress", "Yiilkgur, la Fortaleza Sher'Tul", "_t")
+t("%s (Yiilkgur, the Sher'Tul Fortress)", " PH0  (Yiilkgur, la Fortaleza de Sher'Tul)", "tformat")
 t("Yiilkgur", "Yiilkgur", "_t")
-t("This level seems to be removed from the rest of the ruins. The air is fresh and the level is lighted. You hear the distant crackling of magical energies.", "This level seems to be removed from the rest of the ruins. The air is fresh and the level is lighted. You hear the distant crackling of magical energies.", "_t")
-t("Your %s is magically sorted by the storage room.", "Your %s is magically sorted by the storage room.", "logPlayer")
-t("Your %s is magically sorted by the storage room and put in a pile with the others items of the same type.", "Your %s is magically sorted by the storage room and put in a pile with the others items of the same type.", "logPlayer")
-t("It seems the room has no more space to sort your %s.", "It seems the room has no more space to sort your %s.", "logPlayer")
+t("This level seems to be removed from the rest of the ruins. The air is fresh and the level is lighted. You hear the distant crackling of magical energies.", "Este nivel parece ser eliminado del resto de las ruinas. El aire es fresco y el nivel se ilumina. Ustedes escuchan la distancia de las energías mágicas.", "_t")
+t("Your %s is magically sorted by the storage room.", "Su   PH0   está mágicamente ordenados por el almacén.", "logPlayer")
+t("Your %s is magically sorted by the storage room and put in a pile with the others items of the same type.", "Su   PH0   está mágicamente ordenados por el trastero y puesto en un montón con los otros elementos del mismo tipo.", "logPlayer")
+t("It seems the room has no more space to sort your %s.", "Parece que la habitación no tiene más espacio para ordenar tu   PH0  .", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -21595,15 +21591,15 @@ section "mod-tome/data/zones/slazish-fen/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("water", "water", "entity subtype")
-t("tree", "tree", "entity name")
-t("bog water", "bog water", "entity name")
-t("coral portal", "coral portal", "entity name")
-t("#VIOLET#The portal is already broken!", "#VIOLET#The portal is already broken!", "log")
-t("destroying the portal", "destroying the portal", "_t")
-t("destroyed the portal", "destroyed the portal", "_t")
-t("#VIOLET#The portal starts to break down, run!", "#VIOLET#The portal starts to break down, run!", "log")
+t("wall", "pared", "entity type")
+t("water", "agua", "entity subtype")
+t("tree", "árbol", "entity name")
+t("bog water", "agua potable", "entity name")
+t("coral portal", "portal de coral", "entity name")
+t("#VIOLET#The portal is already broken!", "¡El portal ya está roto!", "log")
+t("destroying the portal", "destruir el portal", "_t")
+t("destroyed the portal", "destruido el portal", "_t")
+t("#VIOLET#The portal starts to break down, run!", "#VIOLET #El portal comienza a desmoronarse, corre!", "log")
 --]==]
 
 ------------------------------------------------
@@ -21612,17 +21608,17 @@ section "mod-tome/data/zones/slazish-fen/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("naga", "naga", "entity subtype")
 t("naga tidewarden", "naga tidewarden", "entity name")
-t("Before you stands a tall figure, propped high by a serpent's tail in place of where his legs should rightly be. His torso is slim and muscular, and his face has an elven beauty to it, framed by locks of blonde hair. But there is a fierceness to this creature too, and his bright eyes veil a smouldering anger.", "Before you stands a tall figure, propped high by a serpent's tail in place of where his legs should rightly be. His torso is slim and muscular, and his face has an elven beauty to it, framed by locks of blonde hair. But there is a fierceness to this creature too, and his bright eyes veil a smouldering anger.", "_t")
+t("Before you stands a tall figure, propped high by a serpent's tail in place of where his legs should rightly be. His torso is slim and muscular, and his face has an elven beauty to it, framed by locks of blonde hair. But there is a fierceness to this creature too, and his bright eyes veil a smouldering anger.", "Antes de que pares una figura alta, probada por la cola de una serpiente en lugar de donde deberían estar sus piernas correctamente. Su torso es delgado y musculoso, y su cara tiene una belleza elvenida, enmarcada por cerraduras de pelo rubio. Pero también hay una feroz a esta criatura, y sus ojos brillantes velan por una ira persistente.", "_t")
 t("naga tidecaller", "naga tidecaller", "entity name")
-t("A slithering noise accompanies the movement of this strange creature, whose snake-like tail gives rise to the body of a beautiful Elf-like woman. As she moves her delicate hands, water rises from the ground, and you feel that here is no mere monster, but a creature of awe and power.", "A slithering noise accompanies the movement of this strange creature, whose snake-like tail gives rise to the body of a beautiful Elf-like woman. As she moves her delicate hands, water rises from the ground, and you feel that here is no mere monster, but a creature of awe and power.", "_t")
+t("A slithering noise accompanies the movement of this strange creature, whose snake-like tail gives rise to the body of a beautiful Elf-like woman. As she moves her delicate hands, water rises from the ground, and you feel that here is no mere monster, but a creature of awe and power.", "Un ruido estruendoso acompaña al movimiento de esta extraña criatura, cuya cola de serpiente da lugar al cuerpo de una hermosa mujer como Elf. A medida que mueve sus delicadas manos, el agua se eleva desde el suelo, y sientes que aquí no hay un mero monstruo, sino una criatura de asombro y poder.", "_t")
 t("naga nereid", "naga nereid", "entity name")
-t("Green eyes stare out from behind strands of long, golden hair, which falls down in waves over smooth, pale skin. Your eyes are drawn to the bare flesh, but as they look further they see dark scales stretching out into a long serpent's tail. You look up as she moves, her hair parting to reveal a slim and beautiful face with high cheekbones and full lips. Yet for all the allure of this wondrous creature the terror of the serpentine tail sends shivers down your spine.", "Green eyes stare out from behind strands of long, golden hair, which falls down in waves over smooth, pale skin. Your eyes are drawn to the bare flesh, but as they look further they see dark scales stretching out into a long serpent's tail. You look up as she moves, her hair parting to reveal a slim and beautiful face with high cheekbones and full lips. Yet for all the allure of this wondrous creature the terror of the serpentine tail sends shivers down your spine.", "_t")
-t("Lady Zoisla the Tidebringer", "Lady Zoisla the Tidebringer", "entity name")
-t("Water circles slowly on the ground around this naga's tail, some droplets leaping up now and then as if they are impatient to do their mistress' bidding. Her dark tail is coiled tight, making her look short, but her calm and confident stare assure you that she will not be easily overcome. As the water begins to rise around her the air starts to shimmer, and you feel her dark eyes are penetrating into you deeper than is comfortable.", "Water circles slowly on the ground around this naga's tail, some droplets leaping up now and then as if they are impatient to do their mistress' bidding. Her dark tail is coiled tight, making her look short, but her calm and confident stare assure you that she will not be easily overcome. As the water begins to rise around her the air starts to shimmer, and you feel her dark eyes are penetrating into you deeper than is comfortable.", "_t")
-t("and brought back to Vargh for experimentation", "and brought back to Vargh for experimentation", "_t")
+t("Green eyes stare out from behind strands of long, golden hair, which falls down in waves over smooth, pale skin. Your eyes are drawn to the bare flesh, but as they look further they see dark scales stretching out into a long serpent's tail. You look up as she moves, her hair parting to reveal a slim and beautiful face with high cheekbones and full lips. Yet for all the allure of this wondrous creature the terror of the serpentine tail sends shivers down your spine.", "Los ojos verdes miran por detrás las hebras de pelo largo y dorado, que cae en ondas sobre la piel suave y pálida. Tus ojos están atraídos a la carne desnuda, pero mientras miran más allá, ven escamas oscuras extendiéndose hacia la cola de una serpiente larga. Miras hacia arriba mientras se mueve, su cabello se separa para revelar una cara delgada y hermosa con mejillas altas y labios llenos. Sin embargo, para todo el encanto de esta criatura maravillosa el terror de la cola serpentina envía shivers por tu columna.", "_t")
+t("Lady Zoisla the Tidebringer", "Lady Zoisla el Tidebringer", "entity name")
+t("Water circles slowly on the ground around this naga's tail, some droplets leaping up now and then as if they are impatient to do their mistress' bidding. Her dark tail is coiled tight, making her look short, but her calm and confident stare assure you that she will not be easily overcome. As the water begins to rise around her the air starts to shimmer, and you feel her dark eyes are penetrating into you deeper than is comfortable.", "Círculos de agua lentamente en el suelo alrededor de la cola de esta naga, algunas gotas saltando ahora y luego como si estuvieran impacientes de hacer la petición de su amante. Su cola oscura está enrollada apretada, haciendo que se vea corta, pero su mirada tranquila y segura le asegura que no será fácilmente superada. A medida que el agua comienza a levantarse alrededor de ella el aire comienza a brillar, y sientes que sus ojos oscuros están penetrando en ti más profundamente que cómodo.", "_t")
+t("and brought back to Vargh for experimentation", "y traído de vuelta a Vargh para la experimentación", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21631,11 +21627,11 @@ section "mod-tome/data/zones/slazish-fen/objects.lua"
 
 -- new text
 --[==[
-t("weird conch", "weird conch", "entity name")
-t("A conch; it seems the naga was using it as a communication tool.", "A conch; it seems the naga was using it as a communication tool.", "_t")
+t("weird conch", "raro", "entity name")
+t("A conch; it seems the naga was using it as a communication tool.", "Un conch; parece que la naga lo estaba utilizando como una herramienta de comunicación.", "_t")
 t("Robes of Deflection", "Robes of Deflection", "entity name")
-t("iridescent robe", "iridescent robe", "_t")
-t("This set of robes seems to shine with metallic colors.", "This set of robes seems to shine with metallic colors.", "_t")
+t("iridescent robe", "traje iridiscente", "_t")
+t("This set of robes seems to shine with metallic colors.", "Este conjunto de túnicas parece brillar con colores metálicos.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21653,21 +21649,21 @@ section "mod-tome/data/zones/slime-tunnels/grids.lua"
 
 -- new text
 --[==[
-t("Strange Pedestal", "Strange Pedestal", "_t")
-t("This pedestal looks old, you can see the shape of an orb carved on it.", "This pedestal looks old, you can see the shape of an orb carved on it.", "_t")
+t("Strange Pedestal", "Pedestal extraño", "_t")
+t("This pedestal looks old, you can see the shape of an orb carved on it.", "Este pedestal se ve viejo, se puede ver la forma de un orbe tallado en él.", "_t")
 t("orb pedestal (dragon)", "orb pedestal (dragon)", "entity name")
-t("#rng# the Fearsome", "#rng# the Fearsome", "_t")
-t("orb pedestal (undeath)", "orb pedestal (undeath)", "entity name")
+t("#rng# the Fearsome", "El miedo", "_t")
+t("orb pedestal (undeath)", "orb pedestal (muerte)", "entity name")
 t("#rng# the Neverdead", "#rng# the Neverdead", "_t")
-t("orb pedestal (elements)", "orb pedestal (elements)", "entity name")
-t("#rng# the Silent Death", "#rng# the Silent Death", "_t")
-t("orb pedestal (destruction)", "orb pedestal (destruction)", "entity name")
+t("orb pedestal (elements)", "orb pedestal (elementos)", "entity name")
+t("#rng# the Silent Death", "La muerte silenciosa", "_t")
+t("orb pedestal (destruction)", "orb pedestal (destrucción)", "entity name")
 t("#rng# the Crusher", "#rng# the Crusher", "_t")
-t("sealed door", "sealed door", "entity name")
-t("exit to Grushnak Pride", "exit to Grushnak Pride", "entity name")
-t("Entrance to the High Peak", "Entrance to the High Peak", "entity name")
+t("sealed door", "puerta sellada", "entity name")
+t("exit to Grushnak Pride", "salida a Grushnak Pride", "entity name")
+t("Entrance to the High Peak", "Entrada al pico alto", "entity name")
 t("High Peak", "High Peak", "_t")
-t("The way forward is blocked. There must be some way around here to unlock those doors.", "The way forward is blocked. There must be some way around here to unlock those doors.", "_t")
+t("The way forward is blocked. There must be some way around here to unlock those doors.", "El camino a seguir está bloqueado. Debe haber alguna manera de abrir esas puertas.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21676,7 +21672,7 @@ section "mod-tome/data/zones/slime-tunnels/zone.lua"
 
 -- new text
 --[==[
-t("Slime Tunnels", "Slime Tunnels", "_t")
+t("Slime Tunnels", "Tunnels Slime", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21685,20 +21681,20 @@ section "mod-tome/data/zones/sludgenest/grids.lua"
 
 -- new text
 --[==[
-t("Strange Pedestal", "Strange Pedestal", "_t")
-t("This pedestal looks old, you can see the shape of an orb carved on it.", "This pedestal looks old, you can see the shape of an orb carved on it.", "_t")
+t("Strange Pedestal", "Pedestal extraño", "_t")
+t("This pedestal looks old, you can see the shape of an orb carved on it.", "Este pedestal se ve viejo, se puede ver la forma de un orbe tallado en él.", "_t")
 t("orb pedestal (dragon)", "orb pedestal (dragon)", "entity name")
-t("#rng# the Fearsome", "#rng# the Fearsome", "_t")
-t("orb pedestal (undeath)", "orb pedestal (undeath)", "entity name")
+t("#rng# the Fearsome", "El miedo", "_t")
+t("orb pedestal (undeath)", "orb pedestal (muerte)", "entity name")
 t("#rng# the Neverdead", "#rng# the Neverdead", "_t")
-t("orb pedestal (elements)", "orb pedestal (elements)", "entity name")
-t("#rng# the Silent Death", "#rng# the Silent Death", "_t")
-t("orb pedestal (destruction)", "orb pedestal (destruction)", "entity name")
+t("orb pedestal (elements)", "orb pedestal (elementos)", "entity name")
+t("#rng# the Silent Death", "La muerte silenciosa", "_t")
+t("orb pedestal (destruction)", "orb pedestal (destrucción)", "entity name")
 t("#rng# the Crusher", "#rng# the Crusher", "_t")
-t("sealed door", "sealed door", "entity name")
-t("Entrance to the High Peak", "Entrance to the High Peak", "entity name")
+t("sealed door", "puerta sellada", "entity name")
+t("Entrance to the High Peak", "Entrada al pico alto", "entity name")
 t("High Peak", "High Peak", "_t")
-t("exit to Grushnak Pride", "exit to Grushnak Pride", "entity name")
+t("exit to Grushnak Pride", "salida a Grushnak Pride", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21707,11 +21703,11 @@ section "mod-tome/data/zones/sludgenest/npcs.lua"
 
 -- new text
 --[==[
-t("giant", "giant", "entity type")
-t("troll", "troll", "entity subtype")
-t("Corrupted Oozemancer", "Corrupted Oozemancer", "entity name")
-t("This blight-ridden troll was once a proud defender of Nature. His corruption is spreading, eating away at the forest around him.", "This blight-ridden troll was once a proud defender of Nature. His corruption is spreading, eating away at the forest around him.", "_t")
-t("and dissolved into acidic ooze", "and dissolved into acidic ooze", "_t")
+t("giant", "gigante", "entity type")
+t("troll", "trol", "entity subtype")
+t("Corrupted Oozemancer", "Oozemancer corrupto", "entity name")
+t("This blight-ridden troll was once a proud defender of Nature. His corruption is spreading, eating away at the forest around him.", "Este trol lleno de luz fue una vez un orgulloso defensor de la Naturaleza. Su corrupción se está propagando, comiendo en el bosque que le rodea.", "_t")
+t("and dissolved into acidic ooze", "y disuelto en ooze ácido", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21721,8 +21717,8 @@ section "mod-tome/data/zones/sludgenest/zone.lua"
 -- new text
 --[==[
 t("Sludgenest", "Sludgenest", "_t")
-t("It seems the slimes coming from the walls become stronger with time.", "It seems the slimes coming from the walls become stronger with time.", "_t")
-t("#YELLOW_GREEN#One of the wall shakes for a moment and then turns into %s!", "#YELLOW_GREEN#One of the wall shakes for a moment and then turns into %s!", "logSeen")
+t("It seems the slimes coming from the walls become stronger with time.", "Parece que los delgados que vienen de las paredes se vuelven más fuertes con el tiempo.", "_t")
+t("#YELLOW_GREEN#One of the wall shakes for a moment and then turns into %s!", "#YELLOW GREEN# One of the wall shakes for a moment and then turned into   PH0   !", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -21731,13 +21727,13 @@ section "mod-tome/data/zones/south-beach/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("sand", "sand", "entity subtype")
-t("lovely umbrella", "lovely umbrella", "entity name")
-t("picnic basket", "picnic basket", "entity name")
-t("grass", "grass", "entity subtype")
-t("exit to the worldmap", "exit to the worldmap", "entity name")
-t("You have not finished your romantic time at the beach.", "You have not finished your romantic time at the beach.", "log")
+t("floor", "planta baja", "entity type")
+t("sand", "arena", "entity subtype")
+t("lovely umbrella", "hermoso paraguas", "entity name")
+t("picnic basket", "cesta de picnic", "entity name")
+t("grass", "hierba", "entity subtype")
+t("exit to the worldmap", "salida al worldmap", "entity name")
+t("You have not finished your romantic time at the beach.", "Usted no ha terminado su tiempo romántico en la playa.", "log")
 --]==]
 
 ------------------------------------------------
@@ -21747,11 +21743,11 @@ section "mod-tome/data/zones/south-beach/npcs.lua"
 -- new text
 --[==[
 t("Melinda", "Melinda", "entity name")
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Enjoying a lovely day at the beach.", "Enjoying a lovely day at the beach.", "_t")
-t("What..! Please lets run!", "What..! Please lets run!", "_t")
-t("#DARK_GREEN#As Melinda is about to die a powerful wave of blight emanates from her!", "#DARK_GREEN#As Melinda is about to die a powerful wave of blight emanates from her!", "say")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Enjoying a lovely day at the beach.", "Disfrutando de un día precioso en la playa.", "_t")
+t("What..! Please lets run!", "¿Qué? ¡Por favor, corramos!", "_t")
+t("#DARK_GREEN#As Melinda is about to die a powerful wave of blight emanates from her!", "#DARK GREEN#Como Melinda está a punto de morir una poderosa ola de luz emana de ella!", "say")
 --]==]
 
 ------------------------------------------------
@@ -21760,7 +21756,7 @@ section "mod-tome/data/zones/south-beach/objects.lua"
 
 -- new text
 --[==[
-t("beach bikini", "beach bikini", "entity name")
+t("beach bikini", "playa bikini", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -21770,8 +21766,8 @@ section "mod-tome/data/zones/south-beach/zone.lua"
 -- new text
 --[==[
 t("Southern Beach", "Southern Beach", "_t")
-t("Look over there!", "Look over there!", "_t")
-t("#DARK_GREEN#Melinda begins to glow with an eerie aura!", "#DARK_GREEN#Melinda begins to glow with an eerie aura!", "say")
+t("Look over there!", "¡Mira ahí!", "_t")
+t("#DARK_GREEN#Melinda begins to glow with an eerie aura!", "#DARK GREEN #Melinda comienza a brillar con un aura ebria!", "say")
 --]==]
 
 ------------------------------------------------
@@ -21781,14 +21777,14 @@ section "mod-tome/data/zones/stellar-system-shandral/grids.lua"
 -- new text
 --[==[
 t("Shandral (Sun)", "Shandral (Sun)", "entity name")
-t("The sun of the Shandral star system.", "The sun of the Shandral star system.", "_t")
-t("Eyal (Planet)", "Eyal (Planet)", "entity name")
-t("One of the main planets of the Shandral system.", "One of the main planets of the Shandral system.", "_t")
+t("The sun of the Shandral star system.", "El sol del sistema estrella Shandral.", "_t")
+t("Eyal (Planet)", "Eyal (Planeta)", "entity name")
+t("One of the main planets of the Shandral system.", "Uno de los principales planetas del sistema Shandral.", "_t")
 t("Summertide (Moon of Eyal)", "Summertide (Moon of Eyal)", "entity name")
-t("One of the moons of Eyal.", "One of the moons of Eyal.", "_t")
+t("One of the moons of Eyal.", "Una de las lunas de Eyal.", "_t")
 t("Wintertide (Moon of Eyal)", "Wintertide (Moon of Eyal)", "entity name")
-t("Kolal (Planet)", "Kolal (Planet)", "entity name")
-t("Luxam (Planet)", "Luxam (Planet)", "entity name")
+t("Kolal (Planet)", "Kolal (Planeta)", "entity name")
+t("Luxam (Planet)", "Luxam (Planeta)", "entity name")
 t("Ponx (Gaz Planet)", "Ponx (Gaz Planet)", "entity name")
 --]==]
 
@@ -21798,7 +21794,7 @@ section "mod-tome/data/zones/stellar-system-shandral/zone.lua"
 
 -- new text
 --[==[
-t("Stellar System: Shandral", "Stellar System: Shandral", "_t")
+t("Stellar System: Shandral", "Sistema estelar: Shandral", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21807,12 +21803,12 @@ section "mod-tome/data/zones/tannen-tower/grids.lua"
 
 -- new text
 --[==[
-t("Portal to Last Hope", "Portal to Last Hope", "entity name")
-t("This portal seems to be connected with Last Hope; you could probably use it to go back.", "This portal seems to be connected with Last Hope; you could probably use it to go back.", "_t")
-t("Back and there again", "Back and there again", "_t")
-t("Enter the portal back to Last Hope?", "Enter the portal back to Last Hope?", "_t")
-t("Stay", "Stay", "_t")
-t("Enter", "Enter", "_t")
+t("Portal to Last Hope", "Portal a Last Hope", "entity name")
+t("This portal seems to be connected with Last Hope; you could probably use it to go back.", "Este portal parece estar conectado con Last Hope; probablemente podrías usarlo para volver.", "_t")
+t("Back and there again", "Atrás y allá de nuevo", "_t")
+t("Enter the portal back to Last Hope?", "¿Introducir el portal de vuelta a Last Hope?", "_t")
+t("Stay", "Quédate", "_t")
+t("Enter", "Entra", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21821,13 +21817,13 @@ section "mod-tome/data/zones/tannen-tower/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Tannen", "Tannen", "entity name")
-t("The traitor has been revealed, and he does not intend to let you escape to tell the tale.", "The traitor has been revealed, and he does not intend to let you escape to tell the tale.", "_t")
-t("and was neither found nor heard from again", "and was neither found nor heard from again", "_t")
-t("construct", "construct", "entity type")
-t("golem", "golem", "entity subtype")
+t("The traitor has been revealed, and he does not intend to let you escape to tell the tale.", "El traidor ha sido revelado, y no tiene la intención de dejarte escapar para contar la historia.", "_t")
+t("and was neither found nor heard from again", "y no fue encontrado ni oído de nuevo", "_t")
+t("construct", "construcción", "entity type")
+t("golem", "gólem", "entity subtype")
 t("Drolem", "Drolem", "entity name")
 --]==]
 
@@ -21837,21 +21833,21 @@ section "mod-tome/data/zones/tannen-tower/objects.lua"
 
 -- new text
 --[==[
-t("Resonating Diamond", "Resonating Diamond", "entity name")
-t("You cannot bring yourself to drop the %s", "You cannot bring yourself to drop the %s", "logPlayer")
-t("misc", "misc", "entity type")
-t("misc", "misc", "entity subtype")
-t("Blood-Runed Athame", "Blood-Runed Athame", "entity name")
+t("Resonating Diamond", "Diamante resonante", "entity name")
+t("You cannot bring yourself to drop the %s", "No puedes traerte a ti mismo para dejar caer el   PH0 ", "logPlayer")
+t("misc", "varios", "entity type")
+t("misc", "varios", "entity subtype")
+t("Blood-Runed Athame", "Athame de sangre", "entity name")
 t("athame", "athame", "_t")
-t("An athame, covered in blood runes. It radiates power.", "An athame, covered in blood runes. It radiates power.", "_t")
-t("jewelry", "jewelry", "entity type")
-t("orb", "orb", "entity subtype")
+t("An athame, covered in blood runes. It radiates power.", "Un athame, cubierto de sangre. irradia poder.", "_t")
+t("jewelry", "joyería", "entity type")
+t("orb", "orbe", "entity subtype")
 t("Orb of Many Ways", "Orb of Many Ways", "entity name")
-t("swirling orb", "swirling orb", "_t")
-t("activate a portal", "activate a portal", "_t")
-t("There is no portal to activate here.", "There is no portal to activate here.", "logPlayer")
-t("tattered paper scrap", "tattered paper scrap", "entity name")
-t("A paper scrap, left by Tannen.", "A paper scrap, left by Tannen.", "_t")
+t("swirling orb", "orbe giratorio", "_t")
+t("activate a portal", "activar un portal", "_t")
+t("There is no portal to activate here.", "No hay portal para activar aquí.", "logPlayer")
+t("tattered paper scrap", "pedazo de papel tattered", "entity name")
+t("A paper scrap, left by Tannen.", "Un trozo de papel, dejado por Tannen.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21860,8 +21856,8 @@ section "mod-tome/data/zones/tannen-tower/zone.lua"
 
 -- new text
 --[==[
-t("Tannen's Tower", "Tannen's Tower", "_t")
-t("The portal brought you to what seems to be a cell in the basement of the tower. You must escape!", "The portal brought you to what seems to be a cell in the basement of the tower. You must escape!", "_t")
+t("Tannen's Tower", "Torre de Tannen", "_t")
+t("The portal brought you to what seems to be a cell in the basement of the tower. You must escape!", "El portal te trajo a lo que parece ser una célula en el sótano de la torre. ¡Debes escapar!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21870,12 +21866,12 @@ section "mod-tome/data/zones/telmur/npcs.lua"
 
 -- new text
 --[==[
-t("undead", "undead", "entity type")
-t("ghost", "ghost", "entity subtype")
-t("The Shade of Telos", "The Shade of Telos", "entity name")
-t("Everybody thought Telos dead and his spirit destroyed, but it seems he still lingers in his old place of power.", "Everybody thought Telos dead and his spirit destroyed, but it seems he still lingers in his old place of power.", "_t")
-t("and was savagely mutilated, a show of his rage towards all living things", "and was savagely mutilated, a show of his rage towards all living things", "_t")
-t("Back and there again", "Back and there again", "_t")
+t("undead", "no-muerto", "entity type")
+t("ghost", "fantasma", "entity subtype")
+t("The Shade of Telos", "La sombra de Telos", "entity name")
+t("Everybody thought Telos dead and his spirit destroyed, but it seems he still lingers in his old place of power.", "Todo el mundo pensaba que Telos estaba muerto y su espíritu se destruyó, pero parece que todavía está en su antiguo lugar de poder.", "_t")
+t("and was savagely mutilated, a show of his rage towards all living things", "y fue mutilado salvajemente, un espectáculo de su ira hacia todas las cosas vivientes", "_t")
+t("Back and there again", "Atrás y allá de nuevo", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21885,8 +21881,8 @@ section "mod-tome/data/zones/telmur/objects.lua"
 -- new text
 --[==[
 t("Telos's Staff (Bottom Half)", "Telos's Staff (Bottom Half)", "entity name")
-t("broken staff", "broken staff", "_t")
-t("The bottom part of Telos' broken staff.", "The bottom part of Telos' broken staff.", "_t")
+t("broken staff", "personal roto", "_t")
+t("The bottom part of Telos' broken staff.", "La parte inferior del personal roto de Telos.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21895,9 +21891,9 @@ section "mod-tome/data/zones/telmur/zone.lua"
 
 -- new text
 --[==[
-t("Ruins of Telmur", "Ruins of Telmur", "_t")
+t("Ruins of Telmur", "Ruinas de Telmur", "_t")
 t("Telmur", "Telmur", "_t")
-t("As you approach the tower you notice it is utterly destroyed, only the basement remaining.", "As you approach the tower you notice it is utterly destroyed, only the basement remaining.", "_t")
+t("As you approach the tower you notice it is utterly destroyed, only the basement remaining.", "A medida que se acercan a la torre se nota que es completamente destruido, sólo el sótano restante.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21906,11 +21902,11 @@ section "mod-tome/data/zones/tempest-peak/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Urkis, the High Tempest", "Urkis, the High Tempest", "entity name")
-t("Lightning crackles around this middle-aged man. He radiates power.", "Lightning crackles around this middle-aged man. He radiates power.", "_t")
-t("and used in mad electrical reanimation experiments", "and used in mad electrical reanimation experiments", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Urkis, the High Tempest", "Urkis, la Tempestad Alta", "entity name")
+t("Lightning crackles around this middle-aged man. He radiates power.", "Relámpagos alrededor de este hombre de edad media. Él irradia poder.", "_t")
+t("and used in mad electrical reanimation experiments", "y utilizado en locos experimentos de reanimación eléctrica", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21919,7 +21915,7 @@ section "mod-tome/data/zones/tempest-peak/zone.lua"
 
 -- new text
 --[==[
-t("Tempest Peak", "Tempest Peak", "_t")
+t("Tempest Peak", "Peak Tempest", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21928,11 +21924,11 @@ section "mod-tome/data/zones/temple-of-creation/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("naga", "naga", "entity subtype")
 t("Slasul", "Slasul", "entity name")
-t("This towering naga exudes power, and radiates a certain charismatic charm as well. His masculine face stares at you with great intensity, and you struggle to meet his gaze. His torso is bare apart from an exquisite pearl set directly in his chest, and in his muscular arms he holds ready a heavy mace and shield. You sense there is more to him also, as if the very power of the ocean were concentrated in this great creature, and that the wrath of it may come flooding out at any moment.", "This towering naga exudes power, and radiates a certain charismatic charm as well. His masculine face stares at you with great intensity, and you struggle to meet his gaze. His torso is bare apart from an exquisite pearl set directly in his chest, and in his muscular arms he holds ready a heavy mace and shield. You sense there is more to him also, as if the very power of the ocean were concentrated in this great creature, and that the wrath of it may come flooding out at any moment.", "_t")
-t("and perverted into a monstrous aberration as a warning to the surface", "and perverted into a monstrous aberration as a warning to the surface", "_t")
+t("This towering naga exudes power, and radiates a certain charismatic charm as well. His masculine face stares at you with great intensity, and you struggle to meet his gaze. His torso is bare apart from an exquisite pearl set directly in his chest, and in his muscular arms he holds ready a heavy mace and shield. You sense there is more to him also, as if the very power of the ocean were concentrated in this great creature, and that the wrath of it may come flooding out at any moment.", "Esta naga imponente exuda el poder, y irradia un cierto encanto carismático también. Su rostro masculino te mira con gran intensidad, y luchas por encontrar su mirada. Su torso está desnudo de una exquisita perla colocada directamente en su pecho, y en sus brazos musculares mantiene preparado un pesado mace y escudo. Usted siente que hay más para él también, como si el mismo poder del océano se concentrara en esta gran criatura, y que la ira de ella puede venir inundando en cualquier momento.", "_t")
+t("and perverted into a monstrous aberration as a warning to the surface", "y pervertido en una aberración monstruosa como una advertencia a la superficie", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21942,14 +21938,14 @@ section "mod-tome/data/zones/temple-of-creation/objects.lua"
 -- new text
 --[==[
 t("Eldritch Pearl", "Eldritch Pearl", "entity name")
-t("bright pearl", "bright pearl", "_t")
-t("Thousands of years spent inside the temple of creation have infused this pearl with the fury of rushing water. It pulses light.", "Thousands of years spent inside the temple of creation have infused this pearl with the fury of rushing water. It pulses light.", "_t")
-t("tract", "tract", "entity name")
-t("A tract revealing the history of the Nagas.", "A tract revealing the history of the Nagas.", "_t")
-t("note", "note", "entity name")
-t("A note.", "A note.", "_t")
-t("Legacy of the Naloren", "Legacy of the Naloren", "entity name")
-t("ornate orichalcum trident", "ornate orichalcum trident", "_t")
+t("bright pearl", "perla brillante", "_t")
+t("Thousands of years spent inside the temple of creation have infused this pearl with the fury of rushing water. It pulses light.", "Miles de años pasados dentro del templo de la creación han infundido esta perla con la furia del agua precipitada. Pulsa luz.", "_t")
+t("tract", "tracto", "entity name")
+t("A tract revealing the history of the Nagas.", "Un tracto que revela la historia de los Nagas.", "_t")
+t("note", "nota", "entity name")
+t("A note.", "Una nota.", "_t")
+t("Legacy of the Naloren", "Legado de los Naloren", "entity name")
+t("ornate orichalcum trident", "ornado oricalco tridente", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21958,10 +21954,10 @@ section "mod-tome/data/zones/temple-of-creation/zone.lua"
 
 -- new text
 --[==[
-t("Temple of Creation", "Temple of Creation", "_t")
-t("#AQUAMARINE#You arrive deep under water, at the sea floor, as you look upwards you only see a glimpse of light coming through.", "#AQUAMARINE#You arrive deep under water, at the sea floor, as you look upwards you only see a glimpse of light coming through.", "logPlayer")
-t("#AQUAMARINE#You should be crushed by the pressure, but strangely you feel no discomfort.", "#AQUAMARINE#You should be crushed by the pressure, but strangely you feel no discomfort.", "logPlayer")
-t("#AQUAMARINE#All around you there is only water as far as you can see, except to your left, a giant coral structure. This is probably the temple of Creation.", "#AQUAMARINE#All around you there is only water as far as you can see, except to your left, a giant coral structure. This is probably the temple of Creation.", "logPlayer")
+t("Temple of Creation", "Templo de la Creación", "_t")
+t("#AQUAMARINE#You arrive deep under water, at the sea floor, as you look upwards you only see a glimpse of light coming through.", "#AQUAMARINE# Llegas profundo bajo el agua, en el suelo del mar, mientras miras hacia arriba sólo ves una mirada de luz que viene a través.", "logPlayer")
+t("#AQUAMARINE#You should be crushed by the pressure, but strangely you feel no discomfort.", "#AQUAMARINE#Deberías ser aplastado por la presión, pero extrañamente no sientes molestia.", "logPlayer")
+t("#AQUAMARINE#All around you there is only water as far as you can see, except to your left, a giant coral structure. This is probably the temple of Creation.", "#AQUAMARINE#All around you there is only water as far as you can see, except to your left, a gigante coral structure. Este es probablemente el templo de la Creación.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -21970,7 +21966,7 @@ section "mod-tome/data/zones/temporal-reprieve-talent/zone.lua"
 
 -- new text
 --[==[
-t("Temporal Reprieve", "Temporal Reprieve", "_t")
+t("Temporal Reprieve", "Reprieve temporal", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21979,9 +21975,9 @@ section "mod-tome/data/zones/temporal-rift/grids.lua"
 
 -- new text
 --[==[
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads... somewhere.", "The rift leads... somewhere.", "_t")
-t("Temporal Warden", "Temporal Warden", "_t")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads... somewhere.", "El rift conduce... a algún lado.", "_t")
+t("Temporal Warden", "Guardián Temporal", "_t")
 --]==]
 
 ------------------------------------------------
@@ -21990,15 +21986,15 @@ section "mod-tome/data/zones/temporal-rift/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("temporal", "temporal", "entity subtype")
-t("Ben Cruthdar, the Abomination", "Ben Cruthdar, the Abomination", "entity name")
-t("This crazed madman seems twisted and corrupted by temporal energy, his body shifting and phasing in and out of reality.", "This crazed madman seems twisted and corrupted by temporal energy, his body shifting and phasing in and out of reality.", "_t")
-t("dragon", "dragon", "entity type")
-t("Rantha the Abomination", "Rantha the Abomination", "entity name")
-t("Claws and teeth. Ice and death. Dragons are not all extinct it seems...  and this one seems to have been corrupted by the time rift.", "Claws and teeth. Ice and death. Dragons are not all extinct it seems...  and this one seems to have been corrupted by the time rift.", "_t")
+t("Ben Cruthdar, the Abomination", "Ben Cruthdar, la abominación", "entity name")
+t("This crazed madman seems twisted and corrupted by temporal energy, his body shifting and phasing in and out of reality.", "Este loco loco loco loco parece retorcido y corrompido por la energía temporal, su cuerpo cambiando y fingiendo dentro y fuera de la realidad.", "_t")
+t("dragon", "dragón", "entity type")
+t("Rantha the Abomination", "Rantha la abominación", "entity name")
+t("Claws and teeth. Ice and death. Dragons are not all extinct it seems...  and this one seems to have been corrupted by the time rift.", "Garras y dientes. Hielo y muerte. Los dragones no están todos extintos parece... y este parece haber sido corrompido por el tiempo.", "_t")
 t("Chronolith Twin", "Chronolith Twin", "entity name")
-t("A six-armed creature, dressed in robes, with black insectile eyes.", "A six-armed creature, dressed in robes, with black insectile eyes.", "_t")
+t("A six-armed creature, dressed in robes, with black insectile eyes.", "Una criatura de seis brazos, vestida con túnicas, con ojos insectiles negros.", "_t")
 t("Chronolith Clone", "Chronolith Clone", "entity name")
 --]==]
 
@@ -22017,14 +22013,14 @@ section "mod-tome/data/zones/temporal-rift/zone.lua"
 
 -- new text
 --[==[
-t("Temporal Rift", "Temporal Rift", "_t")
+t("Temporal Rift", "Robo temporal", "_t")
 t("Temporal Rift: Lumberjack village", "Temporal Rift: Lumberjack village", "_t")
 t("Temporal Rift: Daikara", "Temporal Rift: Daikara", "_t")
-t("Temporal Rift: Lake of Nur", "Temporal Rift: Lake of Nur", "_t")
-t("Space and time distort and lose meaning as you pass through the rift. This place is alien.", "Space and time distort and lose meaning as you pass through the rift. This place is alien.", "_t")
-t("This looks like Maj'Eyal's forest but it looks strangely distorted, beware...", "This looks like Maj'Eyal's forest but it looks strangely distorted, beware...", "_t")
-t("As you pass the rift you see what seems to be the Daikara mountains, yet they are not.", "As you pass the rift you see what seems to be the Daikara mountains, yet they are not.", "_t")
-t("The peace of this place has been disturbed.", "The peace of this place has been disturbed.", "_t")
+t("Temporal Rift: Lake of Nur", "Temporal Rift: Lago de Nur", "_t")
+t("Space and time distort and lose meaning as you pass through the rift. This place is alien.", "El espacio y el tiempo distorsionan y pierden significado a medida que pasa por el borde. Este lugar es extraño.", "_t")
+t("This looks like Maj'Eyal's forest but it looks strangely distorted, beware...", "Esto parece el bosque de Maj'Eyal pero parece extrañamente distorsionado, ten cuidado...", "_t")
+t("As you pass the rift you see what seems to be the Daikara mountains, yet they are not.", "A medida que pasas el rift ves lo que parece ser las montañas Daikara, sin embargo no lo son.", "_t")
+t("The peace of this place has been disturbed.", "La paz de este lugar ha sido perturbada.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22033,7 +22029,7 @@ section "mod-tome/data/zones/test/mapscripts/rooms_test.lua"
 
 -- new text
 --[==[
-t("!!! %d", "!!! %d", "log")
+t("!!! %d", "!!!   PH0 ", "log")
 --]==]
 
 ------------------------------------------------
@@ -22042,7 +22038,7 @@ section "mod-tome/data/zones/test/mapscripts/rooms_test2.lua"
 
 -- new text
 --[==[
-t("!!! %d + %d", "!!! %d + %d", "log")
+t("!!! %d + %d", "!!!   PH0   +   PH1 ", "log")
 --]==]
 
 ------------------------------------------------
@@ -22060,13 +22056,13 @@ section "mod-tome/data/zones/thieves-tunnels/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Assassin Lord", "Assassin Lord", "entity name")
-t("He is the leader of a gang of bandits; watch out for his men.", "He is the leader of a gang of bandits; watch out for his men.", "_t")
-t("#DARK_GREY#The assassin lord throws a smoke bomb and disappears!", "#DARK_GREY#The assassin lord throws a smoke bomb and disappears!", "logPlayer")
-t("As the assassin dies the magical veil protecting the stairs out vanishes.", "As the assassin dies the magical veil protecting the stairs out vanishes.", "logSeen")
-t("Lost Merchant", "Lost Merchant", "entity name")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Assassin Lord", "Asesino Señor", "entity name")
+t("He is the leader of a gang of bandits; watch out for his men.", "Es el líder de una banda de bandidos; cuida a sus hombres.", "_t")
+t("#DARK_GREY#The assassin lord throws a smoke bomb and disappears!", "¡El señor asesino lanza una bomba de humo y desaparece!", "logPlayer")
+t("As the assassin dies the magical veil protecting the stairs out vanishes.", "Mientras el asesino muere el velo mágico protegiendo las escaleras se desvanecen.", "logSeen")
+t("Lost Merchant", "Perdido Merchant", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22075,7 +22071,7 @@ section "mod-tome/data/zones/thieves-tunnels/zone.lua"
 
 -- new text
 --[==[
-t("Unknown tunnels", "Unknown tunnels", "_t")
+t("Unknown tunnels", "Túneles desconocidos", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22084,10 +22080,10 @@ section "mod-tome/data/zones/town-angolwen/grids.lua"
 
 -- new text
 --[==[
-t("cultivated fields", "cultivated fields", "entity name")
+t("cultivated fields", "campos cultivados", "entity name")
 t("cobblestone road", "cobblestone road", "entity name")
-t("magical rock", "magical rock", "entity name")
-t("fountain", "fountain", "entity name")
+t("magical rock", "rock mágico", "entity name")
+t("fountain", "fuente", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22096,26 +22092,26 @@ section "mod-tome/data/zones/town-angolwen/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Linaniil, Supreme Archmage of Angolwen", "Linaniil, Supreme Archmage of Angolwen", "entity name")
-t("A tall, pale woman dressed in a revealing silk robe. Her gaze is so intense it seems to burn.", "A tall, pale woman dressed in a revealing silk robe. Her gaze is so intense it seems to burn.", "_t")
-t("Remove @himher@!", "Remove @himher@!", "_t")
-t("#GOLD#Linaniil concentrates her formidable will to restore her body!", "#GOLD#Linaniil concentrates her formidable will to restore her body!", "saySimple")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Linaniil, Supreme Archmage of Angolwen", "Linaniil, Arquema Suprema de Angolwen", "entity name")
+t("A tall, pale woman dressed in a revealing silk robe. Her gaze is so intense it seems to burn.", "Una mujer alta y pálida vestida con un vestido de seda revelador. Su mirada es tan intensa que parece quemar.", "_t")
+t("Remove @himher@!", "Quitar @himher@!", "_t")
+t("#GOLD#Linaniil concentrates her formidable will to restore her body!", "#GOLD#Linaniil concentra su formidable voluntad de restaurar su cuerpo!", "saySimple")
 t("shalore", "shalore", "entity subtype")
 t("Archmage Tarelion", "Archmage Tarelion", "entity name")
-t("A tall Shalore in a flowing robe, he looks calm and at peace, but you can feel his tremendous power.", "A tall Shalore in a flowing robe, he looks calm and at peace, but you can feel his tremendous power.", "_t")
+t("A tall Shalore in a flowing robe, he looks calm and at peace, but you can feel his tremendous power.", "Un Shalore alto en una bata que fluye, se ve calmado y en paz, pero puedes sentir su enorme poder.", "_t")
 t("Catch @himher@!", "Catch @himher@!", "_t")
-t("apprentice mage", "apprentice mage", "entity name")
-t("An apprentice, learning the ways of the arcane arts.", "An apprentice, learning the ways of the arcane arts.", "_t")
+t("apprentice mage", "aprendiz mage", "entity name")
+t("An apprentice, learning the ways of the arcane arts.", "Un aprendiz, aprendiendo las formas de las artes arcanas.", "_t")
 t("pyromancer", "pyromancer", "entity name")
-t("An archmage specializing in fire magic.", "An archmage specializing in fire magic.", "_t")
+t("An archmage specializing in fire magic.", "Un arquetipo especializado en magia de fuego.", "_t")
 t("cryomancer", "cryomancer", "entity name")
-t("An archmage specializing in ice magic.", "An archmage specializing in ice magic.", "_t")
+t("An archmage specializing in ice magic.", "Un arquetipo especializado en magia de hielo.", "_t")
 t("geomancer", "geomancer", "entity name")
-t("An archmage specializing in earth magic.", "An archmage specializing in earth magic.", "_t")
-t("tempest", "tempest", "entity name")
-t("An archmage specializing in lightning magic.", "An archmage specializing in lightning magic.", "_t")
+t("An archmage specializing in earth magic.", "Un arquetipo especializado en magia de la tierra.", "_t")
+t("tempest", "tempestad", "entity name")
+t("An archmage specializing in lightning magic.", "Un arquetipo especializado en magia relámpago.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22124,12 +22120,12 @@ section "mod-tome/data/zones/town-angolwen/objects.lua"
 
 -- new text
 --[==[
-t("lecture on humility", "lecture on humility", "entity subtype")
-t("Lecture on Humility by Archmage Linaniil", "Lecture on Humility by Archmage Linaniil", "entity name")
-t("Lecture on Humility by Archmage Linaniil. A tale of the first ages and the Spellblaze.", "Lecture on Humility by Archmage Linaniil. A tale of the first ages and the Spellblaze.", "_t")
-t("magic teaching", "magic teaching", "entity subtype")
-t("'What is Magic' by Archmage Tarelion", "'What is Magic' by Archmage Tarelion", "entity name")
-t("Lecture on the nature of magic by Archmage Tarelion.", "Lecture on the nature of magic by Archmage Tarelion.", "_t")
+t("lecture on humility", "conferencia sobre la humildad", "entity subtype")
+t("Lecture on Humility by Archmage Linaniil", "Conferencia sobre Humildad por Archmage Linaniil", "entity name")
+t("Lecture on Humility by Archmage Linaniil. A tale of the first ages and the Spellblaze.", "Conferencia sobre Humildad por Archmage Linaniil. Un cuento de las primeras edades y el Spellblaze.", "_t")
+t("magic teaching", "enseñanza mágica", "entity subtype")
+t("'What is Magic' by Archmage Tarelion", "'Lo que es la magia' por Archmage Tarelion", "entity name")
+t("Lecture on the nature of magic by Archmage Tarelion.", "Conferencia sobre la naturaleza de la magia por Archmage Tarelion.", "_t")
 t("Rune of Dissipation", "Rune of Dissipation", "entity name")
 --]==]
 
@@ -22139,10 +22135,10 @@ section "mod-tome/data/zones/town-angolwen/traps.lua"
 
 -- new text
 --[==[
-t("Shining Jewel", "Shining Jewel", "entity name")
-t("Alchemist", "Alchemist", "entity name")
-t("Library", "Library", "entity name")
-t("Tools of the Art", "Tools of the Art", "entity name")
+t("Shining Jewel", "Joya brillante", "entity name")
+t("Alchemist", "Alquimista", "entity name")
+t("Library", "Biblioteca", "entity name")
+t("Tools of the Art", "Herramientas del Arte", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22160,7 +22156,7 @@ section "mod-tome/data/zones/town-derth/grids.lua"
 
 -- new text
 --[==[
-t("cultivated fields", "cultivated fields", "entity name")
+t("cultivated fields", "campos cultivados", "entity name")
 t("cobblestone road", "cobblestone road", "entity name")
 --]==]
 
@@ -22170,20 +22166,20 @@ section "mod-tome/data/zones/town-derth/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
 t("derth guard", "derth guard", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
-t("halfling slinger", "halfling slinger", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("A Halfling, with a sling. Beware.", "A Halfling, with a sling. Beware.", "_t")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
+t("halfling slinger", "slinger a medias", "entity name")
+t("halfling", "mediador", "entity subtype")
+t("A Halfling, with a sling. Beware.", "Un Halfling, con un sling. Cuidado.", "_t")
 t("human farmer", "human farmer", "entity name")
-t("A weather-worn Human farmer.", "A weather-worn Human farmer.", "_t")
-t("halfling gardener", "halfling gardener", "entity name")
-t("A Halfling, he seems to be looking for plants.", "A Halfling, he seems to be looking for plants.", "_t")
+t("A weather-worn Human farmer.", "Un agricultor humano del tiempo.", "_t")
+t("halfling gardener", "medio jardinero", "entity name")
+t("A Halfling, he seems to be looking for plants.", "Un Halfling, parece estar buscando plantas.", "_t")
 t("Shady cornac man", "Shady cornac man", "entity name")
-t("Hey you. Come here.", "Hey you. Come here.", "_t")
+t("Hey you. Come here.", "Hola. Ven aquí.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22195,11 +22191,11 @@ section "mod-tome/data/zones/town-derth/traps.lua"
 t("Armoury", "Armoury", "entity name")
 t("Tanner", "Tanner", "entity name")
 t("Swordsmith", "Swordsmith", "entity name")
-t("Knives and daggers", "Knives and daggers", "entity name")
-t("Death from Afar", "Death from Afar", "entity name")
+t("Knives and daggers", "Cuchillos y dagas", "entity name")
+t("Death from Afar", "Muerte de Afar", "entity name")
 t("Herbalist", "Herbalist", "entity name")
-t("Jewelry", "Jewelry", "entity name")
-t("Survival Supplies", "Survival Supplies", "entity name")
+t("Jewelry", "Joyería", "entity name")
+t("Survival Supplies", "Suministros de supervivencia", "entity name")
 t("Home of Stire the Alchemist", "Home of Stire the Alchemist", "entity name")
 --]==]
 
@@ -22218,17 +22214,17 @@ section "mod-tome/data/zones/town-elvala/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("shalore", "shalore", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
 t("elvala guard", "elvala guard", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
 t("shalore rune master", "shalore rune master", "entity name")
-t("A tall Elf, his skin covered in runes.", "A tall Elf, his skin covered in runes.", "_t")
-t("giant", "giant", "entity type")
-t("ogre", "ogre", "entity subtype")
-t("ogre rune-spinner", "ogre rune-spinner", "entity name")
-t("A towering ogre guard, her skin covered in runes.", "A towering ogre guard, her skin covered in runes.", "_t")
+t("A tall Elf, his skin covered in runes.", "Un Elfo alto, su piel cubierta de escorrentías.", "_t")
+t("giant", "gigante", "entity type")
+t("ogre", "ogro", "entity subtype")
+t("ogre rune-spinner", "ogro rune-spinner", "entity name")
+t("A towering ogre guard, her skin covered in runes.", "Una imponente guardia de ogro, su piel cubierta de runas.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22237,7 +22233,7 @@ section "mod-tome/data/zones/town-elvala/objects.lua"
 
 -- new text
 --[==[
-t("spellblaze", "spellblaze", "entity subtype")
+t("spellblaze", "hechizoblaze", "entity subtype")
 --]==]
 
 ------------------------------------------------
@@ -22249,7 +22245,7 @@ section "mod-tome/data/zones/town-elvala/traps.lua"
 t("Tailor", "Tailor", "entity name")
 t("Tanner", "Tanner", "entity name")
 t("Swordsmith", "Swordsmith", "entity name")
-t("Staff carver", "Staff carver", "entity name")
+t("Staff carver", "Cargador de personal", "entity name")
 t("Runemaster", "Runemaster", "entity name")
 t("Home of Marus the Alchemist", "Home of Marus the Alchemist", "entity name")
 t("Shady Library", "Shady Library", "entity name")
@@ -22270,15 +22266,15 @@ section "mod-tome/data/zones/town-gates-of-morning/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("old road", "old road", "entity name")
-t("Farportal: Last Hope", "Farportal: Last Hope", "entity name")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the outskirts of Last Hope, with no trace of the portal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the outskirts of Last Hope, with no trace of the portal...", "_t")
-t("rockwall", "rockwall", "entity type")
-t("grass", "grass", "entity subtype")
-t("Sunwall mountain", "Sunwall mountain", "entity name")
-t("Way into the Slazish fens", "Way into the Slazish fens", "entity name")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("old road", "antigua carretera", "entity name")
+t("Farportal: Last Hope", "Farportal: La última esperanza", "entity name")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot on the outskirts of Last Hope, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos pones un pie en las afueras de Last Hope, sin rastro del portal...", "_t")
+t("rockwall", "pared rocosa", "entity type")
+t("grass", "hierba", "entity subtype")
+t("Sunwall mountain", "Montaña Sunwall", "entity name")
+t("Way into the Slazish fens", "Camino a las hembras eslacesas", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22287,11 +22283,11 @@ section "mod-tome/data/zones/town-gates-of-morning/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("High Sun Paladin Aeryn", "High Sun Paladin Aeryn", "entity name")
-t("A beautiful woman, clad in shining plate armour. Power radiates from her.", "A beautiful woman, clad in shining plate armour. Power radiates from her.", "_t")
-t("You find a note containing the location of the Orc Prides on Aeryn's body.", "You find a note containing the location of the Orc Prides on Aeryn's body.", "logPlayer")
+t("A beautiful woman, clad in shining plate armour. Power radiates from her.", "Una mujer hermosa, vestida de brillante armadura de placa. El poder irradia de ella.", "_t")
+t("You find a note containing the location of the Orc Prides on Aeryn's body.", "Usted encuentra una nota que contiene la ubicación de los Orc Prides en el cuerpo de Aeryn.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -22300,17 +22296,17 @@ section "mod-tome/data/zones/town-gates-of-morning/traps.lua"
 
 -- new text
 --[==[
-t("Impenetrable Plates", "Impenetrable Plates", "entity name")
-t("Quality Leather", "Quality Leather", "entity name")
-t("Arcane Cloth", "Arcane Cloth", "entity name")
+t("Impenetrable Plates", "Placas impenetrables", "entity name")
+t("Quality Leather", "Calidad de cuero", "entity name")
+t("Arcane Cloth", "Cloth Arcane", "entity name")
 t("Swordmaster", "Swordmaster", "entity name")
 t("Night Affairs", "Night Affairs", "entity name")
-t("Orc Cutters", "Orc Cutters", "entity name")
-t("Mauling for Brutes", "Mauling for Brutes", "entity name")
+t("Orc Cutters", "Cortadores de orc", "entity name")
+t("Mauling for Brutes", "Mauling para Brutes", "entity name")
 t("Bows and Slings", "Bows and Slings", "entity name")
 t("Sook's Arcane Goodness", "Sook's Arcane Goodness", "entity name")
-t("Sarah's Herbal Infusions", "Sarah's Herbal Infusions", "entity name")
-t("Sook's Runes and other Harmless Contraptions", "Sook's Runes and other Harmless Contraptions", "entity name")
+t("Sarah's Herbal Infusions", "Infusiones herbales de Sarah", "entity name")
+t("Sook's Runes and other Harmless Contraptions", "Sook's Runes y otros Contraptions Harmless", "entity name")
 t("Zemekkys Home", "Zemekkys Home", "entity name")
 --]==]
 
@@ -22320,7 +22316,7 @@ section "mod-tome/data/zones/town-gates-of-morning/zone.lua"
 
 -- new text
 --[==[
-t("Gates of Morning", "Gates of Morning", "_t")
+t("Gates of Morning", "Puertas de la mañana", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22329,7 +22325,7 @@ section "mod-tome/data/zones/town-irkkk/grids.lua"
 
 -- new text
 --[==[
-t("cooking pit", "cooking pit", "entity name")
+t("cooking pit", "pozo de cocina", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22338,25 +22334,25 @@ section "mod-tome/data/zones/town-irkkk/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("yeek", "yeek", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
 t("yeek mindslayer", "yeek mindslayer", "entity name")
-t("A mindslayer in training.", "A mindslayer in training.", "_t")
+t("A mindslayer in training.", "Una sirvienta de entrenamiento.", "_t")
 t("yeek psionic", "yeek psionic", "entity name")
-t("You can literaly feel the mental energies emitted by this yeek.", "You can literaly feel the mental energies emitted by this yeek.", "_t")
+t("You can literaly feel the mental energies emitted by this yeek.", "Puedes sentir literalmente las energías mentales emitidas por este yek.", "_t")
 t("gem crafter", "gem crafter", "entity name")
-t("This yeek has all sorts of gems to sell.", "This yeek has all sorts of gems to sell.", "_t")
-t("two hander weapons crafter", "two hander weapons crafter", "entity name")
-t("This yeek has all sorts of two handed weapons to sell.", "This yeek has all sorts of two handed weapons to sell.", "_t")
-t("one hander weapons crafter", "one hander weapons crafter", "entity name")
-t("This yeek has all sorts of one handed weapons to sell.", "This yeek has all sorts of one handed weapons to sell.", "_t")
-t("tailor", "tailor", "entity name")
-t("This yeek has all sorts of cloth to sell.", "This yeek has all sorts of cloth to sell.", "_t")
+t("This yeek has all sorts of gems to sell.", "Este yek tiene todo tipo de gemas para vender.", "_t")
+t("two hander weapons crafter", "dos armas de mano", "entity name")
+t("This yeek has all sorts of two handed weapons to sell.", "Este yek tiene todo tipo de dos armas entregadas para vender.", "_t")
+t("one hander weapons crafter", "un manual de armas", "entity name")
+t("This yeek has all sorts of one handed weapons to sell.", "Este yek tiene todo tipo de armas entregadas para vender.", "_t")
+t("tailor", "sastrería", "entity name")
+t("This yeek has all sorts of cloth to sell.", "Este yek tiene todo tipo de tela para vender.", "_t")
 t("tanner", "tanner", "entity name")
-t("This yeek has all sorts of leathers to sell.", "This yeek has all sorts of leathers to sell.", "_t")
-t("natural infusions", "natural infusions", "entity name")
-t("This yeek has all sorts of infusions to sell.", "This yeek has all sorts of infusions to sell.", "_t")
+t("This yeek has all sorts of leathers to sell.", "Este yek tiene todo tipo de pieles para vender.", "_t")
+t("natural infusions", "infusiones naturales", "entity name")
+t("This yeek has all sorts of infusions to sell.", "Este yek tiene todo tipo de infusiones para vender.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22368,7 +22364,7 @@ section "mod-tome/data/zones/town-irkkk/traps.lua"
 t("Tailor", "Tailor", "entity name")
 t("Tanner", "Tanner", "entity name")
 t("Swordsmith", "Swordsmith", "entity name")
-t("Staff carver", "Staff carver", "entity name")
+t("Staff carver", "Cargador de personal", "entity name")
 t("Runemaster", "Runemaster", "entity name")
 t("Home of Marus the Alchemist", "Home of Marus the Alchemist", "entity name")
 --]==]
@@ -22388,15 +22384,15 @@ section "mod-tome/data/zones/town-iron-council/grids.lua"
 
 -- new text
 --[==[
-t("wall", "wall", "entity type")
-t("underground", "underground", "entity subtype")
-t("crystals", "crystals", "entity name")
-t("Escape route from Reknor", "Escape route from Reknor", "entity name")
+t("wall", "pared", "entity type")
+t("underground", "subterráneo", "entity subtype")
+t("crystals", "cristales", "entity name")
+t("Escape route from Reknor", "Ruta de escape de Reknor", "entity name")
 t("The Deep Bellow", "The Deep Bellow", "entity name")
-t("The Dwarven Empire Incarnate", "The Dwarven Empire Incarnate", "entity name")
-t("Mystic of the Empire", "Mystic of the Empire", "entity name")
-t("Warrior of the Empire", "Warrior of the Empire", "entity name")
-t("Defender of the Empire", "Defender of the Empire", "entity name")
+t("The Dwarven Empire Incarnate", "El Imperio Enano encarnado", "entity name")
+t("Mystic of the Empire", "Místico del Imperio", "entity name")
+t("Warrior of the Empire", "Guerrero del Imperio", "entity name")
+t("Defender of the Empire", "Defensor del Imperio", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22405,12 +22401,12 @@ section "mod-tome/data/zones/town-iron-council/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("dwarf", "dwarf", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("dwarf", "enano", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
-t("dwarven guard", "dwarven guard", "entity name")
-t("A stocky dwarf, he looks angry.", "A stocky dwarf, he looks angry.", "_t")
-t("dwarven earthwarden", "dwarven earthwarden", "entity name")
+t("dwarven guard", "guardia enano", "entity name")
+t("A stocky dwarf, he looks angry.", "Un enano caldo, parece enfadado.", "_t")
+t("dwarven earthwarden", "enana tierra", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22426,7 +22422,7 @@ t("Sword smith", "Sword smith", "entity name")
 t("Axe smith", "Axe smith", "entity name")
 t("Mace smith", "Mace smith", "entity name")
 t("Runemaster", "Runemaster", "entity name")
-t("Jewelry", "Jewelry", "entity name")
+t("Jewelry", "Joyería", "entity name")
 t("Delver's Delights", "Delver's Delights", "entity name")
 --]==]
 
@@ -22445,11 +22441,11 @@ section "mod-tome/data/zones/town-last-hope/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("old road", "old road", "entity name")
-t("Farportal: Gates of Morning", "Farportal: Gates of Morning", "entity name")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in sight of the Gates of Morning, with no trace of the portal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in sight of the Gates of Morning, with no trace of the portal...", "_t")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("old road", "antigua carretera", "entity name")
+t("Farportal: Gates of Morning", "Farportal: Puertas de la mañana", "entity name")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in sight of the Gates of Morning, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos pones un pie a la vista de las puertas de la mañana, sin rastro del portal...", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22458,18 +22454,18 @@ section "mod-tome/data/zones/town-last-hope/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
-t("last hope guard", "last hope guard", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
-t("halfling guard", "halfling guard", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("A Halfling, with a sling. Beware.", "A Halfling, with a sling. Beware.", "_t")
-t("human citizen", "human citizen", "entity name")
-t("A clean-looking Human resident of Last Hope.", "A clean-looking Human resident of Last Hope.", "_t")
-t("halfling citizen", "halfling citizen", "entity name")
-t("A clean-looking Halfling resident of Last Hope.", "A clean-looking Halfling resident of Last Hope.", "_t")
+t("last hope guard", "último guardia de esperanza", "entity name")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
+t("halfling guard", "medio guardia", "entity name")
+t("halfling", "mediador", "entity subtype")
+t("A Halfling, with a sling. Beware.", "Un Halfling, con un sling. Cuidado.", "_t")
+t("human citizen", "ciudadano humano", "entity name")
+t("A clean-looking Human resident of Last Hope.", "Un residente humano de última esperanza.", "_t")
+t("halfling citizen", "medio ciudadano", "entity name")
+t("A clean-looking Halfling resident of Last Hope.", "Un residente de la última esperanza.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22478,18 +22474,18 @@ section "mod-tome/data/zones/town-last-hope/objects.lua"
 
 -- new text
 --[==[
-t("last hope foundation", "last hope foundation", "entity subtype")
-t("The Diaries of King Toknor the Brave (%d)", "The Diaries of King Toknor the Brave (%d)", "tformat")
-t("A part of the history of Last Hope, and King Toknor the Brave.", "A part of the history of Last Hope, and King Toknor the Brave.", "_t")
-t("analysis", "analysis", "entity subtype")
-t("southspar", "southspar", "entity subtype")
-t("the Pale King part %s", "the Pale King part %s", "tformat")
-t("one", "one", "_t")
-t("two", "two", "_t")
-t("A study of Southspar's most unusual ruler.", "A study of Southspar's most unusual ruler.", "_t")
-t("oceans", "oceans", "entity subtype")
-t("The Oceans of Eyal", "The Oceans of Eyal", "entity name")
-t("Thoughts about the impossibility of sea travel.", "Thoughts about the impossibility of sea travel.", "_t")
+t("last hope foundation", "última esperanza fundación", "entity subtype")
+t("The Diaries of King Toknor the Brave (%d)", "Los Diarios del Rey Toknor el Brave (  PH0  )", "tformat")
+t("A part of the history of Last Hope, and King Toknor the Brave.", "Una parte de la historia de la Última Esperanza, y el rey Toknor el Brave.", "_t")
+t("analysis", "análisis", "entity subtype")
+t("southspar", "Southspar", "entity subtype")
+t("the Pale King part %s", "la parte de Pale King   PH0 ", "tformat")
+t("one", "uno", "_t")
+t("two", "dos", "_t")
+t("A study of Southspar's most unusual ruler.", "Un estudio de la regla más inusual de Southspar.", "_t")
+t("oceans", "océanos", "entity subtype")
+t("The Oceans of Eyal", "Los Océanos del Eyal", "entity name")
+t("Thoughts about the impossibility of sea travel.", "Pensamientos sobre la imposibilidad de viajar al mar.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22498,22 +22494,21 @@ section "mod-tome/data/zones/town-last-hope/traps.lua"
 
 -- new text
 --[==[
-t("Hormond & Son Plates", "Hormond & Son Plates", "entity name")
-t("Rila's Leather", "Rila's Leather", "entity name")
+t("Rila's Leather", "Cuero de Rila", "entity name")
 t("Toxar Alchemical Tailor", "Toxar Alchemical Tailor", "entity name")
 t("Herk's Cutting Edge", "Herk's Cutting Edge", "entity name")
-t("Yulek's Tools of the Night", "Yulek's Tools of the Night", "entity name")
-t("Vortal's Trees Choppers", "Vortal's Trees Choppers", "entity name")
+t("Yulek's Tools of the Night", "Herramientas de la noche de Yulek", "entity name")
+t("Vortal's Trees Choppers", "Claveros de árboles de Vortal", "entity name")
 t("Raber's Blunt Paradise", "Raber's Blunt Paradise", "entity name")
-t("Dala's Far Reaching Implements", "Dala's Far Reaching Implements", "entity name")
-t("Sarah's Herbal Infusions", "Sarah's Herbal Infusions", "entity name")
-t("Sook's Runes and other Harmless Contraptions", "Sook's Runes and other Harmless Contraptions", "entity name")
-t("Library", "Library", "entity name")
-t("The Elder", "The Elder", "entity name")
-t("Tannen's Door", "Tannen's Door", "entity name")
+t("Dala's Far Reaching Implements", "Ejecuciones de alcance de Dala", "entity name")
+t("Sarah's Herbal Infusions", "Infusiones herbales de Sarah", "entity name")
+t("Sook's Runes and other Harmless Contraptions", "Sook's Runes y otros Contraptions Harmless", "entity name")
+t("Library", "Biblioteca", "entity name")
+t("The Elder", "El Viejo", "entity name")
+t("Tannen's Door", "Puerta de Tannen", "entity name")
 t("Home of Ungrol the Alchemist", "Home of Ungrol the Alchemist", "entity name")
-t("Rich merchant", "Rich merchant", "entity name")
-t("Urthol's Wondrous Emporium", "Urthol's Wondrous Emporium", "entity name")
+t("Rich merchant", "Rico comerciante", "entity name")
+t("Urthol's Wondrous Emporium", "Emporium Wondrous de Urthol", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22531,11 +22526,11 @@ section "mod-tome/data/zones/town-lumberjack-village/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Ben Cruthdar, the Cursed", "Ben Cruthdar, the Cursed", "entity name")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Ben Cruthdar, the Cursed", "Ben Cruthdar, el Cursed", "entity name")
 t("lumberjack", "lumberjack", "entity name")
-t("A lumberjack. Cutting wood is his job, dream and passion.", "A lumberjack. Cutting wood is his job, dream and passion.", "_t")
+t("A lumberjack. Cutting wood is his job, dream and passion.", "Un leñador. Cortar madera es su trabajo, sueño y pasión.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22544,9 +22539,9 @@ section "mod-tome/data/zones/town-lumberjack-village/zone.lua"
 
 -- new text
 --[==[
-t("Small lumberjack village", "Small lumberjack village", "_t")
-t("Screams", "Screams", "_t")
-t("You hear screaming not too far from you.", "You hear screaming not too far from you.", "_t")
+t("Small lumberjack village", "Pequeño pueblo de leña", "_t")
+t("Screams", "Gritos", "_t")
+t("You hear screaming not too far from you.", "Oíste gritar no muy lejos de ti.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22556,11 +22551,11 @@ section "mod-tome/data/zones/town-point-zero/grids.lua"
 -- new text
 --[==[
 t("Temporal Rift to Maj'Eyal", "Temporal Rift to Maj'Eyal", "entity name")
-t("The rift leads to Maj'Eyal.", "The rift leads to Maj'Eyal.", "_t")
-t("wall", "wall", "entity type")
-t("ice", "ice", "entity subtype")
-t("cold forest", "cold forest", "entity name")
-t("floor", "floor", "entity type")
+t("The rift leads to Maj'Eyal.", "El rift conduce a Maj'Eyal.", "_t")
+t("wall", "pared", "entity type")
+t("ice", "hielo", "entity subtype")
+t("cold forest", "bosque frío", "entity name")
+t("floor", "planta baja", "entity type")
 t("polar cap", "polar cap", "entity name")
 --]==]
 
@@ -22570,22 +22565,22 @@ section "mod-tome/data/zones/town-point-zero/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
-t("guardian of reality", "guardian of reality", "entity name")
-t("A stern-looking guardian, ever vigilant against the threats of the paradox.", "A stern-looking guardian, ever vigilant against the threats of the paradox.", "_t")
+t("guardian of reality", "tutor de la realidad", "entity name")
+t("A stern-looking guardian, ever vigilant against the threats of the paradox.", "Un guardián de aspecto severo, siempre vigilante contra las amenazas de la paradoja.", "_t")
 t("elemental", "elemental", "entity type")
-t("void", "void", "entity subtype")
-t("Losgoroth are mighty void elementals, native to the void between the stars; they are rarely seen on the planet's surface.", "Losgoroth are mighty void elementals, native to the void between the stars; they are rarely seen on the planet's surface.", "_t")
-t("monstrous losgoroth", "monstrous losgoroth", "entity name")
-t("Zemekkys, Grand Keeper of Reality", "Zemekkys, Grand Keeper of Reality", "entity name")
+t("void", "vacío", "entity subtype")
+t("Losgoroth are mighty void elementals, native to the void between the stars; they are rarely seen on the planet's surface.", "Losgoroth son poderosos elementales vacíos, nativos del vacío entre las estrellas; rara vez son vistos en la superficie del planeta.", "_t")
+t("monstrous losgoroth", "monstruosa perdida", "entity name")
+t("Zemekkys, Grand Keeper of Reality", "Zemekkys, Gran Guardián de la Realidad", "entity name")
 t("shalore", "shalore", "entity subtype")
-t("A timeless elf stands before you. Even though his age is impossible to determine, you feel he has seen many things.", "A timeless elf stands before you. Even though his age is impossible to determine, you feel he has seen many things.", "_t")
+t("A timeless elf stands before you. Even though his age is impossible to determine, you feel he has seen many things.", "Un elfo atemporal está delante de ti. Aunque su edad es imposible de determinar, sientes que ha visto muchas cosas.", "_t")
 t("horror", "horror", "entity type")
 t("temporal", "temporal", "entity subtype")
-t("Temporal Defiler", "Temporal Defiler", "entity name")
-t("A huge, slender, metallic monstrosity with long claws in place of fingers, and razor-sharp teeth. It seems to seek something here.", "A huge, slender, metallic monstrosity with long claws in place of fingers, and razor-sharp teeth. It seems to seek something here.", "_t")
+t("Temporal Defiler", "Temporal Profanador", "entity name")
+t("A huge, slender, metallic monstrosity with long claws in place of fingers, and razor-sharp teeth. It seems to seek something here.", "Una enorme, esbelta, monstruosidad metálica con garras largas en lugar de dedos, y dientes de afeitado. Parece buscar algo aquí.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22595,8 +22590,8 @@ section "mod-tome/data/zones/town-point-zero/objects.lua"
 -- new text
 --[==[
 t("Shard of Crystalized Time", "Shard of Crystalized Time", "entity name")
-t("An iridescent shard of violet crystal.  Its light ebbs and flows, sometimes fast and sometimes slow, keeping pace with the chaotic streams of time itself.  It makes you feel both old and young, a newborn child and an ancient being, your flesh simply one instance in a thousand refractions of a single timeless and eternal soul.", "An iridescent shard of violet crystal.  Its light ebbs and flows, sometimes fast and sometimes slow, keeping pace with the chaotic streams of time itself.  It makes you feel both old and young, a newborn child and an ancient being, your flesh simply one instance in a thousand refractions of a single timeless and eternal soul.", "_t")
-t("glowing shard", "glowing shard", "_t")
+t("An iridescent shard of violet crystal.  Its light ebbs and flows, sometimes fast and sometimes slow, keeping pace with the chaotic streams of time itself.  It makes you feel both old and young, a newborn child and an ancient being, your flesh simply one instance in a thousand refractions of a single timeless and eternal soul.", "Un fragmento iridiscente de cristal violeta. Su luz abre y fluye, a veces rápido y a veces lento, manteniendo el ritmo con las corrientes caóticas del tiempo mismo. Te hace sentir viejo y joven, un niño recién nacido y un ser antiguo, tu carne simplemente un ejemplo en mil refracciones de un solo alma eterna y eterna.", "_t")
+t("glowing shard", "shard brillante", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22607,12 +22602,12 @@ section "mod-tome/data/zones/town-point-zero/traps.lua"
 --[==[
 t("Tailor", "Tailor", "entity name")
 t("Tanner", "Tanner", "entity name")
-t("Knives and daggers", "Knives and daggers", "entity name")
-t("Death from Afar", "Death from Afar", "entity name")
+t("Knives and daggers", "Cuchillos y dagas", "entity name")
+t("Death from Afar", "Muerte de Afar", "entity name")
 t("Swordsmith", "Swordsmith", "entity name")
-t("Staff carver", "Staff carver", "entity name")
+t("Staff carver", "Cargador de personal", "entity name")
 t("Runemaster", "Runemaster", "entity name")
-t("Jewelry", "Jewelry", "entity name")
+t("Jewelry", "Joyería", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22621,8 +22616,8 @@ section "mod-tome/data/zones/town-point-zero/zone.lua"
 
 -- new text
 --[==[
-t("Point Zero", "Point Zero", "_t")
-t("temporal beam endpoint", "temporal beam endpoint", "_t")
+t("Point Zero", "Punto Cero", "_t")
+t("temporal beam endpoint", "punto final de haz temporal", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22640,13 +22635,13 @@ section "mod-tome/data/zones/town-shatur/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("thalore", "thalore", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
 t("thalore hunter", "thalore hunter", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
 t("thalore wilder", "thalore wilder", "entity name")
-t("A tall elf, his skin covered in green moss.", "A tall elf, his skin covered in green moss.", "_t")
+t("A tall elf, his skin covered in green moss.", "Un elfo alto, su piel cubierta de musgo verde.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22661,7 +22656,7 @@ t("Swordsmith", "Swordsmith", "entity name")
 t("Nature's Punch", "Nature's Punch", "entity name")
 t("Silent Hunter", "Silent Hunter", "entity name")
 t("Herbalist", "Herbalist", "entity name")
-t("Night's Star", "Night's Star", "entity name")
+t("Night's Star", "Estrella de la noche", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22680,15 +22675,15 @@ section "mod-tome/data/zones/town-zigur/grids.lua"
 -- new text
 --[==[
 t("Zigur Postsign", "Zigur Postsign", "entity name")
-t("The laws of the Ziguranth", "The laws of the Ziguranth", "_t")
+t("The laws of the Ziguranth", "Las leyes del Ziguranth", "_t")
 t("lava pit", "lava pit", "entity name")
-t("cultivated fields", "cultivated fields", "entity name")
+t("cultivated fields", "campos cultivados", "entity name")
 t("cobblestone road", "cobblestone road", "entity name")
-t("giant rock", "giant rock", "entity name")
-t("closed gate", "closed gate", "entity name")
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("open gate", "open gate", "entity name")
+t("giant rock", "gigante roca", "entity name")
+t("closed gate", "puerta cerrada", "entity name")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("open gate", "puerta abierta", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22698,10 +22693,10 @@ section "mod-tome/data/zones/town-zigur/npcs.lua"
 -- new text
 --[==[
 t("Grand Corruptor", "Grand Corruptor", "entity name")
-t("An Elven corruptor, drawn to these blighted lands.", "An Elven corruptor, drawn to these blighted lands.", "_t")
+t("An Elven corruptor, drawn to these blighted lands.", "Un corruptor Elven, atraído a estas tierras desoladas.", "_t")
 t("Protector Myssil", "Protector Myssil", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("A Halfling Ziguranth, clad in dark steel plates. She is the current leader of Zigur.", "A Halfling Ziguranth, clad in dark steel plates. She is the current leader of Zigur.", "_t")
+t("halfling", "mediador", "entity subtype")
+t("A Halfling Ziguranth, clad in dark steel plates. She is the current leader of Zigur.", "Un medio Ziguranth, revestido en placas de acero oscuro. Ella es la líder actual de Zigur.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22710,9 +22705,9 @@ section "mod-tome/data/zones/town-zigur/objects.lua"
 
 -- new text
 --[==[
-t("the great evil", "the great evil", "entity subtype")
-t("The Great Evil", "The Great Evil", "entity name")
-t("History of the horrors of magic.", "History of the horrors of magic.", "_t")
+t("the great evil", "el gran mal", "entity subtype")
+t("The Great Evil", "El Gran Mal", "entity name")
+t("History of the horrors of magic.", "Historia de los horrores de la magia.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22721,18 +22716,18 @@ section "mod-tome/data/zones/town-zigur/traps.lua"
 
 -- new text
 --[==[
-t("Horman's Plates", "Horman's Plates", "entity name")
-t("Infused Leather", "Infused Leather", "entity name")
+t("Horman's Plates", "Placas de Horman", "entity name")
+t("Infused Leather", "Cuero infundido", "entity name")
 t("Slash & Dash", "Slash & Dash", "entity name")
 t("Nature's Punch", "Nature's Punch", "entity name")
 t("Slice & Dice", "Slice & Dice", "entity name")
-t("Nature's Reach", "Nature's Reach", "entity name")
-t("A Million Cuts", "A Million Cuts", "entity name")
-t("Purification Tools", "Purification Tools", "entity name")
-t("Library", "Library", "entity name")
-t("Trainer", "Trainer", "entity name")
-t("Grim-looking fighter", "Grim-looking fighter", "_t")
-t("Nature's Emporium", "Nature's Emporium", "entity name")
+t("Nature's Reach", "Alcance de la naturaleza", "entity name")
+t("A Million Cuts", "Un millón de cortes", "entity name")
+t("Purification Tools", "Herramientas de purificación", "entity name")
+t("Library", "Biblioteca", "entity name")
+t("Trainer", "Entrenador", "entity name")
+t("Grim-looking fighter", "Luchador de aspecto lúgubre", "_t")
+t("Nature's Emporium", "Emporium de la naturaleza", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22750,13 +22745,13 @@ section "mod-tome/data/zones/trollmire/grids.lua"
 
 -- new text
 --[==[
-t("dirt road", "dirt road", "entity name")
-t("wall", "wall", "entity type")
-t("grass", "grass", "entity subtype")
-t("troll stew", "troll stew", "entity name")
-t("water", "water", "entity subtype")
-t("tree", "tree", "entity name")
-t("bog water", "bog water", "entity name")
+t("dirt road", "carretera de tierra", "entity name")
+t("wall", "pared", "entity type")
+t("grass", "hierba", "entity subtype")
+t("troll stew", "guiso de troll", "entity name")
+t("water", "agua", "entity subtype")
+t("tree", "árbol", "entity name")
+t("bog water", "agua potable", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22765,22 +22760,22 @@ section "mod-tome/data/zones/trollmire/npcs.lua"
 
 -- new text
 --[==[
-t("giant", "giant", "entity type")
-t("troll", "troll", "entity subtype")
-t("Prox the Mighty", "Prox the Mighty", "entity name")
-t("A huge troll, he might move slowly but he does look dangerous nonetheless.", "A huge troll, he might move slowly but he does look dangerous nonetheless.", "_t")
-t("and eaten raw", "and eaten raw", "_t")
-t("Prox staggers for a moment. A note seems to drop at his feet.", "Prox staggers for a moment. A note seems to drop at his feet.", "logSeen")
-t("... and we thought the trollmire was safer now!", "... and we thought the trollmire was safer now!", "_t")
-t("Shax the Slimy", "Shax the Slimy", "entity name")
-t("A huge troll, he seems to be adapted to aquatic life.", "A huge troll, he seems to be adapted to aquatic life.", "_t")
-t("Shax staggers for a moment. A note seems to drop at his feet.", "Shax staggers for a moment. A note seems to drop at his feet.", "logSeen")
+t("giant", "gigante", "entity type")
+t("troll", "trol", "entity subtype")
+t("Prox the Mighty", "Prox el Poderoso", "entity name")
+t("A huge troll, he might move slowly but he does look dangerous nonetheless.", "Un enorme troll, podría moverse lentamente pero parece peligroso sin embargo.", "_t")
+t("and eaten raw", "y comido crudo", "_t")
+t("Prox staggers for a moment. A note seems to drop at his feet.", "Prox se tambalea por un momento. Una nota parece caer a sus pies.", "logSeen")
+t("... and we thought the trollmire was safer now!", "... y pensamos que el trollmire era más seguro ahora!", "_t")
+t("Shax the Slimy", "Slimy", "entity name")
+t("A huge troll, he seems to be adapted to aquatic life.", "Un enorme troll, parece ser adaptado a la vida acuática.", "_t")
+t("Shax staggers for a moment. A note seems to drop at his feet.", "Shax se tambalea por un momento. Una nota parece caer a sus pies.", "logSeen")
 t("Bill the Stone Troll", "Bill the Stone Troll", "entity name")
-t("and clobbered into soup", "and clobbered into soup", "_t")
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("and clobbered into soup", "y clobbered into soup", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Aluin the Fallen", "Aluin the Fallen", "entity name")
-t("His once-shining armour now dull and bloodstained, this Sun Paladin has given in to despair.", "His once-shining armour now dull and bloodstained, this Sun Paladin has given in to despair.", "_t")
+t("His once-shining armour now dull and bloodstained, this Sun Paladin has given in to despair.", "Su armadura de un solo resplandor ahora aburrida y manchada de sangre, este Sun Paladin ha dado lugar a la desesperación.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22789,8 +22784,8 @@ section "mod-tome/data/zones/trollmire/objects.lua"
 
 -- new text
 --[==[
-t("tattered paper scrap", "tattered paper scrap", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
+t("tattered paper scrap", "pedazo de papel tattered", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22809,47 +22804,47 @@ section "mod-tome/data/zones/tutorial-combat-stats/grids.lua"
 -- new text
 --[==[
 t("Lobby Portal", "Lobby Portal", "entity name")
-t("This portal will bring you back to the Tutorial Lobby.", "This portal will bring you back to the Tutorial Lobby.", "_t")
+t("This portal will bring you back to the Tutorial Lobby.", "Este portal te llevará de vuelta al vestíbulo Tutorial.", "_t")
 t("Tutorial Lobby Portal", "Tutorial Lobby Portal", "_t")
-t("Enter the portal back to the lobby?", "Enter the portal back to the lobby?", "_t")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back in the lobby.", "#VIOLET#You enter the swirling portal and in the blink of an eye you are back in the lobby.", "logPlayer")
-t("Stay", "Stay", "_t")
-t("Enter", "Enter", "_t")
-t("floor", "floor", "entity type")
-t("grass", "grass", "entity subtype")
-t("grass", "grass", "entity name")
-t("Sign", "Sign", "entity name")
-t("Contains a snippet of ToME wisdom.", "Contains a snippet of ToME wisdom.", "_t")
+t("Enter the portal back to the lobby?", "¿Introducir el portal de vuelta al vestíbulo?", "_t")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back in the lobby.", "#VIOLET# Entras en el portal giratorio y en el enlace de un ojo estás de vuelta en el vestíbulo.", "logPlayer")
+t("Stay", "Quédate", "_t")
+t("Enter", "Entra", "_t")
+t("floor", "planta baja", "entity type")
+t("grass", "hierba", "entity subtype")
+t("grass", "hierba", "entity name")
+t("Sign", "Signatura", "entity name")
+t("Contains a snippet of ToME wisdom.", "Contiene un fragmento de sabiduría ToME.", "_t")
 t("Rune of Enlightenment: Summer Vacation", "Rune of Enlightenment: Summer Vacation", "entity name")
-t("Causes the player's brain to jettison all recently-acquired knowledge.", "Causes the player's brain to jettison all recently-acquired knowledge.", "_t")
-t("#VIOLET#You feel unenlightened.", "#VIOLET#You feel unenlightened.", "logPlayer")
+t("Causes the player's brain to jettison all recently-acquired knowledge.", "Causa el cerebro del jugador a la jettison todo conocimiento adquirido recientemente.", "_t")
+t("#VIOLET#You feel unenlightened.", "#VIOLET# Te sientes indigno.", "logPlayer")
 t("Rune of Enlightenment: Shove", "Rune of Enlightenment: Shove", "entity name")
-t("Teaches the player 'Shove'.", "Teaches the player 'Shove'.", "_t")
-t("#VIOLET#You have learned the talent Shove.", "#VIOLET#You have learned the talent Shove.", "logPlayer")
-t("#VIOLET#The sound of an ancient door grinding open echoes down the tunnel!", "#VIOLET#The sound of an ancient door grinding open echoes down the tunnel!", "logPlayer")
+t("Teaches the player 'Shove'.", "Enseña al jugador 'Shove'.", "_t")
+t("#VIOLET#You have learned the talent Shove.", "#VIOLET# Has aprendido el talento Shove.", "logPlayer")
+t("#VIOLET#The sound of an ancient door grinding open echoes down the tunnel!", "#VIOLET #El sonido de una antigua puerta rechinando ecos abiertos por el túnel!", "logPlayer")
 t("Rune of Enlightenment: Mana Gale", "Rune of Enlightenment: Mana Gale", "entity name")
-t("Teaches the player 'Mana Gale'.", "Teaches the player 'Mana Gale'.", "_t")
-t("#VIOLET#You have learned the talent Mana Gale.", "#VIOLET#You have learned the talent Mana Gale.", "logPlayer")
+t("Teaches the player 'Mana Gale'.", "Enseña al jugador 'Mana Gale'.", "_t")
+t("#VIOLET#You have learned the talent Mana Gale.", "Has aprendido el talento de Mana Gale.", "logPlayer")
 t("Rune of Enlightenment: Telekinetic Punt", "Rune of Enlightenment: Telekinetic Punt", "entity name")
-t("Teaches the player 'Telekinetic Punt'.", "Teaches the player 'Telekinetic Punt'.", "_t")
-t("#VIOLET#You have learned the talent Telekinetic Punt.", "#VIOLET#You have learned the talent Telekinetic Punt.", "logPlayer")
+t("Teaches the player 'Telekinetic Punt'.", "Enséñale al jugador 'Poliente Clekinético'.", "_t")
+t("#VIOLET#You have learned the talent Telekinetic Punt.", "#VIOLET# Has aprendido el talento del Punt Telekinetic.", "logPlayer")
 t("Rune of Enlightenment: Blink", "Rune of Enlightenment: Blink", "entity name")
-t("Teaches the player 'Blink'.", "Teaches the player 'Blink'.", "_t")
-t("#VIOLET#You have learned the talent Blink.", "#VIOLET#You have learned the talent Blink.", "logPlayer")
+t("Teaches the player 'Blink'.", "Enseña al jugador 'Blink'.", "_t")
+t("#VIOLET#You have learned the talent Blink.", "#VIOLET# Has aprendido el enlace de talento.", "logPlayer")
 t("Rune of Enlightenment: Fear", "Rune of Enlightenment: Fear", "entity name")
-t("Teaches the player 'Fear'.", "Teaches the player 'Fear'.", "_t")
-t("#VIOLET#You have learned the talent Fear.", "#VIOLET#You have learned the talent Fear.", "logPlayer")
+t("Teaches the player 'Fear'.", "Enseña al jugador 'Fear'.", "_t")
+t("#VIOLET#You have learned the talent Fear.", "#VIOLET# Has aprendido el talento Miedo.", "logPlayer")
 t("Rune of Enlightenment: Bleed", "Rune of Enlightenment: Bleed", "entity name")
-t("Teaches the player 'Bleed'.", "Teaches the player 'Bleed'.", "_t")
-t("#VIOLET#You have learned the talent Bleed.", "#VIOLET#You have learned the talent Bleed.", "logPlayer")
+t("Teaches the player 'Bleed'.", "Enseña al jugador 'Bleed'.", "_t")
+t("#VIOLET#You have learned the talent Bleed.", "#VIOLET# You have learned the talent Bleed.", "logPlayer")
 t("Rune of Enlightenment: Confusion", "Rune of Enlightenment: Confusion", "entity name")
-t("Teaches the player 'Confusion'.", "Teaches the player 'Confusion'.", "_t")
-t("#VIOLET#You have learned the talent Confusion.", "#VIOLET#You have learned the talent Confusion.", "logPlayer")
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("glowing door", "glowing door", "entity name")
-t("#VIOLET#You must achieve Enlightenment before you can pass. Seek ye to the west to discover the ancient art of Shoving Stuff.", "#VIOLET#You must achieve Enlightenment before you can pass. Seek ye to the west to discover the ancient art of Shoving Stuff.", "logPlayer")
-t("sealed door", "sealed door", "entity name")
+t("Teaches the player 'Confusion'.", "Enseña al jugador 'Confusión'.", "_t")
+t("#VIOLET#You have learned the talent Confusion.", "#VIOLET# Has aprendido el talento Confusión.", "logPlayer")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("glowing door", "puerta resplandeciente", "entity name")
+t("#VIOLET#You must achieve Enlightenment before you can pass. Seek ye to the west to discover the ancient art of Shoving Stuff.", "#VIOLET#Debes lograr la Ilustración antes de que puedas pasar. Buscad al oeste para descubrir el antiguo arte de Shoving Stuff.", "logPlayer")
+t("sealed door", "puerta sellada", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -22858,43 +22853,43 @@ section "mod-tome/data/zones/tutorial-combat-stats/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Nain the Guide", "Nain the Guide", "entity name")
-t("A pitchfork-wielding human with a welcoming smile.", "A pitchfork-wielding human with a welcoming smile.", "_t")
-t("skeleton mage", "skeleton mage", "entity name")
-t("half-dead forest troll", "half-dead forest troll", "entity name")
-t("Lone Wolf", "Lone Wolf", "entity name")
-t("It is a large wolf with eyes full of cunning, only 3 times bigger than a normal wolf. It looks hungry. You look tasty!", "It is a large wolf with eyes full of cunning, only 3 times bigger than a normal wolf. It looks hungry. You look tasty!", "_t")
-t("Orc", "Orc", "entity name")
-t("Quick-healing orc", "Quick-healing orc", "entity name")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Nain the Guide", "Nain la Guía", "entity name")
+t("A pitchfork-wielding human with a welcoming smile.", "Un humano con una sonrisa acogedora.", "_t")
+t("skeleton mage", "esqueleto mage", "entity name")
+t("half-dead forest troll", "troll de bosque medio muerto", "entity name")
+t("Lone Wolf", "Solitario Wolf", "entity name")
+t("It is a large wolf with eyes full of cunning, only 3 times bigger than a normal wolf. It looks hungry. You look tasty!", "Es un lobo grande con ojos llenos de astucia, sólo 3 veces más grande que un lobo normal. Parece hambriento. ¡Te ves sabroso!", "_t")
+t("Orc", "Orco", "entity name")
+t("Quick-healing orc", "Orc de curación rápida", "entity name")
 t("Robe-clad elf", "Robe-clad elf", "entity name")
-t("An elf that looks as though he spends a good amount of his time wiggling his fingers and chanting.", "An elf that looks as though he spends a good amount of his time wiggling his fingers and chanting.", "_t")
+t("An elf that looks as though he spends a good amount of his time wiggling his fingers and chanting.", "Un elfo que parece como si pasara una buena cantidad de su tiempo metiendo sus dedos y cantando.", "_t")
 t("Stubborn orc", "Stubborn orc", "entity name")
 t("Obstinate orc", "Obstinate orc", "entity name")
-t("Pushy orc", "Pushy orc", "entity name")
+t("Pushy orc", "Oreja de empuje", "entity name")
 t("Rude orc", "Rude orc", "entity name")
-t("Troll", "Troll", "entity name")
+t("Troll", "Trol", "entity name")
 t("Ugly troll", "Ugly troll", "entity name")
-t("Gross troll", "Gross troll", "entity name")
+t("Gross troll", "Troll bruto", "entity name")
 t("Ghastly troll", "Ghastly troll", "entity name")
 t("Forum troll", "Forum troll", "entity name")
 t("Pushy elf", "Pushy elf", "entity name")
 t("Blustering elf", "Blustering elf", "entity name")
 t("Breezy elf", "Breezy elf", "entity name")
-t("spiderkin", "spiderkin", "entity type")
-t("spider", "spider", "entity subtype")
-t("Arachnophobia...", "Arachnophobia...", "_t")
-t("giant spider", "giant spider", "entity name")
-t("A huge arachnid.", "A huge arachnid.", "_t")
-t("chittering spider", "chittering spider", "entity name")
-t("A huge, chittering arachnid.", "A huge, chittering arachnid.", "_t")
-t("hairy spider", "hairy spider", "entity name")
-t("A huge, hairy arachnid.", "A huge, hairy arachnid.", "_t")
+t("spiderkin", "arácnido", "entity type")
+t("spider", "araña", "entity subtype")
+t("Arachnophobia...", "Arachnofobia...", "_t")
+t("giant spider", "gigante araña", "entity name")
+t("A huge arachnid.", "Un gran arcnid.", "_t")
+t("chittering spider", "araña chittering", "entity name")
+t("A huge, chittering arachnid.", "Un enorme y chittering arachnid.", "_t")
+t("hairy spider", "araña peluda", "entity name")
+t("A huge, hairy arachnid.", "Un enorme y peludo arachnid.", "_t")
 t("Bored elf", "Bored elf", "entity name")
 t("Idle elf", "Idle elf", "entity name")
-t("Loitering elf", "Loitering elf", "entity name")
-t("Dull-eyed orc", "Dull-eyed orc", "entity name")
+t("Loitering elf", "Elfo solitario", "entity name")
+t("Dull-eyed orc", "Orquídea con ojos de muñeca", "entity name")
 t("Keen-eyed orc", "Keen-eyed orc", "entity name")
 --]==]
 
@@ -22904,18 +22899,18 @@ section "mod-tome/data/zones/tutorial-combat-stats/objects.lua"
 
 -- new text
 --[==[
-t("Boots of Physical Save (+10)", "Boots of Physical Save (+10)", "entity name")
-t("Dried-up old boots.", "Dried-up old boots.", "_t")
-t("Fine boots that increase your Physical Save by 10.", "Fine boots that increase your Physical Save by 10.", "_t")
-t("Amulet of Mindpower (+3)", "Amulet of Mindpower (+3)", "entity name")
+t("Boots of Physical Save (+10)", "Botas de ahorro físico (+10)", "entity name")
+t("Dried-up old boots.", "Botas viejas secas.", "_t")
+t("Fine boots that increase your Physical Save by 10.", "Botas finas que aumentan tu ahorro físico en 10.", "_t")
+t("Amulet of Mindpower (+3)", "Amuleto de la fuerza mental (+3)", "entity name")
 t("Glittering amulet.", "Glittering amulet.", "_t")
-t("A beautiful amulet that increases your Mindpower by 3.", "A beautiful amulet that increases your Mindpower by 3.", "_t")
-t("Helmet of Accuracy (+6)", "Helmet of Accuracy (+6)", "entity name")
-t("Hard-looking helmet.", "Hard-looking helmet.", "_t")
-t("A finely-wrought helmet that increases your Accuracy by 6.", "A finely-wrought helmet that increases your Accuracy by 6.", "_t")
-t("Ring of Mental Save (+6)", "Ring of Mental Save (+6)", "entity name")
-t("Smooth ring.", "Smooth ring.", "_t")
-t("A ruby-studded ring.", "A ruby-studded ring.", "_t")
+t("A beautiful amulet that increases your Mindpower by 3.", "Un hermoso amuleto que aumenta tu poder mental por 3.", "_t")
+t("Helmet of Accuracy (+6)", "Casco de Precisión (+6)", "entity name")
+t("Hard-looking helmet.", "Casco de aspecto duro.", "_t")
+t("A finely-wrought helmet that increases your Accuracy by 6.", "Un casco bien hecho que aumenta su precisión por 6.", "_t")
+t("Ring of Mental Save (+6)", "Anillo de Ahorro Mental (+6)", "entity name")
+t("Smooth ring.", "Anillo suave.", "_t")
+t("A ruby-studded ring.", "Un anillo de rubí.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22927,31 +22922,31 @@ section "mod-tome/data/zones/tutorial-combat-stats/traps.lua"
 t("tutorial", "tutorial", "entity type")
 t("tutorial", "tutorial", "entity subtype")
 t("tutorial", "tutorial", "_t")
-t("A tutorial", "A tutorial", "_t")
-t("Tutorial: %s", "Tutorial: %s", "tformat")
+t("A tutorial", "Un tutorial", "_t")
+t("Tutorial: %s", "Tutorial:   PH0 ", "tformat")
 t("tutorial2", "tutorial2", "entity subtype")
 t("tutorial3", "tutorial3", "entity subtype")
 t("tutorial4", "tutorial4", "entity subtype")
 t("tutorial5", "tutorial5", "entity subtype")
 t("tutorial6", "tutorial6", "entity subtype")
-t("Movement", "Movement", "entity name")
+t("Movement", "Movimiento", "entity name")
 t("Melee Combat", "Melee Combat", "entity name")
-t("Objects", "Objects", "entity name")
-t("Talents", "Talents", "entity name")
-t("Experience and Levels", "Experience and Levels", "entity name")
-t("Different terrains", "Different terrains", "entity name")
-t("Basic tactic: Do not get surrounded", "Basic tactic: Do not get surrounded", "entity name")
-t("Basic tactic: Take cover", "Basic tactic: Take cover", "entity name")
+t("Objects", "Objetos", "entity name")
+t("Talents", "Talentos", "entity name")
+t("Experience and Levels", "Experiencia y niveles", "entity name")
+t("Different terrains", "Diferentes terrenos", "entity name")
+t("Basic tactic: Do not get surrounded", "Táctico básico: No te rodees", "entity name")
+t("Basic tactic: Take cover", "Táctico básico: Cubra", "entity name")
 t("Ranged Combat", "Ranged Combat", "entity name")
-t("Quests", "Quests", "entity name")
-t("Mechanics tutorial", "Mechanics tutorial", "entity name")
-t("Mechanics Tutorial", "Mechanics Tutorial", "entity name")
-t("Combat Stats", "Combat Stats", "entity name")
-t("Combat Stat Tooltips", "Combat Stat Tooltips", "entity name")
-t("Combat Stat Scale", "Combat Stat Scale", "entity name")
-t("Combat Stat Calculations", "Combat Stat Calculations", "entity name")
-t("Timed Effects", "Timed Effects", "entity name")
-t("Cross-Tier Effects", "Cross-Tier Effects", "entity name")
+t("Quests", "Búsquedas", "entity name")
+t("Mechanics tutorial", "Tutorial mecánico", "entity name")
+t("Mechanics Tutorial", "Tutorial mecánico", "entity name")
+t("Combat Stats", "Estaciones de combate", "entity name")
+t("Combat Stat Tooltips", "Equipos de herramientas de combate", "entity name")
+t("Combat Stat Scale", "Escala de combate Stat", "entity name")
+t("Combat Stat Calculations", "Cálculos de la estación de combate", "entity name")
+t("Timed Effects", "Efectos temporizados", "entity name")
+t("Cross-Tier Effects", "Efectos cruzados", "entity name")
 t("Dungeon of Adventurer Enlightenment Completed", "Dungeon of Adventurer Enlightenment Completed", "entity name")
 --]==]
 
@@ -22970,11 +22965,11 @@ section "mod-tome/data/zones/tutorial/npcs.lua"
 
 -- new text
 --[==[
-t("skeleton mage", "skeleton mage", "entity name")
-t("half-dead forest troll", "half-dead forest troll", "entity name")
-t("Lone Wolf", "Lone Wolf", "entity name")
-t("It is a large wolf with eyes full of cunning, only 3 times bigger than a normal wolf. It looks hungry. You look tasty!", "It is a large wolf with eyes full of cunning, only 3 times bigger than a normal wolf. It looks hungry. You look tasty!", "_t")
-t("Tutorial: Finish", "Tutorial: Finish", "_t")
+t("skeleton mage", "esqueleto mage", "entity name")
+t("half-dead forest troll", "troll de bosque medio muerto", "entity name")
+t("Lone Wolf", "Solitario Wolf", "entity name")
+t("It is a large wolf with eyes full of cunning, only 3 times bigger than a normal wolf. It looks hungry. You look tasty!", "Es un lobo grande con ojos llenos de astucia, sólo 3 veces más grande que un lobo normal. Parece hambriento. ¡Te ves sabroso!", "_t")
+t("Tutorial: Finish", "Tutorial: Final", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22986,18 +22981,18 @@ section "mod-tome/data/zones/tutorial/traps.lua"
 t("tutorial", "tutorial", "entity type")
 t("tutorial", "tutorial", "entity subtype")
 t("tutorial", "tutorial", "_t")
-t("A tutorial", "A tutorial", "_t")
-t("Tutorial: %s", "Tutorial: %s", "tformat")
-t("Movement", "Movement", "entity name")
+t("A tutorial", "Un tutorial", "_t")
+t("Tutorial: %s", "Tutorial:   PH0 ", "tformat")
+t("Movement", "Movimiento", "entity name")
 t("Melee Combat", "Melee Combat", "entity name")
-t("Objects", "Objects", "entity name")
-t("Talents", "Talents", "entity name")
-t("Experience and Levels", "Experience and Levels", "entity name")
-t("Different terrains", "Different terrains", "entity name")
-t("Basic tactic: Do not get surrounded", "Basic tactic: Do not get surrounded", "entity name")
-t("Basic tactic: Take cover", "Basic tactic: Take cover", "entity name")
+t("Objects", "Objetos", "entity name")
+t("Talents", "Talentos", "entity name")
+t("Experience and Levels", "Experiencia y niveles", "entity name")
+t("Different terrains", "Diferentes terrenos", "entity name")
+t("Basic tactic: Do not get surrounded", "Táctico básico: No te rodees", "entity name")
+t("Basic tactic: Take cover", "Táctico básico: Cubra", "entity name")
 t("Ranged Combat", "Ranged Combat", "entity name")
-t("Quests", "Quests", "entity name")
+t("Quests", "Búsquedas", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -23015,12 +23010,12 @@ section "mod-tome/data/zones/unhallowed-morass/grids.lua"
 
 -- new text
 --[==[
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads to another part of the morass.", "The rift leads to another part of the morass.", "_t")
-t("Point Zero", "Point Zero", "_t")
-t("wall", "wall", "entity type")
-t("rift", "rift", "entity subtype")
-t("crack in spacetime", "crack in spacetime", "entity name")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads to another part of the morass.", "El grifo conduce a otra parte de la morsa.", "_t")
+t("Point Zero", "Punto Cero", "_t")
+t("wall", "pared", "entity type")
+t("rift", "grieta", "entity subtype")
+t("crack in spacetime", "grieta en el espacio-tiempo", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -23029,22 +23024,22 @@ section "mod-tome/data/zones/unhallowed-morass/npcs.lua"
 
 -- new text
 --[==[
-t("spiderkin", "spiderkin", "entity type")
-t("spider", "spider", "entity subtype")
-t("Arachnophobia...", "Arachnophobia...", "_t")
+t("spiderkin", "arácnido", "entity type")
+t("spider", "araña", "entity subtype")
+t("Arachnophobia...", "Arachnofobia...", "_t")
 t("weaver hatchling", "weaver hatchling", "entity name")
-t("A nearly translucent spider hatchling.", "A nearly translucent spider hatchling.", "_t")
+t("A nearly translucent spider hatchling.", "Una araña casi translúcida.", "_t")
 t("orb spinner", "orb spinner", "entity name")
-t("A large brownish arachnid, its fangs drip with a strange fluid.", "A large brownish arachnid, its fangs drip with a strange fluid.", "_t")
+t("A large brownish arachnid, its fangs drip with a strange fluid.", "Un gran arachnid marrón, sus colmillos gotean con un líquido extraño.", "_t")
 t("orb weaver", "orb weaver", "entity name")
-t("A large brownish arachnid spinning its web.  It doesn't look pleased that you've disturbed its work.", "A large brownish arachnid spinning its web.  It doesn't look pleased that you've disturbed its work.", "_t")
-t("fate spinner", "fate spinner", "entity name")
-t("Easily as big as a horse, this giant spider menaces at you with claws and fangs.", "Easily as big as a horse, this giant spider menaces at you with claws and fangs.", "_t")
-t("fate weaver", "fate weaver", "entity name")
-t("A large white spider.", "A large white spider.", "_t")
+t("A large brownish arachnid spinning its web.  It doesn't look pleased that you've disturbed its work.", "Un gran arachnid marrón girando su web. No parece complacido que hayas perturbado su trabajo.", "_t")
+t("fate spinner", "destino spinner", "entity name")
+t("Easily as big as a horse, this giant spider menaces at you with claws and fangs.", "Fácilmente tan grande como un caballo, esta gigantesca araña amenaza contigo con garras y colmillos.", "_t")
+t("fate weaver", "el destino", "entity name")
+t("A large white spider.", "Una gran araña blanca.", "_t")
 t("Weaver Queen", "Weaver Queen", "entity name")
 t("Weaver Queen", "Weaver Queen", "_t")
-t("As you vanquish the queen you notice a temporal thread that seems to have been controlling her. It seems to go through a rift.", "As you vanquish the queen you notice a temporal thread that seems to have been controlling her. It seems to go through a rift.", "_t")
+t("As you vanquish the queen you notice a temporal thread that seems to have been controlling her. It seems to go through a rift.", "Al derrotar a la reina se nota un hilo temporal que parece haber estado controlándola. Parece pasar por un rift.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23054,8 +23049,8 @@ section "mod-tome/data/zones/unhallowed-morass/objects.lua"
 -- new text
 --[==[
 t("Void Star", "Void Star", "entity name")
-t("tiny black star", "tiny black star", "_t")
-t("It looks like a very tiny star -- deep black -- and yet it somehow shines.", "It looks like a very tiny star -- deep black -- and yet it somehow shines.", "_t")
+t("tiny black star", "pequeña estrella negra", "_t")
+t("It looks like a very tiny star -- deep black -- and yet it somehow shines.", "Parece una estrella muy pequeña... negra profunda... y de alguna manera brilla.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23064,7 +23059,7 @@ section "mod-tome/data/zones/unhallowed-morass/zone.lua"
 
 -- new text
 --[==[
-t("Unhallowed Morass", "Unhallowed Morass", "_t")
+t("Unhallowed Morass", "Morass", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23073,13 +23068,13 @@ section "mod-tome/data/zones/unremarkable-cave/npcs.lua"
 
 -- new text
 --[==[
-t("humanoid", "humanoid", "entity type")
-t("elf", "elf", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("elf", "elfo", "entity subtype")
 t("Fillarel Aldaren", "Fillarel Aldaren", "entity name")
-t("An Elven woman. She wears a tight robe decorated with symbols of the Sun and the Moon and wields a staff.", "An Elven woman. She wears a tight robe decorated with symbols of the Sun and the Moon and wields a staff.", "_t")
-t("orc", "orc", "entity subtype")
+t("An Elven woman. She wears a tight robe decorated with symbols of the Sun and the Moon and wields a staff.", "Una mujer Elven. Lleva una túnica ajustada decorada con símbolos del Sol y la Luna y dobla a un personal.", "_t")
+t("orc", "orco", "entity subtype")
 t("Krogar", "Krogar", "entity name")
-t("An orc clad in mail armour, he wields a staff and looks menacing.", "An orc clad in mail armour, he wields a staff and looks menacing.", "_t")
+t("An orc clad in mail armour, he wields a staff and looks menacing.", "Un orc clad en la armadura de correo, él maneja un personal y parece amenazador.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23088,7 +23083,7 @@ section "mod-tome/data/zones/unremarkable-cave/zone.lua"
 
 -- new text
 --[==[
-t("Unremarkable Cave", "Unremarkable Cave", "_t")
+t("Unremarkable Cave", "Cueva no notable", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23097,7 +23092,7 @@ section "mod-tome/data/zones/valley-moon-caverns/grids.lua"
 
 -- new text
 --[==[
-t("exit to the lost valley", "exit to the lost valley", "entity name")
+t("exit to the lost valley", "salida al valle perdido", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -23106,8 +23101,8 @@ section "mod-tome/data/zones/valley-moon-caverns/objects.lua"
 
 -- new text
 --[==[
-t("tattered paper scrap", "tattered paper scrap", "entity name")
-t("A paper scrap, left by somebody named Rassir.", "A paper scrap, left by somebody named Rassir.", "_t")
+t("tattered paper scrap", "pedazo de papel tattered", "entity name")
+t("A paper scrap, left by somebody named Rassir.", "Un trozo de papel, dejado por alguien llamado Rassir.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23116,7 +23111,7 @@ section "mod-tome/data/zones/valley-moon-caverns/zone.lua"
 
 -- new text
 --[==[
-t("Caverns to the hidden valley", "Caverns to the hidden valley", "_t")
+t("Caverns to the hidden valley", "Cavernas al valle escondido", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23125,11 +23120,11 @@ section "mod-tome/data/zones/valley-moon/grids.lua"
 
 -- new text
 --[==[
-t("moonstone", "moonstone", "entity name")
-t("floor", "floor", "entity type")
-t("grass", "grass", "entity subtype")
-t("Fearscape Portal", "Fearscape Portal", "entity name")
-t("An invocation portal, perpetually summoning beings through it.", "An invocation portal, perpetually summoning beings through it.", "_t")
+t("moonstone", "piedra lunar", "entity name")
+t("floor", "planta baja", "entity type")
+t("grass", "hierba", "entity subtype")
+t("Fearscape Portal", "Portal de Miedo", "entity name")
+t("An invocation portal, perpetually summoning beings through it.", "Un portal de invocación, convocando perpetuamente a los seres a través de él.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23138,15 +23133,15 @@ section "mod-tome/data/zones/valley-moon/npcs.lua"
 
 -- new text
 --[==[
-t("demon", "demon", "entity type")
-t("major", "major", "entity subtype")
-t("Corrupted Daelach", "Corrupted Daelach", "entity name")
-t("Shadow and flames. The huge beast of fire moves speedily toward you, its huge shadowy wings deployed.", "Shadow and flames. The huge beast of fire moves speedily toward you, its huge shadowy wings deployed.", "_t")
-t("humanoid", "humanoid", "entity type")
-t("elf", "elf", "entity subtype")
-t("Limmir the Jeweler", "Limmir the Jeweler", "entity name")
-t("An Elven Anorithil, specializing in the art of jewelry.", "An Elven Anorithil, specializing in the art of jewelry.", "_t")
-t("#VIOLET#Limmir is attacked! Defend him!", "#VIOLET#Limmir is attacked! Defend him!", "say")
+t("demon", "demonios", "entity type")
+t("major", "principales", "entity subtype")
+t("Corrupted Daelach", "Daelach corrupto", "entity name")
+t("Shadow and flames. The huge beast of fire moves speedily toward you, its huge shadowy wings deployed.", "Sombra y llamas. La enorme bestia de fuego se mueve rápidamente hacia ti, sus enormes alas sombras desplegadas.", "_t")
+t("humanoid", "humanoide", "entity type")
+t("elf", "elfo", "entity subtype")
+t("Limmir the Jeweler", "Limmir el joyero", "entity name")
+t("An Elven Anorithil, specializing in the art of jewelry.", "Un Elven Anorithil, especializado en el arte de la joyería.", "_t")
+t("#VIOLET#Limmir is attacked! Defend him!", "#VIOLET#Limmir es atacado! ¡Defiéndelo!", "say")
 --]==]
 
 ------------------------------------------------
@@ -23155,7 +23150,7 @@ section "mod-tome/data/zones/valley-moon/zone.lua"
 
 -- new text
 --[==[
-t("Ithilthum, Valley of the Moon", "Ithilthum, Valley of the Moon", "_t")
+t("Ithilthum, Valley of the Moon", "Ithilthum, Valle de la Luna", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23164,9 +23159,9 @@ section "mod-tome/data/zones/void/grids.lua"
 
 -- new text
 --[==[
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads... somewhere.", "The rift leads... somewhere.", "_t")
-t("Temporal Warden", "Temporal Warden", "_t")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads... somewhere.", "El rift conduce... a algún lado.", "_t")
+t("Temporal Warden", "Guardián Temporal", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23175,9 +23170,9 @@ section "mod-tome/data/zones/void/npcs.lua"
 
 -- new text
 --[==[
-t("god", "god", "entity type")
-t("eyal", "eyal", "entity subtype")
-t("Gerlyk, the Creator", "Gerlyk, the Creator", "entity name")
+t("god", "dios", "entity type")
+t("eyal", "Eyal", "entity subtype")
+t("Gerlyk, the Creator", "Gerlyk, el Creador", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -23186,7 +23181,7 @@ section "mod-tome/data/zones/void/zone.lua"
 
 -- new text
 --[==[
-t("Void between worlds", "Void between worlds", "_t")
+t("Void between worlds", "Vacío entre mundos", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23196,8 +23191,8 @@ section "mod-tome/data/zones/vor-armoury/npcs.lua"
 -- new text
 --[==[
 t("Warmaster Gnarg", "Warmaster Gnarg", "entity name")
-t("This ugly orc looks really nasty and vicious. He wields a huge two-handed sword and means to use it.", "This ugly orc looks really nasty and vicious. He wields a huge two-handed sword and means to use it.", "_t")
-t("overpowered greater multi-hued wyrm", "overpowered greater multi-hued wyrm", "entity name")
+t("This ugly orc looks really nasty and vicious. He wields a huge two-handed sword and means to use it.", "Este feo orco se ve muy desagradable y vicioso. Maneja una enorme espada de dos manos y significa usarla.", "_t")
+t("overpowered greater multi-hued wyrm", "más poderoso wyrm multi-hued", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -23206,11 +23201,11 @@ section "mod-tome/data/zones/vor-armoury/objects.lua"
 
 -- new text
 --[==[
-t("misc", "misc", "entity type")
-t("misc", "misc", "entity subtype")
-t("Blood-Runed Athame", "Blood-Runed Athame", "entity name")
+t("misc", "varios", "entity type")
+t("misc", "varios", "entity subtype")
+t("Blood-Runed Athame", "Athame de sangre", "entity name")
 t("athame", "athame", "_t")
-t("An athame, covered in blood runes. It radiates power.", "An athame, covered in blood runes. It radiates power.", "_t")
+t("An athame, covered in blood runes. It radiates power.", "Un athame, cubierto de sangre. irradia poder.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23228,10 +23223,10 @@ section "mod-tome/data/zones/vor-pride/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("book", "book", "entity name")
-t("reading candle", "reading candle", "entity name")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("book", "libro", "entity name")
+t("reading candle", "vela de lectura", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -23240,9 +23235,9 @@ section "mod-tome/data/zones/vor-pride/npcs.lua"
 
 -- new text
 --[==[
-t("Vor, Grand Geomancer of the Pride", "Vor, Grand Geomancer of the Pride", "entity name")
-t("An old orc, wearing multi-colored robes. Ice shards fly around him, leaving a trail of fire and lightning bursts.", "An old orc, wearing multi-colored robes. Ice shards fly around him, leaving a trail of fire and lightning bursts.", "_t")
-t("and used as target practice for initiate mages", "and used as target practice for initiate mages", "_t")
+t("Vor, Grand Geomancer of the Pride", "Vor, Gran Geomancer del Orgullo", "entity name")
+t("An old orc, wearing multi-colored robes. Ice shards fly around him, leaving a trail of fire and lightning bursts.", "Un viejo orc, con trajes multicolores. Los fragmentos de hielo vuelan alrededor de él, dejando un rastro de incendios y relámpagos.", "_t")
+t("and used as target practice for initiate mages", "y utilizado como práctica objetivo para iniciar los magos", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23251,22 +23246,22 @@ section "mod-tome/data/zones/vor-pride/objects.lua"
 
 -- new text
 --[==[
-t("tome", "tome", "entity subtype")
+t("tome", "tomo", "entity subtype")
 t("Tome of Wildfire", "Tome of Wildfire", "entity name")
-t("burning book", "burning book", "_t")
-t("This huge book is covered in searing flames. Yet they do not harm you.", "This huge book is covered in searing flames. Yet they do not harm you.", "_t")
-t("learn the ancient secrets", "learn the ancient secrets", "_t")
-t("#00FFFF#You read the tome and learn about ancient forgotten fire magic!", "#00FFFF#You read the tome and learn about ancient forgotten fire magic!", "logPlayer")
-t("#00FFFF#You read the tome and perfect your mastery of fire magic!", "#00FFFF#You read the tome and perfect your mastery of fire magic!", "logPlayer")
+t("burning book", "libro ardiente", "_t")
+t("This huge book is covered in searing flames. Yet they do not harm you.", "Este enorme libro está cubierto de llamas de sellado. Pero no te hacen daño.", "_t")
+t("learn the ancient secrets", "aprender los secretos antiguos", "_t")
+t("#00FFFF#You read the tome and learn about ancient forgotten fire magic!", "¡Lees el tomo y aprendes sobre la antigua magia del fuego olvidada!", "logPlayer")
+t("#00FFFF#You read the tome and perfect your mastery of fire magic!", "#00FF# You read the tomo and perfect your mastery of fire magic!", "logPlayer")
 t("Tome of Uttercold", "Tome of Uttercold", "entity name")
-t("frozen book", "frozen book", "_t")
-t("This huge book is covered in slowly shifting patterns of ice. Yet they do not harm you.", "This huge book is covered in slowly shifting patterns of ice. Yet they do not harm you.", "_t")
-t("#00FFFF#You read the tome and learn about ancient forgotten ice magic!", "#00FFFF#You read the tome and learn about ancient forgotten ice magic!", "logPlayer")
-t("#00FFFF#You read the tome and perfect your mastery of ice magic!", "#00FFFF#You read the tome and perfect your mastery of ice magic!", "logPlayer")
-t("draft note", "draft note", "entity name")
-t("A note.", "A note.", "_t")
-t("Records of Lorekeeper Hadak", "Records of Lorekeeper Hadak", "entity name")
-t("Part of the long history of the Orc race.", "Part of the long history of the Orc race.", "_t")
+t("frozen book", "libro congelado", "_t")
+t("This huge book is covered in slowly shifting patterns of ice. Yet they do not harm you.", "Este enorme libro está cubierto con patrones de cambio lento de hielo. Pero no te hacen daño.", "_t")
+t("#00FFFF#You read the tome and learn about ancient forgotten ice magic!", "¡Lees el tomo y aprendes sobre la magia del hielo olvidado!", "logPlayer")
+t("#00FFFF#You read the tome and perfect your mastery of ice magic!", "¡Lee el tomo y perfeccione su dominio de la magia del hielo!", "logPlayer")
+t("draft note", "proyecto de nota", "entity name")
+t("A note.", "Una nota.", "_t")
+t("Records of Lorekeeper Hadak", "Registros de Lorekeeper Hadak", "entity name")
+t("Part of the long history of the Orc race.", "Parte de la larga historia de la raza Orc.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23284,95 +23279,95 @@ section "mod-tome/data/zones/wilderness/grids.lua"
 
 -- new text
 --[==[
-t("floor", "floor", "entity type")
-t("grass", "grass", "entity subtype")
-t("plains", "plains", "entity name")
-t("cultivated fields", "cultivated fields", "entity name")
-t("low hills", "low hills", "entity name")
-t("wall", "wall", "entity type")
-t("forest", "forest", "entity name")
-t("pine forest", "pine forest", "entity name")
-t("Old forest", "Old forest", "entity name")
+t("floor", "planta baja", "entity type")
+t("grass", "hierba", "entity subtype")
+t("plains", "llanuras", "entity name")
+t("cultivated fields", "campos cultivados", "entity name")
+t("low hills", "colinas bajas", "entity name")
+t("wall", "pared", "entity type")
+t("forest", "bosque", "entity name")
+t("pine forest", "bosque de pinos", "entity name")
+t("Old forest", "Antiguo bosque", "entity name")
 t("lava", "lava", "entity subtype")
 t("Charred Scar", "Charred Scar", "entity name")
-t("burnt forest", "burnt forest", "entity name")
-t("ice", "ice", "entity subtype")
+t("burnt forest", "bosque quemado", "entity name")
+t("ice", "hielo", "entity subtype")
 t("polar cap", "polar cap", "entity name")
-t("frozen sea", "frozen sea", "entity name")
-t("cold forest", "cold forest", "entity name")
-t("cold thaloren forest", "cold thaloren forest", "entity name")
-t("thaloren forest", "thaloren forest", "entity name")
-t("water", "water", "entity subtype")
-t("deep water", "deep water", "entity name")
-t("sea of Eyal", "sea of Eyal", "entity name")
-t("river", "river", "entity name")
-t("lake of Nur", "lake of Nur", "entity name")
-t("sea of Sash", "sea of Sash", "entity name")
-t("lake", "lake", "entity name")
-t("Westreach lake", "Westreach lake", "entity name")
+t("frozen sea", "mar congelado", "entity name")
+t("cold forest", "bosque frío", "entity name")
+t("cold thaloren forest", "frondoso bosque", "entity name")
+t("thaloren forest", "bosque de esmaltes", "entity name")
+t("water", "agua", "entity subtype")
+t("deep water", "aguas profundas", "entity name")
+t("sea of Eyal", "mar de Eyal", "entity name")
+t("river", "río", "entity name")
+t("lake of Nur", "lago de Nur", "entity name")
+t("sea of Sash", "mar de Sash", "entity name")
+t("lake", "lago", "entity name")
+t("Westreach lake", "Lago Westreach", "entity name")
 t("Irondeep lake", "Irondeep lake", "entity name")
-t("Spellmurk lake", "Spellmurk lake", "entity name")
-t("rockwall", "rockwall", "entity type")
-t("name", "name", "entity name")
-t("Sunwall mountain", "Sunwall mountain", "entity name")
-t("jungle", "jungle", "entity name")
-t("sand", "sand", "entity subtype")
-t("desert", "desert", "entity name")
+t("Spellmurk lake", "Lago Spellmurk", "entity name")
+t("rockwall", "pared rocosa", "entity type")
+t("name", "nombre", "entity name")
+t("Sunwall mountain", "Montaña Sunwall", "entity name")
+t("jungle", "selva", "entity name")
+t("sand", "arena", "entity subtype")
+t("desert", "desierto", "entity name")
 t("oasis", "oasis", "entity name")
 t("Derth (Town)", "Derth (Town)", "entity name")
-t("A quiet town at the crossroads of the north", "A quiet town at the crossroads of the north", "_t")
-t("Last Hope (Town)", "Last Hope (Town)", "entity name")
-t("Capital city of the Allied Kingdoms ruled by King Tolak", "Capital city of the Allied Kingdoms ruled by King Tolak", "_t")
-t("Angolwen, the hidden city of magic", "Angolwen, the hidden city of magic", "entity name")
-t("Hidden teleportation portal to Angolwen, the hidden city of magic", "Hidden teleportation portal to Angolwen, the hidden city of magic", "entity name")
-t("The portal fizzles.", "The portal fizzles.", "log")
+t("A quiet town at the crossroads of the north", "Un pueblo tranquilo en el cruce del norte", "_t")
+t("Last Hope (Town)", "Última Esperanza (Town)", "entity name")
+t("Capital city of the Allied Kingdoms ruled by King Tolak", "Ciudad capital de los reinos aliados gobernados por el rey Tolak", "_t")
+t("Angolwen, the hidden city of magic", "Angolwen, la ciudad oculta de la magia", "entity name")
+t("Hidden teleportation portal to Angolwen, the hidden city of magic", "Portal de teletransportación oculto a Angolwen, la ciudad oculta de la magia", "entity name")
+t("The portal fizzles.", "El portal brilla.", "log")
 t("Shatur (Town)", "Shatur (Town)", "entity name")
-t("Capital city of Thaloren lands, ruled by Nessilla Tantaelen", "Capital city of Thaloren lands, ruled by Nessilla Tantaelen", "_t")
+t("Capital city of Thaloren lands, ruled by Nessilla Tantaelen", "Capital ciudad de Thaloren tierras, gobernada por Nessilla Tantaelen", "_t")
 t("Elvala (Town)", "Elvala (Town)", "entity name")
-t("Capital city of Shaloren lands, ruled by Aranion Gayaeil", "Capital city of Shaloren lands, ruled by Aranion Gayaeil", "_t")
-t("Gates of Morning (Town)", "Gates of Morning (Town)", "entity name")
-t("A massive hole in the Sunwall.", "A massive hole in the Sunwall.", "_t")
+t("Capital city of Shaloren lands, ruled by Aranion Gayaeil", "Capital ciudad de Shaloren tierras, gobernada por Aranion Gayaeil", "_t")
+t("Gates of Morning (Town)", "Puertas de la mañana (Town)", "entity name")
+t("A massive hole in the Sunwall.", "Un agujero masivo en el Sunwall.", "_t")
 t("Irkkk (Town)", "Irkkk (Town)", "entity name")
-t("Yeek Wayist main village", "Yeek Wayist main village", "_t")
+t("Yeek Wayist main village", "Yeek Wayist pueblo principal", "_t")
 t("Zigur (Town)", "Zigur (Town)", "entity name")
-t("Ziguranth main training ground", "Ziguranth main training ground", "_t")
+t("Ziguranth main training ground", "Ziguranth principal campo de entrenamiento", "_t")
 t("Zigur", "Zigur", "_t")
-t("Somehow as magic user you feel this place is not safe for you.", "Somehow as magic user you feel this place is not safe for you.", "_t")
+t("Somehow as magic user you feel this place is not safe for you.", "De alguna manera como usuario mágico sientes que este lugar no es seguro para ti.", "_t")
 t("Iron Council (Town)", "Iron Council (Town)", "entity name")
-t("Heart of the dwarven Empire", "Heart of the dwarven Empire", "_t")
-t("A gate into the Maze", "A gate into the Maze", "entity name")
-t("Passageway into the Trollmire", "Passageway into the Trollmire", "entity name")
-t("A path into the Old Forest", "A path into the Old Forest", "entity name")
-t("Passageway into Norgos' Lair", "Passageway into Norgos' Lair", "entity name")
-t("Passageway into the Daikara", "Passageway into the Daikara", "entity name")
-t("The entry to the old tower of Dreadfell", "The entry to the old tower of Dreadfell", "entity name")
-t("Ruins of Kor'Pul", "Ruins of Kor'Pul", "entity name")
-t("Very old halfling ruins", "Very old halfling ruins", "entity name")
-t("Entrance to the Scintillating Caves", "Entrance to the Scintillating Caves", "entity name")
-t("Stairway into the Rhaloren Camp", "Stairway into the Rhaloren Camp", "entity name")
-t("Way into the heart of the gloom", "Way into the heart of the gloom", "entity name")
-t("A mysterious hole in the beach", "A mysterious hole in the beach", "entity name")
-t("Tunnel into the ritchs grounds", "Tunnel into the ritchs grounds", "entity name")
-t("Charred Scar Volcano", "Charred Scar Volcano", "entity name")
-t("Tunnel to Maj'Eyal", "Tunnel to Maj'Eyal", "entity name")
-t("Long tunnel", "Long tunnel", "_t")
-t("You cannot abandon the yeeks of Rel to the dangers that lie within the island.", "You cannot abandon the yeeks of Rel to the dangers that lie within the island.", "_t")
-t("Unremarkable cave", "Unremarkable cave", "entity name")
-t("A gate into the old kingdom of Reknor", "A gate into the old kingdom of Reknor", "entity name")
-t("Entrance into Telmur, tower of Telos", "Entrance into Telmur, tower of Telos", "entity name")
-t("Way into the lair of Murgol", "Way into the lair of Murgol", "entity name")
-t("Long road to the Tempest Peak", "Long road to the Tempest Peak", "entity name")
-t("Danger...", "Danger...", "_t")
-t("A gate into Last Hope's graveyard", "A gate into Last Hope's graveyard", "entity name")
-t("Entrance to Rak'shor Pride bastion", "Entrance to Rak'shor Pride bastion", "entity name")
-t("Entrance to Gorbat Pride bastion", "Entrance to Gorbat Pride bastion", "entity name")
-t("Entrance to Grushnak Pride bastion", "Entrance to Grushnak Pride bastion", "entity name")
-t("Entrance to Vor Pride bastion", "Entrance to Vor Pride bastion", "entity name")
-t("Backdoor to the Vor Armoury", "Backdoor to the Vor Armoury", "entity name")
-t("Entrance into the sandpit of Briagh", "Entrance into the sandpit of Briagh", "entity name")
-t("Cavern leading to the valley of the moon", "Cavern leading to the valley of the moon", "entity name")
-t("A way into the caverns of Ardhungol", "A way into the caverns of Ardhungol", "entity name")
-t("The arid wastes of Erúan", "The arid wastes of Erúan", "entity name")
+t("Heart of the dwarven Empire", "Corazón del Imperio enano", "_t")
+t("A gate into the Maze", "Una puerta al laberinto", "entity name")
+t("Passageway into the Trollmire", "Pasaje en el Trollmire", "entity name")
+t("A path into the Old Forest", "Un camino hacia el Bosque Antiguo", "entity name")
+t("Passageway into Norgos' Lair", "Pasaje en el Lair de Norgos", "entity name")
+t("Passageway into the Daikara", "Pasaje en el Daikara", "entity name")
+t("The entry to the old tower of Dreadfell", "La entrada a la antigua torre de Dreadfell", "entity name")
+t("Ruins of Kor'Pul", "Ruinas de Kor'Pul", "entity name")
+t("Very old halfling ruins", "Muy viejas ruinas de medias", "entity name")
+t("Entrance to the Scintillating Caves", "Entrada a las cuevas centelleantes", "entity name")
+t("Stairway into the Rhaloren Camp", "Escalera en el campamento de Rhaloren", "entity name")
+t("Way into the heart of the gloom", "Camino hacia el corazón de la oscuridad", "entity name")
+t("A mysterious hole in the beach", "Un misterioso agujero en la playa", "entity name")
+t("Tunnel into the ritchs grounds", "Tunel en los recintos de ritchs", "entity name")
+t("Charred Scar Volcano", "Volcán Scar Carred", "entity name")
+t("Tunnel to Maj'Eyal", "Tunel a Maj'Eyal", "entity name")
+t("Long tunnel", "Túnel largo", "_t")
+t("You cannot abandon the yeeks of Rel to the dangers that lie within the island.", "No puedes abandonar a los yeks de Rel a los peligros que se encuentran dentro de la isla.", "_t")
+t("Unremarkable cave", "Cueva no notable", "entity name")
+t("A gate into the old kingdom of Reknor", "Una puerta al viejo reino de Reknor", "entity name")
+t("Entrance into Telmur, tower of Telos", "Entrada en Telmur, torre de Telos", "entity name")
+t("Way into the lair of Murgol", "Camino a la guarida de Murgol", "entity name")
+t("Long road to the Tempest Peak", "Larga carretera al pico Tempest", "entity name")
+t("Danger...", "Peligro...", "_t")
+t("A gate into Last Hope's graveyard", "Una puerta al cementerio de la última esperanza", "entity name")
+t("Entrance to Rak'shor Pride bastion", "Entrada al bastión del orgullo de Rak", "entity name")
+t("Entrance to Gorbat Pride bastion", "Entrada a Gorbat Pride bastion", "entity name")
+t("Entrance to Grushnak Pride bastion", "Entrada a Grushnak Pride bastion", "entity name")
+t("Entrance to Vor Pride bastion", "Entrada a Vor Pride bastion", "entity name")
+t("Backdoor to the Vor Armoury", "Puerta trasera a la Armería Vor", "entity name")
+t("Entrance into the sandpit of Briagh", "Entrada en la chimenea de Briagh", "entity name")
+t("Cavern leading to the valley of the moon", "Cavern conduce al valle de la luna", "entity name")
+t("A way into the caverns of Ardhungol", "Un camino hacia las cavernas de Ardhungol", "entity name")
+t("The arid wastes of Erúan", "Los desechos áridos de Erúan", "entity name")
 --]==]
 
 ------------------------------------------------
@@ -23391,7 +23386,7 @@ section "mod-tome/data/maps/towns/gates-of-morning.lua"
 
 -- new text
 --[==[
-t("Limmir the Jeweler", "Limmir the Jeweler", "_t")
+t("Limmir the Jeweler", "Limmir el joyero", "_t")
 t("Melnela", "Melnela", "_t")
 --]==]
 
@@ -23401,10 +23396,10 @@ section "mod-tome/data/maps/towns/last-hope.lua"
 
 -- new text
 --[==[
-t("Statue of King Tolak the Fair", "Statue of King Tolak the Fair", "_t")
-t("Statue of King Toknor the Brave", "Statue of King Toknor the Brave", "_t")
-t("Statue of Queen Mirvenia the Inspirer", "Statue of Queen Mirvenia the Inspirer", "_t")
-t("Declaration of the Unification of the Allied Kingdoms", "Declaration of the Unification of the Allied Kingdoms", "_t")
+t("Statue of King Tolak the Fair", "Estatua del rey Tolak la Feria", "_t")
+t("Statue of King Toknor the Brave", "Estatua del Rey Toknor el Brave", "_t")
+t("Statue of Queen Mirvenia the Inspirer", "Estatua de la Reina Mirvenia el Inspirador", "_t")
+t("Declaration of the Unification of the Allied Kingdoms", "Declaración de la Unificación de los Reinos Aliados", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23413,7 +23408,7 @@ section "mod-tome/data/maps/towns/shatur.lua"
 
 -- new text
 --[==[
-t("Moss covered statue", "Moss covered statue", "_t")
+t("Moss covered statue", "Estatua cubierta de Moss", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23431,10 +23426,10 @@ section "mod-tome/data/maps/vaults/auto/greater/living-weapons.lua"
 
 -- new text
 --[==[
-t("Poltergeist %s", "Poltergeist %s", "tformat")
-t("Animated %s", "Animated %s", "tformat")
-t("Moving %s", "Moving %s", "tformat")
-t("Poltergeist's %s", "Poltergeist's %s", "tformat")
+t("Poltergeist %s", "Poltergeist   PH0 ", "tformat")
+t("Animated %s", "Animados   PH0 ", "tformat")
+t("Moving %s", "Moving   PH0  ", "tformat")
+t("Poltergeist's %s", "Poltergeist   PH0  ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -23443,7 +23438,7 @@ section "mod-tome/data/maps/vaults/auto/greater/orc-hatred.lua"
 
 -- new text
 --[==[
-t("Something in the floor clicks ominously.", "Something in the floor clicks ominously.", "logPlayer")
+t("Something in the floor clicks ominously.", "Algo en el piso hace clic ominosamente.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -23452,11 +23447,11 @@ section "mod-tome/data/maps/vaults/auto/greater/paladin-vs-vampire.lua"
 
 -- new text
 --[==[
-t("corrupted lava floor", "corrupted lava floor", "_t")
-t("#Source# emits dark energies at your feet.", "#Source# emits dark energies at your feet.", "logCombat")
-t("The corrupted lava reanimates %s's corpse!", "The corrupted lava reanimates %s's corpse!", "logSeen")
-t("human sun-paladin", "human sun-paladin", "_t")
-t("A Human in shining plate armour.", "A Human in shining plate armour.", "_t")
+t("corrupted lava floor", "piso corrupto de lava", "_t")
+t("#Source# emits dark energies at your feet.", "#Source# emite energías oscuras a tus pies.", "logCombat")
+t("The corrupted lava reanimates %s's corpse!", "¡El cadáver de lava corrupta!", "logSeen")
+t("human sun-paladin", "humano sol-paladina", "_t")
+t("A Human in shining plate armour.", "Un humano con armadura de placas brillantes.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23465,16 +23460,16 @@ section "mod-tome/data/maps/vaults/auto/greater/portal-vault.lua"
 
 -- new text
 --[==[
-t("#YELLOW#The Portal repels you briefly before becoming quiescent.  The other side seems to be blocked.", "#YELLOW#The Portal repels you briefly before becoming quiescent.  The other side seems to be blocked.", "logPlayer")
+t("#YELLOW#The Portal repels you briefly before becoming quiescent.  The other side seems to be blocked.", "#YELLOW#El Portal te repele brevemente antes de convertirte en quiescente. El otro lado parece estar bloqueado.", "logPlayer")
 t("Malevolent Portal", "Malevolent Portal", "_t")
-t("An ominous aura emanates from this portal. Are you sure you want to go through?", "An ominous aura emanates from this portal. Are you sure you want to go through?", "_t")
-t("#YELLOW#You overcome intense #LIGHT_BLUE#REPULSIVE FORCES#LAST# as you traverse the Portal.", "#YELLOW#You overcome intense #LIGHT_BLUE#REPULSIVE FORCES#LAST# as you traverse the Portal.", "logPlayer")
-t("Teleport", "Teleport", "_t")
-t("Cancel", "Cancel", "_t")
-t("#YELLOW#Nothing happens when you use the Portal.", "#YELLOW#Nothing happens when you use the Portal.", "logPlayer")
+t("An ominous aura emanates from this portal. Are you sure you want to go through?", "Un aura ominosa emana de este portal. ¿Seguro que quieres pasar?", "_t")
+t("#YELLOW#You overcome intense #LIGHT_BLUE#REPULSIVE FORCES#LAST# as you traverse the Portal.", "#YELLOW#You overcome intense #LIGHT BLUE#REPULSIVE FORCES#LAST# mientras atraviesas el Portal.", "logPlayer")
+t("Teleport", "Teletransporte", "_t")
+t("Cancel", "Cancelar", "_t")
+t("#YELLOW#Nothing happens when you use the Portal.", "No pasa nada cuando usas el Portal.", "logPlayer")
 t("Portal", "Portal", "_t")
-t("A strange portal to some place else.", "A strange portal to some place else.", "_t")
-t("A portal out of this place.", "A portal out of this place.", "_t")
+t("A strange portal to some place else.", "Un extraño portal a otro lugar.", "_t")
+t("A portal out of this place.", "Un portal fuera de este lugar.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23483,10 +23478,10 @@ section "mod-tome/data/maps/vaults/auto/greater/sleeping-dragons.lua"
 
 -- new text
 --[==[
-t("The dragons here are asleep. You may try to steal their treasure... at your own risk.", "The dragons here are asleep. You may try to steal their treasure... at your own risk.", "log")
-t("#CRIMSON#The dragons awaken from their slumber detecting their loot being stolen!", "#CRIMSON#The dragons awaken from their slumber detecting their loot being stolen!", "log")
-t("Sleeping #rng#", "Sleeping #rng#", "_t")
-t("Dozing #rng#", "Dozing #rng#", "_t")
+t("The dragons here are asleep. You may try to steal their treasure... at your own risk.", "Los dragones están dormidos. Puede intentar robar su tesoro... a su propio riesgo.", "log")
+t("#CRIMSON#The dragons awaken from their slumber detecting their loot being stolen!", "¡Los dragones despertaron de su sueño detectando que les robaron el botín!", "log")
+t("Sleeping #rng#", "Dormir", "_t")
+t("Dozing #rng#", "Dozing", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23495,9 +23490,9 @@ section "mod-tome/data/maps/vaults/auto/lesser/loot-vault.lua"
 
 -- new text
 --[==[
-t("scroll", "scroll", "_t")
+t("scroll", "pergamino", "_t")
 t("Mocking Note", "Mocking Note", "_t")
-t("A small scrap of paper written in a mocking tone.", "A small scrap of paper written in a mocking tone.", "_t")
+t("A small scrap of paper written in a mocking tone.", "Un pequeño trozo de papel escrito en un tono de burla.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23506,12 +23501,12 @@ section "mod-tome/data/maps/vaults/bandit-fortress.lua"
 
 -- new text
 --[==[
-t("bandit fortress", "bandit fortress", "_t")
-t("stairs back to %s", "stairs back to %s", "_t")
+t("bandit fortress", "fortaleza bandida", "_t")
+t("stairs back to %s", "escaleras de vuelta a   PH0  ", "_t")
 t("#rng# the Guard", "#rng# the Guard", "_t")
-t("scroll", "scroll", "_t")
-t("Guard's Journal", "Guard's Journal", "_t")
-t("A messily scrawled pile of loose papers.", "A messily scrawled pile of loose papers.", "_t")
+t("scroll", "pergamino", "_t")
+t("Guard's Journal", "Diario de la Guardia", "_t")
+t("A messily scrawled pile of loose papers.", "Un montón de papeles sueltos.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23520,9 +23515,9 @@ section "mod-tome/data/maps/vaults/collapsed-tower.lua"
 
 -- new text
 --[==[
-t("elemental crystal", "elemental crystal", "_t")
-t("collapsed tower", "collapsed tower", "_t")
-t("stairs back to %s", "stairs back to %s", "_t")
+t("elemental crystal", "cristal elemental", "_t")
+t("collapsed tower", "torre colapsada", "_t")
+t("stairs back to %s", "escaleras de vuelta a   PH0  ", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23531,11 +23526,11 @@ section "mod-tome/data/maps/vaults/greater-crypt.lua"
 
 -- new text
 --[==[
-t("Something in the floor clicks ominously%s", "Something in the floor clicks ominously%s", "logPlayer")
-t(", and suddenly the world spins around you!", ", and suddenly the world spins around you!", "_t")
-t(", and the crypt rearranges itself around you!", ", and the crypt rearranges itself around you!", "_t")
-t("Something in the floor clicks ominously.", "Something in the floor clicks ominously.", "logPlayer")
-t("Something beneath you clicks ominously.", "Something beneath you clicks ominously.", "logPlayer")
+t("Something in the floor clicks ominously%s", "Algo en el piso hace clic ominously  PH0 ", "logPlayer")
+t(", and suddenly the world spins around you!", "¡y de repente el mundo gira alrededor tuyo!", "_t")
+t(", and the crypt rearranges itself around you!", ", y la cripta se reorganiza a su alrededor!", "_t")
+t("Something in the floor clicks ominously.", "Algo en el piso hace clic ominosamente.", "logPlayer")
+t("Something beneath you clicks ominously.", "Algo debajo de ti hace clic ominosamente.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -23545,7 +23540,7 @@ section "mod-tome/data/maps/vaults/grushnak-armory.lua"
 -- new text
 --[==[
 t("#rng# the Archer", "#rng# the Archer", "_t")
-t("Warbear #rng#", "Warbear #rng#", "_t")
+t("Warbear #rng#", "Warbear", "_t")
 t("Elite Combat Trainer #rng#", "Elite Combat Trainer #rng#", "_t")
 --]==]
 
@@ -23564,9 +23559,9 @@ section "mod-tome/data/maps/vaults/renegade-pyromancers.lua"
 
 -- new text
 --[==[
-t("scroll", "scroll", "_t")
-t("How to Summon a Phoenix", "How to Summon a Phoenix", "_t")
-t("An old and singed scroll, the bottom half burnt off.", "An old and singed scroll, the bottom half burnt off.", "_t")
+t("scroll", "pergamino", "_t")
+t("How to Summon a Phoenix", "Cómo Invocar un Fénix", "_t")
+t("An old and singed scroll, the bottom half burnt off.", "Un pergamino viejo y cantado, la mitad inferior quemó.", "_t")
 t("#rng# the Flamebringer", "#rng# the Flamebringer", "_t")
 t("#rng# the Invoker", "#rng# the Invoker", "_t")
 --]==]
@@ -23580,7 +23575,7 @@ section "mod-tome/data/maps/vaults/renegade-undead.lua"
 t("Grand Necromancer #rng#", "Grand Necromancer #rng#", "_t")
 t("Inquisitor #rng#", "Inquisitor #rng#", "_t")
 t("#rng# the Tortured Mass", "#rng# the Tortured Mass", "_t")
-t("Tortured Mass #rng#", "Tortured Mass #rng#", "_t")
+t("Tortured Mass #rng#", "Misa torturada", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23590,7 +23585,7 @@ section "mod-tome/data/maps/vaults/renegade-wyrmics.lua"
 -- new text
 --[==[
 t("#rng# the Herald", "#rng# the Herald", "_t")
-t("Beastmaster #rng#", "Beastmaster #rng#", "_t")
+t("Beastmaster #rng#", "Beastmaster", "_t")
 t("#rng# the Flame Terror", "#rng# the Flame Terror", "_t")
 t("#rng# the Storm Terror", "#rng# the Storm Terror", "_t")
 t("#rng# the Frozen Terror", "#rng# the Frozen Terror", "_t")
@@ -23603,8 +23598,8 @@ section "mod-tome/data/maps/vaults/test.lua"
 
 -- new text
 --[==[
-t("#PINK# Test vault onplace function called: zone:%s, level:%s, map:%s", "#PINK# Test vault onplace function called: zone:%s, level:%s, map:%s", "log")
-t("#PINK# Test vault roomCheck function called: zone:%s, level:%s, map:%s", "#PINK# Test vault roomCheck function called: zone:%s, level:%s, map:%s", "log")
+t("#PINK# Test vault onplace function called: zone:%s, level:%s, map:%s", "#PINK# Prueba de la bóveda en el lugar llamado: zona:  PH0   , nivel:  PH1   , mapa:       ", "log")
+t("#PINK# Test vault roomCheck function called: zone:%s, level:%s, map:%s", "#PINK# Sala de pruebas de la bóveda Función de verificación llamada: zona:  PH0   , nivel:  PH1   , mapa:  PH2   ", "log")
 --]==]
 
 ------------------------------------------------
@@ -23613,8 +23608,8 @@ section "mod-tome/data/maps/vaults/trickvault.lua"
 
 -- new text
 --[==[
-t("#YELLOW#The world spins around you!", "#YELLOW#The world spins around you!", "logPlayer")
-t("#YELLOW#The air comes alive with terrible magics!", "#YELLOW#The air comes alive with terrible magics!", "logPlayer")
+t("#YELLOW#The world spins around you!", "¡El mundo gira alrededor tuyo!", "logPlayer")
+t("#YELLOW#The air comes alive with terrible magics!", "¡El aire viene vivo con terribles magias!", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -23624,9 +23619,9 @@ section "mod-tome/data/maps/wilderness/eyal.lua"
 -- new text
 --[==[
 t("Maj'Eyal", "Maj'Eyal", "_t")
-t("Island of Rel", "Island of Rel", "_t")
+t("Island of Rel", "Isla de Rel", "_t")
 t("Charred Scar", "Charred Scar", "_t")
-t("Far East", "Far East", "_t")
+t("Far East", "Lejano Oriente", "_t")
 t("Tar'Eyal", "Tar'Eyal", "_t")
 --]==]
 
@@ -23639,9 +23634,9 @@ section "mod-tome/data/maps/zones/bandit-fortress.lua"
 t("#rng# the Guard", "#rng# the Guard", "_t")
 t("#rng# the Thug", "#rng# the Thug", "_t")
 t("Bandit Leader #rng#", "Bandit Leader #rng#", "_t")
-t("scroll", "scroll", "_t")
-t("Boss's Journal", "Boss's Journal", "_t")
-t("A messily scrawled pile of loose papers.", "A messily scrawled pile of loose papers.", "_t")
+t("scroll", "pergamino", "_t")
+t("Boss's Journal", "Jefe del Diario", "_t")
+t("A messily scrawled pile of loose papers.", "Un montón de papeles sueltos.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23650,7 +23645,7 @@ section "mod-tome/data/maps/zones/collapsed-tower.lua"
 
 -- new text
 --[==[
-t("arcane crystal", "arcane crystal", "_t")
+t("arcane crystal", "cristal arcane", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23659,9 +23654,9 @@ section "mod-tome/data/maps/zones/halfling-ruins-last.lua"
 
 -- new text
 --[==[
-t("Long tunnel to the island of Rel", "Long tunnel to the island of Rel", "_t")
-t("Long tunnel", "Long tunnel", "_t")
-t("As you enter the tunnel you feel a strange compulsion to go backward.", "As you enter the tunnel you feel a strange compulsion to go backward.", "_t")
+t("Long tunnel to the island of Rel", "Túnel largo a la isla de Rel", "_t")
+t("Long tunnel", "Túnel largo", "_t")
+t("As you enter the tunnel you feel a strange compulsion to go backward.", "Cuando entras en el túnel sientes una extraña compulsión para retroceder.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23670,7 +23665,7 @@ section "mod-tome/data/maps/zones/shertul-fortress-caldizar.lua"
 
 -- new text
 --[==[
-t("Control Room", "Control Room", "_t")
+t("Control Room", "Sala de control", "_t")
 t("Exploratory Farportal", "Exploratory Farportal", "_t")
 --]==]
 
@@ -23680,7 +23675,7 @@ section "mod-tome/data/maps/zones/tannen-tower-1.lua"
 
 -- new text
 --[==[
-t("open sky", "open sky", "_t")
+t("open sky", "cielo abierto", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23689,7 +23684,7 @@ section "mod-tome/data/maps/zones/tempest-peak-top.lua"
 
 -- new text
 --[==[
-t("open sky", "open sky", "_t")
+t("open sky", "cielo abierto", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23698,8 +23693,8 @@ section "mod-tome/data/maps/zones/valley-moon.lua"
 
 -- new text
 --[==[
-t("Passage to the caverns", "Passage to the caverns", "_t")
-t("A dark hole in the mountain", "A dark hole in the mountain", "_t")
+t("Passage to the caverns", "Paso a las cavernas", "_t")
+t("A dark hole in the mountain", "Un agujero oscuro en la montaña", "_t")
 --]==]
 
 ------------------------------------------------
@@ -23708,16 +23703,16 @@ section "mod-tome/data/mapscripts/lib/subvault.lua"
 
 -- new text
 --[==[
-t("Hidden Vault - %s", "Hidden Vault - %s", "tformat")
-t("stairs back to %s", "stairs back to %s", "_t")
-t("hidden vault", "hidden vault", "_t")
-t("Crumbling stairs lead down to something.", "Crumbling stairs lead down to something.", "_t")
-t("collapsing hidden vault", "collapsing hidden vault", "_t")
-t("collapsed hidden vault", "collapsed hidden vault", "_t")
-t("It is fully collapsed, no way down.", "It is fully collapsed, no way down.", "_t")
-t("#VIOLET# The stairway is about to collapses completely, you may still go back but it will be the last time!", "#VIOLET# The stairway is about to collapses completely, you may still go back but it will be the last time!", "log")
-t("nearly collapsed hidden vault", "nearly collapsed hidden vault", "_t")
-t("#VIOLET# The decrepit stairs crumble some more as you climb them.", "#VIOLET# The decrepit stairs crumble some more as you climb them.", "log")
+t("Hidden Vault - %s", "Vault ocultada -   PH0  ", "tformat")
+t("stairs back to %s", "escaleras de vuelta a   PH0  ", "_t")
+t("hidden vault", "bóveda oculta", "_t")
+t("Crumbling stairs lead down to something.", "Las escaleras cruzadas conducen a algo.", "_t")
+t("collapsing hidden vault", "bóveda escondida", "_t")
+t("collapsed hidden vault", "bóveda escondida colapsada", "_t")
+t("It is fully collapsed, no way down.", "Está completamente colapsado, no hay manera de bajar.", "_t")
+t("#VIOLET# The stairway is about to collapses completely, you may still go back but it will be the last time!", "#VIOLET# La escalera está a punto de colapsar completamente, puede que todavía vuelva pero será la última vez!", "log")
+t("nearly collapsed hidden vault", "casi colapsada bóveda oculta", "_t")
+t("#VIOLET# The decrepit stairs crumble some more as you climb them.", "#VIOLET# Las escaleras decrépitas se desmoronan un poco más mientras las escalas.", "log")
 --]==]
 
 ------------------------------------------------
@@ -23726,44 +23721,44 @@ section "mod-tome/mod/class/Actor.lua"
 
 -- new text
 --[==[
-t("drowned to death", "drowned to death", "_t")
-t("%s has been disrupted by #ORCHID#anti-magic forces#LAST#!", "%s has been disrupted by #ORCHID#anti-magic forces#LAST#!", "logSeen")
-t("%s temporarily fights the paralyzation.", "%s temporarily fights the paralyzation.", "logSeen")
-t("#VIOLET#Following build order %s; increasing %s by 1.", "#VIOLET#Following build order %s; increasing %s by 1.", "log")
-t("#VIOLET#Following build order %s; learning talent category %s.", "#VIOLET#Following build order %s; learning talent category %s.", "log")
-t("#VIOLET#Following build order %s; learning talent %s.", "#VIOLET#Following build order %s; learning talent %s.", "log")
-t("You are asleep and unable to move!", "You are asleep and unable to move!", "logPlayer")
-t("You are unable to move!", "You are unable to move!", "logPlayer")
-t("#F53CBE#Your movements fuel your rampage! (+1 duration)", "#F53CBE#Your movements fuel your rampage! (+1 duration)", "logPlayer")
-t("#LIGHT_RED#Your %s is immune to the teleportation and drops to the floor!", "#LIGHT_RED#Your %s is immune to the teleportation and drops to the floor!", "logPlayer")
-t("teleported", "teleported", "_t")
-t("#CADET_BLUE#You notice a trap (%s)!", "#CADET_BLUE#You notice a trap (%s)!", "logPlayer")
+t("drowned to death", "ahogado hasta la muerte", "_t")
+t("%s has been disrupted by #ORCHID#anti-magic forces#LAST#!", " PH0   ha sido interrumpido por fuerzas #ORCHID#anti-magic##!", "logSeen")
+t("%s temporarily fights the paralyzation.", " PH0  combate temporalmente la paralización.", "logSeen")
+t("#VIOLET#Following build order %s; increasing %s by 1.", "#VIOLET#Siguiendo el orden de construcción   PH0  ; aumentando   PH1    por 1.", "log")
+t("#VIOLET#Following build order %s; learning talent category %s.", "#VIOLET#Siguiendo el orden de construcción   PH0  ; aprender la categoría de talento   PH1   .", "log")
+t("#VIOLET#Following build order %s; learning talent %s.", "#VIOLET#Siguiendo el orden de construcción   PH0  ; aprendiendo talento   PH1   .", "log")
+t("You are asleep and unable to move!", "¡Estás dormido e incapaz de moverte!", "logPlayer")
+t("You are unable to move!", "¡No puedes moverte!", "logPlayer")
+t("#F53CBE#Your movements fuel your rampage! (+1 duration)", "#F53CBE#Tus movimientos alimentan tu rampa! (+1 duración)", "logPlayer")
+t("#LIGHT_RED#Your %s is immune to the teleportation and drops to the floor!", "#LIGHT RED#Your   PH0   es inmune a la teletransportación y gotas al suelo!", "logPlayer")
+t("teleported", "teletransportado", "_t")
+t("#CADET_BLUE#You notice a trap (%s)!", "#CADET BLUE# ¡Notas una trampa!", "logPlayer")
 t("normal", "normal", "_t")
-t("critter", "critter", "_t")
+t("critter", "bicho", "_t")
 t("elite", "elite", "_t")
-t("rare", "rare", "_t")
-t("unique", "unique", "_t")
-t("boss", "boss", "_t")
-t("elite boss", "elite boss", "_t")
-t("godslayer", "godslayer", "_t")
-t("god", "god", "_t")
-t("medium", "medium", "_t")
-t("tiny", "tiny", "_t")
-t("small", "small", "_t")
-t("big", "big", "_t")
-t("huge", "huge", "_t")
+t("rare", "raro", "_t")
+t("unique", "único", "_t")
+t("boss", "jefe", "_t")
+t("elite boss", "elite jefe", "_t")
+t("godslayer", "godlayer", "_t")
+t("god", "dios", "_t")
+t("medium", "mediano", "_t")
+t("tiny", "diminuto", "_t")
+t("small", "pequeño", "_t")
+t("big", "grande", "_t")
+t("huge", "enorme", "_t")
 t("gargantuan", "gargantuan", "_t")
 t("actor", "actor", "_t")
 t("neutral", "neutral", "_t")
-t("hostile", "hostile", "_t")
-t("friendly", "friendly", "_t")
-t("female", "female", "_t")
-t("male", "male", "_t")
-t("Rank: ", "Rank: ", "_t")
-t("Level: unknown", "Level: unknown", "_t")
-t("Level: %d", "Level: %d", "tformat")
-t("INVULNERABLE!", "INVULNERABLE!", "_t")
-t("HP: %d (%d%%) #GREEN#+%0.2f#LAST#", "HP: %d (%d%%) #GREEN#+%0.2f#LAST#", "tformat")
+t("hostile", "hostil", "_t")
+t("friendly", "amigable", "_t")
+t("female", "hembra", "_t")
+t("male", "hombre", "_t")
+t("Rank: ", "Rank:", "_t")
+t("Level: unknown", "Nivel: desconocido", "_t")
+t("Level: %d", "Nivel:   PH0  ", "tformat")
+t("INVULNERABLE!", "¡INVENCIBLE!", "_t")
+t("HP: %d (%d%%) #GREEN#+%0.2f#LAST#", "¿QUÉ? # GREEN#+  PH2  #LAST#", "tformat")
 t("\
 Mana:  %s%d / %d#LAST#", "\
 Mana:  %s%d / %d#LAST#", "tformat")
@@ -23776,230 +23771,230 @@ Positive:  %s%d / %d#LAST#", "tformat")
 t("\
 Negative:  %s%d / %d#LAST#", "\
 Negative:  %s%d / %d#LAST#", "tformat")
-t(" (%d%%)", " (%d%%)", "tformat")
-t("Iceblock: %d", "Iceblock: %d", "tformat")
-t("%sVim Value: %d#LAST#", "%sVim Value: %d#LAST#", "tformat")
-t("#ffa0ff#Predator: +%d acc, +%d apr#LAST#", "#ffa0ff#Predator: +%d acc, +%d apr#LAST#", "tformat")
-t("Resists: ", "Resists: ", "_t")
-t("Hardiness/Armour: ", "Hardiness/Armour: ", "_t")
-t("Size: ", "Size: ", "_t")
-t("#FFD700#Accuracy#FFFFFF#: ", "#FFD700#Accuracy#FFFFFF#: ", "_t")
-t("#0080FF#Defense#FFFFFF#:  ", "#0080FF#Defense#FFFFFF#:  ", "_t")
-t("#FFD700#P. power#FFFFFF#: ", "#FFD700#P. power#FFFFFF#: ", "_t")
-t("#0080FF#P. save#FFFFFF#:  ", "#0080FF#P. save#FFFFFF#:  ", "_t")
-t("#FFD700#S. power#FFFFFF#: ", "#FFD700#S. power#FFFFFF#: ", "_t")
-t("#0080FF#S. save#FFFFFF#:  ", "#0080FF#S. save#FFFFFF#:  ", "_t")
-t("#FFD700#M. power#FFFFFF#: ", "#FFD700#M. power#FFFFFF#: ", "_t")
-t("#0080FF#M. save#FFFFFF#:  ", "#0080FF#M. save#FFFFFF#:  ", "_t")
-t("Critical Mult: ", "Critical Mult: ", "_t")
-t("Time left: ", "Time left: ", "_t")
-t("#LIGHT_BLUE#Main:#LAST#%s", "#LIGHT_BLUE#Main:#LAST#%s", "tformat")
-t("#LIGHT_BLUE#Off :#LAST#%s", "#LIGHT_BLUE#Off :#LAST#%s", "tformat")
-t("#LIGHT_BLUE#Psi :#LAST#%s", "#LIGHT_BLUE#Psi :#LAST#%s", "tformat")
-t("#LIGHT_BLUE#Ammo:#LAST#%s", "#LIGHT_BLUE#Ammo:#LAST#%s", "tformat")
-t("#LIGHT_BLUE#Unarmed:#LAST#%s", "#LIGHT_BLUE#Unarmed:#LAST#%s", "tformat")
-t("#LIGHT_BLUE#Unarmed:#LAST#", "#LIGHT_BLUE#Unarmed:#LAST#", "_t")
-t("Melee Retaliation: ", "Melee Retaliation: ", "_t")
-t("Classes: ", "Classes: ", "_t")
-t("Faction: ", "Faction: ", "_t")
-t("Personal reaction: ", "Personal reaction: ", "_t")
-t("Sustained Talents: ", "Sustained Talents: ", "_t")
-t("Temporary Status Effects: ", "Temporary Status Effects: ", "_t")
-t("#LIGHT_GREEN#%d healing #LAST##AQUAMARINE#(%d psi heal)#LAST#", "#LIGHT_GREEN#%d healing #LAST##AQUAMARINE#(%d psi heal)#LAST#", "tformat")
-t("#LIGHT_GREEN#%d healing#LAST#", "#LIGHT_GREEN#%d healing#LAST#", "tformat")
-t("#STEEL_BLUE#(%d shifted)#LAST#", "#STEEL_BLUE#(%d shifted)#LAST#", "tformat")
-t("#SLATE#(%d absorbed)#LAST#", "#SLATE#(%d absorbed)#LAST#", "tformat")
-t("%s unleashes the stored damage in retribution!", "%s unleashes the stored damage in retribution!", "logSeen")
-t("#DARK_GREEN##Source# shares damage with %s oozes!", "#DARK_GREEN##Source# shares damage with %s oozes!", "delayedLogMessage")
+t(" (%d%%)", "(  PH0  %%)", "tformat")
+t("Iceblock: %d", "Iceblock:", "tformat")
+t("%sVim Value: %d#LAST#", " PH0  Vim Value:   PH1  #LAST#", "tformat")
+t("#ffa0ff#Predator: +%d acc, +%d apr#LAST#", "#ffa0ff#Predator: +  PH0   acc, + PH1    apr#LAST#", "tformat")
+t("Resists: ", "Resistencias:", "_t")
+t("Hardiness/Armour: ", "Hardiness/Armour:", "_t")
+t("Size: ", "Tamaño:", "_t")
+t("#FFD700#Accuracy#FFFFFF#: ", "#FFD700#Accuracy#FFFFFF#", "_t")
+t("#0080FF#Defense#FFFFFF#:  ", "#0080FF#Defense#FFFF#", "_t")
+t("#FFD700#P. power#FFFFFF#: ", "#FFD700#P. power#FFFFFF#", "_t")
+t("#0080FF#P. save#FFFFFF#:  ", "#0080FF#P. save#FFFF#", "_t")
+t("#FFD700#S. power#FFFFFF#: ", "#FFD700#S power#FFFFFF#", "_t")
+t("#0080FF#S. save#FFFFFF#:  ", "# 0080FF#S save#FFFF#", "_t")
+t("#FFD700#M. power#FFFFFF#: ", "#FFD700#M. power#FFFFFF#", "_t")
+t("#0080FF#M. save#FFFFFF#:  ", "#0080FF#M. save#FFFF#", "_t")
+t("Critical Mult: ", "Mult crítico:", "_t")
+t("Time left: ", "Hora izquierda:", "_t")
+t("#LIGHT_BLUE#Main:#LAST#%s", "#LIGHT BLUE#Main:#LAST#  PH0    ", "tformat")
+t("#LIGHT_BLUE#Off :#LAST#%s", "#LIGHT BLUE#Off :#LAST#   PH0   ", "tformat")
+t("#LIGHT_BLUE#Psi :#LAST#%s", "#LIGHT BLUE#Psi ##", "tformat")
+t("#LIGHT_BLUE#Ammo:#LAST#%s", "#LIGHT BLUE#Ammo:#LAST#  PH0   ", "tformat")
+t("#LIGHT_BLUE#Unarmed:#LAST#%s", "#LIGHT BLUE# Unarmed:#LAST#   PH0   ", "tformat")
+t("#LIGHT_BLUE#Unarmed:#LAST#", "#LIGHT BLUE#Unarmed:#LAST#", "_t")
+t("Melee Retaliation: ", "Melee Retaliation:", "_t")
+t("Classes: ", "Clases:", "_t")
+t("Faction: ", "Facción:", "_t")
+t("Personal reaction: ", "Reacción personal:", "_t")
+t("Sustained Talents: ", "Talentos sostenidos:", "_t")
+t("Temporary Status Effects: ", "Efectos del estado temporal:", "_t")
+t("#LIGHT_GREEN#%d healing #LAST##AQUAMARINE#(%d psi heal)#LAST#", "#LIGHT GREEN#  PH0    sanación #LAST###AQUAMARINE#", "tformat")
+t("#LIGHT_GREEN#%d healing#LAST#", "#LIGHT GREEN#            sanando#", "tformat")
+t("#STEEL_BLUE#(%d shifted)#LAST#", "#STEEL BLUE#(  PH0   cambiada)#", "tformat")
+t("#SLATE#(%d absorbed)#LAST#", "#SLATE#(  PH0   absorbido)#", "tformat")
+t("%s unleashes the stored damage in retribution!", " PH0  desata el daño almacenado en la retribución!", "logSeen")
+t("#DARK_GREEN##Source# shares damage with %s oozes!", "#DARK GREEN##Source# shares damage with   PH0    oozes!", "delayedLogMessage")
 t("#CRIMSON##Source# teleports some damage to #Target#!", "#CRIMSON##Source# teleports some damage to #Target#!", "delayedLogMessage")
-t("#CRIMSON#(%d teleported)#LAST#", "#CRIMSON#(%d teleported)#LAST#", "tformat")
-t("#CRIMSON#%d teleported#LAST#", "#CRIMSON#%d teleported#LAST#", "tformat")
-t("#STEEL_BLUE#(%d to time)#LAST#", "#STEEL_BLUE#(%d to time)#LAST#", "tformat")
-t("Your time shield crumbles under the damage!", "Your time shield crumbles under the damage!", "logPlayer")
-t("#SLATE#%d reflected#LAST#", "#SLATE#%d reflected#LAST#", "tformat")
-t("#CRIMSON##Source# reflects damage back to #Target#!#LAST#", "#CRIMSON##Source# reflects damage back to #Target#!#LAST#", "delayedLogMessage")
-t("Your shield crumbles under the damage!", "Your shield crumbles under the damage!", "logPlayer")
-t("#CRIMSON##Source# shares some damage with a shadow!", "#CRIMSON##Source# shares some damage with a shadow!", "delayedLogMessage")
-t("#PINK#(%d linked)#LAST#", "#PINK#(%d linked)#LAST#", "tformat")
-t("#PINK#%d linked#LAST#", "#PINK#%d linked#LAST#", "tformat")
-t("#SLATE#(%d deflected)#LAST#", "#SLATE#(%d deflected)#LAST#", "tformat")
-t("#STEEL_BLUE#(%d to ice)#LAST#", "#STEEL_BLUE#(%d to ice)#LAST#", "tformat")
-t("#SLATE#(%d resonance)#LAST#", "#SLATE#(%d resonance)#LAST#", "tformat")
-t("Your resonance field crumbles under the damage!", "Your resonance field crumbles under the damage!", "logPlayer")
-t("%s shatters into pieces!", "%s shatters into pieces!", "logSeen")
-t("#F53CBE#You fight through the pain!", "#F53CBE#You fight through the pain!", "_t")
-t("#F53CBE#Your hatred grows even as your life fades!", "#F53CBE#Your hatred grows even as your life fades!", "_t")
-t("%s (+%d hate)", "%s (+%d hate)", "tformat")
-t("#F53CBE#Your powerful attack feeds your madness!", "#F53CBE#Your powerful attack feeds your madness!", "_t")
-t("%s splits in two!", "%s splits in two!", "logSeen")
-t("%s#Source# converts some damage to Psi!", "%s#Source# converts some damage to Psi!", "tformat")
-t("%s%d %s#LAST#", "%s%d %s#LAST#", "tformat")
+t("#CRIMSON#(%d teleported)#LAST#", "#CRIMSON#(  PH0   teleported)#", "tformat")
+t("#CRIMSON#%d teleported#LAST#", "#CRIMSON#  PH0   teletransportado#", "tformat")
+t("#STEEL_BLUE#(%d to time)#LAST#", "#STEEL BLUE#(  PH0     a time)#", "tformat")
+t("Your time shield crumbles under the damage!", "¡Tu escudo temporal se desmorona bajo el daño!", "logPlayer")
+t("#SLATE#%d reflected#LAST#", "#SLATE#  PH0   Reflejado#", "tformat")
+t("#CRIMSON##Source# reflects damage back to #Target#!#LAST#", "#CRIMSON##Source# refleja el daño de vuelta a #Target#", "delayedLogMessage")
+t("Your shield crumbles under the damage!", "¡Tu escudo se desmorona bajo el daño!", "logPlayer")
+t("#CRIMSON##Source# shares some damage with a shadow!", "#CRIMSON# #Source# shares some damage with a shadow!", "delayedLogMessage")
+t("#PINK#(%d linked)#LAST#", "#PINK#(  PH0    linked)#", "tformat")
+t("#PINK#%d linked#LAST#", "#PINK#  PH0   linked#LAST#", "tformat")
+t("#SLATE#(%d deflected)#LAST#", "#SLATE#(  PH0   deflected)#", "tformat")
+t("#STEEL_BLUE#(%d to ice)#LAST#", "#STEEL BLUE#(           al hielo)#", "tformat")
+t("#SLATE#(%d resonance)#LAST#", "#SLATE#(  PH0    resonancia)#", "tformat")
+t("Your resonance field crumbles under the damage!", "¡Tu campo de resonancia se desmorona bajo el daño!", "logPlayer")
+t("%s shatters into pieces!", " PH0   destroza en pedazos!", "logSeen")
+t("#F53CBE#You fight through the pain!", "#F53CBE# Luchas a través del dolor!", "_t")
+t("#F53CBE#Your hatred grows even as your life fades!", "Tu odio crece incluso cuando tu vida se desvanece!", "_t")
+t("%s (+%d hate)", " PH0   (+        Odio)", "tformat")
+t("#F53CBE#Your powerful attack feeds your madness!", "Tu poderoso ataque alimenta tu locura!", "_t")
+t("%s splits in two!", "- ¡Se divide en dos!", "logSeen")
+t("%s#Source# converts some damage to Psi!", " PH0  #Source# convierte algún daño a Psi!", "tformat")
+t("%s%d %s#LAST#", " PH0            PH2  #LAST#", "tformat")
 t("to psi", "to psi", "_t")
-t("#YELLOW#%s has been healed by a blast of positive energy!#LAST#", "#YELLOW#%s has been healed by a blast of positive energy!#LAST#", "logSeen")
-t("%s fades for a moment and then reforms whole again!", "%s fades for a moment and then reforms whole again!", "logSeen")
+t("#YELLOW#%s has been healed by a blast of positive energy!#LAST#", "#YELLOW#  PH0   ha sido sanada por una explosión de energía positiva!#", "logSeen")
+t("%s fades for a moment and then reforms whole again!", " PH0    se desvanece por un momento y luego las reformas completas de nuevo!", "logSeen")
 t("#CRIMSON##Source# leeches life from #Target#!", "#CRIMSON##Source# leeches life from #Target#!", "delayedLogMessage")
-t("#CRIMSON##Source# steals life from #Target#!", "#CRIMSON##Source# steals life from #Target#!", "delayedLogMessage")
-t("#SLATE#(%d to stone)#LAST#", "#SLATE#(%d to stone)#LAST#", "tformat")
-t("#OLIVE_DRAB##Source# redirects damage from #Target# to %s!#LAST#", "#OLIVE_DRAB##Source# redirects damage from #Target# to %s!#LAST#", "delayedLogMessage")
-t("#OLIVE_DRAB#(%d redirected)#LAST#", "#OLIVE_DRAB#(%d redirected)#LAST#", "tformat")
-t("#OLIVE_DRAB#%d redirected#LAST#", "#OLIVE_DRAB#%d redirected#LAST#", "tformat")
-t("#CRIMSON##Source# leeches energies from #Target#!", "#CRIMSON##Source# leeches energies from #Target#!", "delayedLogMessage")
-t("#RED#(%d refused)#LAST#", "#RED#(%d refused)#LAST#", "tformat")
+t("#CRIMSON##Source# steals life from #Target#!", "#CRIMSON##Source# roba la vida de #Target#!", "delayedLogMessage")
+t("#SLATE#(%d to stone)#LAST#", "#SLATE#(  PH0      a stone)#", "tformat")
+t("#OLIVE_DRAB##Source# redirects damage from #Target# to %s!#LAST#", "#OLIVE DRAB##Source# redirige el daño de #Target# a   PH0  !#", "delayedLogMessage")
+t("#OLIVE_DRAB#(%d redirected)#LAST#", "#OLIVE DRAB#(  PH0    redireccionado)#", "tformat")
+t("#OLIVE_DRAB#%d redirected#LAST#", "#OLIVE DRAB#  PH0    redireccionado#LAST#", "tformat")
+t("#CRIMSON##Source# leeches energies from #Target#!", "#CRIMSON##Source# leeches energy from #Target#!", "delayedLogMessage")
+t("#RED#(%d refused)#LAST#", "#RED#(  PH0  se negó)#", "tformat")
 t("#RED##Source# is unstoppable!", "#RED##Source# is unstoppable!", "delayedLogMessage")
-t("RESURRECT!", "RESURRECT!", "_t")
-t("You feel a surge of power as a powerful creature falls nearby.", "You feel a surge of power as a powerful creature falls nearby.", "logPlayer")
-t("%s feeds you hate from its latest victim. (+%d hate)", "%s feeds you hate from its latest victim. (+%d hate)", "logPlayer")
-t("#LIGHT_RED#The cease to exist spell fizzles and cancels, leaving the timeline intact.", "#LIGHT_RED#The cease to exist spell fizzles and cancels, leaving the timeline intact.", "logPlayer")
-t("Prodigy!", "Prodigy!", "_t")
-t("Level 50!", "Level 50!", "_t")
-t("LEVEL UP!", "LEVEL UP!", "_t")
-t("#00ffff#Welcome to level %d [%s].", "#00ffff#Welcome to level %d [%s].", "log")
-t("Press p to use them.", "Press p to use them.", "_t")
-t("Select %s in the party list and press G to use them.", "Select %s in the party list and press G to use them.", "tformat")
-t("%d stat point(s)", "%d stat point(s)", "tformat")
-t("%d class talent point(s)", "%d class talent point(s)", "tformat")
-t("%d generic talent point(s)", "%d generic talent point(s)", "tformat")
-t("%d category point(s)", "%d category point(s)", "tformat")
-t("#VIOLET#%d prodigies point(s)#WHITE#", "#VIOLET#%d prodigies point(s)#WHITE#", "tformat")
-t("%s has %s to spend. %s", "%s has %s to spend. %s", "log")
-t("#AQUAMARINE#You have gained one more life (%d remaining).", "#AQUAMARINE#You have gained one more life (%d remaining).", "logPlayer")
-t("#FF0000#You carry too much--you are encumbered!", "#FF0000#You carry too much--you are encumbered!", "logPlayer")
+t("RESURRECT!", "RESURRECTO!", "_t")
+t("You feel a surge of power as a powerful creature falls nearby.", "Siente una oleada de poder cuando una criatura poderosa cae cerca.", "logPlayer")
+t("%s feeds you hate from its latest victim. (+%d hate)", "Te alimenta de su última víctima. (+  PH1   Odio)", "logPlayer")
+t("#LIGHT_RED#The cease to exist spell fizzles and cancels, leaving the timeline intact.", "#LIGHT RED#El cese de existir pinzas de hechizo y cancela, dejando intacta la cronología.", "logPlayer")
+t("Prodigy!", "¡Prodigy!", "_t")
+t("Level 50!", "¡Nivel 50!", "_t")
+t("LEVEL UP!", "¡ARRIBA!", "_t")
+t("#00ffff#Welcome to level %d [%s].", "#00ff#Welcome to level   PH0    [  PH1   ].", "log")
+t("Press p to use them.", "Presione p para usarlos.", "_t")
+t("Select %s in the party list and press G to use them.", "Seleccione   PH0   en la lista de fiestas y presione G para utilizarlos.", "tformat")
+t("%d stat point(s)", " PH0    punto(s)", "tformat")
+t("%d class talent point(s)", " PH0    puntos de talento de clase", "tformat")
+t("%d generic talent point(s)", " PH0     puntos genéricos de talento", "tformat")
+t("%d category point(s)", " PH0    category point(s)", "tformat")
+t("#VIOLET#%d prodigies point(s)#WHITE#", "#VIOLET#  PH0    prodigies point(s)#WHITE#", "tformat")
+t("%s has %s to spend. %s", "Tiene que pasar.   PH2 ", "log")
+t("#AQUAMARINE#You have gained one more life (%d remaining).", "#AQUAMARINE# Has ganado una vida más (  PH0   restante).", "logPlayer")
+t("#FF0000#You carry too much--you are encumbered!", "#FF0000 #Llevas demasiado... ¡estás ocupado!", "logPlayer")
 t("#FF0000#Drop some of your items.", "#FF0000#Drop some of your items.", "logPlayer")
-t("+ENCUMBERED!", "+ENCUMBERED!", "_t")
-t("#00FF00#You are no longer encumbered.", "#00FF00#You are no longer encumbered.", "logPlayer")
-t("-ENCUMBERED!", "-ENCUMBERED!", "_t")
-t("You cannot switch equipment while sleeping!", "You cannot switch equipment while sleeping!", "logPlayer")
-t("unarmed", "unarmed", "_t")
-t("%s warps space-time to equip: %s.", "%s warps space-time to equip: %s.", "logSeen")
-t("%s switches %s weapons to: %s.", "%s switches %s weapons to: %s.", "logSeen")
-t("%s wears %s%s.", "%s wears %s%s.", "logSeen")
-t("antimagic", "antimagic", "_t")
-t("%s #LIGHT_STEEL_BLUE#Triggers an Anomaly! (%s).", "%s #LIGHT_STEEL_BLUE#Triggers an Anomaly! (%s).", "logSeen")
-t("#STEEL_BLUE#Casting %s.", "#STEEL_BLUE#Casting %s.", "logPlayer")
-t("#STEEL_BLUE#Targeting %s", "#STEEL_BLUE#Targeting %s", "saySimple")
-t("#STEEL_BLUE#You've moved to another time thread.", "#STEEL_BLUE#You've moved to another time thread.", "logPlayer")
-t("#LIGHT_RED#You lose control and unleash an anomaly!", "#LIGHT_RED#You lose control and unleash an anomaly!", "logPlayer")
-t("#LIGHT_RED#You feel the edges of spacetime begin to ripple and bend!", "#LIGHT_RED#You feel the edges of spacetime begin to ripple and bend!", "logPlayer")
-t("#LIGHT_BLUE#Spacetime feels more stable.", "#LIGHT_BLUE#Spacetime feels more stable.", "logPlayer")
-t("#LIGHT_RED#Spacetime fights against your control!", "#LIGHT_RED#Spacetime fights against your control!", "logPlayer")
-t("#LIGHT_BLUE#Spacetime has calmed...  somewhat.", "#LIGHT_BLUE#Spacetime has calmed...  somewhat.", "logPlayer")
-t("You already tried to use %s, an instant use talent, this turn and failed.", "You already tried to use %s, an instant use talent, this turn and failed.", "logPlayer")
-t("%s is too afraid to use %s.", "%s is too afraid to use %s.", "logSeen")
-t("%s is silenced and cannot use %s.", "%s is silenced and cannot use %s.", "logSeen")
-t("The spell fizzles.", "The spell fizzles.", "logSeen")
-t("%s is too disconnected from Nature to use %s.", "%s is too disconnected from Nature to use %s.", "logSeen")
-t("%s is unable to use this kind of inscription.", "%s is unable to use this kind of inscription.", "logSeen")
-t("%s is too heavily armoured to use this talent.", "%s is too heavily armoured to use this talent.", "logSeen")
-t("%s can't use this talent while holding a weapon or shield.", "%s can't use this talent while holding a weapon or shield.", "logSeen")
-t("%s is sleeping and unable to do this.", "%s is sleeping and unable to do this.", "logPlayer")
-t("You %s %s to activate %s.", "You %s %s to activate %s.", "logPlayer")
-t("have too much committed", "have too much committed", "_t")
-t("do not have enough uncommitted", "do not have enough uncommitted", "_t")
-t("You do not have enough feedback to use %s.", "You do not have enough feedback to use %s.", "logPlayer")
-t("You do not have enough fortress energy to use %s.", "You do not have enough fortress energy to use %s.", "logPlayer")
-t("You have too much %s to use %s.", "You have too much %s to use %s.", "logPlayer")
-t("You do not have enough %s to use %s.", "You do not have enough %s to use %s.", "logPlayer")
-t("You fail to use %s due to your equilibrium!", "You fail to use %s due to your equilibrium!", "logPlayer")
-t("%s's %s has been disrupted by #ORCHID#anti-magic forces#LAST#!", "%s's %s has been disrupted by #ORCHID#anti-magic forces#LAST#!", "logSeen")
-t("%s's %s has been disrupted by #ORCHID#anti-nature forces#LAST#!", "%s's %s has been disrupted by #ORCHID#anti-nature forces#LAST#!", "logSeen")
-t("%s's %s has been disrupted by #ORCHID#anti-psionic forces#LAST#!", "%s's %s has been disrupted by #ORCHID#anti-psionic forces#LAST#!", "logSeen")
-t("%s is confused and fails to use %s.", "%s is confused and fails to use %s.", "logSeen")
-t("%s fails to use %s.", "%s fails to use %s.", "logSeen")
-t("%s fumbles and fails to use %s, injuring %s!", "%s fumbles and fails to use %s, injuring %s!", "logSeen")
-t("%s's %s is interrupted by the shot!", "%s's %s is interrupted by the shot!", "logSeen")
-t("%s %s #{bold}##ORANGE#%s#LAST#.#{normal}#", "%s %s #{bold}##ORANGE#%s#LAST#.#{normal}#", "logSeen")
-t("deactivates", "deactivates", "_t")
-t("activates", "activates", "_t")
-t("%s casts #{bold}#%s%s.#{normal}##LAST#", "%s casts #{bold}#%s%s.#{normal}##LAST#", "logSeen")
-t("%s uses #{bold}#%s%s.#{normal}##LAST#", "%s uses #{bold}#%s%s.#{normal}##LAST#", "logSeen")
-t("%s talent '%s%s' is disrupted by the mind parasite.", "%s talent '%s%s' is disrupted by the mind parasite.", "logSeen")
-t("Effective talent level: ", "Effective talent level: ", "_t")
-t("Use mode: ", "Use mode: ", "_t")
-t("Passive", "Passive", "_t")
+t("+ENCUMBERED!", "¡ARRIBA!", "_t")
+t("#00FF00#You are no longer encumbered.", "Ya no estás ocupado.", "logPlayer")
+t("-ENCUMBERED!", "- ¡INCLUSO!", "_t")
+t("You cannot switch equipment while sleeping!", "¡No puedes cambiar el equipo mientras duermes!", "logPlayer")
+t("unarmed", "desarmada", "_t")
+t("%s warps space-time to equip: %s.", " PH0    warps espacio-time to equip:   PH1   .", "logSeen")
+t("%s switches %s weapons to: %s.", " PH0                                                        .", "logSeen")
+t("%s wears %s%s.", " PH0   usa   PH1                 .", "logSeen")
+t("antimagic", "antimagírico", "_t")
+t("%s #LIGHT_STEEL_BLUE#Triggers an Anomaly! (%s).", " PH0   #LIGHT STEEL BLUE#Triggers anomaly! (  PH1   ).", "logSeen")
+t("#STEEL_BLUE#Casting %s.", "#STEEL BLUE#Casting   PH0  .", "logPlayer")
+t("#STEEL_BLUE#Targeting %s", "#STEEL BLUE#Targeting   PH0  ", "saySimple")
+t("#STEEL_BLUE#You've moved to another time thread.", "Te has mudado a otro hilo de tiempo.", "logPlayer")
+t("#LIGHT_RED#You lose control and unleash an anomaly!", "¡Perdiste el control y desatas una anomalía!", "logPlayer")
+t("#LIGHT_RED#You feel the edges of spacetime begin to ripple and bend!", "#LIGHT RED #Sientes que los bordes del espacio comienzan a madurar y doblar!", "logPlayer")
+t("#LIGHT_BLUE#Spacetime feels more stable.", "#LIGHT BLUE#Spacetime se siente más estable.", "logPlayer")
+t("#LIGHT_RED#Spacetime fights against your control!", "#LIGHT RED #Spacetime fights against your control!", "logPlayer")
+t("#LIGHT_BLUE#Spacetime has calmed...  somewhat.", "#LIGHT BLUE#Spacetime ha calmado... un poco.", "logPlayer")
+t("You already tried to use %s, an instant use talent, this turn and failed.", "Ya intentaste usar   PH0  , un talento de uso instantáneo, este giro y falló.", "logPlayer")
+t("%s is too afraid to use %s.", " PH0   tiene demasiado miedo de usar   PH1   .", "logSeen")
+t("%s is silenced and cannot use %s.", " PH0   es silenciado y no puede usar   PH1   .", "logSeen")
+t("The spell fizzles.", "El hechizo brilla.", "logSeen")
+t("%s is too disconnected from Nature to use %s.", " PH0   es demasiado desconectado de la Naturaleza para usar   PH1  .", "logSeen")
+t("%s is unable to use this kind of inscription.", " PH0  es incapaz de usar este tipo de inscripción.", "logSeen")
+t("%s is too heavily armoured to use this talent.", " PH0   es demasiado blindado para usar este talento.", "logSeen")
+t("%s can't use this talent while holding a weapon or shield.", " PH0   no puede usar este talento mientras sostiene un arma o un escudo.", "logSeen")
+t("%s is sleeping and unable to do this.", " PH0   está durmiendo e incapaz de hacer esto.", "logPlayer")
+t("You %s %s to activate %s.", "Usted   PH0     PH1    para activar   PH2   .", "logPlayer")
+t("have too much committed", "han cometido demasiado", "_t")
+t("do not have enough uncommitted", "no tiene suficiente", "_t")
+t("You do not have enough feedback to use %s.", "No tienes suficientes comentarios para usar   PH0   .", "logPlayer")
+t("You do not have enough fortress energy to use %s.", "No tienes suficiente energía de fortaleza para usar   PH0   .", "logPlayer")
+t("You have too much %s to use %s.", "Tienes demasiado   PH0   para usar   PH1   .", "logPlayer")
+t("You do not have enough %s to use %s.", "No tienes suficiente   PH0   para usar   PH1   .", "logPlayer")
+t("You fail to use %s due to your equilibrium!", "¡No puedes usar   PH0  debido a tu equilibrio!", "logPlayer")
+t("%s's %s has been disrupted by #ORCHID#anti-magic forces#LAST#!", " PH0           ha sido interrumpido por fuerzas #ORCHID#anti-magic##LAST#!", "logSeen")
+t("%s's %s has been disrupted by #ORCHID#anti-nature forces#LAST#!", " PH0            ha sido interrumpido por #ORCHID#anti-nature forces#LAST#!", "logSeen")
+t("%s's %s has been disrupted by #ORCHID#anti-psionic forces#LAST#!", " PH0           ha sido interrumpido por fuerzas #ORCHID#anti-psiónicas#LAST#!", "logSeen")
+t("%s is confused and fails to use %s.", " PH0   es confundido y no usa   PH1   .", "logSeen")
+t("%s fails to use %s.", " PH0  no usa   PH1   .", "logSeen")
+t("%s fumbles and fails to use %s, injuring %s!", " PH0    fumbles y fails to use   PH1  , injuring   PH2   !", "logSeen")
+t("%s's %s is interrupted by the shot!", " PH0           es interrumpido por el disparo!", "logSeen")
+t("%s %s #{bold}##ORANGE#%s#LAST#.#{normal}#", "################################################################################################################################################################################################################################################################", "logSeen")
+t("deactivates", "desactivados", "_t")
+t("activates", "activado", "_t")
+t("%s casts #{bold}#%s%s.#{normal}##LAST#", "### PH0                                                                                                                                                            ", "logSeen")
+t("%s uses #{bold}#%s%s.#{normal}##LAST#", " PH0  utiliza #{bold}                   #{normal}###LAST#", "logSeen")
+t("%s talent '%s%s' is disrupted by the mind parasite.", " PH0                                                                                                                                                                                                                                                            .", "logSeen")
+t("Effective talent level: ", "Nivel de talento eficaz:", "_t")
+t("Use mode: ", "Modo de uso:", "_t")
+t("Passive", "Pasivo", "_t")
 t("Sustained", "Sustained", "_t")
-t("Activated", "Activated", "_t")
-t("Feedback cost: ", "Feedback cost: ", "_t")
-t("Fortress Energy cost: ", "Fortress Energy cost: ", "_t")
-t("Sustain feedback cost: ", "Sustain feedback cost: ", "_t")
-t("%s %s: ", "%s %s: ", "tformat")
-t("cost", "cost", "_t")
-t("gain", "gain", "_t")
-t("Sustain %s cost: ", "Sustain %s cost: ", "tformat")
-t("Generates", "Generates", "_t")
-t("Removes", "Removes", "_t")
+t("Activated", "Activado", "_t")
+t("Feedback cost: ", "Costo de retroalimentación:", "_t")
+t("Fortress Energy cost: ", "Fortress Energy cost:", "_t")
+t("Sustain feedback cost: ", "Costo de respuesta sostenido:", "_t")
+t("%s %s: ", " PH0    PH1   ", "tformat")
+t("cost", "costo", "_t")
+t("gain", "ganancia", "_t")
+t("Sustain %s cost: ", "Sustain   PH0    cost:", "tformat")
+t("Generates", "Generados", "_t")
+t("Removes", "Eliminaciones", "_t")
 t("Drains", "Drains", "_t")
-t("Replenishes", "Replenishes", "_t")
-t("Range: ", "Range: ", "_t")
+t("Replenishes", "Reposición", "_t")
+t("Range: ", "Rango:", "_t")
 t("melee/personal", "melee/personal", "_t")
-t("%sCooldown: ", "%sCooldown: ", "tformat")
-t("Fixed ", "Fixed ", "_t")
-t("Travel Speed: ", "Travel Speed: ", "_t")
-t("%d%% of base", "%d%% of base", "tformat")
-t("instantaneous", "instantaneous", "_t")
+t("%sCooldown: ", " PH0 Cooldown:", "tformat")
+t("Fixed ", "Fijación", "_t")
+t("Travel Speed: ", "Velocidad de viaje:", "_t")
+t("%d%% of base", "################################################################################################################################################################################################################################################################", "tformat")
+t("instantaneous", "instantáneo", "_t")
 t("Full Turn", "Full Turn", "_t")
-t("Instant (#LIGHT_GREEN#0%#LAST# of a turn)", "Instant (#LIGHT_GREEN#0%#LAST# of a turn)", "_t")
-t("Special", "Special", "_t")
-t("%s (#LIGHT_GREEN#%d%%#LAST# of a turn)", "%s (#LIGHT_GREEN#%d%%#LAST# of a turn)", "tformat")
-t("Usage Speed: ", "Usage Speed: ", "_t")
-t("Won't Break Stealth:  ", "Won't Break Stealth:  ", "_t")
-t("Is: ", "Is: ", "_t")
-t(" and ", " and ", "_t")
-t("Will Deactivate: ", "Will Deactivate: ", "_t")
-t("Description: ", "Description: ", "_t")
-t("can only learn one evolution", "can only learn one evolution", "_t")
-t("- Not other class or race evolution", "- Not other class or race evolution", "_t")
-t("Automatic use enabled", "Automatic use enabled", "_t")
-t("%s will now be used as often as possible automatically.", "%s will now be used as often as possible automatically.", "tformat")
-t("- requires a turn to use", "- requires a turn to use", "_t")
-t("- requires a target, your last hostile one will be automatically used", "- requires a target, your last hostile one will be automatically used", "_t")
-t("- will only trigger if no enemies are visible", "- will only trigger if no enemies are visible", "_t")
-t("- will automatically target you if a target is required", "- will automatically target you if a target is required", "_t")
-t("- will only trigger if enemies are visible", "- will only trigger if enemies are visible", "_t")
-t("- will only trigger if enemies are visible and adjacent", "- will only trigger if enemies are visible and adjacent", "_t")
-t("- will only trigger if you are not in combat", "- will only trigger if you are not in combat", "_t")
-t("Automatic use", "Automatic use", "_t")
-t("Automatic use disabled", "Automatic use disabled", "_t")
-t("%s will not be automatically used.", "%s will not be automatically used.", "tformat")
-t("%s resists the dispelling of %s!", "%s resists the dispelling of %s!", "logSeen")
-t("#LIGHT_RED#%s starts suffocating to death!", "#LIGHT_RED#%s starts suffocating to death!", "logSeen")
-t("Physical save", "Physical save", "_t")
-t("Mental save", "Mental save", "_t")
-t("Spell save", "Spell save", "_t")
-t("#ORANGE#%s shrugs off %s '%s'!", "#ORANGE#%s shrugs off %s '%s'!", "logCombat")
+t("Instant (#LIGHT_GREEN#0%#LAST# of a turn)", "Instant (#LIGHT GREEN#0%#LAST# de un giro)", "_t")
+t("Special", "Especial", "_t")
+t("%s (#LIGHT_GREEN#%d%%#LAST# of a turn)", " PH0    (#LIGHT GREEN#  PH1  %#### de un giro)", "tformat")
+t("Usage Speed: ", "Velocidad de uso:", "_t")
+t("Won't Break Stealth:  ", "No romperemos Stealth:", "_t")
+t("Is: ", "Es:", "_t")
+t(" and ", "y", "_t")
+t("Will Deactivate: ", "Se desactivará:", "_t")
+t("Description: ", "Descripción:", "_t")
+t("can only learn one evolution", "sólo puede aprender una evolución", "_t")
+t("- Not other class or race evolution", "- No otra clase o evolución racial", "_t")
+t("Automatic use enabled", "Uso automático habilitado", "_t")
+t("%s will now be used as often as possible automatically.", " PH0  se utilizará ahora con la mayor frecuencia posible automáticamente.", "tformat")
+t("- requires a turn to use", "- requiere un giro para usar", "_t")
+t("- requires a target, your last hostile one will be automatically used", "- requiere un objetivo, su último hostil será utilizado automáticamente", "_t")
+t("- will only trigger if no enemies are visible", "- sólo desencadenará si ningún enemigo es visible", "_t")
+t("- will automatically target you if a target is required", "- te apuntará automáticamente si se requiere un objetivo", "_t")
+t("- will only trigger if enemies are visible", "- sólo desencadenará si los enemigos son visibles", "_t")
+t("- will only trigger if enemies are visible and adjacent", "- sólo desencadenará si los enemigos son visibles y adyacentes", "_t")
+t("- will only trigger if you are not in combat", "- sólo activará si no estás en combate", "_t")
+t("Automatic use", "Uso automático", "_t")
+t("Automatic use disabled", "Desactivación automática", "_t")
+t("%s will not be automatically used.", " PH0   no se utilizará automáticamente.", "tformat")
+t("%s resists the dispelling of %s!", " PH0  resiste la disipación de   PH1   !", "logSeen")
+t("#LIGHT_RED#%s starts suffocating to death!", "#LIGHT RED #        comienza a asfixiarse a la muerte!", "logSeen")
+t("Physical save", "Salvación física", "_t")
+t("Mental save", "Salvamento mental", "_t")
+t("Spell save", "Salve de descanso", "_t")
+t("#ORANGE#%s shrugs off %s '%s'!", "#ORANGE#  PH0                                                     !", "logCombat")
 t("#Target#'s", "#Target#'s", "_t")
-t("the effect", "the effect", "_t")
-t("#LIGHT_UMBER#%s resists %s '%s'!", "#LIGHT_UMBER#%s resists %s '%s'!", "logCombat")
-t("but fumbles!", "but fumbles!", "_t")
-t("to the %s!", "to the %s!", "tformat")
-t("#Source# deflects the projectile from #Target# %s", "#Source# deflects the projectile from #Target# %s", "logCombat")
-t("%s reflects the spell!", "%s reflects the spell!", "logSeen")
-t("%s ignores the spell!", "%s ignores the spell!", "logSeen")
-t("You can not drop items while sleeping.", "You can not drop items while sleeping.", "logPlayer")
-t("You can not drop %s (plot item).", "You can not drop %s (plot item).", "logPlayer")
-t("You can not drop %s (tagged).", "You can not drop %s (tagged).", "logPlayer")
-t("Warning", "Warning", "_t")
-t("Any item dropped on the world map will be lost forever.", "Any item dropped on the world map will be lost forever.", "_t")
-t("You destroy %s.", "You destroy %s.", "logPlayer")
-t("You can not destroy %s.", "You can not destroy %s.", "logPlayer")
-t("Cancel", "Cancel", "_t")
-t("Destroy", "Destroy", "_t")
-t("%s drops on the floor: %s.", "%s drops on the floor: %s.", "logSeen")
-t("You cannot change your equipment while sleeping!", "You cannot change your equipment while sleeping!", "logPlayer")
-t("You cannot change your equipment!", "You cannot change your equipment!", "logPlayer")
-t("You had to drop %s due to lack of space.", "You had to drop %s due to lack of space.", "logPlayer")
-t("%s - %sEncumbrance %d/%d", "%s - %sEncumbrance %d/%d", "tformat")
-t("You extract %s from %s", "You extract %s from %s", "logPlayer")
-t("You gain %0.2f gold from the transmogrification of %s.", "You gain %0.2f gold from the transmogrification of %s.", "log")
-t("Transmogrification Chest", "Transmogrification Chest", "_t")
-t("When you close the inventory window, all items in the chest will be transmogrified.", "When you close the inventory window, all items in the chest will be transmogrified.", "_t")
-t("transmogrify", "transmogrify", "_t")
-t("You detach %s from your %s.", "You detach %s from your %s.", "logPlayer")
-t("You can not use a tinker without the corresponding item.", "You can not use a tinker without the corresponding item.", "logPlayer")
-t("This item is not usable: %s.", "This item is not usable: %s.", "logPlayer")
-t("This tinker can not be applied to this item.", "This tinker can not be applied to this item.", "logPlayer")
-t("You already have a tinker on this item.", "You already have a tinker on this item.", "logPlayer")
-t("You attach %s to your %s.", "You attach %s to your %s.", "logPlayer")
-t("You fail to attach %s to %s.", "You fail to attach %s to %s.", "logPlayer")
+t("the effect", "el efecto", "_t")
+t("#LIGHT_UMBER#%s resists %s '%s'!", "#LIGHT UMBER# PH0  resiste   PH1                                                                                                                    !", "logCombat")
+t("but fumbles!", "¡pero fumbles!", "_t")
+t("to the %s!", "a la   PH0  !", "tformat")
+t("#Source# deflects the projectile from #Target# %s", "#Source# deflects the projectile from #Target#   PH0 ", "logCombat")
+t("%s reflects the spell!", " PH0  refleja el hechizo!", "logSeen")
+t("%s ignores the spell!", " PH0   ignora el hechizo!", "logSeen")
+t("You can not drop items while sleeping.", "No puedes dejar objetos mientras duermes.", "logPlayer")
+t("You can not drop %s (plot item).", "Usted no puede caer   PH0   (objetivo de la instalación).", "logPlayer")
+t("You can not drop %s (tagged).", "Usted no puede caer   PH0   (llamada).", "logPlayer")
+t("Warning", "Advertencia", "_t")
+t("Any item dropped on the world map will be lost forever.", "Cualquier artículo caído en el mapa mundial se perderá para siempre.", "_t")
+t("You destroy %s.", "Tú destruyes   PH0  .", "logPlayer")
+t("You can not destroy %s.", "No puedes destruir   PH0  .", "logPlayer")
+t("Cancel", "Cancelar", "_t")
+t("Destroy", "Destrucción", "_t")
+t("%s drops on the floor: %s.", " PH0   gotas en el suelo:   PH1   .", "logSeen")
+t("You cannot change your equipment while sleeping!", "¡No puedes cambiar tu equipo mientras duermes!", "logPlayer")
+t("You cannot change your equipment!", "¡No puedes cambiar tu equipo!", "logPlayer")
+t("You had to drop %s due to lack of space.", "Tuviste que caer   PH0  debido a la falta de espacio.", "logPlayer")
+t("%s - %sEncumbrance %d/%d", " PH0                                                                                                                                                                                                                                                             ", "tformat")
+t("You extract %s from %s", "Extrae   PH0   de   PH1 ", "logPlayer")
+t("You gain %0.2f gold from the transmogrification of %s.", "Ganas   PH0  oro de la transmogrificación de   PH1   .", "log")
+t("Transmogrification Chest", "Chest de transmogrificación", "_t")
+t("When you close the inventory window, all items in the chest will be transmogrified.", "Cuando cierre la ventana del inventario, todos los elementos en el pecho serán transmogrificados.", "_t")
+t("transmogrify", "transmogrificar", "_t")
+t("You detach %s from your %s.", "Te separas   PH0  de tu   PH1   .", "logPlayer")
+t("You can not use a tinker without the corresponding item.", "No se puede utilizar un tinker sin el elemento correspondiente.", "logPlayer")
+t("This item is not usable: %s.", "Este artículo no es utilizable:   PH0  .", "logPlayer")
+t("This tinker can not be applied to this item.", "Este tinker no se puede aplicar a este artículo.", "logPlayer")
+t("You already have a tinker on this item.", "Ya tienes un tinker en este artículo.", "logPlayer")
+t("You attach %s to your %s.", "Usted adjunta   PH0   a su   PH1   .", "logPlayer")
+t("You fail to attach %s to %s.", "No puedes adjuntar   PH0   a   PH1   .", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -24008,36 +24003,36 @@ section "mod-tome/mod/class/EscortRewards.lua"
 
 -- new text
 --[==[
-t("Please help me! I am afraid I lost myself in this place. I know there is a recall portal left around here by a friend, but I have fought too many battles, and I fear I will not make it. Would you help me?", "Please help me! I am afraid I lost myself in this place. I know there is a recall portal left around here by a friend, but I have fought too many battles, and I fear I will not make it. Would you help me?", "_t")
-t("%s, the lost warrior", "%s, the lost warrior", "_t")
-t("He looks tired and wounded.", "He looks tired and wounded.", "_t")
-t("Please help me! I am afraid I lost myself in this place. I know there is a recall portal left around here by a friend, but I will not be able to continue the road alone. Would you help me?", "Please help me! I am afraid I lost myself in this place. I know there is a recall portal left around here by a friend, but I will not be able to continue the road alone. Would you help me?", "_t")
-t("%s, the injured seer", "%s, the injured seer", "_t")
-t("She looks tired and wounded.", "She looks tired and wounded.", "_t")
-t("%s, the repented thief", "%s, the repented thief", "_t")
-t("%s, the lone alchemist", "%s, the lone alchemist", "_t")
-t("%s, the lost sun paladin", "%s, the lost sun paladin", "_t")
-t("%s, the lost defiler", "%s, the lost defiler", "_t")
-t("temporal portal", "temporal portal", "_t")
-t("%s, temporal explorer", "%s, temporal explorer", "_t")
-t("She looks tired and wounded. She is so similar to you and yet completely different. Weird.", "She looks tired and wounded. She is so similar to you and yet completely different. Weird.", "_t")
-t("%s, the worried loremaster", "%s, the worried loremaster", "_t")
+t("Please help me! I am afraid I lost myself in this place. I know there is a recall portal left around here by a friend, but I have fought too many battles, and I fear I will not make it. Would you help me?", "¡Por favor, ayúdame! Me temo que me perdí en este lugar. Sé que hay un portal de memoria dejado por aquí por un amigo, pero he luchado demasiadas batallas, y temo que no lo haré. ¿Me ayudarías?", "_t")
+t("%s, the lost warrior", "El guerrero perdido", "_t")
+t("He looks tired and wounded.", "Parece cansado y herido.", "_t")
+t("Please help me! I am afraid I lost myself in this place. I know there is a recall portal left around here by a friend, but I will not be able to continue the road alone. Would you help me?", "¡Por favor, ayúdame! Me temo que me perdí en este lugar. Sé que hay un portal de memoria dejado por aquí por un amigo, pero no podré continuar el camino solo. ¿Me ayudarías?", "_t")
+t("%s, the injured seer", "El vidente herido", "_t")
+t("She looks tired and wounded.", "Parece cansada y herida.", "_t")
+t("%s, the repented thief", " PH0  , el ladrón arrepentido", "_t")
+t("%s, the lone alchemist", "El alquimista solitario", "_t")
+t("%s, the lost sun paladin", " PH0  , el paladín del sol perdido", "_t")
+t("%s, the lost defiler", "El desfilador perdido", "_t")
+t("temporal portal", "portal temporal", "_t")
+t("%s, temporal explorer", " PH0   , explorador temporal", "_t")
+t("She looks tired and wounded. She is so similar to you and yet completely different. Weird.", "Parece cansada y herida. Ella es tan similar a ti y sin embargo completamente diferente. Qué raro.", "_t")
+t("%s, the worried loremaster", " PH0   , el dueño de la casa", "_t")
 t("mental", "mental", "save name")
-t("spell", "spell", "save name")
-t("physical", "physical", "save name")
-t("Select the party member to receive the reward:", "Select the party member to receive the reward:", "_t")
-t("improved %s by +%d", "improved %s by +%d", "tformat")
-t("[Improve %s by +%d]", "[Improve %s by +%d]", "tformat")
-t("improved %s save by +%d", "improved %s save by +%d", "tformat")
-t("[Improve %s save by +%d]", "[Improve %s save by +%d]", "tformat")
-t("%s talent %s (+%d level(s))", "%s talent %s (+%d level(s))", "tformat")
-t("improved", "improved", "_t")
-t("learnt", "learnt", "_t")
-t("[%s talent %s (+%d level(s))]", "[%s talent %s (+%d level(s))]", "tformat")
-t("Improve", "Improve", "_t")
-t("Learn", "Learn", "_t")
-t("gained talent category %s (at mastery %0.2f)", "gained talent category %s (at mastery %0.2f)", "tformat")
-t("[Allow training of talent category %s (at mastery %0.2f)]", "[Allow training of talent category %s (at mastery %0.2f)]", "tformat")
+t("spell", "hechizo", "save name")
+t("physical", "físico", "save name")
+t("Select the party member to receive the reward:", "Seleccione el miembro del partido para recibir la recompensa:", "_t")
+t("improved %s by +%d", "mejorado   PH0   por +  PH1  ", "tformat")
+t("[Improve %s by +%d]", "[Mejor   PH0    por +  PH1  ]", "tformat")
+t("improved %s save by +%d", "mejorado   PH0   Guardar por +  PH1  ", "tformat")
+t("[Improve %s save by +%d]", "[Mejor   PH0    Guardar por +  PH1   ]", "tformat")
+t("%s talent %s (+%d level(s))", " PH0    talento   PH1    (+  PH2    nivel(s))", "tformat")
+t("improved", "mejorado", "_t")
+t("learnt", "aprender", "_t")
+t("[%s talent %s (+%d level(s))]", "[  PH0    talento   PH1    (+  PH2     nivel(s)]", "tformat")
+t("Improve", "Mejora", "_t")
+t("Learn", "Aprender", "_t")
+t("gained talent category %s (at mastery %0.2f)", "la categoría de talento adquirido   PH0   (en mastery   PH1  )", "tformat")
+t("[Allow training of talent category %s (at mastery %0.2f)]", "[Permitir el entrenamiento de la categoría de talento   PH0    (en mastery   PH1   )]", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -24046,11 +24041,11 @@ section "mod-tome/mod/class/FortressPC.lua"
 
 -- new text
 --[==[
-t("Yiilkgur, the Sher'Tul Fortress", "Yiilkgur, the Sher'Tul Fortress", "_t")
-t("You are unable to move!", "You are unable to move!", "logPlayer")
-t("You have found a trap (%s)!", "You have found a trap (%s)!", "logPlayer")
-t("Do you wish to teleport to the fortress?", "Do you wish to teleport to the fortress?", "_t")
-t("The teleport fizzles!", "The teleport fizzles!", "_t")
+t("Yiilkgur, the Sher'Tul Fortress", "Yiilkgur, la Fortaleza Sher'Tul", "_t")
+t("You are unable to move!", "¡No puedes moverte!", "logPlayer")
+t("You have found a trap (%s)!", "¡Has encontrado una trampa!", "logPlayer")
+t("Do you wish to teleport to the fortress?", "¿Quieres teletransportar a la fortaleza?", "_t")
+t("The teleport fizzles!", "¡Las boquillas de teleporto!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -24059,88 +24054,88 @@ section "mod-tome/mod/class/Game.lua"
 
 -- new text
 --[==[
-t("<Scroll mode, press direction keys to scroll, press again to exit>", "<Scroll mode, press direction keys to scroll, press again to exit>", "_t")
-t("Main character", "Main character", "_t")
-t("Character Creation ( %s unlocked options)", "Character Creation ( %s unlocked options)", "tformat")
-t("Welcome to #LIGHT_BLUE#Tales of Maj'Eyal", "Welcome to #LIGHT_BLUE#Tales of Maj'Eyal", "_t")
-t("%s the %s %s", "%s the %s %s", "tformat")
-t("#LIGHT_RED#You may not change level so soon after a kill (%d game turns left to wait)!", "#LIGHT_RED#You may not change level so soon after a kill (%d game turns left to wait)!", "logPlayer")
-t("#LIGHT_RED#You may not change level without your own body!", "#LIGHT_RED#You may not change level without your own body!", "logPlayer")
-t("#LIGHT_RED#You may not leave the zone with this character!", "#LIGHT_RED#You may not leave the zone with this character!", "logPlayer")
-t("#LIGHT_RED#You cannot escape your fate by leaving the level!", "#LIGHT_RED#You cannot escape your fate by leaving the level!", "logPlayer")
-t("Stay: level %s of %s", "Stay: level %s of %s", "tformat")
-t("Keep Trying: level %s of %s", "Keep Trying: level %s of %s", "tformat")
-t("Log the problem, Stay: level %s of %s", "Log the problem, Stay: level %s of %s", "tformat")
+t("<Scroll mode, press direction keys to scroll, press again to exit>", "■Modo de desplazamiento, teclas de dirección de prensa para desplazarse, presionar de nuevo para salir", "_t")
+t("Main character", "Carácter principal", "_t")
+t("Character Creation ( %s unlocked options)", "Creación de caracteres (   PH0    opciones desbloqueadas)", "tformat")
+t("Welcome to #LIGHT_BLUE#Tales of Maj'Eyal", "Bienvenido a #LIGHT BLUE#Tales de Maj'Eyal", "_t")
+t("%s the %s %s", "¿Por qué", "tformat")
+t("#LIGHT_RED#You may not change level so soon after a kill (%d game turns left to wait)!", "#LIGHT RED#Usted no puede cambiar el nivel tan pronto después de un asesinato (  PH0   juego gira a la izquierda a esperar)!", "logPlayer")
+t("#LIGHT_RED#You may not change level without your own body!", "#LIGHT RED #No puedes cambiar de nivel sin tu propio cuerpo!", "logPlayer")
+t("#LIGHT_RED#You may not leave the zone with this character!", "#LIGHT RED #No puedes dejar la zona con este personaje!", "logPlayer")
+t("#LIGHT_RED#You cannot escape your fate by leaving the level!", "¡No puedes escapar de tu destino dejando el nivel!", "logPlayer")
+t("Stay: level %s of %s", "Nivel   PH0    de   PH1  ", "tformat")
+t("Keep Trying: level %s of %s", "Seguir intentando: nivel   PH0    de   PH1  ", "tformat")
+t("Log the problem, Stay: level %s of %s", "Registra el problema, Estancia: nivel   PH0    de   PH1  ", "tformat")
 t("Debug the problem (move to the failed zone/level)", "Debug the problem (move to the failed zone/level)", "_t")
-t("Information logged", "Information logged", "_t")
+t("Information logged", "Información registrada", "_t")
 t("Information on the failed zone and level dumped to the log file.", "Information on the failed zone and level dumped to the log file.", "_t")
-t("The game could not generate level %s of %s after %s attempts. What do you want to do?", "The game could not generate level %s of %s after %s attempts. What do you want to do?", "tformat")
-t("Level Generation Failure", "Level Generation Failure", "_t")
-t("Loading level", "Loading level", "_t")
-t("Please wait while loading the level...", "Please wait while loading the level...", "_t")
-t("Easy!", "Easy!", "_t")
-t("This zone is so easy for you that you can stroll to the last area with ease.", "This zone is so easy for you that you can stroll to the last area with ease.", "_t")
+t("The game could not generate level %s of %s after %s attempts. What do you want to do?", "El juego no podría generar nivel   PH0    de   PH1   después de los intentos   PH2   . ¿Qué quieres hacer?", "tformat")
+t("Level Generation Failure", "Falta de generación de nivel", "_t")
+t("Loading level", "Nivel de carga", "_t")
+t("Please wait while loading the level...", "Por favor, espera mientras carga el nivel...", "_t")
+t("Easy!", "¡Tranquilo!", "_t")
+t("This zone is so easy for you that you can stroll to the last area with ease.", "Esta zona es tan fácil para usted que puede pasear a la última zona con facilidad.", "_t")
 t("Stroll", "Stroll", "_t")
-t("Stay there", "Stay there", "_t")
-t("You feel a thrill of terror and your heart begins to pound in your chest. You feel terribly threatened upon entering this area.", "You feel a thrill of terror and your heart begins to pound in your chest. You feel terribly threatened upon entering this area.", "_t")
-t("You feel mildly anxious, and walk with caution.", "You feel mildly anxious, and walk with caution.", "_t")
-t("You feel very confident walking into this place.", "You feel very confident walking into this place.", "_t")
-t("You stride into this area without a second thought, while stifling a yawn. You feel your time might be better spent elsewhere.", "You stride into this area without a second thought, while stifling a yawn. You feel your time might be better spent elsewhere.", "_t")
-t("#TEAL#%s", "#TEAL#%s", "log")
-t("Chronomancy", "Chronomancy", "_t")
-t("Folding the space time structure...", "Folding the space time structure...", "_t")
-t("Unfolding the space time structure...", "Unfolding the space time structure...", "_t")
-t("the great unknown", "the great unknown", "_t")
-t("something", "something", "_t")
-t("unknown", "unknown", "entity name")
-t("#Source# hits #Target# for %s (#RED##{bold}#%0.0f#LAST##{normal}# total damage)%s.", "#Source# hits #Target# for %s (#RED##{bold}#%0.0f#LAST##{normal}# total damage)%s.", "logMessage")
-t(" #LIGHT_GREEN#[%0.0f healing]#LAST#", " #LIGHT_GREEN#[%0.0f healing]#LAST#", "tformat")
-t("#Source# hits #Target# for %s damage.", "#Source# hits #Target# for %s damage.", "logMessage")
-t("#Source# receives %s.", "#Source# receives %s.", "logMessage")
-t("#Target# receives %s from #Source#.", "#Target# receives %s from #Source#.", "logMessage")
-t("Kill (%d)!", "Kill (%d)!", "tformat")
-t("#{bold}##Source# killed #Target#!#{normal}#", "#{bold}##Source# killed #Target#!#{normal}#", "_t")
-t("%s", "%s", "log")
-t("Showing big healthbars and tactical borders.", "Showing big healthbars and tactical borders.", "log")
-t("Showing healthbars only.", "Showing healthbars only.", "log")
-t("Showing no tactical information.", "Showing no tactical information.", "log")
-t("Showing small healthbars and tactical borders.", "Showing small healthbars and tactical borders.", "log")
-t("You cannot do that on the world map.", "You cannot do that on the world map.", "logPlayer")
+t("Stay there", "Quédate ahí", "_t")
+t("You feel a thrill of terror and your heart begins to pound in your chest. You feel terribly threatened upon entering this area.", "Siente una emoción de terror y su corazón comienza a golpear en su pecho. Te sientes terriblemente amenazado al entrar en esta zona.", "_t")
+t("You feel mildly anxious, and walk with caution.", "Te sientes ligeramente ansioso y caminas con precaución.", "_t")
+t("You feel very confident walking into this place.", "Te sientes muy confiado al entrar en este lugar.", "_t")
+t("You stride into this area without a second thought, while stifling a yawn. You feel your time might be better spent elsewhere.", "Entras en esta zona sin pensar un segundo, sofocando un bostezo. Crees que tu tiempo podría estar mejor gastado en otro lugar.", "_t")
+t("#TEAL#%s", "#TEAL#  PH0  ", "log")
+t("Chronomancy", "Cronomancy", "_t")
+t("Folding the space time structure...", "Doblando la estructura del tiempo espacial...", "_t")
+t("Unfolding the space time structure...", "Desplegiendo la estructura del tiempo espacial...", "_t")
+t("the great unknown", "el gran desconocido", "_t")
+t("something", "algo", "_t")
+t("unknown", "desconocida", "entity name")
+t("#Source# hits #Target# for %s (#RED##{bold}#%0.0f#LAST##{normal}# total damage)%s.", "#Source# hits #Target# for   PH0    (#RED##{bold}        ##{normal}# total damage) PH2                                                                                                                                                                                                               .", "logMessage")
+t(" #LIGHT_GREEN#[%0.0f healing]#LAST#", "#LIGHT GREEN# ########################################################################################################################################################################################################################################################", "tformat")
+t("#Source# hits #Target# for %s damage.", "#Source# hits #Target# for   PH0    damage.", "logMessage")
+t("#Source# receives %s.", "#Source# receives   PH0  .", "logMessage")
+t("#Target# receives %s from #Source#.", "#Target# recibe   PH0   de #Source#.", "logMessage")
+t("Kill (%d)!", "¡Mata!", "tformat")
+t("#{bold}##Source# killed #Target#!#{normal}#", "####Source# killed #Target# ### {normal}#", "_t")
+t("%s", " PH0 ", "log")
+t("Showing big healthbars and tactical borders.", "Mostrando grandes barras de salud y fronteras tácticas.", "log")
+t("Showing healthbars only.", "Mostrando sólo barras de salud.", "log")
+t("Showing no tactical information.", "No mostrar información táctica.", "log")
+t("Showing small healthbars and tactical borders.", "Mostrando pequeñas barras de salud y fronteras tácticas.", "log")
+t("You cannot do that on the world map.", "No puedes hacer eso en el mapa mundial.", "logPlayer")
 t("Imperium courrier", "Imperium courrier", "_t")
-t("Run in which direction?", "Run in which direction?", "log")
-t("You may not auto-explore this level.", "You may not auto-explore this level.", "log")
-t("You may not auto-explore with enemies in sight (%s to the %s%s)!", "You may not auto-explore with enemies in sight (%s to the %s%s)!", "log")
-t("There is nowhere left to explore.", "There is nowhere left to explore.", "log")
-t("Hotkey page %d is now displayed.", "Hotkey page %d is now displayed.", "log")
-t("You cannot currently leave the level.", "You cannot currently leave the level.", "log")
-t("You cannot go into the wilds with the following effects: %s", "You cannot go into the wilds with the following effects: %s", "log")
-t("There is no way out of this level here.", "There is no way out of this level here.", "log")
-t("Inventory", "Inventory", "_t")
-t("#GOLD#Automatic talent usage: %s", "#GOLD#Automatic talent usage: %s", "log")
-t("#LIGHT_GREEN#enabled", "#LIGHT_GREEN#enabled", "_t")
-t("#LIGHT_RED#disabled", "#LIGHT_RED#disabled", "_t")
-t("#GOLD#Automatic accept target mode: %s", "#GOLD#Automatic accept target mode: %s", "log")
-t("Message Log", "Message Log", "_t")
-t("Displaying creatures.", "Displaying creatures.", "log")
-t("Displaying talents.", "Displaying talents.", "log")
-t("Tooltip %s", "Tooltip %s", "log")
-t("Show Achievements", "Show Achievements", "_t")
+t("Run in which direction?", "¿Corre en qué dirección?", "log")
+t("You may not auto-explore this level.", "Usted no puede autoexplorar este nivel.", "log")
+t("You may not auto-explore with enemies in sight (%s to the %s%s)!", "Usted no puede autoexplorar con enemigos a la vista (  PH0                     )!", "log")
+t("There is nowhere left to explore.", "No queda nada por explorar.", "log")
+t("Hotkey page %d is now displayed.", "Página de Hotkey   PH0   se muestra ahora.", "log")
+t("You cannot currently leave the level.", "Actualmente no puedes dejar el nivel.", "log")
+t("You cannot go into the wilds with the following effects: %s", "Usted no puede entrar en los salvajes con los siguientes efectos:   PH0  ", "log")
+t("There is no way out of this level here.", "No hay salida de este nivel aquí.", "log")
+t("Inventory", "Inventario", "_t")
+t("#GOLD#Automatic talent usage: %s", "#GOLD#Uso automático de talento:   PH0  ", "log")
+t("#LIGHT_GREEN#enabled", "#LIGHT GREEN#enabled", "_t")
+t("#LIGHT_RED#disabled", "#LIGHT RED #disabled", "_t")
+t("#GOLD#Automatic accept target mode: %s", "#GOLD#Automatic accept target mode:   PH0  ", "log")
+t("Message Log", "Mensaje", "_t")
+t("Displaying creatures.", "Mostrando criaturas.", "log")
+t("Displaying talents.", "Mostrando talentos.", "log")
+t("Tooltip %s", "Herramienta   PH0  ", "log")
+t("Show Achievements", "Mostrar logros", "_t")
 t("Tales of Maj'Eyal Achievements", "Tales of Maj'Eyal Achievements", "_t")
 t("Show known Lore", "Show known Lore", "_t")
 t("Tales of Maj'Eyal Lore", "Tales of Maj'Eyal Lore", "_t")
-t("Show ingredients", "Show ingredients", "_t")
-t("Character Sheet", "Character Sheet", "_t")
-t("Game Options", "Game Options", "_t")
-t("Looking around... (direction keys to select interesting things, shift+direction keys to move freely)", "Looking around... (direction keys to select interesting things, shift+direction keys to move freely)", "log")
-t("Movement Mode: #LIGHT_GREEN#Default#LAST#.", "Movement Mode: #LIGHT_GREEN#Default#LAST#.", "log")
-t("Movement Mode: #LIGHT_RED#Passive#LAST#.", "Movement Mode: #LIGHT_RED#Passive#LAST#.", "log")
-t("#GOLD#CHEAT MOVE ACTOR %s: ctrl+shift+alt+right click on an empty map spot to move it", "#GOLD#CHEAT MOVE ACTOR %s: ctrl+shift+alt+right click on an empty map spot to move it", "log")
-t("quitting", "quitting", "_t")
-t("Save and go back to main menu?", "Save and go back to main menu?", "_t")
-t("Save and exit game?", "Save and exit game?", "_t")
-t("saving", "saving", "_t")
-t("Saving game...", "Saving game...", "log")
-t("#ANTIQUE_WHITE#Splash screen unlocked: #GOLD#%s", "#ANTIQUE_WHITE#Splash screen unlocked: #GOLD#%s", "log")
+t("Show ingredients", "Mostrar ingredientes", "_t")
+t("Character Sheet", "Hoja de caracteres", "_t")
+t("Game Options", "Opciones de juego", "_t")
+t("Looking around... (direction keys to select interesting things, shift+direction keys to move freely)", "Mirando alrededor ... ( claves de dirección para seleccionar cosas interesantes, teclas de cambio+dirección para moverse libremente)", "log")
+t("Movement Mode: #LIGHT_GREEN#Default#LAST#.", "Modo de movimiento: #LIGHT GREEN#Default#LAST#.", "log")
+t("Movement Mode: #LIGHT_RED#Passive#LAST#.", "Modo de movimiento: #LIGHT RED#Passive#LAST#.", "log")
+t("#GOLD#CHEAT MOVE ACTOR %s: ctrl+shift+alt+right click on an empty map spot to move it", "#GOLD#CHEAT MOVE ACTOR   PH0  : ctrl+shift+alt+right haga clic en un punto de mapa vacío para moverlo", "log")
+t("quitting", "renunciando", "_t")
+t("Save and go back to main menu?", "Guardar y volver al menú principal?", "_t")
+t("Save and exit game?", "¿Salvar y salir?", "_t")
+t("saving", "ahorro", "_t")
+t("Saving game...", "Juego de ahorro...", "log")
+t("#ANTIQUE_WHITE#Splash screen unlocked: #GOLD#%s", "#ANTIQUE WHITE#Splash screen desbloqueado: #GOLD#  PH0   ", "log")
 --]==]
 
 ------------------------------------------------
@@ -24149,89 +24144,89 @@ section "mod-tome/mod/class/GameState.lua"
 
 -- new text
 --[==[
-t("#AQUAMARINE#Most stores should have new stock now.", "#AQUAMARINE#Most stores should have new stock now.", "log")
-t("glowing", "glowing", "_t")
+t("#AQUAMARINE#Most stores should have new stock now.", "#AQUAMARINE#La mayoría de las tiendas deben tener nuevas acciones ahora.", "log")
+t("glowing", "brillando", "_t")
 t("scintillating", "scintillating", "_t")
-t("rune-covered", "rune-covered", "_t")
-t("unblemished", "unblemished", "_t")
-t("jewel-encrusted", "jewel-encrusted", "_t")
-t("humming", "humming", "_t")
+t("rune-covered", "cubierto de runa", "_t")
+t("unblemished", "sin mancha", "_t")
+t("jewel-encrusted", "joya incrustada", "_t")
+t("humming", "tonta", "_t")
 t("gleaming", "gleaming", "_t")
-t("immaculate", "immaculate", "_t")
-t("flawless", "flawless", "_t")
-t("crackling", "crackling", "_t")
-t("glistening", "glistening", "_t")
-t("plated", "plated", "_t")
-t("twisted", "twisted", "_t")
-t("silvered", "silvered", "_t")
-t("faceted", "faceted", "_t")
-t("faded", "faded", "_t")
+t("immaculate", "inmaculado", "_t")
+t("flawless", "impecable", "_t")
+t("crackling", "crepitante", "_t")
+t("glistening", "brillando", "_t")
+t("plated", "plateado", "_t")
+t("twisted", "torcido", "_t")
+t("silvered", "plateado", "_t")
+t("faceted", "facetada", "_t")
+t("faded", "desvanecido", "_t")
 t("sigiled", "sigiled", "_t")
-t("shadowy", "shadowy", "_t")
-t("laminated", "laminated", "_t")
-t("%s '%s'", "%s '%s'", "tformat")
-t("%s the %s", "%s the %s", "tformat")
-t("Ambush!", "Ambush!", "_t")
-t("You have been ambushed!", "You have been ambushed!", "_t")
-t("Infinite Dungeon Challenge (Level %s): %s", "Infinite Dungeon Challenge (Level %s): %s", "tformat")
+t("shadowy", "sombra", "_t")
+t("laminated", "laminado", "_t")
+t("%s '%s'", " PH0       ", "tformat")
+t("%s the %s", " PH0     PH1  ", "tformat")
+t("Ambush!", "¡Ambush!", "_t")
+t("You have been ambushed!", "¡Te han emboscado!", "_t")
+t("Infinite Dungeon Challenge (Level %s): %s", "Infinito Dungeon Challenge (Level   PH0  ):   PH1  ", "tformat")
 t("Pacifist", "Pacifist", "_t")
-t("Leave the level (to the next level) without killing a single creature. You will get #{italic}#two#{normal}# rewards.", "Leave the level (to the next level) without killing a single creature. You will get #{italic}#two#{normal}# rewards.", "_t")
-t("Exterminator", "Exterminator", "_t")
-t("Exterminate every foe on the level.", "Exterminate every foe on the level.", "_t")
-t("Foes left: #LIGHT_RED#%s", "Foes left: #LIGHT_RED#%s", "tformat")
-t("Rush Hour (%d)", "Rush Hour (%d)", "tformat")
-t("Proceed directly to the next Infinite Dungeon level in less than %d turns (an exit is revealed on your map).", "Proceed directly to the next Infinite Dungeon level in less than %d turns (an exit is revealed on your map).", "tformat")
-t("Turns left: #LIGHT_GREEN#%d", "Turns left: #LIGHT_GREEN#%d", "tformat")
+t("Leave the level (to the next level) without killing a single creature. You will get #{italic}#two#{normal}# rewards.", "Deje el nivel (al siguiente nivel) sin matar a una sola criatura. Tendrás recompensas.", "_t")
+t("Exterminator", "Exterminador", "_t")
+t("Exterminate every foe on the level.", "Extermina cada enemigo en el nivel.", "_t")
+t("Foes left: #LIGHT_RED#%s", "Foes left: #LIGHT RED# PH0  ", "tformat")
+t("Rush Hour (%d)", "Hora de rubor (  PH0  )", "tformat")
+t("Proceed directly to the next Infinite Dungeon level in less than %d turns (an exit is revealed on your map).", "Procede directamente al siguiente nivel de Infinite Dungeon en menos de   PH0   vueltas (una salida se revela en su mapa).", "tformat")
+t("Turns left: #LIGHT_GREEN#%d", "Gira a la izquierda:", "tformat")
 t("\
 #ORCHID# Rush Hour: %s turns left!\
 ", "\
 #ORCHID# Rush Hour: %s turns left!\
 ", "log")
-t("Proceed to the next Infinite Dungeon level! An exit has been marked on your map.", "Proceed to the next Infinite Dungeon level! An exit has been marked on your map.", "_t")
+t("Proceed to the next Infinite Dungeon level! An exit has been marked on your map.", "Proceded al siguiente nivel de Infinite Dungeon! Una salida ha sido marcada en su mapa.", "_t")
 t("Dream Hunter", "Dream Hunter", "_t")
-t("Wake up and kill the dreaming horror boss '%s'.", "Wake up and kill the dreaming horror boss '%s'.", "tformat")
+t("Wake up and kill the dreaming horror boss '%s'.", "Despierta y mata al jefe de terror soñado ' PH0  .", "tformat")
 t("Mirror Match", "Mirror Match", "_t")
-t("Find, challenge, and kill your mirror clone on the level.", "Find, challenge, and kill your mirror clone on the level.", "_t")
-t("An evil twin of %s%s", "An evil twin of %s%s", "tformat")
-t("Mirror Challenge of %s", "Mirror Challenge of %s", "tformat")
-t("but nobody knew why they suddenly became evil", "but nobody knew why they suddenly became evil", "_t")
-t("#ORCHID#%s does not recognize you.", "#ORCHID#%s does not recognize you.", "logPlayer")
-t("Challenge: #PURPLE#Mirror Match", "Challenge: #PURPLE#Mirror Match", "_t")
-t("Challenge your mirror clone and triumph!", "Challenge your mirror clone and triumph!", "_t")
-t("#CRIMSON#The Fight Is Joined!", "#CRIMSON#The Fight Is Joined!", "say")
-t("Refuse", "Refuse", "_t")
-t("Accept", "Accept", "_t")
-t("Challenge: #PURPLE#Near Sighted", "Challenge: #PURPLE#Near Sighted", "_t")
-t("Proceed to the next Infinite Dungeon level with -7 sight range for a reward.", "Proceed to the next Infinite Dungeon level with -7 sight range for a reward.", "_t")
-t("Near Sighted", "Near Sighted", "_t")
-t("Proceed to the next Infinite Dungeon level with -7 sight range.", "Proceed to the next Infinite Dungeon level with -7 sight range.", "_t")
-t("Challenge: #PURPLE#Multiplicity", "Challenge: #PURPLE#Multiplicity", "_t")
-t("All foes (including bosses) gain the ability to multiply up to 3 times.  You must survive for at least %d turns before exiting.", "All foes (including bosses) gain the ability to multiply up to 3 times.  You must survive for at least %d turns before exiting.", "tformat")
-t("Multiplicity", "Multiplicity", "_t")
-t("All foes have the multiply talent!", "All foes have the multiply talent!", "_t")
-t("#LIGHT_GREEN#Multiplicity: You have survived so far. Exit for your reward!", "#LIGHT_GREEN#Multiplicity: You have survived so far. Exit for your reward!", "say")
-t("Survive the multiplicative madness!", "Survive the multiplicative madness!", "_t")
+t("Find, challenge, and kill your mirror clone on the level.", "Encuentra, reta y mata a tu clon de espejo a nivel.", "_t")
+t("An evil twin of %s%s", "Un gemelo maligno de   PH0         ", "tformat")
+t("Mirror Challenge of %s", "Mirror Challenge de   PH0  ", "tformat")
+t("but nobody knew why they suddenly became evil", "pero nadie sabía por qué de repente se hicieron mal", "_t")
+t("#ORCHID#%s does not recognize you.", "No te reconoce.", "logPlayer")
+t("Challenge: #PURPLE#Mirror Match", "Desafío: #PURPLE#Mirror Match", "_t")
+t("Challenge your mirror clone and triumph!", "¡Desafía tu espejo clon y triunfo!", "_t")
+t("#CRIMSON#The Fight Is Joined!", "¡La lucha está unida!", "say")
+t("Refuse", "Rechazar", "_t")
+t("Accept", "Aceptar", "_t")
+t("Challenge: #PURPLE#Near Sighted", "Desafío: #PURPLE#Near Sighted", "_t")
+t("Proceed to the next Infinite Dungeon level with -7 sight range for a reward.", "Procedido al siguiente nivel de Infinite Dungeon con -7 rango de visión para una recompensa.", "_t")
+t("Near Sighted", "Cerca de Visto", "_t")
+t("Proceed to the next Infinite Dungeon level with -7 sight range.", "Procede al siguiente nivel de Infinite Dungeon con -7 rango de vista.", "_t")
+t("Challenge: #PURPLE#Multiplicity", "Desafío: #PURPLE#Multiplicity", "_t")
+t("All foes (including bosses) gain the ability to multiply up to 3 times.  You must survive for at least %d turns before exiting.", "Todos los enemigos (incluidos los jefes) ganan la capacidad de multiplicarse hasta 3 veces. Debes sobrevivir por lo menos   PH0    gira antes de salir.", "tformat")
+t("Multiplicity", "Multiplicidad", "_t")
+t("All foes have the multiply talent!", "¡Todos los enemigos tienen el talento multiplicado!", "_t")
+t("#LIGHT_GREEN#Multiplicity: You have survived so far. Exit for your reward!", "#LIGHT GREEN#Multiplicity: Has sobrevivido hasta ahora. ¡Sal de tu recompensa!", "say")
+t("Survive the multiplicative madness!", "¡Sobrevivir la locura multiplicativa!", "_t")
 t("#rng# the Spawn of Urh'Rok", "#rng# the Spawn of Urh'Rok", "_t")
-t("Challenge: #PURPLE#Headhunter", "Challenge: #PURPLE#Headhunter", "_t")
-t("Kill %d spawns of Urh'Rok on the level before killing any other elite (or higher rank) creatures, for an uncommon reward.", "Kill %d spawns of Urh'Rok on the level before killing any other elite (or higher rank) creatures, for an uncommon reward.", "tformat")
+t("Challenge: #PURPLE#Headhunter", "Desafío: #PURPLE#Headhunter", "_t")
+t("Kill %d spawns of Urh'Rok on the level before killing any other elite (or higher rank) creatures, for an uncommon reward.", "Matar   PH0    los de Urh'Rok en el nivel antes de matar a cualquier otra élite (o rango superior) criaturas, por una recompensa poco común.", "tformat")
 t("Headhunter", "Headhunter", "_t")
-t("Kill %d spawns of Urh'Rok on the level before killing any elite creatures.", "Kill %d spawns of Urh'Rok on the level before killing any elite creatures.", "tformat")
-t("%d / %d demon spawn killed.", "%d / %d demon spawn killed.", "tformat")
-t("#ORCHID#You claim the head of %s, giving pause to all foes on the level.", "#ORCHID#You claim the head of %s, giving pause to all foes on the level.", "say")
-t("Random Artifact", "Random Artifact", "_t")
-t("Random Artifact: %s", "Random Artifact: %s", "tformat")
-t("+3 Stat Points", "+3 Stat Points", "_t")
-t("+1 Class Point", "+1 Class Point", "_t")
-t("+1 Generic Point", "+1 Generic Point", "_t")
-t("+1 Category Point", "+1 Category Point", "_t")
+t("Kill %d spawns of Urh'Rok on the level before killing any elite creatures.", "Matar   PH0    los espasones de Urh'Rok en el nivel antes de matar a cualquier criatura de élite.", "tformat")
+t("%d / %d demon spawn killed.", "El demonio murió.", "tformat")
+t("#ORCHID#You claim the head of %s, giving pause to all foes on the level.", "#ORCHID#Usted reclama la cabeza de   PH0  , dando pausa a todos los enemigos en el nivel.", "say")
+t("Random Artifact", "Objeto aleatorio", "_t")
+t("Random Artifact: %s", "Objeto aleatorio:   PH0  ", "tformat")
+t("+3 Stat Points", "+3 puntos de referencia", "_t")
+t("+1 Class Point", "+1 punto de clase", "_t")
+t("+1 Generic Point", "+1 Punto Genérico", "_t")
+t("+1 Category Point", "+1 Punto de Categoría", "_t")
 t("+1 Prodigy Point", "+1 Prodigy Point", "_t")
-t(" and ", " and ", "_t")
-t("#OLIVE_DRAB#%s: %s", "#OLIVE_DRAB#%s: %s", "tformat")
-t("Rewards", "Rewards", "_t")
-t("Reward", "Reward", "_t")
-t("#LIGHT_BLUE#%s has received: %s.", "#LIGHT_BLUE#%s has received: %s.", "log")
-t("#LIGHT_GREEN#%s", "#LIGHT_GREEN#%s", "logPlayer")
-t("You have unlocked a new talent: %s!", "You have unlocked a new talent: %s!", "tformat")
+t(" and ", "y", "_t")
+t("#OLIVE_DRAB#%s: %s", "#OLIVE DRAB#  PH0      PH1  ", "tformat")
+t("Rewards", "Las recompensas", "_t")
+t("Reward", "Recompensa", "_t")
+t("#LIGHT_BLUE#%s has received: %s.", "#LIGHT BLUE#  PH0   ha recibido:   PH1   .", "log")
+t("#LIGHT_GREEN#%s", "#LIGHT GREEN#", "logPlayer")
+t("You have unlocked a new talent: %s!", "Has desbloqueado un nuevo talento:   PH0   !", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -24240,25 +24235,25 @@ section "mod-tome/mod/class/Grid.lua"
 
 -- new text
 --[==[
-t("Open", "Open", "_t")
-t("Leave", "Leave", "_t")
-t("%s", "%s", "logSeen")
+t("Open", "Abierto", "_t")
+t("Leave", "Vete", "_t")
+t("%s", " PH0 ", "logSeen")
 t("spot", "spot", "_t")
-t("%s's %s", "%s's %s", "tformat")
-t(" (range: ", " (range: ", "_t")
-t("Min.level: ", "Min.level: ", "_t")
-t("Max.level: ", "Max.level: ", "_t")
-t("Never visited yet", "Never visited yet", "_t")
-t("In sight", "In sight", "_t")
+t("%s's %s", " PH0    ", "tformat")
+t(" (range: ", "(range:", "_t")
+t("Min.level: ", "Min.level:", "_t")
+t("Max.level: ", "Max.level:", "_t")
+t("Never visited yet", "Nunca has visitado", "_t")
+t("In sight", "A la vista", "_t")
 t("Lit", "Lit", "_t")
-t("Blocks sight", "Blocks sight", "_t")
-t("Blocks movement", "Blocks movement", "_t")
-t("Special breathing method required", "Special breathing method required", "_t")
+t("Blocks sight", "Bloques de vista", "_t")
+t("Blocks movement", "Movimiento de bloques", "_t")
+t("Special breathing method required", "Método respiratorio especial requerido", "_t")
 t("Diggable", "Diggable", "_t")
-t("Cannot teleport to this place", "Cannot teleport to this place", "_t")
-t("Coords: ", "Coords: ", "_t")
-t("map attrs: ", "map attrs: ", "_t")
-t("#VIOLET#You hear a mechanism clicking.", "#VIOLET#You hear a mechanism clicking.", "log")
+t("Cannot teleport to this place", "No se puede teletransportar a este lugar", "_t")
+t("Coords: ", "Coords:", "_t")
+t("map attrs: ", "mapa attrs:", "_t")
+t("#VIOLET#You hear a mechanism clicking.", "#VIOLET#Oyes un mecanismo haciendo clic.", "log")
 --]==]
 
 ------------------------------------------------
@@ -24267,9 +24262,9 @@ section "mod-tome/mod/class/MapEffects.lua"
 
 -- new text
 --[==[
-t(" area effect", " area effect", "_t")
-t("area effect", "area effect", "_t")
-t("%s's %s", "%s's %s", "tformat")
+t(" area effect", "efecto de la zona", "_t")
+t("area effect", "efecto de la zona", "_t")
+t("%s's %s", " PH0    ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -24278,16 +24273,16 @@ section "mod-tome/mod/class/NPC.lua"
 
 -- new text
 --[==[
-t("#PINK#Your summoned %s disappears.", "#PINK#Your summoned %s disappears.", "logPlayer")
-t("her", "her", "_t")
-t("him", "him", "_t")
-t("Killed by you: %s", "Killed by you: %s", "tformat")
-t("Target: ", "Target: ", "_t")
-t("none", "none", "_t")
-t(" looking %s", " looking %s", "tformat")
-t(" looking at you.", " looking at you.", "_t")
-t("UID: ", "UID: ", "_t")
-t("%s says: '%s'", "%s says: '%s'", "logSeen")
+t("#PINK#Your summoned %s disappears.", "Tu llamada desaparece.", "logPlayer")
+t("her", "ella", "_t")
+t("him", "él", "_t")
+t("Killed by you: %s", "Asesinado por ti", "tformat")
+t("Target: ", "Meta:", "_t")
+t("none", "ninguno", "_t")
+t(" looking %s", "buscando   PH0 ", "tformat")
+t(" looking at you.", "mírate.", "_t")
+t("UID: ", "UID:", "_t")
+t("%s says: '%s'", " PH0   dice: '         ", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -24296,320 +24291,320 @@ section "mod-tome/mod/class/Object.lua"
 
 -- new text
 --[==[
-t("Massive armour training", "Massive armour training", "_t")
-t("Heavy armour training", "Heavy armour training", "_t")
-t("Shield usage training", "Shield usage training", "_t")
-t("Can not use an item in the transmogrification chest.", "Can not use an item in the transmogrification chest.", "_t")
-t("This object has no usable power.", "This object has no usable power.", "_t")
-t("You cannot use items now!", "You cannot use items now!", "_t")
-t("You cannot see!", "You cannot see!", "_t")
-t("You are silenced!", "You are silenced!", "_t")
-t("You must wear this object to use it!", "You must wear this object to use it!", "_t")
-t("You can not use items during a battle frenzy!", "You can not use items during a battle frenzy!", "_t")
-t("You can not use objects while sleeping!", "You can not use objects while sleeping!", "_t")
-t("Your antimagic disrupts %s.", "Your antimagic disrupts %s.", "tformat")
-t("Object can be used.", "Object can be used.", "_t")
-t("%s is still recharging.", "%s is still recharging.", "logPlayer")
-t("%s can not be used anymore.", "%s can not be used anymore.", "logPlayer")
-t("You see one more object.", "You see one more object.", "_t")
-t("You see %d more objects.", "You see %d more objects.", "tformat")
-t("%d%% power", "%d%% power", "tformat")
-t("%d-%d power", "%d-%d power", "tformat")
-t(" / ", " / ", "_t")
-t("%0.2f %s", "%0.2f %s", "tformat")
-t("%s%0.2f/turn", "%s%0.2f/turn", "tformat")
-t("%s, %s apr", "%s, %s apr", "tformat")
-t("%d/%d, %s, %s apr", "%d/%d, %s, %s apr", "tformat")
-t("%s, %d apr, %s damage", "%s, %d apr, %s damage", "tformat")
-t("%s, %d apr, %s element", "%s, %d apr, %s element", "tformat")
-t("%s, %s block", "%s, %s block", "tformat")
-t("%s block", "%s block", "tformat")
-t("%s def, %s armour", "%s def, %s armour", "tformat")
-t("%s accuracy, %s apr, %s power", "%s accuracy, %s apr, %s power", "tformat")
-t("worth %0.2f", "worth %0.2f", "tformat")
-t("dig speed %d turns", "dig speed %d turns", "tformat")
-t(" [power %d]", " [power %d]", "tformat")
-t(" (%d/%d cooldown)", " (%d/%d cooldown)", "tformat")
-t(" (%d cooldown)", " (%d cooldown)", "tformat")
-t("object", "object", "_t")
-t("%s, %sspecial#LAST#", "%s, %sspecial#LAST#", "tformat")
-t("%s, %sego#LAST#", "%s, %sego#LAST#", "tformat")
-t("Accuracy bonus: ", "Accuracy bonus: ", "_t")
-t(" crit mult (max 40%)", " crit mult (max 40%)", "_t")
-t(" crit chance (max 25%)", " crit chance (max 25%)", "_t")
-t(" base dam (max 20%)", " base dam (max 20%)", "_t")
-t(" proc dam (max 200%)", " proc dam (max 200%)", "_t")
-t(" APR (max 50%)", " APR (max 50%)", "_t")
-t("%d%% %s", "%d%% %s", "tformat")
-t("Power: %3d%% (%s)  Range: %.1fx (%s)", "Power: %3d%% (%s)  Range: %.1fx (%s)", "tformat")
-t("Power: %3d%%  Range: %.1fx", "Power: %3d%%  Range: %.1fx", "tformat")
-t("Base power: %.1f - %.1f", "Base power: %.1f - %.1f", "tformat")
-t("Uses %s: %s", "Uses %s: %s", "tformat")
-t("stats", "stats", "_t")
+t("Massive armour training", "Formación de armaduras masivas", "_t")
+t("Heavy armour training", "Formación de armadura pesada", "_t")
+t("Shield usage training", "Formación de uso de escudos", "_t")
+t("Can not use an item in the transmogrification chest.", "No puede usar un artículo en el pecho de transmogrificación.", "_t")
+t("This object has no usable power.", "Este objeto no tiene poder usable.", "_t")
+t("You cannot use items now!", "¡Ahora no puedes usar artículos!", "_t")
+t("You cannot see!", "¡No puedes ver!", "_t")
+t("You are silenced!", "¡Estás silenciado!", "_t")
+t("You must wear this object to use it!", "¡Debes usar este objeto para usarlo!", "_t")
+t("You can not use items during a battle frenzy!", "¡No puedes usar objetos durante un frenesí de batalla!", "_t")
+t("You can not use objects while sleeping!", "¡No puedes usar objetos mientras duermes!", "_t")
+t("Your antimagic disrupts %s.", "Tus trastornos antimagicos   PH0   .", "tformat")
+t("Object can be used.", "El objeto puede ser usado.", "_t")
+t("%s is still recharging.", " PH0  sigue recargando.", "logPlayer")
+t("%s can not be used anymore.", " PH0   ya no se puede utilizar.", "logPlayer")
+t("You see one more object.", "Ves un objeto más.", "_t")
+t("You see %d more objects.", "Verás más objetos.", "tformat")
+t("%d%% power", "################################################################################################################################################################################################################################################################", "tformat")
+t("%d-%d power", " PH0             ", "tformat")
+t(" / ", "/", "_t")
+t("%0.2f %s", " PH0    PH1 ", "tformat")
+t("%s%0.2f/turn", " PH0           ", "tformat")
+t("%s, %s apr", " PH0   ,   PH1   apr", "tformat")
+t("%d/%d, %s, %s apr", " PH0                               ", "tformat")
+t("%s, %d apr, %s damage", " PH0  ,   PH1    apr,   PH2   daño", "tformat")
+t("%s, %d apr, %s element", " PH0  ,   PH1    apr,   PH2   element", "tformat")
+t("%s, %s block", " PH0   ,   PH1   bloque", "tformat")
+t("%s block", "Bloqueo", "tformat")
+t("%s def, %s armour", " PH0   def,   PH1    armadura", "tformat")
+t("%s accuracy, %s apr, %s power", " PH0              apr,   PH2      power", "tformat")
+t("worth %0.2f", "vale la pena", "tformat")
+t("dig speed %d turns", "velocidad de excavación   PH0   vueltas", "tformat")
+t(" [power %d]", "[poder   PH0  ]", "tformat")
+t(" (%d/%d cooldown)", "(  PH0           enfriamiento)", "tformat")
+t(" (%d cooldown)", "(  PH0   enfriamiento)", "tformat")
+t("object", "objeto", "_t")
+t("%s, %sspecial#LAST#", " PH0   ,   PH1  especial#", "tformat")
+t("%s, %sego#LAST#", " PH0     PH1 ego#LAST#", "tformat")
+t("Accuracy bonus: ", "Bono de precisión:", "_t")
+t(" crit mult (max 40%)", "mult (max 40%)", "_t")
+t(" crit chance (max 25%)", "crit chance (max 25%)", "_t")
+t(" base dam (max 20%)", "represa base (máximo 20%)", "_t")
+t(" proc dam (max 200%)", "proc dam (max 200%)", "_t")
+t(" APR (max 50%)", "APR (max 50%)", "_t")
+t("%d%% %s", " PH0  %%   PH1 ", "tformat")
+t("Power: %3d%% (%s)  Range: %.1fx (%s)", "Power:   PH0  %% (  PH1   ) Range:   PH2  x (  PH3   )", "tformat")
+t("Power: %3d%%  Range: %.1fx", "Power:   PH0  %% Rango:   PH1  x", "tformat")
+t("Base power: %.1f - %.1f", "Potencia base:   PH0     PH1  ", "tformat")
+t("Uses %s: %s", "Usos   PH0     PH1 ", "tformat")
+t("stats", "estadísticas", "_t")
 t("stat", "stat", "_t")
-t("Damage type: ", "Damage type: ", "_t")
-t("Mastery: ", "Mastery: ", "_t")
-t("Accuracy is based on willpower for this weapon.", "Accuracy is based on willpower for this weapon.", "_t")
-t("Accuracy: ", "Accuracy: ", "_t")
-t("Armour Penetration: ", "Armour Penetration: ", "_t")
-t("Crit. chance: ", "Crit. chance: ", "_t")
-t("Crit. power: ", "Crit. power: ", "_t")
-t("Attack speed: ", "Attack speed: ", "_t")
-t("Block value: ", "Block value: ", "_t")
-t("Dam. multiplier: ", "Dam. multiplier: ", "_t")
-t("Firing range: ", "Firing range: ", "_t")
-t("Capacity: ", "Capacity: ", "_t")
-t("Reload speed: ", "Reload speed: ", "_t")
-t("Turns elapse between self-loadings: ", "Turns elapse between self-loadings: ", "_t")
-t("When this weapon hits: %s (%d%% chance level %d).", "When this weapon hits: %s (%d%% chance level %d).", "tformat")
-t("When this weapon crits: %s (%d%% chance level %d).", "When this weapon crits: %s (%d%% chance level %d).", "tformat")
+t("Damage type: ", "Tipo de daño:", "_t")
+t("Mastery: ", "Mastery:", "_t")
+t("Accuracy is based on willpower for this weapon.", "La precisión se basa en la fuerza de voluntad de este arma.", "_t")
+t("Accuracy: ", "Precisión:", "_t")
+t("Armour Penetration: ", "Armour Penetration:", "_t")
+t("Crit. chance: ", "Crit. chance:", "_t")
+t("Crit. power: ", "Crit. power:", "_t")
+t("Attack speed: ", "Velocidad de ataque:", "_t")
+t("Block value: ", "Valor de bloque:", "_t")
+t("Dam. multiplier: ", "Dam. multiplicador:", "_t")
+t("Firing range: ", "Rango de fijación:", "_t")
+t("Capacity: ", "Capacidad:", "_t")
+t("Reload speed: ", "Velocidad de recarga:", "_t")
+t("Turns elapse between self-loadings: ", "Pasa el paso entre auto-cargas:", "_t")
+t("When this weapon hits: %s (%d%% chance level %d).", "Cuando este arma golpea:   PH0       %%% nivel de probabilidad   PH2   ).", "tformat")
+t("When this weapon crits: %s (%d%% chance level %d).", "Cuando este arma crits:   PH0         %% nivel de probabilidad   PH2   ).", "tformat")
 t("#YELLOW#On weapon hit:#LAST#", "#YELLOW#On weapon hit:#LAST#", "_t")
 t("#YELLOW#On weapon crit:#LAST#", "#YELLOW#On weapon crit:#LAST#", "_t")
 t("#YELLOW#On weapon kill:#LAST#", "#YELLOW#On weapon kill:#LAST#", "_t")
-t("When used from stealth a simple attack with it will not break stealth.", "When used from stealth a simple attack with it will not break stealth.", "_t")
-t("Crushing Blows: ", "Crushing Blows: ", "_t")
-t("Damage dealt by this weapon is increased by half your critical multiplier, if doing so would kill the target.", "Damage dealt by this weapon is increased by half your critical multiplier, if doing so would kill the target.", "_t")
-t("Travel speed: ", "Travel speed: ", "_t")
-t("Damage Shield penetration (this weapon only): ", "Damage Shield penetration (this weapon only): ", "_t")
-t("Lifesteal (this weapon only): ", "Lifesteal (this weapon only): ", "_t")
-t("Multiple attacks: ", "Multiple attacks: ", "_t")
-t("Multiple attacks procs power reduction: ", "Multiple attacks procs power reduction: ", "_t")
-t("Shots beam through all targets.", "Shots beam through all targets.", "_t")
-t("Damage (Melee): ", "Damage (Melee): ", "_t")
-t(" %s", " %s", "tformat")
-t("Damage (Ranged): ", "Damage (Ranged): ", "_t")
-t("Damage (radius 1) on hit: ", "Damage (radius 1) on hit: ", "_t")
-t("Damage (radius 2) on crit: ", "Damage (radius 2) on crit: ", "_t")
-t("Damage conversion: ", "Damage conversion: ", "_t")
-t("Damage against: ", "Damage against: ", "_t")
-t("#ORANGE#Attacks use: #LAST#", "#ORANGE#Attacks use: #LAST#", "_t")
+t("When used from stealth a simple attack with it will not break stealth.", "Cuando se usa de robar un simple ataque con él no romperá el robo.", "_t")
+t("Crushing Blows: ", "Flujos de trituración:", "_t")
+t("Damage dealt by this weapon is increased by half your critical multiplier, if doing so would kill the target.", "Los daños causados por este arma aumentan en la mitad de su multiplicador crítico, si lo hace mataría al objetivo.", "_t")
+t("Travel speed: ", "Velocidad de viaje:", "_t")
+t("Damage Shield penetration (this weapon only): ", "La penetración del escudo de daños (esta arma solamente):", "_t")
+t("Lifesteal (this weapon only): ", "Lifesteal (esta arma solamente):", "_t")
+t("Multiple attacks: ", "Múltiples ataques:", "_t")
+t("Multiple attacks procs power reduction: ", "Multiple attacks procs power reduction:", "_t")
+t("Shots beam through all targets.", "Los disparos atraviesan todos los objetivos.", "_t")
+t("Damage (Melee): ", "Daño (Melee):", "_t")
+t(" %s", " PH0 ", "tformat")
+t("Damage (Ranged): ", "Daño (Ranged):", "_t")
+t("Damage (radius 1) on hit: ", "Daño (radius 1) en golpe:", "_t")
+t("Damage (radius 2) on crit: ", "Daño (radius 2) en el delito:", "_t")
+t("Damage conversion: ", "Conversión de daños:", "_t")
+t("Damage against: ", "Daño contra:", "_t")
+t("#ORANGE#Attacks use: #LAST#", "#ORANGE #Attacks use: #LAST#", "_t")
 t("[Plot Item]", "[Plot Item]", "_t")
 t("[Cosmetic Item]", "[Cosmetic Item]", "_t")
 t("[Legendary]", "[Legendary]", "_t")
 t("[Godslayer]", "[Godslayer]", "_t")
 t("[Random Unique]", "[Random Unique]", "_t")
 t("[Unique]", "[Unique]", "_t")
-t("Type: %s / %s", "Type: %s / %s", "tformat")
-t("unknown", "unknown", "_t")
-t(" ; tier ", " ; tier ", "_t")
-t("It must be held with both hands.", "It must be held with both hands.", "_t")
-t("It can be used as a weapon and offhand.", "It can be used as a weapon and offhand.", "_t")
-t("Weapon Damage: ", "Weapon Damage: ", "_t")
-t(", ", ", ", "_t")
-t("#YELLOW#It can cause special effects when it strikes in combat.#LAST#", "#YELLOW#It can cause special effects when it strikes in combat.#LAST#", "_t")
-t("#ORCHID#It can cause special effects when a melee attack is blocked.#LAST#", "#ORCHID#It can cause special effects when a melee attack is blocked.#LAST#", "_t")
-t("It %s ambient light (%+d radius).", "It %s ambient light (%+d radius).", "tformat")
-t("provides", "provides", "_t")
+t("Type: %s / %s", "Tipo:   PH0     PH1  ", "tformat")
+t("unknown", "desconocida", "_t")
+t(" ; tier ", "; tier", "_t")
+t("It must be held with both hands.", "Debe ser retenido con ambas manos.", "_t")
+t("It can be used as a weapon and offhand.", "Se puede utilizar como arma y fuera de la mano.", "_t")
+t("Weapon Damage: ", "Daño al arma:", "_t")
+t(", ", ",", "_t")
+t("#YELLOW#It can cause special effects when it strikes in combat.#LAST#", "#YELLOW#Puede causar efectos especiales cuando golpea en combate. #LAST#", "_t")
+t("#ORCHID#It can cause special effects when a melee attack is blocked.#LAST#", "#ORCHID#Puede causar efectos especiales cuando se bloquea un ataque de meleo. #LAST#", "_t")
+t("It %s ambient light (%+d radius).", " PH0   luz ambiente (%+d radio).", "tformat")
+t("provides", "prestaciones", "_t")
 t("dims", "dims", "_t")
-t("#ORANGE#It has an activatable power.#LAST#", "#ORANGE#It has an activatable power.#LAST#", "_t")
-t("It is part of a set of items.", "It is part of a set of items.", "_t")
-t("The set is complete.", "The set is complete.", "_t")
-t("%+d #LAST#(%+d eff.)", "%+d #LAST#(%+d eff.)", "_t")
-t("Armour penetration: ", "Armour penetration: ", "_t")
-t("Physical crit. chance: ", "Physical crit. chance: ", "_t")
-t("Physical power: ", "Physical power: ", "_t")
-t("Armour: ", "Armour: ", "_t")
-t("Armour Hardiness: ", "Armour Hardiness: ", "_t")
-t("Defense: ", "Defense: ", "_t")
-t("Ranged Defense: ", "Ranged Defense: ", "_t")
-t("Fatigue: ", "Fatigue: ", "_t")
-t("Ammo reloads per turn: ", "Ammo reloads per turn: ", "_t")
-t("Effects on melee hit: ", "Effects on melee hit: ", "_t")
-t("Effects on ranged hit: ", "Effects on ranged hit: ", "_t")
-t("Effects when hit in melee: ", "Effects when hit in melee: ", "_t")
-t("Damage when hit (Melee): ", "Damage when hit (Melee): ", "_t")
-t("No left", "No left", "log")
-t("No right", "No right", "log")
-t("#YELLOW#On shield block:#LAST#", "#YELLOW#On shield block:#LAST#", "_t")
-t("Changes stats: ", "Changes stats: ", "_t")
-t("Changes resistances: ", "Changes resistances: ", "_t")
-t("all", "all", "_t")
-t("Changes resistances cap: ", "Changes resistances cap: ", "_t")
-t("Reduce damage by fixed amount: ", "Reduce damage by fixed amount: ", "_t")
-t("Maximum wards: ", "Maximum wards: ", "_t")
-t("Changes resistances penetration: ", "Changes resistances penetration: ", "_t")
-t("Changes damage: ", "Changes damage: ", "_t")
-t("Reduced damage from: ", "Reduced damage from: ", "_t")
-t("Talent category bonus: ", "Talent category bonus: ", "_t")
-t("Damage affinity(heal): ", "Damage affinity(heal): ", "_t")
-t("Change telepathy range by : ", "Change telepathy range by : ", "_t")
-t("All", "All", "_t")
-t("Grants telepathy: ", "Grants telepathy: ", "_t")
-t("Talent %s: ", "Talent %s: ", "tformat")
+t("#ORANGE#It has an activatable power.#LAST#", "Tiene una potencia activable", "_t")
+t("It is part of a set of items.", "Es parte de un conjunto de artículos.", "_t")
+t("The set is complete.", "El set está completo.", "_t")
+t("%+d #LAST#(%+d eff.)", "%+d #LAST#(%+d eff)", "_t")
+t("Armour penetration: ", "Penetración de armadura:", "_t")
+t("Physical crit. chance: ", "Criterio físico. oportunidad:", "_t")
+t("Physical power: ", "Poder físico:", "_t")
+t("Armour: ", "Armour:", "_t")
+t("Armour Hardiness: ", "Armour Hardiness:", "_t")
+t("Defense: ", "Defensa:", "_t")
+t("Ranged Defense: ", "Defensa Ranged:", "_t")
+t("Fatigue: ", "Fatiga:", "_t")
+t("Ammo reloads per turn: ", "Recargas de munición por turno:", "_t")
+t("Effects on melee hit: ", "Efectos en el golpe de melee:", "_t")
+t("Effects on ranged hit: ", "Efectos sobre el impacto extendido:", "_t")
+t("Effects when hit in melee: ", "Efectos cuando se golpea en melee:", "_t")
+t("Damage when hit (Melee): ", "Daño al golpe (Melee):", "_t")
+t("No left", "No izquierda", "log")
+t("No right", "No hay derecho", "log")
+t("#YELLOW#On shield block:#LAST#", "#YELLOW# On blind block:#LAST#", "_t")
+t("Changes stats: ", "Estadísticas de cambio:", "_t")
+t("Changes resistances: ", "Cambios de resistencias:", "_t")
+t("all", "todos", "_t")
+t("Changes resistances cap: ", "Cambios de resistencias cap:", "_t")
+t("Reduce damage by fixed amount: ", "Reducir el daño por cantidad fija:", "_t")
+t("Maximum wards: ", "Máximas salas:", "_t")
+t("Changes resistances penetration: ", "Cambios resistencias penetración:", "_t")
+t("Changes damage: ", "Cambios de daño:", "_t")
+t("Reduced damage from: ", "Reducción del daño de:", "_t")
+t("Talent category bonus: ", "Bono de categoría de talento:", "_t")
+t("Damage affinity(heal): ", "Afinidad de daño(salir):", "_t")
+t("Change telepathy range by : ", "Cambiar el rango de telepatía por:", "_t")
+t("All", "Todos", "_t")
+t("Grants telepathy: ", "Grants telepathy:", "_t")
+t("Talent %s: ", "Talento   PH0  :", "tformat")
 t("masteries", "masteries", "_t")
-t("mastery", "mastery", "_t")
-t("%s cooldown:", "%s cooldown:", "tformat")
-t("Talents", "Talents", "_t")
-t("Talent", "Talent", "_t")
-t("%s)", "%s)", "tformat")
-t("turns", "turns", "_t")
-t("turn", "turn", "_t")
-t(" %s)", " %s)", "tformat")
-t(" %s (%+d(-) %s)", " %s (%+d(-) %s)", "tformat")
-t("%s granted: ", "%s granted: ", "tformat")
-t("Allows you to breathe in: ", "Allows you to breathe in: ", "_t")
-t("Critical mult.: ", "Critical mult.: ", "_t")
-t("Reduces incoming crit damage: ", "Reduces incoming crit damage: ", "_t")
-t("Reduces opponents crit chance: ", "Reduces opponents crit chance: ", "_t")
-t("Trap disarming bonus: ", "Trap disarming bonus: ", "_t")
-t("Stealth bonus: ", "Stealth bonus: ", "_t")
-t("Maximum encumbrance: ", "Maximum encumbrance: ", "_t")
-t("Physical save: ", "Physical save: ", "_t")
-t("Spell save: ", "Spell save: ", "_t")
-t("Mental save: ", "Mental save: ", "_t")
-t("Blindness immunity: ", "Blindness immunity: ", "_t")
-t("Poison immunity: ", "Poison immunity: ", "_t")
-t("Disease immunity: ", "Disease immunity: ", "_t")
-t("Cut immunity: ", "Cut immunity: ", "_t")
-t("Silence immunity: ", "Silence immunity: ", "_t")
-t("Disarm immunity: ", "Disarm immunity: ", "_t")
-t("Confusion immunity: ", "Confusion immunity: ", "_t")
-t("Sleep immunity: ", "Sleep immunity: ", "_t")
-t("Pinning immunity: ", "Pinning immunity: ", "_t")
-t("Stun/Freeze immunity: ", "Stun/Freeze immunity: ", "_t")
-t("Fear immunity: ", "Fear immunity: ", "_t")
-t("Knockback immunity: ", "Knockback immunity: ", "_t")
-t("Instant-death immunity: ", "Instant-death immunity: ", "_t")
-t("Teleport immunity: ", "Teleport immunity: ", "_t")
-t("Life regen: ", "Life regen: ", "_t")
-t("Stamina each turn: ", "Stamina each turn: ", "_t")
-t("Mana each turn: ", "Mana each turn: ", "_t")
-t("Hate each turn: ", "Hate each turn: ", "_t")
-t("Psi each turn: ", "Psi each turn: ", "_t")
-t("Equilibrium each turn: ", "Equilibrium each turn: ", "_t")
-t("Vim each turn: ", "Vim each turn: ", "_t")
-t("P.Energy each turn: ", "P.Energy each turn: ", "_t")
-t("N.Energy each turn: ", "N.Energy each turn: ", "_t")
-t("Stamina when hit: ", "Stamina when hit: ", "_t")
-t("Mana when hit: ", "Mana when hit: ", "_t")
-t("Equilibrium when hit: ", "Equilibrium when hit: ", "_t")
-t("Psi when hit: ", "Psi when hit: ", "_t")
-t("Hate when hit: ", "Hate when hit: ", "_t")
-t("Vim when hit: ", "Vim when hit: ", "_t")
-t("Vim when hitting in melee: ", "Vim when hitting in melee: ", "_t")
-t("Mana when firing critical spell: ", "Mana when firing critical spell: ", "_t")
-t("Vim when firing critical spell: ", "Vim when firing critical spell: ", "_t")
-t("Spellpower on spell critical (stacks up to 3 times): ", "Spellpower on spell critical (stacks up to 3 times): ", "_t")
-t("Hate when firing a critical mind attack: ", "Hate when firing a critical mind attack: ", "_t")
-t("Psi when firing a critical mind attack: ", "Psi when firing a critical mind attack: ", "_t")
-t("Equilibrium when firing a critical mind attack: ", "Equilibrium when firing a critical mind attack: ", "_t")
-t("Hate per kill: ", "Hate per kill: ", "_t")
-t("Psi per kill: ", "Psi per kill: ", "_t")
-t("Vim per kill: ", "Vim per kill: ", "_t")
-t("%+.2f life", "%+.2f life", "_t")
-t("Only die when reaching: ", "Only die when reaching: ", "_t")
-t("Maximum life: ", "Maximum life: ", "_t")
-t("Maximum mana: ", "Maximum mana: ", "_t")
-t("Maximum souls: ", "Maximum souls: ", "_t")
-t("Maximum stamina: ", "Maximum stamina: ", "_t")
-t("Maximum hate: ", "Maximum hate: ", "_t")
-t("Maximum psi: ", "Maximum psi: ", "_t")
-t("Maximum vim: ", "Maximum vim: ", "_t")
-t("Maximum pos.energy: ", "Maximum pos.energy: ", "_t")
-t("Maximum neg.energy: ", "Maximum neg.energy: ", "_t")
-t("Maximum air capacity: ", "Maximum air capacity: ", "_t")
-t("Spellpower: ", "Spellpower: ", "_t")
-t("Spell crit. chance: ", "Spell crit. chance: ", "_t")
-t("Lowers spell cool-downs by: ", "Lowers spell cool-downs by: ", "_t")
-t("Mindpower: ", "Mindpower: ", "_t")
-t("Mental crit. chance: ", "Mental crit. chance: ", "_t")
-t("Light radius: ", "Light radius: ", "_t")
-t("Infravision radius: ", "Infravision radius: ", "_t")
-t("Heightened senses radius: ", "Heightened senses radius: ", "_t")
-t("Sight radius: ", "Sight radius: ", "_t")
-t("See stealth: ", "See stealth: ", "_t")
-t("See invisible: ", "See invisible: ", "_t")
-t("Invisibility: ", "Invisibility: ", "_t")
-t("Global speed: ", "Global speed: ", "_t")
-t("Movement speed: ", "Movement speed: ", "_t")
-t("Combat speed: ", "Combat speed: ", "_t")
-t("Casting speed: ", "Casting speed: ", "_t")
-t("Mental speed: ", "Mental speed: ", "_t")
-t("Healing mod.: ", "Healing mod.: ", "_t")
-t("Heals friendly targets nearby when you use a nature summon: ", "Heals friendly targets nearby when you use a nature summon: ", "_t")
-t("Life leech chance: ", "Life leech chance: ", "_t")
-t("Life leech: ", "Life leech: ", "_t")
-t("Resource leech chance: ", "Resource leech chance: ", "_t")
-t("Resource leech: ", "Resource leech: ", "_t")
-t("Damage Shield penetration: ", "Damage Shield penetration: ", "_t")
-t("Deflect projectiles away: ", "Deflect projectiles away: ", "_t")
-t("Chance to avoid attacks: ", "Chance to avoid attacks: ", "_t")
-t("Chance to avoid any damage: ", "Chance to avoid any damage: ", "_t")
-t("Defense after a teleport: ", "Defense after a teleport: ", "_t")
-t("Resist all after a teleport: ", "Resist all after a teleport: ", "_t")
-t("New effects duration reduction after a teleport: ", "New effects duration reduction after a teleport: ", "_t")
-t("Damage Resonance (when hit): ", "Damage Resonance (when hit): ", "_t")
-t("Size category: ", "Size category: ", "_t")
-t("Max wilder summons: ", "Max wilder summons: ", "_t")
-t("Life regen bonus (wilder-summons): ", "Life regen bonus (wilder-summons): ", "_t")
-t("Damage Shield Duration: ", "Damage Shield Duration: ", "_t")
-t("Damage Shield Power: ", "Damage Shield Power: ", "_t")
-t("Ice block penetration: ", "Ice block penetration: ", "_t")
-t("Slows Projectiles: ", "Slows Projectiles: ", "_t")
-t("Bonus block near projectiles: ", "Bonus block near projectiles: ", "_t")
-t("Reduces paradox anomalies(equivalent to willpower): ", "Reduces paradox anomalies(equivalent to willpower): ", "_t")
-t("Damage Backlash: ", "Damage Backlash: ", "_t")
-t("Reduce all damage from unseen attackers: ", "Reduce all damage from unseen attackers: ", "_t")
-t("The wearer is treated as an undead.", "The wearer is treated as an undead.", "_t")
-t("The wearer is treated as a demon.", "The wearer is treated as a demon.", "_t")
-t("The wearer is blinded.", "The wearer is blinded.", "_t")
-t("The wearer is asleep.", "The wearer is asleep.", "_t")
-t("Blind-Fight: ", "Blind-Fight: ", "_t")
-t("This item allows the wearer to attack unseen targets without any penalties.", "This item allows the wearer to attack unseen targets without any penalties.", "_t")
-t("Lucid Dreamer: ", "Lucid Dreamer: ", "_t")
-t("This item allows the wearer to act while sleeping.", "This item allows the wearer to act while sleeping.", "_t")
-t("The wearer no longer has to breathe.", "The wearer no longer has to breathe.", "_t")
+t("mastery", "maestría", "_t")
+t("%s cooldown:", "Enfriamiento:", "tformat")
+t("Talents", "Talentos", "_t")
+t("Talent", "Talento", "_t")
+t("%s)", " PH0  ", "tformat")
+t("turns", "turnos", "_t")
+t("turn", "turno", "_t")
+t(" %s)", " PH0  ", "tformat")
+t(" %s (%+d(-) %s)", " PH0   (%+d(-)   PH1  )", "tformat")
+t("%s granted: ", " PH0  concedido:", "tformat")
+t("Allows you to breathe in: ", "Permite respirar:", "_t")
+t("Critical mult.: ", "Molt crítico:", "_t")
+t("Reduces incoming crit damage: ", "Reduce el daño de la intromisión:", "_t")
+t("Reduces opponents crit chance: ", "Reduce las probabilidades de los oponentes:", "_t")
+t("Trap disarming bonus: ", "Trap desarming bonus:", "_t")
+t("Stealth bonus: ", "Bono de Stealth:", "_t")
+t("Maximum encumbrance: ", "Encumbrancia máxima:", "_t")
+t("Physical save: ", "Salvación física:", "_t")
+t("Spell save: ", "Guardar el discurso:", "_t")
+t("Mental save: ", "Salvación mental:", "_t")
+t("Blindness immunity: ", "Inmunidad de ceguera:", "_t")
+t("Poison immunity: ", "Inmunidad venenosa:", "_t")
+t("Disease immunity: ", "Inmunidad de enfermedad:", "_t")
+t("Cut immunity: ", "Corte la inmunidad:", "_t")
+t("Silence immunity: ", "Inmunidad de silencio:", "_t")
+t("Disarm immunity: ", "Inmunidad de desarme:", "_t")
+t("Confusion immunity: ", "Inmunidad de confusión:", "_t")
+t("Sleep immunity: ", "Inmunidad de sueño:", "_t")
+t("Pinning immunity: ", "Inmunidad de perforación:", "_t")
+t("Stun/Freeze immunity: ", "Inmunidad Stun/Freeze:", "_t")
+t("Fear immunity: ", "Inmunidad de miedo:", "_t")
+t("Knockback immunity: ", "Inmunidad de retroceso:", "_t")
+t("Instant-death immunity: ", "Inmunidad de muerte instantánea:", "_t")
+t("Teleport immunity: ", "Teletransporte inmunidad", "_t")
+t("Life regen: ", "Life regen:", "_t")
+t("Stamina each turn: ", "Estabilizar cada vuelta:", "_t")
+t("Mana each turn: ", "Mana cada vuelta:", "_t")
+t("Hate each turn: ", "Odio cada turno:", "_t")
+t("Psi each turn: ", "Psi cada vuelta:", "_t")
+t("Equilibrium each turn: ", "Equilibrio cada turno:", "_t")
+t("Vim each turn: ", "Vim cada vuelta:", "_t")
+t("P.Energy each turn: ", "P. Energía cada turno:", "_t")
+t("N.Energy each turn: ", "N. Energía cada vuelta:", "_t")
+t("Stamina when hit: ", "Resistencia cuando se golpea:", "_t")
+t("Mana when hit: ", "Mana cuando golpeó:", "_t")
+t("Equilibrium when hit: ", "Equilibrio cuando se golpea:", "_t")
+t("Psi when hit: ", "Psi cuando se golpea:", "_t")
+t("Hate when hit: ", "Odio cuando se golpea:", "_t")
+t("Vim when hit: ", "Vim cuando se golpea:", "_t")
+t("Vim when hitting in melee: ", "Vim cuando se golpea en melee:", "_t")
+t("Mana when firing critical spell: ", "Mana al disparar hechizo crítico:", "_t")
+t("Vim when firing critical spell: ", "Vim cuando dispara el hechizo crítico:", "_t")
+t("Spellpower on spell critical (stacks up to 3 times): ", "Capacidad de expresión en el hechizo crítico (estaca hasta 3 veces):", "_t")
+t("Hate when firing a critical mind attack: ", "Odio cuando dispara un ataque mental crítico:", "_t")
+t("Psi when firing a critical mind attack: ", "Psi al disparar un ataque mental crítico:", "_t")
+t("Equilibrium when firing a critical mind attack: ", "Equilibrio cuando dispara un ataque mental crítico:", "_t")
+t("Hate per kill: ", "Odio por muerte:", "_t")
+t("Psi per kill: ", "Psi per kill:", "_t")
+t("Vim per kill: ", "Vim per kill:", "_t")
+t("%+.2f life", "%+.2f vida", "_t")
+t("Only die when reaching: ", "Sólo mueren al llegar:", "_t")
+t("Maximum life: ", "Vida máxima:", "_t")
+t("Maximum mana: ", "Máximo maná:", "_t")
+t("Maximum souls: ", "Almas máximas:", "_t")
+t("Maximum stamina: ", "Resistencia máxima:", "_t")
+t("Maximum hate: ", "Odio máximo:", "_t")
+t("Maximum psi: ", "Maximum psi:", "_t")
+t("Maximum vim: ", "Máximo vim:", "_t")
+t("Maximum pos.energy: ", "Maximum pos.energy:", "_t")
+t("Maximum neg.energy: ", "Maximum neg.energy:", "_t")
+t("Maximum air capacity: ", "Capacidad máxima del aire:", "_t")
+t("Spellpower: ", "Capacidad de expresión:", "_t")
+t("Spell crit. chance: ", "Pase el crit. chance:", "_t")
+t("Lowers spell cool-downs by: ", "Disminuciones de hechizo refrigeración por:", "_t")
+t("Mindpower: ", "Poder mental:", "_t")
+t("Mental crit. chance: ", "Crit mental. chance:", "_t")
+t("Light radius: ", "Radio de luz:", "_t")
+t("Infravision radius: ", "Infravision radius:", "_t")
+t("Heightened senses radius: ", "Los sentidos aligerados irradian:", "_t")
+t("Sight radius: ", "Radio de visión:", "_t")
+t("See stealth: ", "Ver el robo:", "_t")
+t("See invisible: ", "Ver invisible:", "_t")
+t("Invisibility: ", "Invisibilidad:", "_t")
+t("Global speed: ", "Velocidad mundial:", "_t")
+t("Movement speed: ", "Velocidad de movimiento:", "_t")
+t("Combat speed: ", "Velocidad de combate:", "_t")
+t("Casting speed: ", "Velocidad de fundición:", "_t")
+t("Mental speed: ", "Velocidad mental:", "_t")
+t("Healing mod.: ", "Curación mod.:", "_t")
+t("Heals friendly targets nearby when you use a nature summon: ", "Cura objetivos amistosos cerca cuando usas una cita de naturaleza:", "_t")
+t("Life leech chance: ", "La oportunidad de sanguijuela:", "_t")
+t("Life leech: ", "La vida grita:", "_t")
+t("Resource leech chance: ", "Posibilidad de recurso:", "_t")
+t("Resource leech: ", "Recurso:", "_t")
+t("Damage Shield penetration: ", "Damage Shield penetración:", "_t")
+t("Deflect projectiles away: ", "Desvíe proyectiles lejos:", "_t")
+t("Chance to avoid attacks: ", "La oportunidad de evitar ataques:", "_t")
+t("Chance to avoid any damage: ", "La oportunidad de evitar cualquier daño:", "_t")
+t("Defense after a teleport: ", "Defensa después de un telepuerto:", "_t")
+t("Resist all after a teleport: ", "Resistir todo después de un telepuerto:", "_t")
+t("New effects duration reduction after a teleport: ", "Reducción de la duración de los nuevos efectos después de un telepuerto:", "_t")
+t("Damage Resonance (when hit): ", "Resonancia por daños (cuando se golpeó):", "_t")
+t("Size category: ", "Categoría:", "_t")
+t("Max wilder summons: ", "Max Wilder cita:", "_t")
+t("Life regen bonus (wilder-summons): ", "Bono de regen de la vida (verdedores):", "_t")
+t("Damage Shield Duration: ", "Escudo de Daños Duración:", "_t")
+t("Damage Shield Power: ", "Escudo de Daño Potencia:", "_t")
+t("Ice block penetration: ", "Ice block penetración:", "_t")
+t("Slows Projectiles: ", "Slows Projectiles:", "_t")
+t("Bonus block near projectiles: ", "Bloque de bonificación cerca de proyectiles:", "_t")
+t("Reduces paradox anomalies(equivalent to willpower): ", "Reduce las anomalías paradojas (equivalente a la fuerza de voluntad):", "_t")
+t("Damage Backlash: ", "Damage Backlash:", "_t")
+t("Reduce all damage from unseen attackers: ", "Reducir todos los daños de los atacantes invisibles:", "_t")
+t("The wearer is treated as an undead.", "El portador es tratado como un no muerto.", "_t")
+t("The wearer is treated as a demon.", "El portador es tratado como un demonio.", "_t")
+t("The wearer is blinded.", "El portador está cegado.", "_t")
+t("The wearer is asleep.", "El portador está dormido.", "_t")
+t("Blind-Fight: ", "Blind-Fight:", "_t")
+t("This item allows the wearer to attack unseen targets without any penalties.", "Este artículo permite al usuario atacar objetivos no vistos sin ninguna penalización.", "_t")
+t("Lucid Dreamer: ", "Lucid Dreamer:", "_t")
+t("This item allows the wearer to act while sleeping.", "Este artículo permite que el usuario actúe mientras duerme.", "_t")
+t("The wearer no longer has to breathe.", "El portador ya no tiene que respirar.", "_t")
 t("Quick Weapon Swap:", "Quick Weapon Swap:", "_t")
-t("This item allows the wearer to swap to their secondary weapon without spending a turn.", "This item allows the wearer to swap to their secondary weapon without spending a turn.", "_t")
-t("Avoid Pressure Traps: ", "Avoid Pressure Traps: ", "_t")
-t("The wearer never triggers traps that require pressure.", "The wearer never triggers traps that require pressure.", "_t")
-t("Allows you to speak and read the old Sher'Tul language.", "Allows you to speak and read the old Sher'Tul language.", "_t")
-t("When used to modify unarmed attacks:", "When used to modify unarmed attacks:", "_t")
-t("Learn an unarmed attack talent or enable 'Always show glove combat' to see combat stats.", "Learn an unarmed attack talent or enable 'Always show glove combat' to see combat stats.", "_t")
-t("When used to attack (with talents):", "When used to attack (with talents):", "_t")
-t("Learn shield attack talent or enable 'Always show shield combat' to see combat stats.", "Learn shield attack talent or enable 'Always show shield combat' to see combat stats.", "_t")
-t("It is immune to teleportation, if you teleport it will fall on the ground.", "It is immune to teleportation, if you teleport it will fall on the ground.", "_t")
-t("When wielded/worn:", "When wielded/worn:", "_t")
-t("Skullcracker multiplicator: ", "Skullcracker multiplicator: ", "_t")
-t("When carried:", "When carried:", "_t")
-t("Attach on item of type '#ORANGE#%s / %s#LAST#'", "Attach on item of type '#ORANGE#%s / %s#LAST#'", "tformat")
-t("Attach on item of type '#ORANGE#%s#LAST#'", "Attach on item of type '#ORANGE#%s#LAST#'", "tformat")
-t("Attach on item worn on slot '#ORANGE#%s#LAST#'", "Attach on item worn on slot '#ORANGE#%s#LAST#'", "tformat")
-t("When attach to an other item:", "When attach to an other item:", "_t")
-t("Special effect on block: ", "Special effect on block: ", "_t")
-t("When used to imbue an object:", "When used to imbue an object:", "_t")
-t("When used as an alchemist bomb:", "When used as an alchemist bomb:", "_t")
-t("Bomb damage +%d%%", "Bomb damage +%d%%", "tformat")
-t("Bomb thrown range +%d", "Bomb thrown range +%d", "tformat")
-t("Mana regain %d", "Mana regain %d", "tformat")
-t("%d%% chance to daze for %d turns", "%d%% chance to daze for %d turns", "tformat")
-t("%d%% chance to stun for %d turns", "%d%% chance to stun for %d turns", "tformat")
-t("Additional %d %s damage", "Additional %d %s damage", "tformat")
-t("Life regen %d%% of max life", "Life regen %d%% of max life", "tformat")
-t("Latent Damage Type: ", "Latent Damage Type: ", "_t")
-t("When inscribed on your body:", "When inscribed on your body:", "_t")
-t("Talent level: %+d %s.", "Talent level: %+d %s.", "tformat")
-t("Talent level: %s.", "Talent level: %s.", "tformat")
-t("Talent on hit(spell): %s (%d%% chance level %d).", "Talent on hit(spell): %s (%d%% chance level %d).", "tformat")
-t("Talent on hit(nature): %s (%d%% chance level %d).", "Talent on hit(nature): %s (%d%% chance level %d).", "tformat")
-t("Talent on hit(mindpower): %s (%d%% chance level %d).", "Talent on hit(mindpower): %s (%d%% chance level %d).", "tformat")
-t("Activating this item is instant.", "Activating this item is instant.", "_t")
-t("It can be used to %s, with %d charges out of %d.", "It can be used to %s, with %d charges out of %d.", "tformat")
-t("all charms", "all charms", "_t")
-t("Talent %s", "Talent %s", "tformat")
-t("It can be used to %s.", "It can be used to %s.", "tformat")
-t("Power cost: ", "Power cost: ", "_t")
-t("%d out of %d/%d.", "%d out of %d/%d.", "tformat")
-t("It can be used to activate talent %s, placing all other charms into a %s cooldown :", "It can be used to activate talent %s, placing all other charms into a %s cooldown :", "tformat")
-t("It can be used to activate talent %s (costing %s power out of %s/%s) :", "It can be used to activate talent %s (costing %s power out of %s/%s) :", "tformat")
-t("When used:", "When used:", "_t")
-t("%s%% chance to %s", "%s%% chance to %s", "tformat")
-t("Newly picked up", "Newly picked up", "_t")
-t("This item will automatically be transmogrified when you leave the level.", "This item will automatically be transmogrified when you leave the level.", "_t")
-t("%0.2f Encumbrance.", "%0.2f Encumbrance.", "tformat")
-t("This object's appearance was changed to %s", "This object's appearance was changed to %s", "tformat")
+t("This item allows the wearer to swap to their secondary weapon without spending a turn.", "Este artículo permite al usuario cambiar su arma secundaria sin pasar un giro.", "_t")
+t("Avoid Pressure Traps: ", "Evite las trampas de presión:", "_t")
+t("The wearer never triggers traps that require pressure.", "El usuario nunca activa trampas que requieren presión.", "_t")
+t("Allows you to speak and read the old Sher'Tul language.", "Le permite hablar y leer el viejo lenguaje Sher'Tul.", "_t")
+t("When used to modify unarmed attacks:", "Cuando se utiliza para modificar ataques desarmados:", "_t")
+t("Learn an unarmed attack talent or enable 'Always show glove combat' to see combat stats.", "Aprenda un talento de ataque desarmado o active 'Siempre mostrar combate de guante' para ver estadísticas de combate.", "_t")
+t("When used to attack (with talents):", "Cuando se utiliza para atacar (con talentos):", "_t")
+t("Learn shield attack talent or enable 'Always show shield combat' to see combat stats.", "Aprenda el talento de ataque de escudos o active 'Siempre mostrar combate de escudos' para ver estadísticas de combate.", "_t")
+t("It is immune to teleportation, if you teleport it will fall on the ground.", "Es inmune a la teletransportación, si se teletransporta caerá sobre el suelo.", "_t")
+t("When wielded/worn:", "Cuando se marchita o se encamina", "_t")
+t("Skullcracker multiplicator: ", "Multiplicador de cráneo:", "_t")
+t("When carried:", "Cuando se lleva:", "_t")
+t("Attach on item of type '#ORANGE#%s / %s#LAST#'", "Adjuntar sobre el tema del tipo '#ORANGE# PH0   /   PH1   #LAST#", "tformat")
+t("Attach on item of type '#ORANGE#%s#LAST#'", "Adjuntar sobre el tema del tipo '#ORANGE# PH0 #LAST#'", "tformat")
+t("Attach on item worn on slot '#ORANGE#%s#LAST#'", "Adjuntar el artículo usado en la ranura '#ORANGE# PH0  #LAST#", "tformat")
+t("When attach to an other item:", "Cuando se adjunta a otro artículo:", "_t")
+t("Special effect on block: ", "Efecto especial en bloque:", "_t")
+t("When used to imbue an object:", "Cuando se utiliza para imbuir un objeto:", "_t")
+t("When used as an alchemist bomb:", "Cuando se utiliza como bomba alquimista:", "_t")
+t("Bomb damage +%d%%", "Daño por bomba + PH0 %%", "tformat")
+t("Bomb thrown range +%d", "Bomba lanzada rango + PH0  ", "tformat")
+t("Mana regain %d", "Mana recupera   PH0  ", "tformat")
+t("%d%% chance to daze for %d turns", " PH0  %% oportunidad para dar la vuelta   PH1 ", "tformat")
+t("%d%% chance to stun for %d turns", " PH0  %% de la oportunidad de aturdirse para   PH1  ", "tformat")
+t("Additional %d %s damage", "Daño adicional   PH0     PH1  ", "tformat")
+t("Life regen %d%% of max life", "Life regen   PH0 %% de vida máxima", "tformat")
+t("Latent Damage Type: ", "Tipo de daño latente:", "_t")
+t("When inscribed on your body:", "Cuando se inscribe en su cuerpo:", "_t")
+t("Talent level: %+d %s.", "Nivel de talento: %+d   PH0  .", "tformat")
+t("Talent level: %s.", "Nivel de talento:   PH0  .", "tformat")
+t("Talent on hit(spell): %s (%d%% chance level %d).", "Talento on hit(spell):   PH0    (  PH1 %% chance level   PH2   ).", "tformat")
+t("Talent on hit(nature): %s (%d%% chance level %d).", "Talento on hit(nature):   PH0    (  PH1  %% chance level   PH2  ).", "tformat")
+t("Talent on hit(mindpower): %s (%d%% chance level %d).", "Talento on hit(mindpower):   PH0    (  PH1  %% chance level   PH2  ).", "tformat")
+t("Activating this item is instant.", "Activar este artículo es instantáneo.", "_t")
+t("It can be used to %s, with %d charges out of %d.", "Puede utilizarse para   PH0   , con   PH1                                                                                                                                                                                                                                                .", "tformat")
+t("all charms", "todos los encantos", "_t")
+t("Talent %s", "Talento   PH0 ", "tformat")
+t("It can be used to %s.", "Puede usarse para   PH0  .", "tformat")
+t("Power cost: ", "Costo de energía:", "_t")
+t("%d out of %d/%d.", " PH0                                                                                                                                                                                                                                                            .", "tformat")
+t("It can be used to activate talent %s, placing all other charms into a %s cooldown :", "Se puede utilizar para activar el talento   PH0   , colocando todos los demás encantos en un enfriamiento   PH1    :", "tformat")
+t("It can be used to activate talent %s (costing %s power out of %s/%s) :", "Se puede utilizar para activar el talento   PH0    (costando   PH1      power out of   PH2         ) :", "tformat")
+t("When used:", "Cuando se usa:", "_t")
+t("%s%% chance to %s", " PH0  %% chance to   PH1 ", "tformat")
+t("Newly picked up", "Recién recogido", "_t")
+t("This item will automatically be transmogrified when you leave the level.", "Este artículo se transmogrificará automáticamente cuando deje el nivel.", "_t")
+t("%0.2f Encumbrance.", " PH0  Encumbrance.", "tformat")
+t("This object's appearance was changed to %s", "La apariencia de este objeto se cambió a   PH0  ", "tformat")
 t(".", ".", "_t")
-t("Press <control> to compare", "Press <control> to compare", "_t")
+t("Press <control> to compare", "Presione el dominio para comparar", "_t")
 --]==]
 
 ------------------------------------------------
@@ -24618,27 +24613,27 @@ section "mod-tome/mod/class/Party.lua"
 
 -- new text
 --[==[
-t("Party member", "Party member", "_t")
-t("Can not switch control to this creature.", "Can not switch control to this creature.", "logPlayer")
-t("Switching control", "Switching control", "_t")
-t("#MOCCASIN#Character control switched to %s.", "#MOCCASIN#Character control switched to %s.", "logPlayer")
-t("Can not give orders to this creature.", "Can not give orders to this creature.", "logPlayer")
-t("Set action radius: %s", "Set action radius: %s", "tformat")
-t("Set the maximum distance this creature can go from the party master", "Set the maximum distance this creature can go from the party master", "_t")
-t("%s maximum action radius set to %d.", "%s maximum action radius set to %d.", "logPlayer")
-t("that location", "that location", "_t")
-t("%s will stay near %s.", "%s will stay near %s.", "logPlayer")
-t("%s targets #Target#.", "%s targets #Target#.", "logCombat")
-t("Change name of: %s", "Change name of: %s", "tformat")
-t("Name", "Name", "_t")
-t("%s is dismissed!", "%s is dismissed!", "log")
-t("#LIGHT_GREEN#You pet your hound! It happily wags its tail back and forth in time!", "#LIGHT_GREEN#You pet your hound! It happily wags its tail back and forth in time!", "log")
-t("No, we must hurry!", "No, we must hurry!", "_t")
-t("Ok, but not for long.", "Ok, but not for long.", "_t")
-t("very close", "very close", "_t")
-t("close", "close", "_t")
-t("still far away", "still far away", "_t")
-t("The portal is %s, to the %s.", "The portal is %s, to the %s.", "tformat")
+t("Party member", "Miembro del Partido", "_t")
+t("Can not switch control to this creature.", "No puedo cambiar el control a esta criatura.", "logPlayer")
+t("Switching control", "Control de conmutación", "_t")
+t("#MOCCASIN#Character control switched to %s.", "#MOCCASIN# El control de caracteres cambió a   PH0  .", "logPlayer")
+t("Can not give orders to this creature.", "No puedo dar órdenes a esta criatura.", "logPlayer")
+t("Set action radius: %s", "Establecer radio de acción:   PH0  ", "tformat")
+t("Set the maximum distance this creature can go from the party master", "Establecer la distancia máxima que esta criatura puede ir desde el maestro del partido", "_t")
+t("%s maximum action radius set to %d.", " PH0    radio de acción máxima fijado para   PH1   .", "logPlayer")
+t("that location", "esa ubicación", "_t")
+t("%s will stay near %s.", " PH0   se quedará cerca de   PH1   .", "logPlayer")
+t("%s targets #Target#.", " PH0     objetivos #Target#.", "logCombat")
+t("Change name of: %s", "Cambiar nombre de:   PH0  ", "tformat")
+t("Name", "Nombre", "_t")
+t("%s is dismissed!", " PH0   es despedido!", "log")
+t("#LIGHT_GREEN#You pet your hound! It happily wags its tail back and forth in time!", "#LIGHT GREEN #You pet your hound! ¡Felizmente vaga su cola de ida y vuelta en el tiempo!", "log")
+t("No, we must hurry!", "¡No, debemos darnos prisa!", "_t")
+t("Ok, but not for long.", "Vale, pero no por mucho tiempo.", "_t")
+t("very close", "muy cerca", "_t")
+t("close", "cerca", "_t")
+t("still far away", "todavía lejos", "_t")
+t("The portal is %s, to the %s.", "El portal es   PH0  , al   PH1   .", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -24647,9 +24642,9 @@ section "mod-tome/mod/class/PartyMember.lua"
 
 -- new text
 --[==[
-t("Behavior: %s", "Behavior: %s", "tformat")
-t("default", "default", "_t")
-t("Action radius: %d", "Action radius: %d", "tformat")
+t("Behavior: %s", "Comportamiento:", "tformat")
+t("default", "por defecto", "_t")
+t("Action radius: %d", "Radio de acción:   PH0  ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -24658,54 +24653,54 @@ section "mod-tome/mod/class/Player.lua"
 
 -- new text
 --[==[
-t("There is an item here: %s", "There is an item here: %s", "logSeen")
-t("#YELLOW_GREEN#There is %s here (press '<', '>' or right click to use).", "#YELLOW_GREEN#There is %s here (press '<', '>' or right click to use).", "logPlayer")
-t("Level change (%s)!", "Level change (%s)!", "tformat")
-t("#FF0000#You carry too much--you are encumbered!", "#FF0000#You carry too much--you are encumbered!", "logPlayer")
+t("There is an item here: %s", "Hay un artículo aquí:   PH0   ", "logSeen")
+t("#YELLOW_GREEN#There is %s here (press '<', '>' or right click to use).", "#YELLOW GREEN#Hay   PH0   aquí (presione 'traducido', 'Consejo' o haga clic derecho para usar).", "logPlayer")
+t("Level change (%s)!", "Cambio de nivel ( PH0  )!", "tformat")
+t("#FF0000#You carry too much--you are encumbered!", "#FF0000 #Llevas demasiado... ¡estás ocupado!", "logPlayer")
 t("#FF0000#Drop some of your items.", "#FF0000#Drop some of your items.", "logPlayer")
-t("#PINK#Your summoned %s disappears.", "#PINK#Your summoned %s disappears.", "logPlayer")
-t("#LIGHT_RED#LIFE LOST WARNING!", "#LIGHT_RED#LIFE LOST WARNING!", "say")
+t("#PINK#Your summoned %s disappears.", "Tu llamada desaparece.", "logPlayer")
+t("#LIGHT_RED#LIFE LOST WARNING!", "#LIGHT RED#LIFE LOST WARNING!", "say")
 t("", "", "log")
-t("Game Turn %d", "Game Turn %d", "log")
-t("taken damage", "taken damage", "_t")
-t("LOW HEALTH!", "LOW HEALTH!", "_t")
-t("detrimental status effect", "detrimental status effect", "_t")
-t("died", "died", "_t")
-t("suffocating", "suffocating", "_t")
-t("chat started", "chat started", "_t")
-t("%s available", "%s available", "tformat")
-t("#00ff00#%sTalent %s is ready to use.", "#00ff00#%sTalent %s is ready to use.", "log")
-t("Automatic use of talent %s #DARK_RED#skipped#LAST#: cooldown too low (%d).", "Automatic use of talent %s #DARK_RED#skipped#LAST#: cooldown too low (%d).", "logPlayer")
-t("dialog is displayed", "dialog is displayed", "_t")
-t("hostile spotted to the %s (%s%s)", "hostile spotted to the %s (%s%s)", "tformat")
-t(" - offscreen", " - offscreen", "_t")
-t("losing breath!", "losing breath!", "_t")
-t("losing health!", "losing health!", "_t")
-t("all resources and life at maximum", "all resources and life at maximum", "_t")
-t("talent prevented", "talent prevented", "_t")
-t("object seen", "object seen", "_t")
-t("something interesting", "something interesting", "_t")
-t("at %s", "at %s", "tformat")
-t("interesting terrain", "interesting terrain", "_t")
-t("store entrance spotted", "store entrance spotted", "_t")
-t("interesting character", "interesting character", "_t")
-t("You cannot do that on the world map.", "You cannot do that on the world map.", "logPlayer")
-t("Item not found", "Item not found", "_t")
-t("You do not have any %s.", "You do not have any %s.", "tformat")
+t("Game Turn %d", "Juego de vuelta   PH0 ", "log")
+t("taken damage", "daños causados", "_t")
+t("LOW HEALTH!", "¡CÁLMATE!", "_t")
+t("detrimental status effect", "efectos perjudiciales para el estatuto", "_t")
+t("died", "muerto", "_t")
+t("suffocating", "sofocante", "_t")
+t("chat started", "chat", "_t")
+t("%s available", "disponible", "tformat")
+t("#00ff00#%sTalent %s is ready to use.", "Está listo para usar.", "log")
+t("Automatic use of talent %s #DARK_RED#skipped#LAST#: cooldown too low (%d).", "Uso automático del talento   PH0   #DARK RED#skipped#LAST#: enfriamiento demasiado bajo (  PH1  ).", "logPlayer")
+t("dialog is displayed", "diálogo se muestra", "_t")
+t("hostile spotted to the %s (%s%s)", "hostil spotted to the   PH0                    ", "tformat")
+t(" - offscreen", "- fuera de pantalla", "_t")
+t("losing breath!", "¡perdiendo aliento!", "_t")
+t("losing health!", "¡perdiendo salud!", "_t")
+t("all resources and life at maximum", "todos los recursos y la vida al máximo", "_t")
+t("talent prevented", "talento impedido", "_t")
+t("object seen", "objeto visto", "_t")
+t("something interesting", "algo interesante", "_t")
+t("at %s", " PH0 ", "tformat")
+t("interesting terrain", "interesante terreno", "_t")
+t("store entrance spotted", "tienda entrada manchada", "_t")
+t("interesting character", "carácter interesante", "_t")
+t("You cannot do that on the world map.", "No puedes hacer eso en el mapa mundial.", "logPlayer")
+t("Item not found", "Tema no encontrado", "_t")
+t("You do not have any %s.", "No tienes ningún   PH0  .", "tformat")
 t("Pickup", "Pickup", "_t")
-t("You cannot pick up items from the floor while asleep!", "You cannot pick up items from the floor while asleep!", "delayedLogMessage")
-t("Drop object", "Drop object", "_t")
-t("Wield/wear object", "Wield/wear object", "_t")
-t("Take off object", "Take off object", "_t")
-t("You have no more %s.", "You have no more %s.", "log")
-t("You have %s.", "You have %s.", "log")
-t("You cannot use items on the world map.", "You cannot use items on the world map.", "logPlayer")
-t("Use object", "Use object", "_t")
-t("You can not use the Orb with foes watching (#Target# to the %s%s)", "You can not use the Orb with foes watching (#Target# to the %s%s)", "logCombat")
-t("This does not seem to have any effect.", "This does not seem to have any effect.", "logPlayer")
-t("You use the %s on the pedestal. There is a distant 'clonk' sound.", "You use the %s on the pedestal. There is a distant 'clonk' sound.", "logPlayer")
-t("#LIGHT_RED#%s briefly catches sight of you!", "#LIGHT_RED#%s briefly catches sight of you!", "logPlayer")
-t("#LIGHT_RED#You sense that Something has taken notice of you ...", "#LIGHT_RED#You sense that Something has taken notice of you ...", "logPlayer")
+t("You cannot pick up items from the floor while asleep!", "¡No puedes recoger objetos del suelo mientras estás dormido!", "delayedLogMessage")
+t("Drop object", "Objeto de gota", "_t")
+t("Wield/wear object", "Wield/wear objeto", "_t")
+t("Take off object", "Quítate el objeto", "_t")
+t("You have no more %s.", "No tienes más   PH0  .", "log")
+t("You have %s.", "Tienes   PH0  .", "log")
+t("You cannot use items on the world map.", "Usted no puede utilizar los elementos en el mapa mundial.", "logPlayer")
+t("Use object", "Use objeto", "_t")
+t("You can not use the Orb with foes watching (#Target# to the %s%s)", "No se puede utilizar el Orbe con los enemigos mirando (#Target# al   PH0            )", "logCombat")
+t("This does not seem to have any effect.", "Esto no parece tener ningún efecto.", "logPlayer")
+t("You use the %s on the pedestal. There is a distant 'clonk' sound.", "Usas el   PH0  en el pedestal. Hay un sonido lejano.", "logPlayer")
+t("#LIGHT_RED#%s briefly catches sight of you!", "#LIGHT RED#  PH0   brevemente te ve!", "logPlayer")
+t("#LIGHT_RED#You sense that Something has taken notice of you ...", "#LIGHT RED #Usted siente que algo ha tomado nota de usted ...", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -24714,17 +24709,17 @@ section "mod-tome/mod/class/Projectile.lua"
 
 -- new text
 --[==[
-t("Projectile: ", "Projectile: ", "_t")
-t("Origin: ", "Origin: ", "_t")
-t("Speed: %d%% %s", "Speed: %d%% %s", "tformat")
-t("Affect origin chance: ", "Affect origin chance: ", "_t")
-t("Affect origin's friends chance: ", "Affect origin's friends chance: ", "_t")
-t("UID: ", "UID: ", "_t")
-t("Coords: ", "Coords: ", "_t")
-t(" homing: %s(%s, %s)", " homing: %s(%s, %s)", "tformat")
-t(" range: ", " range: ", "_t")
-t("projectile", "projectile", "_t")
-t("%s's %s", "%s's %s", "tformat")
+t("Projectile: ", "Projectile:", "_t")
+t("Origin: ", "Origen:", "_t")
+t("Speed: %d%% %s", "Velocidad", "tformat")
+t("Affect origin chance: ", "Posibilidad de origen afectado:", "_t")
+t("Affect origin's friends chance: ", "Los amigos de origen afectan la oportunidad:", "_t")
+t("UID: ", "UID:", "_t")
+t("Coords: ", "Coords:", "_t")
+t(" homing: %s(%s, %s)", "homing:   PH0         ,   PH2   )", "tformat")
+t(" range: ", "rango:", "_t")
+t("projectile", "proyecto", "_t")
+t("%s's %s", " PH0    ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -24733,21 +24728,21 @@ section "mod-tome/mod/class/Store.lua"
 
 -- new text
 --[==[
-t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "_t")
-t("Not enough gold", "Not enough gold", "_t")
-t("You do not have the %0.2f gold needed!", "You do not have the %0.2f gold needed!", "tformat")
-t(" (%0.2f each)", " (%0.2f each)", "tformat")
-t("Buy", "Buy", "_t")
-t("Buy %d %s for %0.2f gold%s?", "Buy %d %s for %0.2f gold%s?", "tformat")
-t("Bought: %s %s for %0.2f gold.", "Bought: %s %s for %0.2f gold.", "log")
-t("Cancel", "Cancel", "_t")
-t("Sell", "Sell", "_t")
-t("Sell %d %s for %0.2f gold%s?", "Sell %d %s for %0.2f gold%s?", "tformat")
-t("Sold: %s %s for %0.2f gold.", "Sold: %s %s for %0.2f gold.", "log")
-t("Buy for: %0.2f gold (You have %0.2f gold)", "Buy for: %0.2f gold (You have %0.2f gold)", "tformat")
-t("Sell for: %0.2f gold (You have %0.2f gold)", "Sell for: %0.2f gold (You have %0.2f gold)", "tformat")
-t("This entity can not access inventories.", "This entity can not access inventories.", "logPlayer")
-t("You must be level %d to access this shop.", "You must be level %d to access this shop.", "logPlayer")
+t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Tu timetravel no tiene efecto en los resultados predeterminados como este.", "_t")
+t("Not enough gold", "No es suficiente oro", "_t")
+t("You do not have the %0.2f gold needed!", "¡No tienes el oro necesario!", "tformat")
+t(" (%0.2f each)", "(  PH0   cada uno)", "tformat")
+t("Buy", "Comprar", "_t")
+t("Buy %d %s for %0.2f gold%s?", "Comprar   PH0                                       ?", "tformat")
+t("Bought: %s %s for %0.2f gold.", "Bought:   PH0                                                      oro.", "log")
+t("Cancel", "Cancelar", "_t")
+t("Sell", "Vender", "_t")
+t("Sell %d %s for %0.2f gold%s?", "Vender   PH0                                      ?", "tformat")
+t("Sold: %s %s for %0.2f gold.", "Vendido:   PH0                        oro.", "log")
+t("Buy for: %0.2f gold (You have %0.2f gold)", "Comprar para:   PH0  oro (Tienes   PH1   oro)", "tformat")
+t("Sell for: %0.2f gold (You have %0.2f gold)", "Venta para:   PH0  oro (Tienes   PH1   oro)", "tformat")
+t("This entity can not access inventories.", "Esta entidad no puede acceder a los inventarios.", "logPlayer")
+t("You must be level %d to access this shop.", "Usted debe ser nivel   PH0   para acceder a esta tienda.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -24756,48 +24751,48 @@ section "mod-tome/mod/class/Trap.lua"
 
 -- new text
 --[==[
-t("trap", "trap", "_t")
-t("%s's %s", "%s's %s", "tformat")
-t("#LIGHT_GREEN#%d turns #WHITE#", "#LIGHT_GREEN#%d turns #WHITE#", "tformat")
-t("<Store>", "<Store>", "_t")
+t("trap", "trampa", "_t")
+t("%s's %s", " PH0    ", "tformat")
+t("#LIGHT_GREEN#%d turns #WHITE#", "#LIGHT GREEN #  PH0   turn #WHITE#", "tformat")
+t("<Store>", "■Store confianza", "_t")
 t("neutral", "neutral", "_t")
-t("hostile", "hostile", "_t")
-t("friendly", "friendly", "_t")
-t("Faction: ", "Faction: ", "_t")
-t("(beneficial)", "(beneficial)", "_t")
-t("(beneficial to enemies)", "(beneficial to enemies)", "_t")
-t("(safe)", "(safe)", "_t")
-t("pressure_trigger", "pressure_trigger", "_t")
-t("#YELLOW#Detect: %d#WHITE#", "#YELLOW#Detect: %d#WHITE#", "tformat")
-t("#YELLOW# Disarm: %d#WHITE#", "#YELLOW# Disarm: %d#WHITE#", "tformat")
-t("Dismantling", "Dismantling", "_t")
-t("dismantled", "dismantled", "_t")
-t("Your level of skill was not enough to understand the workings of this trap.", "Your level of skill was not enough to understand the workings of this trap.", "_t")
-t("You quit dismantling the trap.", "You quit dismantling the trap.", "_t")
-t("#LIGHT_BLUE#%s: %s#LAST#", "#LIGHT_BLUE#%s: %s#LAST#", "logPlayer")
-t("Success", "Success", "_t")
-t("Failure", "Failure", "_t")
+t("hostile", "hostil", "_t")
+t("friendly", "amigable", "_t")
+t("Faction: ", "Facción:", "_t")
+t("(beneficial)", "(beneficios)", "_t")
+t("(beneficial to enemies)", "(beneficio para los enemigos)", "_t")
+t("(safe)", "(seguridad)", "_t")
+t("pressure_trigger", "pressure trigger", "_t")
+t("#YELLOW#Detect: %d#WHITE#", "#YELLOW#Detect:   PH0  #WHITE#", "tformat")
+t("#YELLOW# Disarm: %d#WHITE#", "#YELLOW# Disarm:   PH0  #WHITE#", "tformat")
+t("Dismantling", "Desmantelamiento", "_t")
+t("dismantled", "desmantelamiento", "_t")
+t("Your level of skill was not enough to understand the workings of this trap.", "Tu nivel de habilidad no era suficiente para entender el funcionamiento de esta trampa.", "_t")
+t("You quit dismantling the trap.", "Dejaste de desmantelar la trampa.", "_t")
+t("#LIGHT_BLUE#%s: %s#LAST#", "#LIGHT BLUE#  PH0      PH1  #LAST#", "logPlayer")
+t("Success", "Éxito", "_t")
+t("Failure", "Fallo", "_t")
 t("\
 #LIGHT_BLUE#Trap Description:#WHITE#\
 ", "\
 #LIGHT_BLUE#Trap Description:#WHITE#\
 ", "_t")
-t("Disarming a trap: %s", "Disarming a trap: %s", "tformat")
-t("not resting", "not resting", "_t")
-t("You set off the trap!", "You set off the trap!", "_t")
-t("You successfully dismantled the trap.", "You successfully dismantled the trap.", "_t")
-t("You were interrupted.", "You were interrupted.", "_t")
-t("Dismantle Carefully", "Dismantle Carefully", "_t")
-t("Disarm Normally", "Disarm Normally", "_t")
-t("ignore", "ignore", "_t")
-t("simply ignore", "simply ignore", "_t")
-t("carefully avoid", "carefully avoid", "_t")
-t("somehow avoid", "somehow avoid", "_t")
+t("Disarming a trap: %s", "Desarmar una trampa:", "tformat")
+t("not resting", "no descansar", "_t")
+t("You set off the trap!", "¡Saliste de la trampa!", "_t")
+t("You successfully dismantled the trap.", "Con éxito desmantelaste la trampa.", "_t")
+t("You were interrupted.", "Te interrumpieron.", "_t")
+t("Dismantle Carefully", "Desmantelar cuidadosamente", "_t")
+t("Disarm Normally", "Trasarma Normalmente", "_t")
+t("ignore", "ignorar", "_t")
+t("simply ignore", "simplemente ignorar", "_t")
+t("carefully avoid", "evitar cuidadosamente", "_t")
+t("somehow avoid", "de alguna manera evitar", "_t")
 t("dodge", "dodge", "_t")
-t("#CADET_BLUE#You %s a trap (%s).", "#CADET_BLUE#You %s a trap (%s).", "log")
-t("#CADET_BLUE#%s %ss %s.", "#CADET_BLUE#%s %ss %s.", "logSeen")
-t("a trap (%s)", "a trap (%s)", "tformat")
-t("something on the floor", "something on the floor", "_t")
+t("#CADET_BLUE#You %s a trap (%s).", "#CADET BLUE#You   PH0     una trampa (  PH1   ).", "log")
+t("#CADET_BLUE#%s %ss %s.", "#CADET BLUE# PH0                                                                                                                                                                                                                                                      .", "logSeen")
+t("a trap (%s)", "una trampa ( PH0  )", "tformat")
+t("something on the floor", "algo en el suelo", "_t")
 --]==]
 
 ------------------------------------------------
@@ -24806,11 +24801,11 @@ section "mod-tome/mod/class/UserChatExtension.lua"
 
 -- new text
 --[==[
-t("#ANTIQUE_WHITE#has linked an item: #WHITE# %s", "#ANTIQUE_WHITE#has linked an item: #WHITE# %s", "tformat")
-t("#ANTIQUE_WHITE#has linked a creature: #WHITE# %s", "#ANTIQUE_WHITE#has linked a creature: #WHITE# %s", "tformat")
-t("#ANTIQUE_WHITE#has linked a talent: #WHITE# %s", "#ANTIQUE_WHITE#has linked a talent: #WHITE# %s", "tformat")
-t("#CRIMSON#%s#WHITE#", "#CRIMSON#%s#WHITE#", "tformat")
-t("SHAKING", "SHAKING", "log")
+t("#ANTIQUE_WHITE#has linked an item: #WHITE# %s", "#ANTIQUE WHITE# has linked an item: #WHITE#   PH0  ", "tformat")
+t("#ANTIQUE_WHITE#has linked a creature: #WHITE# %s", "#ANTIQUE WHITE# ha vinculado a una criatura: #WHITE#", "tformat")
+t("#ANTIQUE_WHITE#has linked a talent: #WHITE# %s", "#ANTIQUE WHITE# has linked a talent: #WHITE#   PH0  ", "tformat")
+t("#CRIMSON#%s#WHITE#", "#CRIMSON############################################################################################################################################################################################################################################################", "tformat")
+t("SHAKING", "COMPARTIR", "log")
 --]==]
 
 ------------------------------------------------
@@ -24819,8 +24814,8 @@ section "mod-tome/mod/class/World.lua"
 
 -- new text
 --[==[
-t("%s the %s %s level %s", "%s the %s %s level %s", "tformat")
-t("#LIGHT_BLUE#New shimmer option unlocked: #{italic}#%s#{normal}#", "#LIGHT_BLUE#New shimmer option unlocked: #{italic}#%s#{normal}#", "log")
+t("%s the %s %s level %s", " PH0                                                                                                                                                                                                                                                            ", "tformat")
+t("#LIGHT_BLUE#New shimmer option unlocked: #{italic}#%s#{normal}#", "#LIGHT BLUE#New shimmer option unlocked: #{italic}#     #{normal}#", "log")
 --]==]
 
 ------------------------------------------------
@@ -24829,16 +24824,16 @@ section "mod-tome/mod/class/WorldNPC.lua"
 
 -- new text
 --[==[
-t("#Source# kills #Target#.", "#Source# kills #Target#.", "logCombat")
-t("#Target# kills #Source#.", "#Target# kills #Source#.", "logCombat")
+t("#Source# kills #Target#.", "#Source# mata #Target#.", "logCombat")
+t("#Target# kills #Source#.", "#Target# mata #Source#.", "logCombat")
 t("neutral", "neutral", "_t")
-t("hostile", "hostile", "_t")
-t("friendly", "friendly", "_t")
-t("Rank: ", "Rank: ", "_t")
-t("Faction: ", "Faction: ", "_t")
-t("Killed by you: ", "Killed by you: ", "tformat")
-t("Target: ", "Target: ", "_t")
-t("none", "none", "_t")
+t("hostile", "hostil", "_t")
+t("friendly", "amigable", "_t")
+t("Rank: ", "Rank:", "_t")
+t("Faction: ", "Facción:", "_t")
+t("Killed by you: ", "Asesinado por ti:", "tformat")
+t("Target: ", "Meta:", "_t")
+t("none", "ninguno", "_t")
 --]==]
 
 ------------------------------------------------
@@ -24847,39 +24842,39 @@ section "mod-tome/mod/class/generator/actor/Arena.lua"
 
 -- new text
 --[==[
-t("giant crystal rat", "giant crystal rat", "_t")
-t("Skeletal rats", "Skeletal rats", "_t")
-t("Gladiators", "Gladiators", "_t")
-t("Golden crystals", "Golden crystals", "_t")
-t("Master slingers", "Master slingers", "_t")
-t("Master Alchemist", "Master Alchemist", "_t")
+t("giant crystal rat", "rata de cristal gigante", "_t")
+t("Skeletal rats", "Ratas esqueléticas", "_t")
+t("Gladiators", "Gladiadores", "_t")
+t("Golden crystals", "Cristales de oro", "_t")
+t("Master slingers", "Master Slingers", "_t")
+t("Master Alchemist", "Maestro Alchemist", "_t")
 t("Multi-hued Wyrmic", "Multi-hued Wyrmic", "_t")
-t("Reaver", "Reaver", "_t")
-t("Headless horror", "Headless horror", "_t")
-t("Ryal the Towering", "Ryal the Towering", "_t")
-t("Boss fight!", "Boss fight!", "_t")
-t("Victory!!", "Victory!!", "_t")
-t("Fryjia the Hailstorm", "Fryjia the Hailstorm", "_t")
-t("Riala the Crimson", "Riala the Crimson", "_t")
-t("Valfren the Rampage", "Valfren the Rampage", "_t")
-t("%s the %s", "%s the %s", "tformat")
-t(" appear!!", " appear!!", "_t")
-t(" appears!!", " appears!!", "_t")
-t("#LIGHT_RED#%s%s", "#LIGHT_RED#%s%s", "log")
-t("#LIGHT_RED#WARNING! %s appears!!!", "#LIGHT_RED#WARNING! %s appears!!!", "log")
-t("The final fight!", "The final fight!", "_t")
-t("Congratulations!", "Congratulations!", "_t")
-t("Rej the Master of Arena", "Rej the Master of Arena", "_t")
-t("#LIGHT_RED#WARNING! Rej Arkatis, the master of the arena, appears!!!", "#LIGHT_RED#WARNING! Rej Arkatis, the master of the arena, appears!!!", "log")
-t("%s the Master of Arena", "%s the Master of Arena", "tformat")
-t("#LIGHT_RED#WARNING! %s, the master of the arena, appears!!!", "#LIGHT_RED#WARNING! %s, the master of the arena, appears!!!", "log")
+t("Reaver", "Despojador", "_t")
+t("Headless horror", "Horror sin cabeza", "_t")
+t("Ryal the Towering", "Ryal el torrente", "_t")
+t("Boss fight!", "¡Jefe pelea!", "_t")
+t("Victory!!", "¡Victoria!", "_t")
+t("Fryjia the Hailstorm", "Fryjia el Hailstorm", "_t")
+t("Riala the Crimson", "Riala el Crimson", "_t")
+t("Valfren the Rampage", "Valfren el Rampage", "_t")
+t("%s the %s", " PH0     PH1  ", "tformat")
+t(" appear!!", "¡aparece!", "_t")
+t(" appears!!", "¡aparece!", "_t")
+t("#LIGHT_RED#%s%s", "#LIGHT RED #                                                                                                ", "log")
+t("#LIGHT_RED#WARNING! %s appears!!!", "#LIGHT RED #WARNING!   PH0  aparece!", "log")
+t("The final fight!", "¡La pelea final!", "_t")
+t("Congratulations!", "¡Enhorabuena!", "_t")
+t("Rej the Master of Arena", "Rej el Maestro de Arena", "_t")
+t("#LIGHT_RED#WARNING! Rej Arkatis, the master of the arena, appears!!!", "#LIGHT RED #WARNING! Rej Arkatis, el maestro de la arena, aparece!!!", "log")
+t("%s the Master of Arena", " PH0   el Maestro de Arena", "tformat")
+t("#LIGHT_RED#WARNING! %s, the master of the arena, appears!!!", "#LIGHT RED#WARNING!   PH0  , el maestro de la arena, aparece!!!", "log")
 t("OVERKILL", "OVERKILL", "_t")
-t("#LIGHT_GREEN#Your powerful attack completely obliterates #WHITE#%s#LIGHT_GREEN#!", "#LIGHT_GREEN#Your powerful attack completely obliterates #WHITE#%s#LIGHT_GREEN#!", "log")
-t("#LIGHT_GREEN#The audience cheers!", "#LIGHT_GREEN#The audience cheers!", "log")
-t("#LIGHT_GREEN#You destroy #WHITE#%s#LIGHT_GREEN# in a single blow!", "#LIGHT_GREEN#You destroy #WHITE#%s#LIGHT_GREEN# in a single blow!", "log")
-t("#LIGHT_GREEN#Your score multiplier increases by #WHITE#%d#LIGHT_GREEN#!", "#LIGHT_GREEN#Your score multiplier increases by #WHITE#%d#LIGHT_GREEN#!", "log")
-t("#LIGHT_GREEN#Your score multiplier increases by #WHITE#0.1#LIGHT_GREEN#!", "#LIGHT_GREEN#Your score multiplier increases by #WHITE#0.1#LIGHT_GREEN#!", "log")
-t("#YELLOW#You defeat an experienced enemy!", "#YELLOW#You defeat an experienced enemy!", "log")
+t("#LIGHT_GREEN#Your powerful attack completely obliterates #WHITE#%s#LIGHT_GREEN#!", "#LIGHT GREEN# Your powerful attack completely obliterates #WHITE# PH0   #LIGHT GREEN#!", "log")
+t("#LIGHT_GREEN#The audience cheers!", "¡La audiencia anima!", "log")
+t("#LIGHT_GREEN#You destroy #WHITE#%s#LIGHT_GREEN# in a single blow!", "#LIGHT GREEN# You destroy #WHITE#  PH0  #LIGHT GREEN# in a single blow!", "log")
+t("#LIGHT_GREEN#Your score multiplier increases by #WHITE#%d#LIGHT_GREEN#!", "#LIGHT GREEN #Tu multiplicador de puntuación aumenta por #WHITE# PH0    #LIGHT GREEN#!", "log")
+t("#LIGHT_GREEN#Your score multiplier increases by #WHITE#0.1#LIGHT_GREEN#!", "#LIGHT GREEN #Tu multiplicador de puntuación aumenta por #WHITE#0.1#LIGHT GREEN#!", "log")
+t("#YELLOW#You defeat an experienced enemy!", "¡Derrotas a un enemigo experimentado!", "log")
 --]==]
 
 ------------------------------------------------
@@ -24888,7 +24883,7 @@ section "mod-tome/mod/class/generator/actor/HighPeakFinal.lua"
 
 -- new text
 --[==[
-t("An entity appears through the portal!", "An entity appears through the portal!", "logSeen")
+t("An entity appears through the portal!", "¡Una entidad aparece a través del portal!", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -24897,7 +24892,7 @@ section "mod-tome/mod/class/generator/actor/ValleyMoon.lua"
 
 -- new text
 --[==[
-t("Limmir summons a blast of holy light!", "Limmir summons a blast of holy light!", "logSeen")
+t("Limmir summons a blast of holy light!", "Limmir llama una explosión de luz santa!", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -24906,13 +24901,13 @@ section "mod-tome/mod/class/interface/ActorAI.lua"
 
 -- new text
 --[==[
-t("#Source# shoves #Target# aside.", "#Source# shoves #Target# aside.", "logCombat")
-t("%s #PINK#searching for safer grids [radius %s from (%s, %s), val = %s], dam_wt=%s, air_wt=%s, dist_weight=%s, want_closer=%s", "%s #PINK#searching for safer grids [radius %s from (%s, %s), val = %s], dam_wt=%s, air_wt=%s, dist_weight=%s, want_closer=%s", "log")
-t("#PINK# --best reachable grid: (%d, %d) (dist: %s, val: %s(%s))", "#PINK# --best reachable grid: (%d, %d) (dist: %s, val: %s(%s))", "log")
-t("_[%d]%s %s%s tactical weight CACHE MISMATCH (%s) vs %s[%d]{%s}: %s vs %s(cache)", "_[%d]%s %s%s tactical weight CACHE MISMATCH (%s) vs %s[%d]{%s}: %s vs %s(cache)", "log")
-t("_[%d]%s #YELLOW# TACTICAL turn_procs CACHE MISMATCH for %s", "_[%d]%s #YELLOW# TACTICAL turn_procs CACHE MISMATCH for %s", "log")
-t("#YELLOW_GREEN#____Cached tactics: %s", "#YELLOW_GREEN#____Cached tactics: %s", "log")
-t("#YELLOW_GREEN#__Computed tactics: %s", "#YELLOW_GREEN#__Computed tactics: %s", "log")
+t("#Source# shoves #Target# aside.", "#Source# palas #Target# a un lado.", "logCombat")
+t("%s #PINK#searching for safer grids [radius %s from (%s, %s), val = %s], dam_wt=%s, air_wt=%s, dist_weight=%s, want_closer=%s", " PH0                                                                       ", "log")
+t("#PINK# --best reachable grid: (%d, %d) (dist: %s, val: %s(%s))", "#PINK# --mejor rejilla accesible: (  PH0   ,   PH1   ) (dist:   PH2   , val:   PH3            )", "log")
+t("_[%d]%s %s%s tactical weight CACHE MISMATCH (%s) vs %s[%d]{%s}: %s vs %s(cache)", " PH2                                                                                                                                                                                                                                                            ", "log")
+t("_[%d]%s #YELLOW# TACTICAL turn_procs CACHE MISMATCH for %s", "TACTICAL turn procs CACHE MISMATCH for   PH2  ", "log")
+t("#YELLOW_GREEN#____Cached tactics: %s", "#YELLOW GREEN#     Cached tactics:   PH0  ", "log")
+t("#YELLOW_GREEN#__Computed tactics: %s", "#YELLOW GREEN# Tácticas computadas:   PH0 ", "log")
 --]==]
 
 ------------------------------------------------
@@ -24921,11 +24916,11 @@ section "mod-tome/mod/class/interface/ActorInscriptions.lua"
 
 -- new text
 --[==[
-t("You are unable to use this kind of inscription.", "You are unable to use this kind of inscription.", "logPlayer")
-t("You already have too many of this inscription.", "You already have too many of this inscription.", "logPlayer")
-t("You have no more inscription slots.", "You have no more inscription slots.", "logPlayer")
-t("You are now inscribed with %s.", "You are now inscribed with %s.", "logPlayer")
-t("Your %s is depleted!", "Your %s is depleted!", "logPlayer")
+t("You are unable to use this kind of inscription.", "No puedes usar este tipo de inscripción.", "logPlayer")
+t("You already have too many of this inscription.", "Ya tienes demasiados de esta inscripción.", "logPlayer")
+t("You have no more inscription slots.", "No tienes más ranuras de inscripción.", "logPlayer")
+t("You are now inscribed with %s.", "Ahora está inscrito con   PH0  .", "logPlayer")
+t("Your %s is depleted!", "¡Tu   PH0   está agotada!", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -24934,14 +24929,14 @@ section "mod-tome/mod/class/interface/ActorObjectUse.lua"
 
 -- new text
 --[==[
-t("Activate an object", "Activate an object", "_t")
-t("Activate: %s", "Activate: %s", "tformat")
-t("%s activates %s %s!", "%s activates %s %s!", "logSeen")
-t("%s", "%s", "logSeen")
-t("Activate an object.", "Activate an object.", "_t")
-t("(unknown object)", "(unknown object)", "_t")
-t("Activate %s", "Activate %s", "tformat")
-t("nothing", "nothing", "_t")
+t("Activate an object", "Activar un objeto", "_t")
+t("Activate: %s", "Activar:   PH0  ", "tformat")
+t("%s activates %s %s!", " PH0   activa   PH1     PH2   !", "logSeen")
+t("%s", " PH0 ", "logSeen")
+t("Activate an object.", "Activar un objeto.", "_t")
+t("(unknown object)", "(objeto desconocido)", "_t")
+t("Activate %s", "Activar   PH0 ", "tformat")
+t("nothing", "nada", "_t")
 --]==]
 
 ------------------------------------------------
@@ -24950,18 +24945,18 @@ section "mod-tome/mod/class/interface/Archery.lua"
 
 -- new text
 --[==[
-t("You need a missile launcher (%s)!", "You need a missile launcher (%s)!", "logPlayer")
-t("You do not have enough ammo left!", "You do not have enough ammo left!", "logPlayer")
-t("#ORCHID#Your %s CANNOT SHOOT (Resource: %s%s#LAST#).", "#ORCHID#Your %s CANNOT SHOOT (Resource: %s%s#LAST#).", "logPlayer")
-t("#ORCHID#Target out of range.  Hold <ctrl> to force all weapons to fire at targets out of ranges (%d - %d).", "#ORCHID#Target out of range.  Hold <ctrl> to force all weapons to fire at targets out of ranges (%d - %d).", "logPlayer")
-t("#ORCHID#Target out of range.  Hold <ctrl> to force your weapon to fire at targets beyond its range (%d).", "#ORCHID#Target out of range.  Hold <ctrl> to force your weapon to fire at targets beyond its range (%d).", "logPlayer")
-t("#ORCHID#You COULD NOT SHOOT your %s (Resource: %s%s#LAST#).", "#ORCHID#You COULD NOT SHOOT your %s (Resource: %s%s#LAST#).", "logPlayer")
-t("%s(%d parried#LAST#)", "%s(%d parried#LAST#)", "tformat")
-t("#{bold}##Source# performs a ranged critical strike against #Target#!#{normal}#", "#{bold}##Source# performs a ranged critical strike against #Target#!#{normal}#", "logCombat")
+t("You need a missile launcher (%s)!", "¡Necesitas un lanzamisiles!", "logPlayer")
+t("You do not have enough ammo left!", "¡No tienes suficiente munición!", "logPlayer")
+t("#ORCHID#Your %s CANNOT SHOOT (Resource: %s%s#LAST#).", "#ORCHID#Your   PH0   CANNOT SHOOT (Resource:   PH1       #LAST#).", "logPlayer")
+t("#ORCHID#Target out of range.  Hold <ctrl> to force all weapons to fire at targets out of ranges (%d - %d).", "#ORCHID#Target out of range. Sostenga a [             ] que todas las armas puedan disparar contra objetivos fuera de rangos.", "logPlayer")
+t("#ORCHID#Target out of range.  Hold <ctrl> to force your weapon to fire at targets beyond its range (%d).", "#ORCHID#Target out of range. Manténgase con la fuerza de su arma para disparar a objetivos más allá de su alcance (  PH0  ).", "logPlayer")
+t("#ORCHID#You COULD NOT SHOOT your %s (Resource: %s%s#LAST#).", "#ORCHID# Usted no podría golpear su   PH0    (Resource:   PH1          #LAST#).", "logPlayer")
+t("%s(%d parried#LAST#)", " PH0 (        parried#LAST#)", "tformat")
+t("#{bold}##Source# performs a ranged critical strike against #Target#!#{normal}#", "######Source# performs a ranged critical strike against #Target# ##{normal}#", "logCombat")
 t("#Source# misses #target#.", "#Source# misses #target#.", "logCombat")
-t("The siege arrow creates a shockwave!", "The siege arrow creates a shockwave!", "logSeen")
-t("You are disarmed!", "You are disarmed!", "logPlayer")
-t("You must wield a ranged weapon (%s)!", "You must wield a ranged weapon (%s)!", "logPlayer")
+t("The siege arrow creates a shockwave!", "¡La flecha del asedio crea una onda de choque!", "logSeen")
+t("You are disarmed!", "¡Estás desarmado!", "logPlayer")
+t("You must wield a ranged weapon (%s)!", "¡Debes usar un arma con rango (  PH0  )!", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -24970,26 +24965,26 @@ section "mod-tome/mod/class/interface/Combat.lua"
 
 -- new text
 --[==[
-t("%s is too afraid to attack.", "%s is too afraid to attack.", "logSeen")
-t("%s is too terrified to attack.", "%s is too terrified to attack.", "logSeen")
-t("#Target# notices you at the last moment!", "#Target# notices you at the last moment!", "logCombat")
-t("#ORCHID#%s cleverly deflects the attack with %s shield!#LAST#", "#ORCHID#%s cleverly deflects the attack with %s shield!#LAST#", "logSeen")
-t("#ORCHID#%s parries the attack with %s dual weapons!#LAST#", "#ORCHID#%s parries the attack with %s dual weapons!#LAST#", "logSeen")
-t("#ORCHID#%s instinctively hardens %s skin and ignores the attack!#LAST#", "#ORCHID#%s instinctively hardens %s skin and ignores the attack!#LAST#", "logSeen")
-t("#Target# repels an attack from #Source#.", "#Target# repels an attack from #Source#.", "logCombat")
+t("%s is too afraid to attack.", " PH0  es demasiado miedo para atacar.", "logSeen")
+t("%s is too terrified to attack.", " PH0  es demasiado aterrorizado para atacar.", "logSeen")
+t("#Target# notices you at the last moment!", "#Target # te nota en el último momento!", "logCombat")
+t("#ORCHID#%s cleverly deflects the attack with %s shield!#LAST#", "#ORCHID#  PH0   inteligentemente desvía el ataque con el escudo   PH1    #", "logSeen")
+t("#ORCHID#%s parries the attack with %s dual weapons!#LAST#", "#ORCHID#  PH0    se refiere al ataque con armas duales   PH1  ", "logSeen")
+t("#ORCHID#%s instinctively hardens %s skin and ignores the attack!#LAST#", "#ORCHID# PH0     instintivamente endurece   PH1    la piel e ignora el ataque!#LAST#", "logSeen")
+t("#Target# repels an attack from #Source#.", "#Target# repele un ataque de #Source#.", "logCombat")
 t("#Target# evades #Source#.", "#Target# evades #Source#.", "logCombat")
-t("%s(%d parried#LAST#)", "%s(%d parried#LAST#)", "tformat")
-t("%s(%d gestured#LAST#)", "%s(%d gestured#LAST#)", "tformat")
-t("#{bold}##Source# performs a melee critical strike against #Target#!#{normal}#", "#{bold}##Source# performs a melee critical strike against #Target#!#{normal}#", "logCombat")
+t("%s(%d parried#LAST#)", " PH0 (        parried#LAST#)", "tformat")
+t("%s(%d gestured#LAST#)", "¿Por qué", "tformat")
+t("#{bold}##Source# performs a melee critical strike against #Target#!#{normal}#", "#####Source# performs a melee critical strike against #Target# ###{normal}#", "logCombat")
 t("#Source# misses #Target#.", "#Source# misses #Target#.", "logCombat")
-t("The shattering blow creates a shockwave!", "The shattering blow creates a shockwave!", "logSeen")
-t("#F53CBE#You revel in attacking a weakened foe! (+%d hate)", "#F53CBE#You revel in attacking a weakened foe! (+%d hate)", "logPlayer")
-t("#F53CBE#Your rampage is invigorated by your fierce attack! (+1 duration)", "#F53CBE#Your rampage is invigorated by your fierce attack! (+1 duration)", "logPlayer")
-t("#Source# counter attacks #Target# with %s shield shards!", "#Source# counter attacks #Target# with %s shield shards!", "logCombat")
-t("#{bold}#%s's spell attains critical power!#{normal}#", "#{bold}#%s's spell attains critical power!#{normal}#", "logSeen")
-t("#{bold}#%s's mind surges with critical power!#{normal}#", "#{bold}#%s's mind surges with critical power!#{normal}#", "logSeen")
-t("#Source#'s grapple fails because #Target# is too big!", "#Source#'s grapple fails because #Target# is too big!", "logCombat")
-t("%s resists the grapple!", "%s resists the grapple!", "logSeen")
+t("The shattering blow creates a shockwave!", "¡El golpe destrozado crea una onda de choque!", "logSeen")
+t("#F53CBE#You revel in attacking a weakened foe! (+%d hate)", "#F53CBE# You revel in attacking a weakened foe! (+  PH0   Odio)", "logPlayer")
+t("#F53CBE#Your rampage is invigorated by your fierce attack! (+1 duration)", "#F53CBE# Tu rampa está vigorizada por tu feroz ataque! (+1 duración)", "logPlayer")
+t("#Source# counter attacks #Target# with %s shield shards!", "#Source# counter attacks #Target# with   PH0  escudo shards!", "logCombat")
+t("#{bold}#%s's spell attains critical power!#{normal}#", "¡El hechizo alcanza el poder crítico", "logSeen")
+t("#{bold}#%s's mind surges with critical power!#{normal}#", "#{bold}#         's mind surges with critical power", "logSeen")
+t("#Source#'s grapple fails because #Target# is too big!", "#Source#'s grapple fails porque #Target# es demasiado grande!", "logCombat")
+t("%s resists the grapple!", " PH0  resiste el grapple!", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -24998,25 +24993,25 @@ section "mod-tome/mod/class/interface/PartyDeath.lua"
 
 -- new text
 --[==[
-t("unknown", "unknown", "entity name")
-t("her", "her", "_t")
-t("him", "him", "_t")
-t("herself", "herself", "_t")
-t("himself", "himself", "_t")
-t(" (the fool)", " (the fool)", "_t")
-t(" in an act of extreme incompetence", " in an act of extreme incompetence", "_t")
-t(" out of supreme humility", " out of supreme humility", "_t")
-t(", by accident of course,", ", by accident of course,", "_t")
-t(" in some sort of fetish experiment gone wrong", " in some sort of fetish experiment gone wrong", "_t")
-t(", providing a free meal to the wildlife", ", providing a free meal to the wildlife", "_t")
-t(" (how embarrassing)", " (how embarrassing)", "_t")
-t("%s the level %d %s %s was %s to death by %s%s%s on level %s of %s.", "%s the level %d %s %s was %s to death by %s%s%s on level %s of %s.", "tformat")
+t("unknown", "desconocida", "entity name")
+t("her", "ella", "_t")
+t("him", "él", "_t")
+t("herself", "ella misma", "_t")
+t("himself", "él mismo", "_t")
+t(" (the fool)", "(el tonto)", "_t")
+t(" in an act of extreme incompetence", "en un acto de extrema incompetencia", "_t")
+t(" out of supreme humility", "fuera de la humildad suprema", "_t")
+t(", by accident of course,", "por accidente,", "_t")
+t(" in some sort of fetish experiment gone wrong", "en algún tipo de experimento fetiche salió mal", "_t")
+t(", providing a free meal to the wildlife", ", proporcionar una comida gratis a la vida silvestre", "_t")
+t(" (how embarrassing)", "(que vergonzoso)", "_t")
+t("%s the level %d %s %s was %s to death by %s%s%s on level %s of %s.", " PH0                                                                                                                                                                                                                                                            .", "tformat")
 t("battered", "battered", "_t")
-t(" (yet again)", " (yet again)", "_t")
-t("%s(%d %s %s) was %s to death by %s%s on %s %s.", "%s(%d %s %s) was %s to death by %s%s on %s %s.", "tformat")
-t("%s the level %d %s %s %s on level %s of %s.", "%s the level %d %s %s %s on level %s of %s.", "tformat")
-t("%s(%d %s %s) %s on %s %s.", "%s(%d %s %s) %s on %s %s.", "tformat")
-t("#{bold}#", "#{bold}#", "_t")
+t(" (yet again)", "(otra vez)", "_t")
+t("%s(%d %s %s) was %s to death by %s%s on %s %s.", " PH0                                                                                                                                                                                                                                                            .", "tformat")
+t("%s the level %d %s %s %s on level %s of %s.", " PH0                                                                                                                                                                                                                                                            .", "tformat")
+t("%s(%d %s %s) %s on %s %s.", " PH0                                                                                                                                                                                                                                                            .", "tformat")
+t("#{bold}#", "# {bold}#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25025,8 +25020,8 @@ section "mod-tome/mod/class/interface/PartyIngredients.lua"
 
 -- new text
 --[==[
-t("You collect a new ingredient: #LIGHT_GREEN#%s%s#WHITE#.", "You collect a new ingredient: #LIGHT_GREEN#%s%s#WHITE#.", "log")
-t("You collect a new ingredient: #LIGHT_GREEN#%s%s (%d)#WHITE#.", "You collect a new ingredient: #LIGHT_GREEN#%s%s (%d)#WHITE#.", "log")
+t("You collect a new ingredient: #LIGHT_GREEN#%s%s#WHITE#.", "Recopilas un nuevo ingrediente: #LIGHT GREEN# PH0     PH1    WHITE#.", "log")
+t("You collect a new ingredient: #LIGHT_GREEN#%s%s (%d)#WHITE#.", "Recopila un nuevo ingrediente: #LIGHT GREEN# PH0                                                                                                                                                                                                                                             .", "log")
 --]==]
 
 ------------------------------------------------
@@ -25035,9 +25030,9 @@ section "mod-tome/mod/class/interface/PartyLore.lua"
 
 -- new text
 --[==[
-t("Lore found: #0080FF#%s", "Lore found: #0080FF#%s", "logPlayer")
-t("You can read all your collected lore in the game menu, by pressing Escape.", "You can read all your collected lore in the game menu, by pressing Escape.", "logPlayer")
-t("learnt lore", "learnt lore", "_t")
+t("Lore found: #0080FF#%s", "Lore found: #0080FF# PH0  ", "logPlayer")
+t("You can read all your collected lore in the game menu, by pressing Escape.", "Puedes leer todo tu lore recogido en el menú del juego, pulsando Escape.", "logPlayer")
+t("learnt lore", "aprendiz lore", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25046,15 +25041,15 @@ section "mod-tome/mod/class/interface/PlayerExplore.lua"
 
 -- new text
 --[==[
-t("at door", "at door", "_t")
-t("something interesting", "something interesting", "_t")
-t("interesting terrain", "interesting terrain", "_t")
-t("Running...", "Running...", "_t")
-t("You are exploring, press any key to stop.", "You are exploring, press any key to stop.", "_t")
-t("checked door", "checked door", "_t")
-t("at %s", "at %s", "tformat")
-t("at object (diggable)", "at object (diggable)", "_t")
-t("the path is blocked", "the path is blocked", "_t")
+t("at door", "a la puerta", "_t")
+t("something interesting", "algo interesante", "_t")
+t("interesting terrain", "interesante terreno", "_t")
+t("Running...", "Corriendo...", "_t")
+t("You are exploring, press any key to stop.", "Estás explorando, presiona cualquier llave para parar.", "_t")
+t("checked door", "puerta cerrada", "_t")
+t("at %s", " PH0 ", "tformat")
+t("at object (diggable)", "at objeto (diggable)", "_t")
+t("the path is blocked", "el camino está bloqueado", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25063,16 +25058,16 @@ section "mod-tome/mod/class/interface/PlayerQuestPopup.lua"
 
 -- new text
 --[==[
-t("#LIGHT_GREEN#Accepted quest '%s'! #WHITE#(Press 'j' to see the quest log)", "#LIGHT_GREEN#Accepted quest '%s'! #WHITE#(Press 'j' to see the quest log)", "logPlayer")
-t("#LIGHT_GREEN#Accepted quest '%s'!", "#LIGHT_GREEN#Accepted quest '%s'!", "saySimple")
-t("#LIGHT_GREEN#Quest '%s' status updated! #WHITE#(Press 'j' to see the quest log)", "#LIGHT_GREEN#Quest '%s' status updated! #WHITE#(Press 'j' to see the quest log)", "logPlayer")
-t("#LIGHT_GREEN#Quest '%s' updated!", "#LIGHT_GREEN#Quest '%s' updated!", "saySimple")
-t("#LIGHT_GREEN#Quest '%s' completed! #WHITE#(Press 'j' to see the quest log)", "#LIGHT_GREEN#Quest '%s' completed! #WHITE#(Press 'j' to see the quest log)", "logPlayer")
-t("#LIGHT_GREEN#Quest '%s' completed!", "#LIGHT_GREEN#Quest '%s' completed!", "saySimple")
-t("#LIGHT_GREEN#Quest '%s' is done! #WHITE#(Press 'j' to see the quest log)", "#LIGHT_GREEN#Quest '%s' is done! #WHITE#(Press 'j' to see the quest log)", "logPlayer")
-t("#LIGHT_GREEN#Quest '%s' done!", "#LIGHT_GREEN#Quest '%s' done!", "saySimple")
-t("#LIGHT_RED#Quest '%s' is failed! #WHITE#(Press 'j' to see the quest log)", "#LIGHT_RED#Quest '%s' is failed! #WHITE#(Press 'j' to see the quest log)", "logPlayer")
-t("#LIGHT_RED#Quest '%s' failed!", "#LIGHT_RED#Quest '%s' failed!", "saySimple")
+t("#LIGHT_GREEN#Accepted quest '%s'! #WHITE#(Press 'j' to see the quest log)", "#LIGHT GREEN #Accepted quest '  PH0   '! #WHITE#(Presiona 'j' para ver el registro de búsqueda)", "logPlayer")
+t("#LIGHT_GREEN#Accepted quest '%s'!", "#LIGHT GREEN #Accepted quest '  PH0   '!", "saySimple")
+t("#LIGHT_GREEN#Quest '%s' status updated! #WHITE#(Press 'j' to see the quest log)", "#LIGHT GREEN#Quest '  PH0  ' status updated! #WHITE#(Presiona 'j' para ver el registro de búsqueda)", "logPlayer")
+t("#LIGHT_GREEN#Quest '%s' updated!", "#LIGHT GREEN#Quest '  PH0 ' actualizado!", "saySimple")
+t("#LIGHT_GREEN#Quest '%s' completed! #WHITE#(Press 'j' to see the quest log)", "#LIGHT GREEN#Quest '  PH0  ' completed! #WHITE#(Presiona 'j' para ver el registro de búsqueda)", "logPlayer")
+t("#LIGHT_GREEN#Quest '%s' completed!", "#LIGHT GREEN#Quest '  PH0  ' completed!", "saySimple")
+t("#LIGHT_GREEN#Quest '%s' is done! #WHITE#(Press 'j' to see the quest log)", "#LIGHT GREEN#Quest '  PH0  ' está hecho! #WHITE#(Presiona 'j' para ver el registro de búsqueda)", "logPlayer")
+t("#LIGHT_GREEN#Quest '%s' done!", "#LIGHT GREEN#Quest '  PH0  ' done!", "saySimple")
+t("#LIGHT_RED#Quest '%s' is failed! #WHITE#(Press 'j' to see the quest log)", "#LIGHT RED #Quest '  PH0    es fallado! #WHITE#(Presiona 'j' para ver el registro de búsqueda)", "logPlayer")
+t("#LIGHT_RED#Quest '%s' failed!", "#LIGHT RED #Quest '  PH0  ' falló!", "saySimple")
 --]==]
 
 ------------------------------------------------
@@ -25082,14 +25077,14 @@ section "mod-tome/mod/class/interface/WorldAchievements.lua"
 -- new text
 --[==[
 t("Maj'Eyal", "Maj'Eyal", "_t")
-t("%s (Roguelike)", "%s (Roguelike)", "tformat")
-t("%s (Exploration mode)", "%s (Exploration mode)", "tformat")
-t("%s (Nightmare (Adventure) difficulty)", "%s (Nightmare (Adventure) difficulty)", "tformat")
-t("%s (Nightmare (Roguelike) difficulty)", "%s (Nightmare (Roguelike) difficulty)", "tformat")
-t("%s (Insane (Adventure) difficulty)", "%s (Insane (Adventure) difficulty)", "tformat")
-t("%s (Insane (Roguelike) difficulty)", "%s (Insane (Roguelike) difficulty)", "tformat")
-t("%s (Madness (Adventure) difficulty)", "%s (Madness (Adventure) difficulty)", "tformat")
-t("%s (Madness (Roguelike) difficulty)", "%s (Madness (Roguelike) difficulty)", "tformat")
+t("%s (Roguelike)", " PH0   (Roguelike)", "tformat")
+t("%s (Exploration mode)", " PH0   (Modo de expansión)", "tformat")
+t("%s (Nightmare (Adventure) difficulty)", " PH0   (Nightmare (Adventure) difficulty)", "tformat")
+t("%s (Nightmare (Roguelike) difficulty)", " PH0   (Nightmare (Roguelike) dificultad)", "tformat")
+t("%s (Insane (Adventure) difficulty)", " PH0   (Insane (Adventure) difficulty)", "tformat")
+t("%s (Insane (Roguelike) difficulty)", " PH0   (Insane (Roguelike) dificultad)", "tformat")
+t("%s (Madness (Adventure) difficulty)", " PH0   (Madness (Adventure) dificultad)", "tformat")
+t("%s (Madness (Roguelike) difficulty)", " PH0   (Madness (Roguelike) dificultad)", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -25098,26 +25093,26 @@ section "mod-tome/mod/class/uiset/Classic.lua"
 
 -- new text
 --[==[
-t("#{bold}##GOLD#I#LAST##{normal}#nventory", "#{bold}##GOLD#I#LAST##{normal}#nventory", "_t")
-t("Inventory (#{bold}##GOLD#%s#LAST##{normal}#)", "Inventory (#{bold}##GOLD#%s#LAST##{normal}#)", "tformat")
-t("#{bold}##GOLD#C#LAST##{normal}#haracter Sheet", "#{bold}##GOLD#C#LAST##{normal}#haracter Sheet", "_t")
-t("Character Sheet (#{bold}##GOLD#%s#LAST##{normal}#)", "Character Sheet (#{bold}##GOLD#%s#LAST##{normal}#)", "tformat")
-t("Main menu (#{bold}##GOLD#%s#LAST##{normal}#)", "Main menu (#{bold}##GOLD#%s#LAST##{normal}#)", "tformat")
-t("Show message/chat log (#{bold}##GOLD#%s#LAST##{normal}#)", "Show message/chat log (#{bold}##GOLD#%s#LAST##{normal}#)", "tformat")
-t("Cosmetics & Events shop (#{bold}##GOLD#%s#LAST##{normal}#, #{bold}##GOLD#%s#LAST##{normal}#)", "Cosmetics & Events shop (#{bold}##GOLD#%s#LAST##{normal}#, #{bold}##GOLD#%s#LAST##{normal}#)", "tformat")
-t("Left click to use", "Left click to use", "_t")
-t("Right click to configure", "Right click to configure", "_t")
-t("Press 'm' to setup", "Press 'm' to setup", "_t")
-t("Unbind %s", "Unbind %s", "tformat")
-t("Remove this object from your hotkeys?", "Remove this object from your hotkeys?", "_t")
+t("#{bold}##GOLD#I#LAST##{normal}#nventory", "################################################################################################################################################################################################################################################################", "_t")
+t("Inventory (#{bold}##GOLD#%s#LAST##{normal}#)", "Inventario", "tformat")
+t("#{bold}##GOLD#C#LAST##{normal}#haracter Sheet", "################################################################################################################################################################################################################################################################", "_t")
+t("Character Sheet (#{bold}##GOLD#%s#LAST##{normal}#)", "Hoja de caracteres (#{bold}##            ##{normal}#)", "tformat")
+t("Main menu (#{bold}##GOLD#%s#LAST##{normal}#)", "Menú principal (#{bold}###   PH0  ##{normal}#)", "tformat")
+t("Show message/chat log (#{bold}##GOLD#%s#LAST##{normal}#)", "Mostrar mensaje/chat log (#{bold}###   PH0 ###{normal}#", "tformat")
+t("Cosmetics & Events shop (#{bold}##GOLD#%s#LAST##{normal}#, #{bold}##GOLD#%s#LAST##{normal}#)", "Cosmetics & Events shop (#{bold}###    PH0 ##{normal}#, #{bold}#####           ##{normal}#", "tformat")
+t("Left click to use", "Haga clic izquierdo para usar", "_t")
+t("Right click to configure", "Haga clic derecho para configurar", "_t")
+t("Press 'm' to setup", "Presione 'm' para configurar", "_t")
+t("Unbind %s", "Unbind", "tformat")
+t("Remove this object from your hotkeys?", "¿Retirar este objeto de tus hotkeys?", "_t")
 t("Donator", "Donator", "_t")
-t("Developer", "Developer", "_t")
-t("Moderator / Helper", "Moderator / Helper", "_t")
-t("Recurring Donator", "Recurring Donator", "_t")
-t("Playing: ", "Playing: ", "_t")
-t("Game: ", "Game: ", "_t")
-t("Linked by: ", "Linked by: ", "_t")
-t("Show chat user", "Show chat user", "_t")
+t("Developer", "Desarrollado", "_t")
+t("Moderator / Helper", "Moderador / Ayudante", "_t")
+t("Recurring Donator", "Donador recurrente", "_t")
+t("Playing: ", "Jugando:", "_t")
+t("Game: ", "Juego:", "_t")
+t("Linked by: ", "Vinculado por:", "_t")
+t("Show chat user", "Mostrar usuario de chat", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25126,45 +25121,45 @@ section "mod-tome/mod/class/uiset/ClassicPlayerDisplay.lua"
 
 -- new text
 --[==[
-t("%s reduced the duration of this effect by %d turns, from %d to %d.", "%s reduced the duration of this effect by %d turns, from %d to %d.", "tformat")
-t("Really cancel %s?", "Really cancel %s?", "tformat")
-t("%s#{normal}#", "%s#{normal}#", "tformat")
-t("Level / Exp: #00ff00#%s / %2d%%", "Level / Exp: #00ff00#%s / %2d%%", "tformat")
-t("Gold: #00ff00#%0.2f", "Gold: #00ff00#%0.2f", "tformat")
-t("Accuracy:", "Accuracy:", "_t")
+t("%s reduced the duration of this effect by %d turns, from %d to %d.", " PH0   redujo la duración de este efecto por   PH1   vueltas, desde   PH2   a   PH3   .", "tformat")
+t("Really cancel %s?", "¿De verdad cancelar   PH0  ?", "tformat")
+t("%s#{normal}#", " PH0  #{normal}", "tformat")
+t("Level / Exp: #00ff00#%s / %2d%%", "Nivel / Exp", "tformat")
+t("Gold: #00ff00#%0.2f", "Oro:", "tformat")
+t("Accuracy:", "Precisión:", "_t")
 t("P. power:", "P. power:", "_t")
 t("S. power:", "S. power:", "_t")
 t("M. power:", "M. power:", "_t")
-t("Defense:", "Defense:", "_t")
-t("P. save:", "P. save:", "_t")
+t("Defense:", "Defensa:", "_t")
+t("P. save:", "P. Save:", "_t")
 t("S. save:", "S. save:", "_t")
 t("M. save:", "M. save:", "_t")
-t("Turns remaining: %d", "Turns remaining: %d", "tformat")
-t("Air level: %d/%d", "Air level: %d/%d", "tformat")
-t("Encumbered! (%d/%d)", "Encumbered! (%d/%d)", "tformat")
-t("Str/Dex/Con: #00ff00#%3d/%3d/%3d", "Str/Dex/Con: #00ff00#%3d/%3d/%3d", "tformat")
-t("Mag/Wil/Cun: #00ff00#%3d/%3d/%3d", "Mag/Wil/Cun: #00ff00#%3d/%3d/%3d", "tformat")
-t("#c00000#Life    :", "#c00000#Life    :", "_t")
+t("Turns remaining: %d", "Sigue siendo:   PH0  ", "tformat")
+t("Air level: %d/%d", "Nivel de aire:   PH0      ", "tformat")
+t("Encumbered! (%d/%d)", "¡Contratado! (  PH0           )", "tformat")
+t("Str/Dex/Con: #00ff00#%3d/%3d/%3d", "Str/Dex/Con:", "tformat")
+t("Mag/Wil/Cun: #00ff00#%3d/%3d/%3d", "Mag/Wil/Cun:", "tformat")
+t("#c00000#Life    :", "#c00000#Life :", "_t")
 t("#WHITE#Shield:", "#WHITE#Shield:", "_t")
-t("no description", "no description", "_t")
+t("no description", "no descripción", "_t")
 t("%-8.8s:", "%-8.8s:", "tformat")
 t("#7fffd4#Feedback:", "#7fffd4#Feedback:", "_t")
 t("#c00000#Un.body :", "#c00000#Un.body :", "_t")
-t("%0.1f (%0.1f/turn)", "%0.1f (%0.1f/turn)", "tformat")
-t("#LIGHT_GREEN#Fortress:", "#LIGHT_GREEN#Fortress:", "_t")
-t("#ANTIQUE_WHITE#Ammo    :       #ffffff#%d", "#ANTIQUE_WHITE#Ammo    :       #ffffff#%d", "tformat")
-t("#ANTIQUE_WHITE#Ammo    :       #ffffff#%d/%d", "#ANTIQUE_WHITE#Ammo    :       #ffffff#%d/%d", "tformat")
-t("Saving:", "Saving:", "_t")
-t("Score(TOP): %d", "Score(TOP): %d", "tformat")
-t("Score: %d", "Score: %d", "tformat")
-t("Wave(TOP) %d", "Wave(TOP) %d", "tformat")
-t("Wave %d", "Wave %d", "tformat")
-t(" [MiniBoss]", " [MiniBoss]", "_t")
-t(" [Boss]", " [Boss]", "_t")
-t(" [Final]", " [Final]", "_t")
-t("Bonus: %d (x%.1f)", "Bonus: %d (x%.1f)", "tformat")
-t(" VS", " VS", "_t")
-t("Rank: %s", "Rank: %s", "tformat")
+t("%0.1f (%0.1f/turn)", " PH0   (  PH1  /turn)", "tformat")
+t("#LIGHT_GREEN#Fortress:", "#LIGHT GREEN #Fortress:", "_t")
+t("#ANTIQUE_WHITE#Ammo    :       #ffffff#%d", "################################################################################################################################################################################################################################################################", "tformat")
+t("#ANTIQUE_WHITE#Ammo    :       #ffffff#%d/%d", "#ANTIQUE WHITE#Ammo: #ffffff#  PH0                ", "tformat")
+t("Saving:", "Salvando:", "_t")
+t("Score(TOP): %d", "Puntuación:   PH0 ", "tformat")
+t("Score: %d", "Puntuación:   PH0  ", "tformat")
+t("Wave(TOP) %d", "Wave (TOP)   PH0  ", "tformat")
+t("Wave %d", "Wave   PH0 ", "tformat")
+t(" [MiniBoss]", "[MiniBoss]", "_t")
+t(" [Boss]", "[Boss]", "_t")
+t(" [Final]", "[Final]", "_t")
+t("Bonus: %d (x%.1f)", "Bono:   PH0   (x  PH1  )", "tformat")
+t(" VS", "VS", "_t")
+t("Rank: %s", "Rank:", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -25173,85 +25168,85 @@ section "mod-tome/mod/class/uiset/Minimalist.lua"
 
 -- new text
 --[==[
-t("no description", "no description", "_t")
-t("Player Infos", "Player Infos", "_t")
-t("Resources", "Resources", "_t")
+t("no description", "no descripción", "_t")
+t("Player Infos", "Información de jugadores", "_t")
+t("Resources", "Recursos", "_t")
 t("Minimap", "Minimap", "_t")
-t("Current Effects", "Current Effects", "_t")
-t("Party Members", "Party Members", "_t")
+t("Current Effects", "Efectos actuales", "_t")
+t("Party Members", "Miembros del Partido", "_t")
 t("Game Log", "Game Log", "_t")
-t("Online Chat Log", "Online Chat Log", "_t")
+t("Online Chat Log", "Chat Online", "_t")
 t("Hotkeys", "Hotkeys", "_t")
-t("Game Actions", "Game Actions", "_t")
-t("#CRIMSON#Interface locked, mouse enabled on the map", "#CRIMSON#Interface locked, mouse enabled on the map", "say")
-t("#CRIMSON#Interface unlocked, mouse disabled on the map", "#CRIMSON#Interface unlocked, mouse disabled on the map", "say")
-t("Reset interface positions", "Reset interface positions", "_t")
+t("Game Actions", "Acciones del juego", "_t")
+t("#CRIMSON#Interface locked, mouse enabled on the map", "#CRIMSON#Interfaz cerrada, ratón habilitado en el mapa", "say")
+t("#CRIMSON#Interface unlocked, mouse disabled on the map", "#CRIMSON#Interfaz desbloqueada, ratón desactivado en el mapa", "say")
+t("Reset interface positions", "Restablecer posiciones de interfaz", "_t")
 t("Reset UI", "Reset UI", "_t")
-t("Reset all the interface?", "Reset all the interface?", "_t")
+t("Reset all the interface?", "¿Reiniciar toda la interfaz?", "_t")
 t("Feedback", "Feedback", "_t")
 t("Fortress Energy", "Fortress Energy", "_t")
-t("Display/Hide resources", "Display/Hide resources", "_t")
+t("Display/Hide resources", "Recursos de visualización/hide", "_t")
 t("Toggle:", "Toggle:", "_t")
 t("\
 Right click to toggle resources bars visibility", "\
 Right click to toggle resources bars visibility", "_t")
-t("Score[1st]: %d", "Score[1st]: %d", "tformat")
-t("Score: %d", "Score: %d", "tformat")
+t("Score[1st]: %d", "Puntuación[1st]:   PH0  ", "tformat")
+t("Score: %d", "Puntuación:   PH0  ", "tformat")
 t("[MiniBoss]", "[MiniBoss]", "_t")
 t("[Boss]", "[Boss]", "_t")
 t("[Final]", "[Final]", "_t")
-t("Wave(TOP) %d %s", "Wave(TOP) %d %s", "tformat")
-t("Wave %d %s", "Wave %d %s", "tformat")
-t("Bonus: %d (x%.1f)", "Bonus: %d (x%.1f)", "tformat")
-t(" VS", " VS", "_t")
-t("Rank: ", "Rank: ", "_t")
-t("Saving... %d%%", "Saving... %d%%", "tformat")
-t("%s reduced the duration of this effect by %d turns, from %d to %d.", "%s reduced the duration of this effect by %d turns, from %d to %d.", "tformat")
+t("Wave(TOP) %d %s", "Wave(TOP)   PH0     PH1  ", "tformat")
+t("Wave %d %s", "Wave   PH0     PH1  ", "tformat")
+t("Bonus: %d (x%.1f)", "Bono:   PH0   (x  PH1  )", "tformat")
+t(" VS", "VS", "_t")
+t("Rank: ", "Rank:", "_t")
+t("Saving... %d%%", "Salvando..", "tformat")
+t("%s reduced the duration of this effect by %d turns, from %d to %d.", " PH0   redujo la duración de este efecto por   PH1   vueltas, desde   PH2   a   PH3   .", "tformat")
 t("\
 ---\
 Right click to cancel early.", "\
 ---\
 Right click to cancel early.", "_t")
-t("Really cancel %s?", "Really cancel %s?", "tformat")
+t("Really cancel %s?", "¿De verdad cancelar   PH0  ?", "tformat")
 t("\
 Turns remaining: %s", "\
 Turns remaining: %s", "tformat")
-t("Lvl %d", "Lvl %d", "tformat")
-t("Show character infos", "Show character infos", "_t")
-t("Click to assign stats and talents!", "Click to assign stats and talents!", "_t")
-t("Show available cosmetic & fun microtransation", "Show available cosmetic & fun microtransation", "_t")
-t("Left click to use", "Left click to use", "_t")
-t("Right click to configure", "Right click to configure", "_t")
-t("Press 'm' to setup", "Press 'm' to setup", "_t")
-t("Unbind %s", "Unbind %s", "tformat")
-t("Remove this object from your hotkeys?", "Remove this object from your hotkeys?", "_t")
-t("Left mouse to show known talents", "Left mouse to show known talents", "_t")
-t("Left mouse to show message/chat log.", "Left mouse to show message/chat log.", "_t")
+t("Lvl %d", "Lvl   PH0 ", "tformat")
+t("Show character infos", "Mostrar información de carácter", "_t")
+t("Click to assign stats and talents!", "Haga clic para asignar estadísticas y talentos!", "_t")
+t("Show available cosmetic & fun microtransation", "Mostrar cosmética disponible & divertida microtransición", "_t")
+t("Left click to use", "Haga clic izquierdo para usar", "_t")
+t("Right click to configure", "Haga clic derecho para configurar", "_t")
+t("Press 'm' to setup", "Presione 'm' para configurar", "_t")
+t("Unbind %s", "Unbind", "tformat")
+t("Remove this object from your hotkeys?", "¿Retirar este objeto de tus hotkeys?", "_t")
+t("Left mouse to show known talents", "Ratón izquierdo para mostrar talentos conocidos", "_t")
+t("Left mouse to show message/chat log.", "Ratón izquierdo para mostrar mensaje/chat log.", "_t")
 t("Tales of Maj'Eyal Lore", "Tales of Maj'Eyal Lore", "_t")
-t("Left mouse to show main menu", "Left mouse to show main menu", "_t")
-t("Unlock all interface elements so they can be moved and resized.", "Unlock all interface elements so they can be moved and resized.", "_t")
-t("Lock all interface elements so they can not be moved nor resized.", "Lock all interface elements so they can not be moved nor resized.", "_t")
-t("Clicking will open#LIGHT_BLUE##{italic}#%s#WHITE##{normal}# in your browser", "Clicking will open#LIGHT_BLUE##{italic}#%s#WHITE##{normal}# in your browser", "_t")
+t("Left mouse to show main menu", "Ratón izquierdo para mostrar el menú principal", "_t")
+t("Unlock all interface elements so they can be moved and resized.", "Desbloquear todos los elementos de interfaz para que puedan moverse y cambiar de tamaño.", "_t")
+t("Lock all interface elements so they can not be moved nor resized.", "Cierre todos los elementos de interfaz para que no se puedan mover ni cambiar de tamaño.", "_t")
+t("Clicking will open#LIGHT_BLUE##{italic}#%s#WHITE##{normal}# in your browser", "Hacer clic abrirá#LIGHT BLUE###{italic}#  PH0 #WHITE##{normal}# en su navegador", "_t")
 t("Donator", "Donator", "_t")
-t("Developer", "Developer", "_t")
-t("Moderator / Helper", "Moderator / Helper", "_t")
-t("Recurring Donator", "Recurring Donator", "_t")
-t("Playing: ", "Playing: ", "_t")
-t("Game: ", "Game: ", "_t")
-t("Clicking will open ", "Clicking will open ", "_t")
-t("Show chat user", "Show chat user", "_t")
+t("Developer", "Desarrollado", "_t")
+t("Moderator / Helper", "Moderador / Ayudante", "_t")
+t("Recurring Donator", "Donador recurrente", "_t")
+t("Playing: ", "Jugando:", "_t")
+t("Game: ", "Juego:", "_t")
+t("Clicking will open ", "El clic se abrirá", "_t")
+t("Show chat user", "Mostrar usuario de chat", "_t")
 t("Whisper", "Whisper", "_t")
-t("Ignore", "Ignore", "_t")
-t("Ignore user", "Ignore user", "_t")
-t("Really ignore all messages from: %s", "Really ignore all messages from: %s", "tformat")
-t("Report user for bad behavior", "Report user for bad behavior", "_t")
-t("Reason to report: %s", "Reason to report: %s", "tformat")
-t("Reason", "Reason", "_t")
+t("Ignore", "Ignoro", "_t")
+t("Ignore user", "Usuario de diagnóstico", "_t")
+t("Really ignore all messages from: %s", "Realmente ignorar todos los mensajes de:   PH0  ", "tformat")
+t("Report user for bad behavior", "Informe usuario para mala conducta", "_t")
+t("Reason to report: %s", "Razón para informar:   PH0  ", "tformat")
+t("Reason", "Razón", "_t")
 t("#VIOLET#", "#VIOLET#", "log")
-t("Remove Friend", "Remove Friend", "_t")
-t("Really remove %s from your friends?", "Really remove %s from your friends?", "tformat")
-t("Add Friend", "Add Friend", "_t")
-t("Really add %s to your friends?", "Really add %s to your friends?", "tformat")
+t("Remove Friend", "Quitar Amigo", "_t")
+t("Really remove %s from your friends?", "¿De verdad sacas   PH0   de tus amigos?", "tformat")
+t("Add Friend", "Agregar amigo", "_t")
+t("Really add %s to your friends?", "¿De verdad agrega   PH0   a tus amigos?", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -25260,8 +25255,8 @@ section "mod-tome/mod/dialogs/ArenaFinish.lua"
 
 -- new text
 --[==[
-t("#LIGHT_GREEN#No high scores. This should not happen.", "#LIGHT_GREEN#No high scores. This should not happen.", "_t")
-t("unknown", "unknown", "_t")
+t("#LIGHT_GREEN#No high scores. This should not happen.", "#LIGHT GREEN #Ninguna puntuación alta. Esto no debería suceder.", "_t")
+t("unknown", "desconocida", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25285,42 +25280,42 @@ t("Male", "Masculino", "_t")
 t("Campaign: ", "Campaña: ", "_t")
 t("Difficulty: ", "Dificultad: ", "_t")
 t("Permadeath: ", "Muerte permanente: ", "_t")
-t("Overwrite character?", "Overwrite character?", "_t")
-t("There is already a character with this name, do you want to overwrite it?", "There is already a character with this name, do you want to overwrite it?", "_t")
+t("Overwrite character?", "¿Personal de sobreescritura?", "_t")
+t("There is already a character with this name, do you want to overwrite it?", "Ya hay un personaje con este nombre, ¿quieres sobreescribirlo?", "_t")
 t("No", "No", "_t")
-t("Yes", "Yes", "_t")
+t("Yes", "Sí", "_t")
 t("Antimagic Magic combo", "Antimagic Magic combo", "_t")
-t("The selected race/class has both magic and antimagic, this is unlikely to work. Continue?", "The selected race/class has both magic and antimagic, this is unlikely to work. Continue?", "_t")
-t("Yes I'm sure", "Yes I'm sure", "_t")
-t("Tutorials", "Tutorials", "_t")
-t("Basic Gameplay (recommended)", "Basic Gameplay (recommended)", "_t")
+t("The selected race/class has both magic and antimagic, this is unlikely to work. Continue?", "La raza/clase seleccionada tiene tanto magia como antimagic, esto es poco probable que funcione. ¿Continúa?", "_t")
+t("Yes I'm sure", "Sí, estoy seguro", "_t")
+t("Tutorials", "Tutoriales", "_t")
+t("Basic Gameplay (recommended)", "Juego básico (recomendado)", "_t")
 t("\
 \
 #GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "\
 \
 #GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "_t")
-t("-- locked --", "-- locked --", "_t")
-t("Characters Vault", "Characters Vault", "_t")
-t(" Load ", " Load ", "_t")
-t("Delete", "Delete", "_t")
-t("Really delete premade: %s", "Really delete premade: %s", "tformat")
-t("Exploration mode", "Exploration mode", "_t")
-t("Later", "Later", "_t")
-t("Donate!", "Donate!", "_t")
-t("Custom tiles", "Custom tiles", "_t")
-t("Select a Tile", "Select a Tile", "_t")
-t("Use default tile", "Use default tile", "_t")
-t("Use custom-made tile", "Use custom-made tile", "_t")
-t("Howto: Custom-made tiles", "Howto: Custom-made tiles", "_t")
-t("Cosmetic Options", "Cosmetic Options", "_t")
+t("-- locked --", "-- encerrado --", "_t")
+t("Characters Vault", "Carácteres Vault", "_t")
+t(" Load ", "Carga", "_t")
+t("Delete", "Suprimir", "_t")
+t("Really delete premade: %s", "Eliminar realmente prehecho:   PH0  ", "tformat")
+t("Exploration mode", "Modo de exploración", "_t")
+t("Later", "Más tarde", "_t")
+t("Donate!", "¡Donar!", "_t")
+t("Custom tiles", "Azulejos personalizados", "_t")
+t("Select a Tile", "Seleccione una ficha", "_t")
+t("Use default tile", "Use la ficha predeterminada", "_t")
+t("Use custom-made tile", "Uso de azulejos hechos a medida", "_t")
+t("Howto: Custom-made tiles", "Cómo: Azulejos hechos a medida", "_t")
+t("Cosmetic Options", "Opciones cosméticas", "_t")
 t("Name", "Nombre", "_t")
 t("Donator Feature", "Donator Feature", "_t")
-t("Cosmetic customization is a donator-only feature.", "Cosmetic customization is a donator-only feature.", "_t")
-t("I want to help!", "I want to help!", "_t")
-t("Dismiss", "Dismiss", "_t")
-t("Birth Options", "Birth Options", "_t")
+t("Cosmetic customization is a donator-only feature.", "La personalización cosmética es una característica sólo de donador.", "_t")
+t("I want to help!", "¡Quiero ayudar!", "_t")
+t("Dismiss", "Desestimación", "_t")
+t("Birth Options", "Opciones de nacimiento", "_t")
 t("Confirm", "Confirmar", "_t")
-t("Apply the selected cosmetics to %s?", "Apply the selected cosmetics to %s?", "tformat")
+t("Apply the selected cosmetics to %s?", "Aplicar los cosméticos seleccionados a   PH0  ?", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -25345,7 +25340,7 @@ t("Type", "Tipo", "_t")
 t("Sort:  %s", "Orden:  %s", "tformat")
 t("Manage [I]nventory", "Gestionar [I]nventario", "_t")
 t("[L]evelup", "[S]ubir nivel", "_t")
-t("%i %s %i %s %i %s %s %s", "%i %s %i %s %i %s %s %s", "tformat")
+t("%i %s %i %s %i %s %s %s", "%i   PH0   %i   PH1  %i   PH2                                                                                                                                                                                                                                          ", "tformat")
 t("days", "días", "_t")
 t("day", "día", "_t")
 t("hours", "horas", "_t")
@@ -25354,9 +25349,9 @@ t("minutes", "minutos", "_t")
 t("minute", "minuto", "_t")
 t("seconds", "segundos", "_t")
 t("second", "segundo", "_t")
-t("%i %s %i %s %s %s", "%i %s %i %s %s %s", "tformat")
-t("%i %s %s %s", "%i %s %s %s", "tformat")
-t("%s %s", "%s %s", "tformat")
+t("%i %s %i %s %s %s", "%i   PH0  %i   PH1                                                                                                                                                                                                                                                   ", "tformat")
+t("%i %s %s %s", "¿Por qué", "tformat")
+t("%s %s", " PH0    PH1 ", "tformat")
 t("Poison", "Veneno", "_t")
 t("Disease", "Enfermedad", "_t")
 t("Bleed", "Sangrado", "_t")
@@ -25377,7 +25372,7 @@ t("#ORANGE#Mental Status  ", "#ORANGE#Estado mental", "_t")
 t("#ORANGE#Physical Status", "#ORANGE#Estado físico", "_t")
 t("#ORANGE#Magical Status ", "#ORANGE#Estado mágico", "_t")
 t("Inventory", "Inventario", "_t")
-t("Online URL: #LIGHT_BLUE##{underline}#%s#{normal}#", "Online URL: #LIGHT_BLUE##{underline}#%s#{normal}#", "tformat")
+t("Online URL: #LIGHT_BLUE##{underline}#%s#{normal}#", "URL en línea:", "tformat")
 t("You can find your character sheet online", "Puedes ver tu personaje online", "_t")
 t("Sex  : ", "Sexo: ", "_t")
 t("Female", "Femenino", "_t")
@@ -25388,106 +25383,106 @@ t("Class: ", "Clase: ", "_t")
 t("Stype: ", "Subtipo: ", "_t")
 t("Zigur follower", "Seguidor de Zigur", "_t")
 t("Antimagic adherent", "Antimágico", "_t")
-t("- Seed: #LIGHT_STEEL_BLUE#%s", "- Seed: #LIGHT_STEEL_BLUE#%s", "tformat")
-t("Click to copy to clipboard. You can share the wanderer seed with your friends, this way they can play with the same set of talents.", "Click to copy to clipboard. You can share the wanderer seed with your friends, this way they can play with the same set of talents.", "_t")
+t("- Seed: #LIGHT_STEEL_BLUE#%s", "- Semillas:", "tformat")
+t("Click to copy to clipboard. You can share the wanderer seed with your friends, this way they can play with the same set of talents.", "Haga clic para copiar a portapapeles. Puedes compartir la semilla de vagabundo con tus amigos, así pueden jugar con el mismo conjunto de talentos.", "_t")
 t("Size : ", "Tamaño: ", "_t")
-t("Level: #00ff00#%d", "Level: #00ff00#%d", "tformat")
-t("Exp  : #00ff00#%2d%%", "Exp  : #00ff00#%2d%%", "tformat")
-t("Gold : #00ff00#%0.2f", "Gold : #00ff00#%0.2f", "tformat")
+t("Level: #00ff00#%d", "Nivel:", "tformat")
+t("Exp  : #00ff00#%2d%%", "Exp", "tformat")
+t("Gold : #00ff00#%0.2f", "Oro:", "tformat")
 t("#LIGHT_BLUE#Resources:", "#LIGHT_BLUE#Recursos:", "_t")
 t("%+.0f max", "%+.0f max", "_t")
 t("die:%+d", "muerte:%+d", "_t")
-t("#c00000#Life    : #00ff00#%d/%s", "#c00000#Life    : #00ff00#%d/%s", "tformat")
+t("#c00000#Life    : #00ff00#%d/%s", "#c00000#Life: #00ff00#  PH0                                                                                                                                                                                                                                               ", "tformat")
 t("min", "mín", "_t")
 t("max", "máx", "_t")
 t("No Description", "Sin descripción", "_t")
-t("%s%-8.8s: #00ff00#%s ", "%s%-8.8s: #00ff00#%s ", "tformat")
+t("%s%-8.8s: #00ff00#%s ", " PH0 %-8.8s:", "tformat")
 t("Current Feedback gain is %0.1f%% of damage taken.", "Ganancia de Feedback actual es %0.1f%% del dano recibido.", "tformat")
-t("#7fffd4#Feedback: #00ff00#%d/%s", "#7fffd4#Feedback: #00ff00#%d/%s", "tformat")
+t("#7fffd4#Feedback: #00ff00#%d/%s", "#7fffd4#Feedback: #00ff00#  PH0              ", "tformat")
 t("#LIGHT_BLUE#Speeds:", "#LIGHT_BLUE#Velocidades:", "_t")
-t("Global speed  : #00ff00#%s", "Global speed  : #00ff00#%s", "tformat")
-t("Movement speed: #00ff00#%s", "Movement speed: #00ff00#%s", "tformat")
-t("Spell speed   : #00ff00#%s", "Spell speed   : #00ff00#%s", "tformat")
-t("Attack speed  : #00ff00#%s", "Attack speed  : #00ff00#%s", "tformat")
-t("Mental speed  : #00ff00#%s", "Mental speed  : #00ff00#%s", "tformat")
-t("Times died     : #00ff00#%s", "Times died     : #00ff00#%s", "tformat")
+t("Global speed  : #00ff00#%s", "Velocidad global : #00ff00#  PH0  ", "tformat")
+t("Movement speed: #00ff00#%s", "Velocidad de movimiento:", "tformat")
+t("Spell speed   : #00ff00#%s", "Velocidad de paso:", "tformat")
+t("Attack speed  : #00ff00#%s", "Velocidad de ataque:", "tformat")
+t("Mental speed  : #00ff00#%s", "Velocidad mental:", "tformat")
+t("Times died     : #00ff00#%s", "Los tiempos murieron:", "tformat")
 t("#DARK_RED#Blood of Life", "#DARK_RED#Sangre de Vida", "_t")
-t("Lives left     : #00ff00#%s", "Lives left     : #00ff00#%s", "tformat")
-t("Healing mod.   : #00ff00#%s", "Healing mod.   : #00ff00#%s", "tformat")
-t("Life regen     : #00ff00#%s", "Life regen     : #00ff00#%s", "tformat")
-t("(with heal mod): #00ff00#%s", "(with heal mod): #00ff00#%s", "tformat")
+t("Lives left     : #00ff00#%s", "Vive a la izquierda : #00ff00#  PH0  ", "tformat")
+t("Healing mod.   : #00ff00#%s", "Curación mod", "tformat")
+t("Life regen     : #00ff00#%s", "Life regen: #00ff00#  PH0  ", "tformat")
+t("(with heal mod): #00ff00#%s", "(con heal mod)", "tformat")
 t("#LIGHT_BLUE#Vision:", "#LIGHT_BLUE#Visión:", "_t")
-t("Light radius   : #00ff00#%s", "Light radius   : #00ff00#%s", "tformat")
-t("Vision range   : #00ff00#%s", "Vision range   : #00ff00#%s", "tformat")
-t("Heighten Senses: #00ff00#%s", "Heighten Senses: #00ff00#%s", "tformat")
-t("Detect Traps   : #00ff00#%s", "Detect Traps   : #00ff00#%s", "tformat")
-t("Stealth        : #00ff00#%s", "Stealth        : #00ff00#%s", "tformat")
-t("See stealth    : #00ff00#%s", "See stealth    : #00ff00#%s", "tformat")
-t("Invisibility   : #00ff00#%s", "Invisibility   : #00ff00#%s", "tformat")
-t("See invisible  : #00ff00#%s", "See invisible  : #00ff00#%s", "tformat")
-t("Telepathy range: #00ff00#%s", "Telepathy range: #00ff00#%s", "tformat")
+t("Light radius   : #00ff00#%s", "Rayos de luz:", "tformat")
+t("Vision range   : #00ff00#%s", "Rango de visión : #00ff00#  PH0   ", "tformat")
+t("Heighten Senses: #00ff00#%s", "Senses de Altura:", "tformat")
+t("Detect Traps   : #00ff00#%s", "Detectar trampas:", "tformat")
+t("Stealth        : #00ff00#%s", "Stealth:", "tformat")
+t("See stealth    : #00ff00#%s", "Ver el robo:", "tformat")
+t("Invisibility   : #00ff00#%s", "Invisibilidad:", "tformat")
+t("See invisible  : #00ff00#%s", "Ver invisible:", "tformat")
+t("Telepathy range: #00ff00#%s", "Rango de telepatía: #00ff00#  PH0  ", "tformat")
 t("#LIGHT_BLUE#Stats:        Base/Current", "#LIGHT_BLUE#Atributos: Base/Actual", "_t")
-t("#AQUAMARINE#Inscriptions (%d/%d)", "#AQUAMARINE#Inscriptions (%d/%d)", "tformat")
+t("#AQUAMARINE#Inscriptions (%d/%d)", "#AQUAMARINE#Inscripciones (  PH0  /  PH1   )", "tformat")
 t("Telepathy of: ", "Telepatía: ", "_t")
 t("%sAll ", "%sTodo ", "tformat")
 t("#LIGHT_BLUE#Current effects:", "#LIGHT_BLUE#Efectos actuales:", "_t")
 t("Two-Handed, ", "Dos manos, ", "_t")
 t("Weapon", "Arma", "_t")
-t("Accuracy     : #00ff00#%s", "Accuracy     : #00ff00#%s", "tformat")
-t("Damage       : #00ff00#%s", "Damage       : #00ff00#%s", "tformat")
-t("Block : #00ff00#%s", "Block : #00ff00#%s", "tformat")
-t("APR          : #00ff00#%s", "APR          : #00ff00#%s", "tformat")
-t("Crit. chance : #00ff00#%s", "Crit. chance : #00ff00#%s", "tformat")
-t("Crit. power  : #00ff00#%s", "Crit. power  : #00ff00#%s", "tformat")
-t("Attack Speed : #00ff00#%s", "Attack Speed : #00ff00#%s", "tformat")
+t("Accuracy     : #00ff00#%s", "Precisión:", "tformat")
+t("Damage       : #00ff00#%s", "Daños:", "tformat")
+t("Block : #00ff00#%s", "Bloqueo:", "tformat")
+t("APR          : #00ff00#%s", "APR: #00ff00#  PH0  ", "tformat")
+t("Crit. chance : #00ff00#%s", "Crit. chance : #00ff00#  PH0  ", "tformat")
+t("Crit. power  : #00ff00#%s", "Poder", "tformat")
+t("Attack Speed : #00ff00#%s", "Velocidad de ataque:", "tformat")
 t("range %2d", "alcance %2d", "_t")
-t("speed %3d%%", "speed %3d%%", "_t")
-t("Archery      : #00ff00#%s, %s", "Archery      : #00ff00#%s, %s", "tformat")
+t("speed %3d%%", "velocidad", "_t")
+t("Archery      : #00ff00#%s, %s", "Arco : #00ff00#         ,   PH1   ", "tformat")
 t("#LIGHT_BLUE#Main Hand", "#LIGHT_BLUE#Mano principal", "_t")
 t("#LIGHT_BLUE#Unarmed", "#LIGHT_BLUE#Sin arma", "_t")
-t("#LIGHT_BLUE#Offhand%s", "#LIGHT_BLUE#Offhand%s", "tformat")
+t("#LIGHT_BLUE#Offhand%s", "#LIGHT BLUE#Offhand  PH0  ", "tformat")
 t(" (disabled)", "(desactivado)", "_t")
-t("#LIGHT_BLUE#Offhand-Dual Weapon%s", "#LIGHT_BLUE#Offhand-Dual Weapon%s", "tformat")
+t("#LIGHT_BLUE#Offhand-Dual Weapon%s", "#LIGHT BLUE#Offhand-Dual Weapon   PH0  ", "tformat")
 t("#LIGHT_BLUE#Psionic Focus", "#LIGHT_BLUE#Foco psiónico", "_t")
 t("#LIGHT_BLUE#Physical:", "#LIGHT_BLUE#Físico:", "_t")
-t("Phys. Power: #00ff00#%s", "Phys. Power: #00ff00#%s", "tformat")
-t("Crit. chance: #00ff00#%s", "Crit. chance: #00ff00#%s", "tformat")
+t("Phys. Power: #00ff00#%s", "Phys. Poder:", "tformat")
+t("Crit. chance: #00ff00#%s", "Crit. chance: #00ff00#  PH0 ", "tformat")
 t("#LIGHT_BLUE#Magical:", "#LIGHT_BLUE#Mágico:", "_t")
-t("Spellpower  : #00ff00#%s", "Spellpower  : #00ff00#%s", "tformat")
-t("Spell speed : #00ff00#%s", "Spell speed : #00ff00#%s", "tformat")
-t("Spell cooldown: #00ff00#%s", "Spell cooldown: #00ff00#%s", "tformat")
-t("#LIGHT_BLUE#Mental:", "#LIGHT_BLUE#Mental:", "_t")
-t("Mindpower: #00ff00#%s", "Mindpower: #00ff00#%s", "tformat")
-t("Mind speed : #00ff00#%s", "Mind speed : #00ff00#%s", "tformat")
+t("Spellpower  : #00ff00#%s", "Potencia de la obra:", "tformat")
+t("Spell speed : #00ff00#%s", "Velocidad de paso:", "tformat")
+t("Spell cooldown: #00ff00#%s", "Enfriamiento de la palanca:", "tformat")
+t("#LIGHT_BLUE#Mental:", "#LIGHT BLUE#Mental:", "_t")
+t("Mindpower: #00ff00#%s", "Poder mental:", "tformat")
+t("Mind speed : #00ff00#%s", "Velocidad de la mente:", "tformat")
 t("#LIGHT_BLUE#Damage Modifiers:", "#LIGHT_BLUE#Modificadores de daño:", "_t")
-t("Critical mult.: #00ff00#%s", "Critical mult.: #00ff00#%s", "tformat")
-t("All damage    : #00ff00#%s", "All damage    : #00ff00#%s", "tformat")
-t("vs ", "vs ", "_t")
-t("#LIGHT_BLUE#Damage penetration:", "#LIGHT_BLUE#Damage penetration:", "_t")
-t("#LIGHT_BLUE#Additional Melee Damage:", "#LIGHT_BLUE#Additional Melee Damage:", "_t")
-t("#LIGHT_BLUE#Additional Ranged Damage:", "#LIGHT_BLUE#Additional Ranged Damage:", "_t")
+t("Critical mult.: #00ff00#%s", "Molt crítico: #00ff00##  PH0   ", "tformat")
+t("All damage    : #00ff00#%s", "Todos los daños:", "tformat")
+t("vs ", "vs", "_t")
+t("#LIGHT_BLUE#Damage penetration:", "#LIGHT BLUE# penetración de la salchicha:", "_t")
+t("#LIGHT_BLUE#Additional Melee Damage:", "#LIGHT BLUE#Additional Melee Damage:", "_t")
+t("#LIGHT_BLUE#Additional Ranged Damage:", "#LIGHT BLUE#Adición de daños a distancia:", "_t")
 t("Heavy armor", "Armadura pesada", "_t")
 t("Massive armor", "Armadura masiva", "_t")
 t("Light armor", "Armadura ligera", "_t")
-t("Fatigue         : #00ff00#%s", "Fatigue         : #00ff00#%s", "tformat")
-t("Armor Hardiness : #00ff00#%s", "Armor Hardiness : #00ff00#%s", "tformat")
-t("Armor           : #00ff00#%s", "Armor           : #00ff00#%s", "tformat")
-t("Defense         : #00ff00#%s", "Defense         : #00ff00#%s", "tformat")
-t("Ranged Defense  : #00ff00#%s", "Ranged Defense  : #00ff00#%s", "tformat")
-t("Crit. Reduction : #00ff00#%s", "Crit. Reduction : #00ff00#%s", "tformat")
-t("Crit. Shrug Off : #00ff00#%s", "Crit. Shrug Off : #00ff00#%s", "tformat")
+t("Fatigue         : #00ff00#%s", "Fatiga:", "tformat")
+t("Armor Hardiness : #00ff00#%s", "Hardiness Armor : #00ff00#  PH0  ", "tformat")
+t("Armor           : #00ff00#%s", "Armor:", "tformat")
+t("Defense         : #00ff00#%s", "Defensa:", "tformat")
+t("Ranged Defense  : #00ff00#%s", "Ranged Defense: #00ff00#  PH0  ", "tformat")
+t("Crit. Reduction : #00ff00#%s", "Crit. Reduction : #00ff00#  PH0  ", "tformat")
+t("Crit. Shrug Off : #00ff00#%s", "Arranca", "tformat")
 t("#LIGHT_BLUE#Saves:", "#LIGHT_BLUE#Salvaciones:", "_t")
-t("Physical: #00ff00#%s", "Physical: #00ff00#%s", "tformat")
-t("Spell   : #00ff00#%s", "Spell   : #00ff00#%s", "tformat")
-t("Mental  : #00ff00#%s", "Mental  : #00ff00#%s", "tformat")
-t("#LIGHT_BLUE#Resistances   : base / cap:", "#LIGHT_BLUE#Resistances   : base / cap:", "_t")
+t("Physical: #00ff00#%s", "Física:", "tformat")
+t("Spell   : #00ff00#%s", "Paga:", "tformat")
+t("Mental  : #00ff00#%s", "Mental:", "tformat")
+t("#LIGHT_BLUE#Resistances   : base / cap:", "#LIGHT BLUE#Resistances : base / cap:", "_t")
 t("All", "Todos", "_t")
 t("Absolute", "Absoluto", "_t")
 t("Speed Res", "Resistencia de velocidad", "_t")
-t("#ORANGE#vs %-11s#LAST#: #00ff00#%3s %s", "#ORANGE#vs %-11s#LAST#: #00ff00#%3s %s", "tformat")
-t("#LIGHT_BLUE#Damage affinities:", "#LIGHT_BLUE#Damage affinities:", "_t")
+t("#ORANGE#vs %-11s#LAST#: #00ff00#%3s %s", "#ORANGE#vs %-11s#", "tformat")
+t("#LIGHT_BLUE#Damage affinities:", "#LIGHT BLUE#Damage affinities:", "_t")
 t("#LIGHT_BLUE#Flat resistances:", "#LIGHT_BLUE#Resistencias planas:", "_t")
-t("#LIGHT_BLUE#Effect resistances:", "#LIGHT_BLUE#Effect resistances:", "_t")
+t("#LIGHT_BLUE#Effect resistances:", "#LIGHT BLUE#Resistencias de efectos:", "_t")
 t("#LIGHT_BLUE#Damage when hit:", "#LIGHT_BLUE#Daño al recibir golpe:", "_t")
 t("race/.*", "raza/.*", "_t")
 t("Inscriptions", "Inscripciones", "_t")
@@ -25508,8 +25503,8 @@ section "mod-tome/mod/dialogs/CursedAuraSelect.lua"
 
 -- new text
 --[==[
-t("Cursed Aura Selection", "Cursed Aura Selection", "_t")
-t("A malevolent aura begins to form around you. Choose your curse:", "A malevolent aura begins to form around you. Choose your curse:", "_t")
+t("Cursed Aura Selection", "Cursed Aura Selección", "_t")
+t("A malevolent aura begins to form around you. Choose your curse:", "Un aura malévolo comienza a formar alrededor tuyo. Elige tu maldición:", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25521,24 +25516,24 @@ section "mod-tome/mod/dialogs/DeathDialog.lua"
 t("You have #LIGHT_RED#died#LAST#!", "¡#LIGHT_RED#Has muerto#LAST#!", "_t")
 t("#LIGHT_RED#You have %d life(s) left.", "#LIGHT_RED#Te quedan %d vida(s).", "tformat")
 t("#LIGHT_RED#You have no more lives left.", "#LIGHT_RED#No te quedan más vidas.", "tformat")
-t("#LIGHT_RED#From the brink of death you seem to be yanked to another plane.", "#LIGHT_RED#From the brink of death you seem to be yanked to another plane.", "log")
+t("#LIGHT_RED#From the brink of death you seem to be yanked to another plane.", "#LIGHT RED#Desde el borde de la muerte pareces ser arrojado a otro avión.", "log")
 t("Message Log", "Registro de mensajes", "_t")
 t("#LIGHT_BLUE#You resurrect! CHEATER!", "#LIGHT_BLUE#¡Resucitas! ¡TRAMPOSO!", "logPlayer")
-t("#LIGHT_RED#The Blood of Life rushes through your dead body. You come back to life!", "#LIGHT_RED#The Blood of Life rushes through your dead body. You come back to life!", "logPlayer")
-t("#YELLOW#Your bones magically knit back together. You are once more able to dish out pain to your foes!", "#YELLOW#Your bones magically knit back together. You are once more able to dish out pain to your foes!", "logPlayer")
+t("#LIGHT_RED#The Blood of Life rushes through your dead body. You come back to life!", "#LIGHT RED #La sangre de la vida corre por tu cuerpo muerto. ¡Vuelve a la vida!", "logPlayer")
+t("#YELLOW#Your bones magically knit back together. You are once more able to dish out pain to your foes!", "Tus huesos tejen mágicamente juntos. ¡Eres una vez más capaz de deshacerte del dolor a tus enemigos!", "logPlayer")
 t("#YELLOW#Your %s is consumed and disappears! You come back to life!", "#YELLOW#Tu %s se consume y desaparece! ¡Vuelves a la vida!", "logPlayer")
 t("You managed to die on the eidolon plane! DIE!", "¡Conseguiste morir en el plano eidolon! ¡MUERE!", "logPlayer")
-t("Resurrect by cheating", "Resurrect by cheating", "_t")
-t("Resurrect with the Blood of Life", "Resurrect with the Blood of Life", "_t")
-t("Re-assemble your bones and resurrect (Skeleton ability)", "Re-assemble your bones and resurrect (Skeleton ability)", "_t")
-t("Resurrect by consuming %s", "Resurrect by consuming %s", "tformat")
-t("Resurrect with Adventurer Mode (%d life(s) left)", "Resurrect with Adventurer Mode (%d life(s) left)", "tformat")
-t("Resurrect with Exploration Mode", "Resurrect with Exploration Mode", "_t")
-t("Message/Chat log (allows to talk)", "Message/Chat log (allows to talk)", "_t")
-t("Character dump", "Character dump", "_t")
-t("Restart the same character", "Restart the same character", "_t")
-t("Restart with a new character", "Restart with a new character", "_t")
-t("Exit to main menu", "Exit to main menu", "_t")
+t("Resurrect by cheating", "Resurrecto haciendo trampa", "_t")
+t("Resurrect with the Blood of Life", "Resurrecta con la Sangre de la Vida", "_t")
+t("Re-assemble your bones and resurrect (Skeleton ability)", "Re-ensamblar sus huesos y resucitar ( habilidad de Esqueleto)", "_t")
+t("Resurrect by consuming %s", "Resurrecto consumiendo   PH0  ", "tformat")
+t("Resurrect with Adventurer Mode (%d life(s) left)", "Resurrecta con Modo de Aventura (  PH0     vida(s) izquierda)", "tformat")
+t("Resurrect with Exploration Mode", "Resurrecto con modo de exploración", "_t")
+t("Message/Chat log (allows to talk)", "Mensaje/Chat log (permite hablar)", "_t")
+t("Character dump", "Carga de carácter", "_t")
+t("Restart the same character", "Reinicie el mismo personaje", "_t")
+t("Restart with a new character", "Reinicie con un nuevo personaje", "_t")
+t("Exit to main menu", "Salida al menú principal", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25558,8 +25553,8 @@ t("euro", "euro", "_t")
 t("Cancel", "Cancelar", "_t")
 t("You can also make a pledge on Patreon if you prefer.", "También puedes hacer una donación en Patreon si lo prefieres.", "_t")
 t("Thank you", "Gracias", "_t")
-t("Thank you, a paypal page should now open in your browser.", "Thank you, a paypal page should now open in your browser.", "_t")
-t("Thank you, a Patreon page should now open in your browser.", "Thank you, a Patreon page should now open in your browser.", "_t")
+t("Thank you, a paypal page should now open in your browser.", "Gracias, una página de paypal debería abrirse ahora en su navegador.", "_t")
+t("Thank you, a Patreon page should now open in your browser.", "Gracias, una página de Patreon debería abrirse ahora en su navegador.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25622,15 +25617,15 @@ t("Number of icons rows", "Filas de iconos", "_t")
 t("From 1 to 4", "De 1 a 4", "_t")
 t("When you activate a hotkey, either by keyboard or click a visual feedback will appear over it in the hotkeys bar.#WHITE#", "Al activar una tecla rápida aparecerá un feedback visual.#WHITE#", "_t")
 t("#GOLD##{bold}#Visual hotkeys feedback#WHITE##{normal}#", "#GOLD##{bold}#Feedback visual de teclas#WHITE##{normal}#", "_t")
-t("When the player or an NPC uses a talent shows a quick popup with the talent's icon and name over its head.#WHITE#", "When the player or an NPC uses a talent shows a quick popup with the talent's icon and name over its head.#WHITE#", "_t")
-t("#GOLD##{bold}#Talents activations map display#WHITE##{normal}#", "#GOLD##{bold}#Talents activations map display#WHITE##{normal}#", "_t")
+t("When the player or an NPC uses a talent shows a quick popup with the talent's icon and name over its head.#WHITE#", "Cuando el jugador o un NPC utiliza un talento muestra un popup rápido con el icono del talento y el nombre sobre su cabeza. #WHITE#", "_t")
+t("#GOLD##{bold}#Talents activations map display#WHITE##{normal}#", "#GOLD###{bold} #Talents activations map display #WHITE##{normal}#", "_t")
 t("Size of the icons in the hotkeys toolbar.#WHITE#", "Tamaño de los iconos en la barra de teclas.#WHITE#", "_t")
-t("#GOLD##{bold}#Icons hotkey toolbar icon size#WHITE##{normal}#", "#GOLD##{bold}#Icons hotkey toolbar icon size#WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Icons hotkey toolbar icon size#WHITE##{normal}#", "#GOLD###{bold}#Icons hotkey toolbar icono de tamaño #WHITE##{normal}#", "_t")
 t("Icons size", "Tamaño de iconos", "_t")
 t("From 32 to 64", "De 32 a 64", "_t")
 t("#GOLD##{bold}#Always show lore popup#WHITE##{normal}#", "#GOLD##{bold}#Mostrar popup de lore#WHITE##{normal}#", "_t")
-t("If disabled items with activations will not be auto-added to your hotkeys, you will need to manually drag them from the inventory screen.#WHITE#", "If disabled items with activations will not be auto-added to your hotkeys, you will need to manually drag them from the inventory screen.#WHITE#", "_t")
-t("#GOLD##{bold}#Always add objects to hotkeys#WHITE##{normal}#", "#GOLD##{bold}#Always add objects to hotkeys#WHITE##{normal}#", "_t")
+t("If disabled items with activations will not be auto-added to your hotkeys, you will need to manually drag them from the inventory screen.#WHITE#", "Si los elementos deshabilitados con activaciones no serán autoadvertidos a sus teclas calientes, necesitará arrastrarlos manualmente desde la pantalla del inventario. #WHITE#", "_t")
+t("#GOLD##{bold}#Always add objects to hotkeys#WHITE##{normal}#", "#GOLD###{bold}# Siempre añadir objetos a hotkeys #WHITE##{normal}#", "_t")
 t("#GOLD##{bold}#Tactical overlay#WHITE##{normal}#", "#GOLD##{bold}#Superposición táctica#WHITE##{normal}#", "_t")
 t("Combined Small", "Combinado pequeño", "_t")
 t("Combined Big", "Combinado grande", "_t")
@@ -25642,78 +25637,77 @@ t("Toggles between a normal or flagpost tactical bars.#WHITE#", "Alterna entre b
 t("#GOLD##{bold}#Flagpost tactical bars#WHITE##{normal}#", "#GOLD##{bold}#Barras de bandera#WHITE##{normal}#", "_t")
 t("Enabled", "Activado", "_t")
 t("Disabled", "Desactivado", "_t")
-t("Toggles between a bottom or side display for tactial healthbars.#WHITE#", "Toggles between a bottom or side display for tactial healthbars.#WHITE#", "_t")
+t("Toggles between a bottom or side display for tactial healthbars.#WHITE#", "Toggles entre una pantalla inferior o lateral para barras de salud tácticas. #WHITE#", "_t")
 t("#GOLD##{bold}#Healthbars position#WHITE##{normal}#", "#GOLD##{bold}#Posicion de barras de vida#WHITE##{normal}#", "_t")
 t("Sides", "Lados", "_t")
 t("Bottom", "Abajo", "_t")
-t("If disabled you will not get a fullscreen notification of stun/daze effects. Beware.#WHITE#", "If disabled you will not get a fullscreen notification of stun/daze effects. Beware.#WHITE#", "_t")
-t("#GOLD##{bold}#Fullscreen stun/daze notification#WHITE##{normal}#", "#GOLD##{bold}#Fullscreen stun/daze notification#WHITE##{normal}#", "_t")
-t("If disabled you will not get a fullscreen notification of confusion effects. Beware.#WHITE#", "If disabled you will not get a fullscreen notification of confusion effects. Beware.#WHITE#", "_t")
-t("#GOLD##{bold}#Fullscreen confusion notification#WHITE##{normal}#", "#GOLD##{bold}#Fullscreen confusion notification#WHITE##{normal}#", "_t")
+t("If disabled you will not get a fullscreen notification of stun/daze effects. Beware.#WHITE#", "Si está deshabilitado no recibirá una notificación de pantalla completa de los efectos de stun/daze. Cuidado", "_t")
+t("#GOLD##{bold}#Fullscreen stun/daze notification#WHITE##{normal}#", "#GOLD###{bold}#Fullscreen stun/daze notification####{normal}#", "_t")
+t("If disabled you will not get a fullscreen notification of confusion effects. Beware.#WHITE#", "Si está deshabilitado no recibirá una notificación de pantalla completa de efectos de confusión. Cuidado", "_t")
+t("#GOLD##{bold}#Fullscreen confusion notification#WHITE##{normal}#", "Notificación de confusión de pantalla completa", "_t")
 t("Toggles advanced weapon statistics display.#WHITE#", "Muestra estadisticas avanzadas de armas.#WHITE#", "_t")
 t("#GOLD##{bold}#Advanced Weapon Statistics#WHITE##{normal}#", "#GOLD##{bold}#Estadisticas avanzadas#WHITE##{normal}#", "_t")
-t("Always display the combat properties of gloves even if you don't know unarmed attack talents.#WHITE#", "Always display the combat properties of gloves even if you don't know unarmed attack talents.#WHITE#", "_t")
-t("#GOLD##{bold}#Always show glove combat properties#WHITE##{normal}#", "#GOLD##{bold}#Always show glove combat properties#WHITE##{normal}#", "_t")
-t("Always display combat properties of shields even if you don't know shield attack talents.#WHITE#", "Always display combat properties of shields even if you don't know shield attack talents.#WHITE#", "_t")
-t("#GOLD##{bold}#Always show shield combat properties#WHITE##{normal}#", "#GOLD##{bold}#Always show shield combat properties#WHITE##{normal}#", "_t")
-t("When you do a mouse gesture (right click + drag) a color coded trail is displayed.#WHITE#", "When you do a mouse gesture (right click + drag) a color coded trail is displayed.#WHITE#", "_t")
+t("Always display the combat properties of gloves even if you don't know unarmed attack talents.#WHITE#", "Siempre muestre las propiedades de combate de guantes incluso si no conoce talentos de ataque desarmados. #WHITE#", "_t")
+t("#GOLD##{bold}#Always show glove combat properties#WHITE##{normal}#", "#GOLD###{bold} ######################################################################################################################################################################################################################################################", "_t")
+t("Always display combat properties of shields even if you don't know shield attack talents.#WHITE#", "Siempre muestra propiedades de combate de escudos incluso si no conoces talentos de ataque de escudos. #WHITE#", "_t")
+t("#GOLD##{bold}#Always show shield combat properties#WHITE##{normal}#", "#GOLD###{bold} ######################################################################################################################################################################################################################################################", "_t")
+t("When you do a mouse gesture (right click + drag) a color coded trail is displayed.#WHITE#", "Cuando haces un gesto del ratón (haga clic derecho + arrastrar) se muestra un rastro codificado de color. #WHITE#", "_t")
 t("#GOLD##{bold}#Display mouse gesture trails#WHITE##{normal}#", "#GOLD##{bold}#Estelas de gestos#WHITE##{normal}#", "_t")
-t("If enabled new quests and quests updates will display a big popup, if not a simple line of text will fly on the screen.#WHITE#", "If enabled new quests and quests updates will display a big popup, if not a simple line of text will fly on the screen.#WHITE#", "_t")
+t("If enabled new quests and quests updates will display a big popup, if not a simple line of text will fly on the screen.#WHITE#", "Si se activan nuevas misiones y actualizaciones de misiones mostrarán un gran popup, si no una línea simple de texto volará en la pantalla. #WHITE#", "_t")
 t("#GOLD##{bold}#Big Quest Popups#WHITE##{normal}#", "#GOLD##{bold}#Popups grandes de misiones#WHITE##{normal}#", "_t")
-t("Enable the WASD movement keys. Can be used to move diagonaly by pressing two directions at once.#WHITE#", "Enable the WASD movement keys. Can be used to move diagonaly by pressing two directions at once.#WHITE#", "_t")
+t("Enable the WASD movement keys. Can be used to move diagonaly by pressing two directions at once.#WHITE#", "Hable las teclas de movimiento WASD. Se puede utilizar para mover diagonalmente pulsando dos direcciones a la vez. #WHITE#", "_t")
 t("#GOLD##{bold}#Enable WASD movement keys#WHITE##{normal}#", "#GOLD##{bold}#Teclas WASD#WHITE##{normal}#", "_t")
 t("Sharpen Visuals, set to 0 to disable.#WHITE#", "Nitidez visual, 0 para desactivar.#WHITE#", "_t")
 t("#GOLD##{bold}#Sharpen Visuals#WHITE##{normal}#", "#GOLD##{bold}#Nitidez visual#WHITE##{normal}#", "_t")
 t("Enter Sharpen Power", "Potencia de nitidez", "_t")
 t("From 0(disable) to 10", "De 0(desactivado) a 10", "_t")
-t("Defines the distance from the screen edge at which scrolling will start. If set high enough the game will always center on the player.#WHITE#", "Defines the distance from the screen edge at which scrolling will start. If set high enough the game will always center on the player.#WHITE#", "_t")
+t("Defines the distance from the screen edge at which scrolling will start. If set high enough the game will always center on the player.#WHITE#", "Define la distancia desde el borde de la pantalla en el que comenzará el desplazamiento. Si lo suficientemente alto el juego siempre se centrará en el jugador. #WHITE#", "_t")
 t("#GOLD##{bold}#Scroll distance#WHITE##{normal}#", "#GOLD##{bold}#Distancia de desplazamiento#WHITE##{normal}#", "_t")
 t("Scroll distance", "Distancia de desplazamiento", "_t")
 t("From 1 to 50", "De 1 a 50", "_t")
-t("If you lose more than this percentage of life in a turn, a warning will display and all key/mouse input will be ignored for 2 seconds to prevent mistakes.#WHITE#", "If you lose more than this percentage of life in a turn, a warning will display and all key/mouse input will be ignored for 2 seconds to prevent mistakes.#WHITE#", "_t")
+t("If you lose more than this percentage of life in a turn, a warning will display and all key/mouse input will be ignored for 2 seconds to prevent mistakes.#WHITE#", "Si pierdes más que este porcentaje de vida en un turno, aparecerá una advertencia y toda la entrada clave/museo será ignorada durante 2 segundos para evitar errores. #WHITE#", "_t")
 t("#GOLD##{bold}#Life Lost Warning#WHITE##{normal}#", "#GOLD##{bold}#Aviso de poca vida#WHITE##{normal}#", "_t")
 t("Life lost percentage (out of max life)", "Porcentaje de vida perdida (sobre el máximo)", "_t")
 t("From 1 to 99 (100 to disable)", "De 1 a 99 (100 para desactivar)", "_t")
 t("#GOLD##{bold}#Weather effects#WHITE##{normal}#", "#GOLD##{bold}#Efectos climaticos#WHITE##{normal}#", "_t")
-t("Enables or disables day/night light variations effects..#WHITE#", "Enables or disables day/night light variations effects..#WHITE#", "_t")
+t("Enables or disables day/night light variations effects..#WHITE#", "Permite o deshabilita los efectos de variaciones de luz día/noche", "_t")
 t("#GOLD##{bold}#Day/night light cycle#WHITE##{normal}#", "#GOLD##{bold}#Ciclo dia/noche#WHITE##{normal}#", "_t")
-t("Enables easy movement using the mouse by left-clicking on the map.#WHITE#", "Enables easy movement using the mouse by left-clicking on the map.#WHITE#", "_t")
+t("Enables easy movement using the mouse by left-clicking on the map.#WHITE#", "Permite un movimiento fácil usando el ratón haciendo clic izquierdo en el mapa.#WHITE#", "_t")
 t("#GOLD##{bold}#Use mouse to move#WHITE##{normal}#", "#GOLD##{bold}#Mover con raton#WHITE##{normal}#", "_t")
 t("#GOLD##{bold}#Quick melee targeting#WHITE##{normal}#", "#GOLD##{bold}#Apuntado rapido C.C.#WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Quick melee targeting auto attack#WHITE##{normal}#", "#GOLD##{bold}#Quick melee targeting auto attack#WHITE##{normal}#", "_t")
-t("Enables mouse targeting. If disabled mouse movements will not change the target when casting a spell or using a talent.#WHITE#", "Enables mouse targeting. If disabled mouse movements will not change the target when casting a spell or using a talent.#WHITE#", "_t")
+t("#GOLD##{bold}#Quick melee targeting auto attack#WHITE##{normal}#", "#GOLD###{bold}#Quick melee targeting auto attack #WHITE# {normal}#", "_t")
+t("Enables mouse targeting. If disabled mouse movements will not change the target when casting a spell or using a talent.#WHITE#", "Permite apuntar al ratón. Si los movimientos de ratón discapacitados no cambiarán el objetivo al lanzar un hechizo o usar un talento. #WHITE#", "_t")
 t("#GOLD##{bold}#Mouse targeting#WHITE##{normal}#", "#GOLD##{bold}#Apuntado con raton#WHITE##{normal}#", "_t")
 t("#GOLD##{bold}#Auto-accept target#WHITE##{normal}#", "#GOLD##{bold}#Auto-aceptar objetivo#WHITE##{normal}#", "_t")
-t("New games begin with some talent points auto-assigned.#WHITE#", "New games begin with some talent points auto-assigned.#WHITE#", "_t")
-t("#GOLD##{bold}#Auto-assign talent points at birth#WHITE##{normal}#", "#GOLD##{bold}#Auto-assign talent points at birth#WHITE##{normal}#", "_t")
+t("New games begin with some talent points auto-assigned.#WHITE#", "Nuevos juegos comienzan con algunos puntos de talento auto-asignados. #WHITE#", "_t")
+t("#GOLD##{bold}#Auto-assign talent points at birth#WHITE##{normal}#", "#GOLD###{bold}#Auto-assign talent points at birth#WHITE#{normal}#", "_t")
 t("Always rest to full before auto-exploring.#WHITE#", "Descansar siempre al maximo antes de autoexplorar.#WHITE#", "_t")
-t("#GOLD##{bold}#Rest before auto-explore#WHITE##{normal}#", "#GOLD##{bold}#Rest before auto-explore#WHITE##{normal}#", "_t")
-t("When swapping an item with a tinker attached, swap the tinker to the newly worn item automatically.#WHITE#", "When swapping an item with a tinker attached, swap the tinker to the newly worn item automatically.#WHITE#", "_t")
-t("#GOLD##{bold}#Swap tinkers#WHITE##{normal}#", "#GOLD##{bold}#Swap tinkers#WHITE##{normal}#", "_t")
-t("Configure the chat filters to select what kind of messages to see.#WHITE#", "Configure the chat filters to select what kind of messages to see.#WHITE#", "_t")
-t("#GOLD##{bold}#Chat message filters#WHITE##{normal}#", "#GOLD##{bold}#Chat message filters#WHITE##{normal}#", "_t")
-t("select to configure", "select to configure", "_t")
-t("Deaths", "Deaths", "_t")
-t("Object & Creatures links", "Object & Creatures links", "_t")
-t("Configure the chat ignore filter.#WHITE#", "Configure the chat ignore filter.#WHITE#", "_t")
-t("#GOLD##{bold}#Chat ignore list#WHITE##{normal}#", "#GOLD##{bold}#Chat ignore list#WHITE##{normal}#", "_t")
-t("Configure the chat channels to listen to.#WHITE#", "Configure the chat channels to listen to.#WHITE#", "_t")
-t("#GOLD##{bold}#Chat channels#WHITE##{normal}#", "#GOLD##{bold}#Chat channels#WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Open links in external browser#WHITE##{normal}#", "#GOLD##{bold}#Open links in external browser#WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Discord's Rich Presence#WHITE##{normal}#", "#GOLD##{bold}#Discord's Rich Presence#WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Upload characters sheets to the online vault#WHITE##{normal}#", "#GOLD##{bold}#Upload characters sheets to the online vault#WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Allow online events#WHITE##{normal}#", "#GOLD##{bold}#Allow online events#WHITE##{normal}#", "_t")
-t("all", "all", "_t")
-t("technical help only", "technical help only", "_t")
-t("#GOLD##{bold}#Disable all connectivity#WHITE##{normal}#", "#GOLD##{bold}#Disable all connectivity#WHITE##{normal}#", "_t")
-t("yes", "yes", "_t")
+t("#GOLD##{bold}#Rest before auto-explore#WHITE##{normal}#", "#GOLD###{bold}#Rest before auto-explore #WHITE##{normal}#", "_t")
+t("When swapping an item with a tinker attached, swap the tinker to the newly worn item automatically.#WHITE#", "Al cambiar un artículo con un tinker adjunto, cambiar el tinker al elemento recién usado automáticamente. #WHITE#", "_t")
+t("#GOLD##{bold}#Swap tinkers#WHITE##{normal}#", "#GOLD###{bold}#Swap tinkers #WHITE## {normal}", "_t")
+t("Configure the chat filters to select what kind of messages to see.#WHITE#", "Configure los filtros de chat para seleccionar qué tipo de mensajes ver. #WHITE#", "_t")
+t("#GOLD##{bold}#Chat message filters#WHITE##{normal}#", "#GOLD###{bold} ##Chat message filters#", "_t")
+t("select to configure", "seleccionar para configurar", "_t")
+t("Deaths", "Muertes", "_t")
+t("Object & Creatures links", "Enlaces de objetos y criaturas", "_t")
+t("Configure the chat ignore filter.#WHITE#", "Configure el filtro ignorar el chat", "_t")
+t("#GOLD##{bold}#Chat ignore list#WHITE##{normal}#", "#GOLD###{bold} #Chat ignore list #WHITE### {normal}#", "_t")
+t("Configure the chat channels to listen to.#WHITE#", "Configura los canales de chat para escuchar.#WHITE#", "_t")
+t("#GOLD##{bold}#Chat channels#WHITE##{normal}#", "#GOLD###{bold}#Chat channels #WHITE### {normal}#", "_t")
+t("#GOLD##{bold}#Open links in external browser#WHITE##{normal}#", "#GOLD###{bold}# Open links in external browser#WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Discord's Rich Presence#WHITE##{normal}#", "La presencia rica de la discordia..", "_t")
+t("#GOLD##{bold}#Upload characters sheets to the online vault#WHITE##{normal}#", "#GOLD###{bold} #Subir hojas de caracteres a la bóveda en línea #WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Allow online events#WHITE##{normal}#", "#GOLD###{bold}##Allow online events# #WHITE## {normal}#", "_t")
+t("all", "todos", "_t")
+t("technical help only", "asistencia técnica solamente", "_t")
+t("#GOLD##{bold}#Disable all connectivity#WHITE##{normal}#", "Desactiva toda conectividad", "_t")
+t("yes", "sí", "_t")
 t("no", "no", "_t")
-t("#GOLD##{bold}#Save in the background#WHITE##{normal}#", "#GOLD##{bold}#Save in the background#WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Zone save per level#WHITE##{normal}#", "#GOLD##{bold}#Zone save per level#WHITE##{normal}#", "_t")
-t("Disallow boot images that could be found 'offensive'.#WHITE#", "Disallow boot images that could be found 'offensive'.#WHITE#", "_t")
-t("#GOLD##{bold}#Censor boot#WHITE##{normal}#", "#GOLD##{bold}#Censor boot#WHITE##{normal}#", "_t")
-t("Replace headwear images by cloak hoods if a cloak is worn#WHITE#", "Replace headwear images by cloak hoods if a cloak is worn#WHITE#", "_t")
-t("#GOLD##{bold}#Show cloak hoods#WHITE##{normal}#", "#GOLD##{bold}#Show cloak hoods#WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Save in the background#WHITE##{normal}#", "#GOLD###{bold} #Salve en el fondo #WHITE## {normal}#", "_t")
+t("#GOLD##{bold}#Zone save per level#WHITE##{normal}#", "#GOLD###{bold} #Zone save per level#WHITE# {normal}#", "_t")
+t("#GOLD##{bold}#Censor boot#WHITE##{normal}#", "#GOLD###{bold}#Bota de censor #WHITE## {normal}#", "_t")
+t("Replace headwear images by cloak hoods if a cloak is worn#WHITE#", "Reemplazar las imágenes de ropa interior por capuchas de capa si se usa un manto#WHITE#", "_t")
+t("#GOLD##{bold}#Show cloak hoods#WHITE##{normal}#", "#GOLD###{bold} #Mostrar capuchas de capas #WHITE## {normal}#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25722,22 +25716,22 @@ section "mod-tome/mod/dialogs/GraphicMode.lua"
 
 -- new text
 --[==[
-t("Modern", "Modern", "_t")
+t("Modern", "Moderno", "_t")
 t("ASCII", "ASCII", "_t")
-t("ASCII with background", "ASCII with background", "_t")
-t("Custom Tileset", "Custom Tileset", "_t")
+t("ASCII with background", "ASCII con antecedentes", "_t")
+t("Custom Tileset", "Azulejos personalizados", "_t")
 t("Altefcat/Gervais", "Altefcat/Gervais", "_t")
-t("Old RPG", "Old RPG", "_t")
-t("Change graphic mode", "Change graphic mode", "_t")
-t("Folder: ", "Folder: ", "_t")
-t("Use moddable tiles (equipment showing on player)", "Use moddable tiles (equipment showing on player)", "_t")
-t("Use advanced tiles (transitions, wide tiles, ...)", "Use advanced tiles (transitions, wide tiles, ...)", "_t")
-t("Use custom tileset", "Use custom tileset", "_t")
+t("Old RPG", "Antiguo RPG", "_t")
+t("Change graphic mode", "Cambiar el modo gráfico", "_t")
+t("Folder: ", "Carpeta:", "_t")
+t("Use moddable tiles (equipment showing on player)", "Use baldosas modificables (equipment show on player)", "_t")
+t("Use advanced tiles (transitions, wide tiles, ...)", "Use azulejos avanzados (transiciones, azulejos anchos, ...)", "_t")
+t("Use custom tileset", "Use mosaico personalizado", "_t")
 t("Cancel", "Cancelar", "_t")
-t("Tile size", "Tile size", "_t")
-t("From 10 to 128", "From 10 to 128", "_t")
-t("Select style [current: %s]", "Select style [current: %s]", "tformat")
-t("Select tiles size [current: %s]", "Select tiles size [current: %s]", "tformat")
+t("Tile size", "Tamaño del azul", "_t")
+t("From 10 to 128", "De 10 a 128", "_t")
+t("Select style [current: %s]", "Seleccionar estilo [current:   PH0  ]", "tformat")
+t("Select tiles size [current: %s]", "Seleccione el tamaño de los azulejos [currente:   PH0  ]", "tformat")
 t("64x64", "64x64", "_t")
 t("48x48", "48x48", "_t")
 t("32x32", "32x32", "_t")
@@ -25816,26 +25810,26 @@ t("Crit. chance: ", "Prob. critica: ", "_t")
 t("Accuracy: ", "Precision: ", "_t")
 t("Spellpower: ", "Poder de hechizo: ", "_t")
 t("Defense: ", "Defensa: ", "_t")
-t("Ranged defense: ", "Ranged defense: ", "_t")
-t("Shrug off criticals chance: ", "Shrug off criticals chance: ", "_t")
-t("Class powers:", "Class powers:", "_t")
-t("Talent Category", "Talent Category", "_t")
-t("Generic talent tree", "Generic talent tree", "_t")
-t("A generic talent allows you to perform various utility actions and improve your character. It represents a skill anybody can learn (should you find a trainer for it). You gain one point every level (except every 5th level). You may also find trainers or artifacts that allow you to learn more.", "A generic talent allows you to perform various utility actions and improve your character. It represents a skill anybody can learn (should you find a trainer for it). You gain one point every level (except every 5th level). You may also find trainers or artifacts that allow you to learn more.", "_t")
-t("Class talent tree", "Class talent tree", "_t")
-t("A class talent allows you to perform new combat moves, cast spells, and improve your character. It represents the core function of your class. You gain one point every level and two every 5th level. You may also find trainers or artifacts that allow you to learn more.", "A class talent allows you to perform new combat moves, cast spells, and improve your character. It represents the core function of your class. You gain one point every level and two every 5th level. You may also find trainers or artifacts that allow you to learn more.", "_t")
-t("This talent was recently learnt; you can still unlearn it.", "This talent was recently learnt; you can still unlearn it.", "_t")
-t("The last %d %s talents you learnt are always unlearnable.", "The last %d %s talents you learnt are always unlearnable.", "tformat")
-t(" generic", " generic", "_t")
-t(" class", " class", "_t")
-t("This talent can alter the world in a permanent way; as such, you can never unlearn it once known.", "This talent can alter the world in a permanent way; as such, you can never unlearn it once known.", "_t")
-t("This talent was recently learnt; you can still unlearn it if you are out of combat or in a quiet area like a #{bold}#town#{normal}#.", "This talent was recently learnt; you can still unlearn it if you are out of combat or in a quiet area like a #{bold}#town#{normal}#.", "_t")
-t("Current talent level: ", "Current talent level: ", "_t")
-t(" (%+0.1f bonus level)", " (%+0.1f bonus level)", "tformat")
-t("<Press 'x' to swap to simple display>", "<Press 'x' to swap to simple display>", "_t")
-t("First talent level: ", "First talent level: ", "_t")
-t("Next talent level", "Next talent level", "_t")
-t("<Press 'x' to swap to advanced display>", "<Press 'x' to swap to advanced display>", "_t")
+t("Ranged defense: ", "Defensa extendida:", "_t")
+t("Shrug off criticals chance: ", "Quitar la oportunidad de los críticos:", "_t")
+t("Class powers:", "Poderes de clase:", "_t")
+t("Talent Category", "Talento Categoría", "_t")
+t("Generic talent tree", "Árbol de talento genérico", "_t")
+t("A generic talent allows you to perform various utility actions and improve your character. It represents a skill anybody can learn (should you find a trainer for it). You gain one point every level (except every 5th level). You may also find trainers or artifacts that allow you to learn more.", "Un talento genérico le permite realizar diversas acciones de utilidad y mejorar su carácter. Representa una habilidad que cualquiera puede aprender (debería encontrar un entrenador para él). Ganas un punto cada nivel (excepto cada quinto nivel). También puede encontrar entrenadores o artefactos que le permitan aprender más.", "_t")
+t("Class talent tree", "Árbol de talento de clase", "_t")
+t("A class talent allows you to perform new combat moves, cast spells, and improve your character. It represents the core function of your class. You gain one point every level and two every 5th level. You may also find trainers or artifacts that allow you to learn more.", "Un talento de clase te permite realizar nuevos movimientos de combate, lanzar hechizos y mejorar tu personaje. Representa la función central de tu clase. Ganas un punto cada nivel y dos cada quinto nivel. También puede encontrar entrenadores o artefactos que le permitan aprender más.", "_t")
+t("This talent was recently learnt; you can still unlearn it.", "Este talento fue recientemente aprendido; aún puedes desaprenderlo.", "_t")
+t("The last %d %s talents you learnt are always unlearnable.", "Los últimos   PH0     PH1    talentos que aprendiste son siempre insostenibles.", "tformat")
+t(" generic", "genérico", "_t")
+t(" class", "clase", "_t")
+t("This talent can alter the world in a permanent way; as such, you can never unlearn it once known.", "Este talento puede alterar el mundo de manera permanente; como tal, nunca se puede desaprenderlo una vez conocido.", "_t")
+t("This talent was recently learnt; you can still unlearn it if you are out of combat or in a quiet area like a #{bold}#town#{normal}#.", "Este talento fue recientemente aprendido; aún puedes desaprenderlo si estás fuera de combate o en una zona tranquila como un #{bold}#town#{normal}#.", "_t")
+t("Current talent level: ", "Nivel actual de talento:", "_t")
+t(" (%+0.1f bonus level)", "(%+0,1f nivel de bonificación)", "tformat")
+t("<Press 'x' to swap to simple display>", "Presiona 'x' para cambiar a simple pantalla", "_t")
+t("First talent level: ", "Primer nivel de talento:", "_t")
+t("Next talent level", "Siguiente nivel de talento", "_t")
+t("<Press 'x' to swap to advanced display>", "Presiona 'x' para cambiar a pantalla avanzada", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25844,7 +25838,7 @@ section "mod-tome/mod/dialogs/LorePopup.lua"
 
 -- new text
 --[==[
-t("Lore found: #0080FF#%s", "Lore found: #0080FF#%s", "tformat")
+t("Lore found: #0080FF#%s", "Lore found: #0080FF# PH0  ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -25864,16 +25858,16 @@ t("Target player", "Apuntar a jugador", "_t")
 t("Lua inspect [Actor]", "Inspeccionar Lua [Actor]", "_t")
 t("Lua inspect [Terrain]", "Inspeccionar Lua [Terreno]", "_t")
 t("Lua inspect [Trap]", "Lua inspect [Trap]", "_t")
-t("Lua inspect [Projectile]", "Lua inspect [Projectile]", "_t")
-t("Show inventory", "Show inventory", "_t")
-t("Rest a while", "Rest a while", "_t")
-t("Auto-explore", "Auto-explore", "_t")
-t("Inventory", "Inventory", "_t")
+t("Lua inspect [Projectile]", "Lua inspect [Proyectil]", "_t")
+t("Show inventory", "Mostrar inventario", "_t")
+t("Rest a while", "Descansa un rato", "_t")
+t("Auto-explore", "Autoexplore", "_t")
+t("Inventory", "Inventario", "_t")
 t("Quest Log", "Quest Log", "_t")
 t("Inspect Creature", "Inspect Creature", "_t")
 t(" ", " ", "_t")
-t("Link creature in chat", "Link creature in chat", "_t")
-t("Levelup!", "Levelup!", "_t")
+t("Link creature in chat", "Enlace criatura en chat", "_t")
+t("Levelup!", "¡Arriba!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25882,19 +25876,19 @@ section "mod-tome/mod/dialogs/PartyOrder.lua"
 
 -- new text
 --[==[
-t("Wait a few turns", "Wait a few turns", "_t")
-t("Where is the portal?", "Where is the portal?", "_t")
-t("Set the target [current: %s]", "Set the target [current: %s]", "tformat")
-t("none", "none", "_t")
-t("Set behavior [current: %s]", "Set behavior [current: %s]", "tformat")
-t("default", "default", "_t")
-t("Set the leash anchor [current: %s]", "Set the leash anchor [current: %s]", "tformat")
-t("Set the leash distance [current: %d]", "Set the leash distance [current: %d]", "tformat")
-t("Define tactical talents usage", "Define tactical talents usage", "_t")
+t("Wait a few turns", "Espera un par de vueltas", "_t")
+t("Where is the portal?", "¿Dónde está el portal?", "_t")
+t("Set the target [current: %s]", "Establecer el objetivo [actual:   PH0  ]", "tformat")
+t("none", "ninguno", "_t")
+t("Set behavior [current: %s]", "Establecer comportamiento [actual:   PH0   ]", "tformat")
+t("default", "por defecto", "_t")
+t("Set the leash anchor [current: %s]", "Establece el anclaje de correa [currente:   PH0  ]", "tformat")
+t("Set the leash distance [current: %d]", "Establecer la distancia de la correa [currente:   PH0   ]", "tformat")
+t("Define tactical talents usage", "Definir el uso de talentos tácticos", "_t")
 t("Rename", "Rename", "_t")
-t("Dismiss", "Dismiss", "_t")
-t("Pet the hound", "Pet the hound", "_t")
-t("Order: %s", "Order: %s", "tformat")
+t("Dismiss", "Desestimación", "_t")
+t("Pet the hound", "Masculino el sabueso", "_t")
+t("Order: %s", "Orden:   PH0  ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -25903,7 +25897,7 @@ section "mod-tome/mod/dialogs/PartySelect.lua"
 
 -- new text
 --[==[
-t("Switch to which character?", "Switch to which character?", "_t")
+t("Switch to which character?", "¿Cambio a qué personaje?", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25912,12 +25906,12 @@ section "mod-tome/mod/dialogs/PartySendItem.lua"
 
 -- new text
 --[==[
-t("Give item to a party member", "Give item to a party member", "_t")
-t("%s cannot receive items while asleep!", "%s cannot receive items while asleep!", "log")
-t("%s cannot transfer items while asleep!", "%s cannot transfer items while asleep!", "log")
-t("You give %s to %s.", "You give %s to %s.", "log")
-t(" #YELLOW#[SLEEPING]#LAST#", " #YELLOW#[SLEEPING]#LAST#", "_t")
-t(" #YELLOW#[NO ROOM]#LAST#", " #YELLOW#[NO ROOM]#LAST#", "_t")
+t("Give item to a party member", "Dar artículo a un miembro del partido", "_t")
+t("%s cannot receive items while asleep!", " PH0   no puede recibir artículos mientras está dormido!", "log")
+t("%s cannot transfer items while asleep!", " PH0  no puede transferir objetos mientras está dormido!", "log")
+t("You give %s to %s.", "Das   PH0   a   PH1   .", "log")
+t(" #YELLOW#[SLEEPING]#LAST#", "#YELLOW# [SLEEPING]#", "_t")
+t(" #YELLOW#[NO ROOM]#LAST#", "#YELLOW# [NO ROOM]##LAST#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25926,13 +25920,13 @@ section "mod-tome/mod/dialogs/QuestPopup.lua"
 
 -- new text
 --[==[
-t("#LIGHT_GREEN#New#LAST# Quest!", "#LIGHT_GREEN#New#LAST# Quest!", "_t")
+t("#LIGHT_GREEN#New#LAST# Quest!", "#LIGHT GREEN#New#LAST# Quest!", "_t")
 t("Quest #AQUAMARINE#Updated!", "Quest #AQUAMARINE#Updated!", "_t")
-t("Quest #LIGHT_GREEN#Completed!", "Quest #LIGHT_GREEN#Completed!", "_t")
-t("Quest #LIGHT_GREEN#Done!", "Quest #LIGHT_GREEN#Done!", "_t")
+t("Quest #LIGHT_GREEN#Completed!", "Quest #LIGHT GREEN #Completed!", "_t")
+t("Quest #LIGHT_GREEN#Done!", "Quest #LIGHT GREEN#Done!", "_t")
 t("Quest #CIMSON#Failed!", "Quest #CIMSON#Failed!", "_t")
-t("#ANTIQUE_WHITE#Quest: #AQUAMARINE#%s", "#ANTIQUE_WHITE#Quest: #AQUAMARINE#%s", "tformat")
-t("#ANTIQUE_WHITE#(See your Journal for further details or click here)", "#ANTIQUE_WHITE#(See your Journal for further details or click here)", "_t")
+t("#ANTIQUE_WHITE#Quest: #AQUAMARINE#%s", "#ANTIQUE WHITE#Quest: #AQUAMARINE#  PH0   ", "tformat")
+t("#ANTIQUE_WHITE#(See your Journal for further details or click here)", "#ANTIQUE WHITE#(Ver su Diario para más detalles o haga clic aquí)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25941,18 +25935,18 @@ section "mod-tome/mod/dialogs/SentientWeapon.lua"
 
 -- new text
 --[==[
-t("Points left: #00FF00#%d#WHITE#", "Points left: #00FF00#%d#WHITE#", "_t")
+t("Points left: #00FF00#%d#WHITE#", "Puntos a la izquierda:", "_t")
 t("Stat", "Stat", "_t")
-t("Value", "Value", "_t")
+t("Value", "Valor", "_t")
 t("Spellpower", "Poder de hechizo", "_t")
 t("Spellcrit", "Spellcrit", "_t")
 t("Not enough stat points", "No hay suficientes puntos de atributo", "_t")
-t("You have no stat points left!", "You have no stat points left!", "_t")
-t("Stat is at the maximum", "Stat is at the maximum", "_t")
-t("You can not increase this stat further!", "You can not increase this stat further!", "_t")
-t("Impossible", "Impossible", "_t")
-t("You cannot take out more points!", "You cannot take out more points!", "_t")
-t("Stats points left: #00FF00#%s", "Stats points left: #00FF00#%s", "tformat")
+t("You have no stat points left!", "¡No te quedan puestos!", "_t")
+t("Stat is at the maximum", "Stat está al máximo", "_t")
+t("You can not increase this stat further!", "¡No puedes aumentar este estante más lejos!", "_t")
+t("Impossible", "Imposible", "_t")
+t("You cannot take out more points!", "¡No puedes sacar más puntos!", "_t")
+t("Stats points left: #00FF00#%s", "Puntos a la izquierda:", "tformat")
 t("Strength", "Fuerza", "_t")
 t("Dexterity", "Destreza", "_t")
 t("Magic", "Magia", "_t")
@@ -25967,7 +25961,7 @@ section "mod-tome/mod/dialogs/ShowAchievements.lua"
 
 -- new text
 --[==[
-t("-- Unknown --", "-- Unknown --", "_t")
+t("-- Unknown --", "-- Desconocido --", "_t")
 --]==]
 
 ------------------------------------------------
@@ -25977,19 +25971,19 @@ section "mod-tome/mod/dialogs/ShowChatLog.lua"
 -- new text
 --[==[
 t("Game Log", "Game Log", "_t")
-t("Right click to inspect.", "Right click to inspect.", "_t")
-t("Show infos", "Show infos", "_t")
+t("Right click to inspect.", "Haga clic derecho para inspeccionar.", "_t")
+t("Show infos", "Mostrar información", "_t")
 t("Whisper", "Whisper", "_t")
-t("Ignore", "Ignore", "_t")
-t("Open profile(in browser)", "Open profile(in browser)", "_t")
-t("Report for bad behavior", "Report for bad behavior", "_t")
-t("Open charsheet(in browser)", "Open charsheet(in browser)", "_t")
-t("User: ", "User: ", "tformat")
-t("Action", "Action", "_t")
-t("Ignore user", "Ignore user", "_t")
-t("Really ignore all messages from: %s", "Really ignore all messages from: %s", "tformat")
-t("Reason to report: %s", "Reason to report: %s", "tformat")
-t("Reason", "Reason", "_t")
+t("Ignore", "Ignoro", "_t")
+t("Open profile(in browser)", "Perfil abierto(en el navegador)", "_t")
+t("Report for bad behavior", "Informe de mala conducta", "_t")
+t("Open charsheet(in browser)", "Plancha abierta (en el navegador)", "_t")
+t("User: ", "Usuario:", "tformat")
+t("Action", "Medida", "_t")
+t("Ignore user", "Usuario de diagnóstico", "_t")
+t("Really ignore all messages from: %s", "Realmente ignorar todos los mensajes de:   PH0  ", "tformat")
+t("Reason to report: %s", "Razón para informar:   PH0  ", "tformat")
+t("Reason", "Razón", "_t")
 t("#VIOLET#", "#VIOLET#", "log")
 --]==]
 
@@ -25999,16 +25993,16 @@ section "mod-tome/mod/dialogs/ShowEquipInven.lua"
 
 -- new text
 --[==[
-t("Inventory", "Inventory", "_t")
-t("Main Set", "Main Set", "_t")
+t("Inventory", "Inventario", "_t")
+t("Main Set", "Juego principal", "_t")
 t("Off Set", "Off Set", "_t")
-t("Tooltip %s", "Tooltip %s", "log")
-t("locked", "locked", "_t")
-t("unlocked", "unlocked", "_t")
-t("up", "up", "log")
-t("No Inventory", "No Inventory", "_t")
-t("%s Has no defined main inventory", "%s Has no defined main inventory", "tformat")
-t("Hotkey %s assigned", "Hotkey %s assigned", "tformat")
+t("Tooltip %s", "Herramienta   PH0  ", "log")
+t("locked", "cerrado", "_t")
+t("unlocked", "abierta", "_t")
+t("up", "arriba", "log")
+t("No Inventory", "No Inventario", "_t")
+t("%s Has no defined main inventory", " PH0  No tiene un inventario principal definido", "tformat")
+t("Hotkey %s assigned", "Hotkey   PH0     asignado", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -26018,7 +26012,7 @@ section "mod-tome/mod/dialogs/ShowEquipment.lua"
 -- new text
 --[==[
 t("Equipment", "Equipo", "_t")
-t("Main Set", "Main Set", "_t")
+t("Main Set", "Juego principal", "_t")
 t("Off Set", "Off Set", "_t")
 --]==]
 
@@ -26028,10 +26022,10 @@ section "mod-tome/mod/dialogs/ShowIngredients.lua"
 
 -- new text
 --[==[
-t("Ingredients collected", "Ingredients collected", "_t")
-t("Ingredient", "Ingredient", "_t")
-t("Category", "Category", "_t")
-t("Quantity", "Quantity", "_t")
+t("Ingredients collected", "Ingredientes recogidos", "_t")
+t("Ingredient", "Ingrediente", "_t")
+t("Category", "Categoría", "_t")
+t("Quantity", "Cantidad", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26040,7 +26034,7 @@ section "mod-tome/mod/dialogs/ShowInventory.lua"
 
 -- new text
 --[==[
-t("Inventory", "Inventory", "_t")
+t("Inventory", "Inventario", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26050,9 +26044,9 @@ section "mod-tome/mod/dialogs/ShowLore.lua"
 -- new text
 --[==[
 t("Lore", "Lore", "_t")
-t("Search: ", "Search: ", "_t")
+t("Search: ", "Buscar:", "_t")
 t("", "", "_t")
-t("Category", "Category", "_t")
+t("Category", "Categoría", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26061,7 +26055,7 @@ section "mod-tome/mod/dialogs/ShowMap.lua"
 
 -- new text
 --[==[
-t("Map: #0080FF#%s", "Map: #0080FF#%s", "tformat")
+t("Map: #0080FF#%s", "Mapa: #0080FF# PH0  ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -26071,11 +26065,11 @@ section "mod-tome/mod/dialogs/ShowStore.lua"
 -- new text
 --[==[
 t("", "", "_t")
-t("Inventory", "Inventory", "_t")
-t("Category", "Category", "_t")
-t("Price", "Price", "_t")
+t("Inventory", "Inventario", "_t")
+t("Category", "Categoría", "_t")
+t("Price", "Precio", "_t")
 t("Store", "Store", "_t")
-t(" (pays up to %0.2f gold, Your Gold: %0.2f)", " (pays up to %0.2f gold, Your Gold: %0.2f)", "tformat")
+t(" (pays up to %0.2f gold, Your Gold: %0.2f)", "(paga hasta   PH0    oro, tu oro:   PH1   )", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -26086,8 +26080,8 @@ section "mod-tome/mod/dialogs/SwiftHands.lua"
 --[==[
 t("Managed readied tools", "Managed readied tools", "_t")
 t("", "", "_t")
-t("Readied tools", "Readied tools", "_t")
-t("Inventory", "Inventory", "_t")
+t("Readied tools", "Herramientas de lectura", "_t")
+t("Inventory", "Inventario", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26096,13 +26090,13 @@ section "mod-tome/mod/dialogs/SwiftHandsUse.lua"
 
 -- new text
 --[==[
-t("Inventory", "Inventory", "_t")
+t("Inventory", "Inventario", "_t")
 t("", "", "_t")
-t("Tool", "Tool", "_t")
+t("Tool", "Herramienta", "_t")
 t("Cooldown", "Enfriamiento", "_t")
-t("Ready", "Ready", "_t")
-t("%d/%d", "%d/%d", "tformat")
-t("#RED#%d/%d", "#RED#%d/%d", "tformat")
+t("Ready", "Listo", "_t")
+t("%d/%d", " PH0      ", "tformat")
+t("#RED#%d/%d", "#RED#  PH0                      ###################################################################################################################################################################################################################################", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -26111,22 +26105,22 @@ section "mod-tome/mod/dialogs/TrapsSelect.lua"
 
 -- new text
 --[==[
-t("Select Traps", "Select Traps", "_t")
-t("Select traps to prepare:", "Select traps to prepare:", "_t")
-t("starting trap selection dialog", "starting trap selection dialog", "log")
-t(" (replacing instant trigger)", " (replacing instant trigger)", "_t")
-t(" (primed trigger)", " (primed trigger)", "_t")
-t(" (prepared)", " (prepared)", "_t")
-t(" (preparing)", " (preparing)", "_t")
-t(" (dismantling)", " (dismantling)", "_t")
-t(" (need more skill)", " (need more skill)", "_t")
-t(" (%s)", " (%s)", "tformat")
-t("%s) Tier %d: %s%s", "%s) Tier %d: %s%s", "tformat")
-t("#LIGHT_BLUE#You cannot prepare this trap: %s.", "#LIGHT_BLUE#You cannot prepare this trap: %s.", "logPlayer")
-t("#LIGHT_BLUE#You need more skill to prepare this trap.", "#LIGHT_BLUE#You need more skill to prepare this trap.", "logPlayer")
-t("#LIGHT_BLUE#Preparing trap with normal trigger.", "#LIGHT_BLUE#Preparing trap with normal trigger.", "logPlayer")
-t("Accept these selections", "Accept these selections", "_t")
-t("#LIGHT_BLUE#You cannot prepare more than %d traps.", "#LIGHT_BLUE#You cannot prepare more than %d traps.", "logPlayer")
+t("Select Traps", "Seleccione Traps", "_t")
+t("Select traps to prepare:", "Seleccione trampas para preparar:", "_t")
+t("starting trap selection dialog", "iniciar el diálogo de selección de trampa", "log")
+t(" (replacing instant trigger)", "(replazando el gatillo instantáneo)", "_t")
+t(" (primed trigger)", "(grupo primario)", "_t")
+t(" (prepared)", "(preparados)", "_t")
+t(" (preparing)", "(preparación)", "_t")
+t(" (dismantling)", "(desmantelamiento)", "_t")
+t(" (need more skill)", "(necesita más habilidad)", "_t")
+t(" (%s)", "(  PH0  )", "tformat")
+t("%s) Tier %d: %s%s", " PH0                                                                                                                                                                                                                                                            ", "tformat")
+t("#LIGHT_BLUE#You cannot prepare this trap: %s.", "No puedes preparar esta trampa.", "logPlayer")
+t("#LIGHT_BLUE#You need more skill to prepare this trap.", "Necesitas más habilidad para preparar esta trampa.", "logPlayer")
+t("#LIGHT_BLUE#Preparing trap with normal trigger.", "#LIGHT BLUE#Preparando la trampa con el gatillo normal.", "logPlayer")
+t("Accept these selections", "Aceptar estas selecciones", "_t")
+t("#LIGHT_BLUE#You cannot prepare more than %d traps.", "No puedes preparar más que trampas.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -26135,12 +26129,12 @@ section "mod-tome/mod/dialogs/UberTalent.lua"
 
 -- new text
 --[==[
-t("Prodigies: %s", "Prodigies: %s", "tformat")
+t("Prodigies: %s", "Prodigies:   PH0  ", "tformat")
 t("\
 Evolutions are special prodigies specific to a class or race. Only one evolution can be choosen, if any are available at all.", "\
 Evolutions are special prodigies specific to a class or race. Only one evolution can be choosen, if any are available at all.", "_t")
-t("#{bold}##GOLD#Prodigies#{normal}#", "#{bold}##GOLD#Prodigies#{normal}#", "_t")
-t("#{bold}##LIGHT_STEEL_BLUE#Evolutions#{normal}#", "#{bold}##LIGHT_STEEL_BLUE#Evolutions#{normal}#", "_t")
+t("#{bold}##GOLD#Prodigies#{normal}#", "Prodigies {normal}", "_t")
+t("#{bold}##LIGHT_STEEL_BLUE#Evolutions#{normal}#", "################################################################################################################################################################################################################################################################", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26149,8 +26143,8 @@ section "mod-tome/mod/dialogs/UnlockDialog.lua"
 
 -- new text
 --[==[
-t("#VIOLET#Option unlocked: %s", "#VIOLET#Option unlocked: %s", "logPlayer")
-t("Option unlocked: %s", "Option unlocked: %s", "tformat")
+t("#VIOLET#Option unlocked: %s", "#VIOLET#Option unlocked:   PH0  ", "logPlayer")
+t("Option unlocked: %s", "Opción abierta:   PH0  ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -26159,28 +26153,28 @@ section "mod-tome/mod/dialogs/UseItemDialog.lua"
 
 -- new text
 --[==[
-t("Impossible", "Impossible", "_t")
-t("You must wear this object to use it!", "You must wear this object to use it!", "_t")
-t("Drop how many?", "Drop how many?", "_t")
-t("1 to %d", "1 to %d", "tformat")
-t("Attach to item", "Attach to item", "_t")
-t("You do not have any equipped items that it can be attached to.", "You do not have any equipped items that it can be attached to.", "_t")
-t("Select which item to attach it to:", "Select which item to attach it to:", "_t")
-t("Really %s %s", "Really %s %s", "tformat")
-t("Tag object (tagged objects can not be destroyed or dropped)", "Tag object (tagged objects can not be destroyed or dropped)", "_t")
+t("Impossible", "Imposible", "_t")
+t("You must wear this object to use it!", "¡Debes usar este objeto para usarlo!", "_t")
+t("Drop how many?", "¿Tira cuántos?", "_t")
+t("1 to %d", "1 a   PH0 ", "tformat")
+t("Attach to item", "Adjuntar el elemento", "_t")
+t("You do not have any equipped items that it can be attached to.", "Usted no tiene elementos equipados a los que se puede adjuntar.", "_t")
+t("Select which item to attach it to:", "Seleccione qué elemento para adjuntarlo a:", "_t")
+t("Really %s %s", "¿En serio", "tformat")
+t("Tag object (tagged objects can not be destroyed or dropped)", "Objeto de la etiqueta (los objetos marcados no pueden ser destruidos o caídos)", "_t")
 t("Tag:", "Tag:", "_t")
-t("Identify", "Identify", "_t")
-t("Move to normal inventory", "Move to normal inventory", "_t")
-t("Use", "Use", "_t")
+t("Identify", "Identificar", "_t")
+t("Move to normal inventory", "Mover al inventario normal", "_t")
+t("Use", "Uso", "_t")
 t("Wield/Wear", "Wield/Wear", "_t")
-t("Take off", "Take off", "_t")
-t("Detach from item", "Detach from item", "_t")
-t("Detach tinker", "Detach tinker", "_t")
-t("Drop", "Drop", "_t")
-t("Transfer to party", "Transfer to party", "_t")
-t("%s now", "%s now", "tformat")
-t("Link item in chat", "Link item in chat", "_t")
-t("Lua inspect", "Lua inspect", "_t")
+t("Take off", "Quítate", "_t")
+t("Detach from item", "Adjuntar el elemento", "_t")
+t("Detach tinker", "Tinker separado", "_t")
+t("Drop", "Suelta", "_t")
+t("Transfer to party", "Transferencia a la parte", "_t")
+t("%s now", "Ahora", "tformat")
+t("Link item in chat", "Enlace artículo en chat", "_t")
+t("Lua inspect", "Lua inspectiva", "_t")
 t("Tag", "Tag", "_t")
 t("Untag", "Untag", "_t")
 --]==]
@@ -26225,20 +26219,20 @@ t("Middle mouse click assigned", "Click medio asignado", "_t")
 t("%s assigned to middle mouse click on an hostile target.", "%s asignado a click medio sobre objetivo hostil.", "tformat")
 t("Left mouse click assigned", "Click izquierdo asignado", "_t")
 t("%s assigned to left mouse click on an hostile target.", "%s asignado a click izquierdo sobre objetivo hostil.", "tformat")
-t("#{bold}#Activable talents#{normal}#", "#{bold}#Activable talents#{normal}#", "_t")
-t("All activable talents you can currently use.", "All activable talents you can currently use.", "_t")
-t("#{bold}#Object powers#{normal}#", "#{bold}#Object powers#{normal}#", "_t")
-t("Object powers that can be activated automatically.  Most usable objects will appear here unless they are on cooldown or have ai restrictions.", "Object powers that can be activated automatically.  Most usable objects will appear here unless they are on cooldown or have ai restrictions.", "_t")
-t("#{bold}#Sustainable talents#{normal}#", "#{bold}#Sustainable talents#{normal}#", "_t")
-t("All sustainable talents you can currently use.", "All sustainable talents you can currently use.", "_t")
-t("#{bold}#Sustained talents#{normal}#", "#{bold}#Sustained talents#{normal}#", "_t")
-t("All sustainable talents you currently sustain, using them will de-activate them.", "All sustainable talents you currently sustain, using them will de-activate them.", "_t")
-t("#{bold}#Cooling down talents#{normal}#", "#{bold}#Cooling down talents#{normal}#", "_t")
-t("All talents you have used that are still cooling down.", "All talents you have used that are still cooling down.", "_t")
-t("#{bold}#Unavailable talents#{normal}#", "#{bold}#Unavailable talents#{normal}#", "_t")
-t("All talents you have that do not have enough resources, or satisfy other dependencies.", "All talents you have that do not have enough resources, or satisfy other dependencies.", "_t")
-t("#{bold}#Passive talents#{normal}#", "#{bold}#Passive talents#{normal}#", "_t")
-t("All your passive talents, they are always active.", "All your passive talents, they are always active.", "_t")
+t("#{bold}#Activable talents#{normal}#", "talentos activables", "_t")
+t("All activable talents you can currently use.", "Todos los talentos activables que puedes utilizar actualmente.", "_t")
+t("#{bold}#Object powers#{normal}#", "##Objeject powers# {normal}#", "_t")
+t("Object powers that can be activated automatically.  Most usable objects will appear here unless they are on cooldown or have ai restrictions.", "Poderes de objetos que pueden activarse automáticamente. La mayoría de objetos utilizables aparecerán aquí a menos que estén en enfriamiento o tengan restricciones de ai.", "_t")
+t("#{bold}#Sustainable talents#{normal}#", "talentos sostenibles", "_t")
+t("All sustainable talents you can currently use.", "Todos los talentos sostenibles que puedes utilizar actualmente.", "_t")
+t("#{bold}#Sustained talents#{normal}#", "talentos sostenidos", "_t")
+t("All sustainable talents you currently sustain, using them will de-activate them.", "Todos los talentos sostenibles que usted sostiene actualmente, utilizando ellos los desactivará.", "_t")
+t("#{bold}#Cooling down talents#{normal}#", "# Golpear talentos #", "_t")
+t("All talents you have used that are still cooling down.", "Todos los talentos que has usado aún se están enfriando.", "_t")
+t("#{bold}#Unavailable talents#{normal}#", "talentos indiscutibles", "_t")
+t("All talents you have that do not have enough resources, or satisfy other dependencies.", "Todos los talentos que tienes que no tienen suficientes recursos, o satisfacen otras dependencias.", "_t")
+t("#{bold}#Passive talents#{normal}#", "talentos pasivos", "_t")
+t("All your passive talents, they are always active.", "Todos tus talentos pasivos, siempre están activos.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26247,14 +26241,14 @@ section "mod-tome/mod/dialogs/WandererSeed.lua"
 
 -- new text
 --[==[
-t("Wanderer Options", "Wanderer Options", "_t")
-t("Simply make a random set of trees, this is the default option. If you want to share it with friends, you will find the seed in the character's sheet later on.", "Simply make a random set of trees, this is the default option. If you want to share it with friends, you will find the seed in the character's sheet later on.", "_t")
-t("If an other player gave you a seed to play, you can enter it here. Do note that while a seed will always work, you will only get the same talents set if you use the same DLC/addons.", "If an other player gave you a seed to play, you can enter it here. Do note that while a seed will always work, you will only get the same talents set if you use the same DLC/addons.", "_t")
-t("Play!", "Play!", "_t")
-t("#{bold}##ANTIQUE_WHITE#Random#{normal}##LAST#", "#{bold}##ANTIQUE_WHITE#Random#{normal}##LAST#", "_t")
-t("#{bold}##ANTIQUE_WHITE#Seed#{normal}##LAST#", "#{bold}##ANTIQUE_WHITE#Seed#{normal}##LAST#", "_t")
-t("Wanderer Seed", "Wanderer Seed", "_t")
-t("The wanderer seed you used was generated for a different set of DLC/addons. Your character will still work fine but you may not have the same talent set as the person that shared the seed with you.", "The wanderer seed you used was generated for a different set of DLC/addons. Your character will still work fine but you may not have the same talent set as the person that shared the seed with you.", "_t")
+t("Wanderer Options", "Opciones de Wanderer", "_t")
+t("Simply make a random set of trees, this is the default option. If you want to share it with friends, you will find the seed in the character's sheet later on.", "Simplemente haga un conjunto aleatorio de árboles, esta es la opción predeterminada. Si quieres compartirlo con amigos, encontrarás la semilla en la hoja del personaje más adelante.", "_t")
+t("If an other player gave you a seed to play, you can enter it here. Do note that while a seed will always work, you will only get the same talents set if you use the same DLC/addons.", "Si otro jugador te dio una semilla para jugar, puedes entrar aquí. Tenga en cuenta que mientras una semilla siempre funcionará, sólo tendrá los mismos talentos establecidos si utiliza el mismo DLC/addones.", "_t")
+t("Play!", "¡Juega!", "_t")
+t("#{bold}##ANTIQUE_WHITE#Random#{normal}##LAST#", "################################################################################################################################################################################################################################################################", "_t")
+t("#{bold}##ANTIQUE_WHITE#Seed#{normal}##LAST#", "################################################################################################################################################################################################################################################################", "_t")
+t("Wanderer Seed", "Semilla Errante", "_t")
+t("The wanderer seed you used was generated for a different set of DLC/addons. Your character will still work fine but you may not have the same talent set as the person that shared the seed with you.", "La semilla vagabunda que usaste fue generada para un conjunto diferente de DLC/addones. Tu personaje seguirá funcionando bien pero no tienes el mismo talento que la persona que compartió la semilla contigo.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26263,39 +26257,39 @@ section "mod-tome/mod/dialogs/debug/AdvanceActor.lua"
 
 -- new text
 --[==[
-t("DEBUG -- Levelup Actor: [%s] %s", "DEBUG -- Levelup Actor: [%s] %s", "tformat")
-t(" Advance to Level: ", " Advance to Level: ", "_t")
-t("Restore: %s (v%d)", "Restore: %s (v%d)", "tformat")
-t("Restore: none", "Restore: none", "_t")
-t("#LIGHT_BLUE#Restoring [%s]%s from backup version %d", "#LIGHT_BLUE#Restoring [%s]%s from backup version %d", "log")
-t("Gain points for stats, talents, and prodigies (unlimited respec)", "Gain points for stats, talents, and prodigies (unlimited respec)", "_t")
-t(" Force all BASE stats to: ", " Force all BASE stats to: ", "_t")
+t("DEBUG -- Levelup Actor: [%s] %s", "DEBUG -- Levelup Actor: [  PH0   ]   PH1  ", "tformat")
+t(" Advance to Level: ", "Avance al nivel:", "_t")
+t("Restore: %s (v%d)", "Restore:   PH0   (v  PH1   )", "tformat")
+t("Restore: none", "Restaurar: ninguno", "_t")
+t("#LIGHT_BLUE#Restoring [%s]%s from backup version %d", "#LIGHT BLUE#Restoring [  PH0                                                                                            ", "log")
+t("Gain points for stats, talents, and prodigies (unlimited respec)", "Puntos de ganancia para estadísticas, talentos y prodigies (respección ilimitada)", "_t")
+t(" Force all BASE stats to: ", "Forzar todas las estadísticas de BASE a:", "_t")
 t("", "", "_t")
-t(" Force all BONUS stats to: ", " Force all BONUS stats to: ", "_t")
-t("Learn Talents ", "Learn Talents ", "_t")
-t("Unlock & Learn all available talents to level: ", "Unlock & Learn all available talents to level: ", "_t")
-t("maximum allowed", "maximum allowed", "_t")
-t("Ignore requirements", "Ignore requirements", "_t")
-t("Force all talent mastery levels to (0.1-5.0): ", "Force all talent mastery levels to (0.1-5.0): ", "_t")
-t("no change", "no change", "_t")
-t("Unlock all talent types (slow)", "Unlock all talent types (slow)", "_t")
-t("Accept", "Accept", "_t")
-t("Cancel", "Cancel", "_t")
-t("#LIGHT_BLUE#AdvanceActor inputs: %s", "#LIGHT_BLUE#AdvanceActor inputs: %s", "log")
-t("%s #GOLD#Forcing all Base Stats to %s", "%s #GOLD#Forcing all Base Stats to %s", "log")
-t("%s #GOLD#Resetting all talents_types_mastery to %s", "%s #GOLD#Resetting all talents_types_mastery to %s", "log")
-t("%s #GOLD#Unlocking All Talent Types", "%s #GOLD#Unlocking All Talent Types", "log")
-t("#LIGHT_BLUE#%s -- %s", "#LIGHT_BLUE#%s -- %s", "log")
-t("#GOLD#Checking %s Talents (%s)", "#GOLD#Checking %s Talents (%s)", "log")
-t("#LIGHT_BLUE#Talent %s learned to level %d", "#LIGHT_BLUE#Talent %s learned to level %d", "log")
-t("%s #GOLD#Forcing all Bonus Stats to %s", "%s #GOLD#Forcing all Bonus Stats to %s", "log")
-t("%d stat point(s)", "%d stat point(s)", "tformat")
-t("%d class talent point(s)", "%d class talent point(s)", "tformat")
-t("%d generic talent point(s)", "%d generic talent point(s)", "tformat")
-t("%d category point(s)", "%d category point(s)", "tformat")
-t("#ORCHID#%d prodigy point(s)#LAST#", "#ORCHID#%d prodigy point(s)#LAST#", "tformat")
-t("#LIGHT_BLUE#%s has %s to spend", "#LIGHT_BLUE#%s has %s to spend", "log")
-t(", and ", ", and ", "_t")
+t(" Force all BONUS stats to: ", "Force all BONUS statistics to:", "_t")
+t("Learn Talents ", "Aprender talentos", "_t")
+t("Unlock & Learn all available talents to level: ", "Desbloquear & Aprenda todos los talentos disponibles a nivel:", "_t")
+t("maximum allowed", "máximo permitido", "_t")
+t("Ignore requirements", "Requisitos de diagnóstico", "_t")
+t("Force all talent mastery levels to (0.1-5.0): ", "Forzar todos los niveles de maestría de talento a (0.1-5.0):", "_t")
+t("no change", "no hay cambio", "_t")
+t("Unlock all talent types (slow)", "Desbloquear todos los tipos de talento (bajo)", "_t")
+t("Accept", "Aceptar", "_t")
+t("Cancel", "Cancelar", "_t")
+t("#LIGHT_BLUE#AdvanceActor inputs: %s", "#LIGHT BLUE#AdvanceActor inputs:   PH0  ", "log")
+t("%s #GOLD#Forcing all Base Stats to %s", " PH0   #GOLD#Forcing all Base Stats to   PH1  ", "log")
+t("%s #GOLD#Resetting all talents_types_mastery to %s", " PH0   #GOLD#Resetting all talents types mastery to   PH1  ", "log")
+t("%s #GOLD#Unlocking All Talent Types", " PH0  #GOLD# Desbloquear todos los tipos de talento", "log")
+t("#LIGHT_BLUE#%s -- %s", "#LIGHT BLUE#                                                                                                                                                                                                               ", "log")
+t("#GOLD#Checking %s Talents (%s)", "#GOLD#Checking   PH0   Talentos (  PH1   )", "log")
+t("#LIGHT_BLUE#Talent %s learned to level %d", "#LIGHT BLUE#Talent   PH0    aprendido a nivel   PH1  ", "log")
+t("%s #GOLD#Forcing all Bonus Stats to %s", " PH0   #GOLD#Forcing all Bonus Stats to   PH1   ", "log")
+t("%d stat point(s)", " PH0    punto(s)", "tformat")
+t("%d class talent point(s)", " PH0    puntos de talento de clase", "tformat")
+t("%d generic talent point(s)", " PH0     puntos genéricos de talento", "tformat")
+t("%d category point(s)", " PH0    category point(s)", "tformat")
+t("#ORCHID#%d prodigy point(s)#LAST#", "#ORCHID# PH0                                                                               ", "tformat")
+t("#LIGHT_BLUE#%s has %s to spend", "#LIGHT BLUE#  PH0   tiene que pasar", "log")
+t(", and ", ", y", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26304,13 +26298,13 @@ section "mod-tome/mod/dialogs/debug/AdvanceZones.lua"
 
 -- new text
 --[==[
-t("Advance Through Zones", "Advance Through Zones", "_t")
-t("Enter a comma delimited list of zones or zone tiers to clear", "Enter a comma delimited list of zones or zone tiers to clear", "_t")
-t("%s:  Level %0.2f to %0.2f (#LIGHT_STEEL_BLUE#+%0.2f#LAST#)", "%s:  Level %0.2f to %0.2f (#LIGHT_STEEL_BLUE#+%0.2f#LAST#)", "tformat")
-t("#RED#Low value items have been dropped on the ground.#LAST#", "#RED#Low value items have been dropped on the ground.#LAST#", "log")
-t("Unable to level change to floor 1 of %s", "Unable to level change to floor 1 of %s", "log")
-t("%s is not valid for autoclear", "%s is not valid for autoclear", "log")
-t("Unable to level change to floor %d of %s", "Unable to level change to floor %d of %s", "log")
+t("Advance Through Zones", "Avance a través de las zonas", "_t")
+t("Enter a comma delimited list of zones or zone tiers to clear", "Ingrese una lista delimitada de coma de zonas o niveles de zona para despejar", "_t")
+t("%s:  Level %0.2f to %0.2f (#LIGHT_STEEL_BLUE#+%0.2f#LAST#)", " PH0  : Nivel   PH1      PH2   (#LIGHT STEEL BLUE#+  PH3  #LAST#)", "tformat")
+t("#RED#Low value items have been dropped on the ground.#LAST#", "#RED#Low value items have been dropped on the ground. #LAST#", "log")
+t("Unable to level change to floor 1 of %s", "Incapaz de cambiar el nivel al piso 1 de   PH0  ", "log")
+t("%s is not valid for autoclear", " PH0   no es válido para autoclear", "log")
+t("Unable to level change to floor %d of %s", "Incapaz de cambiar el nivel al piso   PH0    de   PH1   ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26320,11 +26314,11 @@ section "mod-tome/mod/dialogs/debug/AlterFaction.lua"
 -- new text
 --[==[
 t("DEBUG -- Alter Faction", "DEBUG -- Alter Faction", "_t")
-t("Alter: %s", "Alter: %s", "tformat")
-t("Alter to which state:", "Alter to which state:", "_t")
-t("friendly", "friendly", "_t")
+t("Alter: %s", "Alter:", "tformat")
+t("Alter to which state:", "Alter a qué estado:", "_t")
+t("friendly", "amigable", "_t")
 t("neutral", "neutral", "_t")
-t("hostile", "hostile", "_t")
+t("hostile", "hostil", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26333,9 +26327,9 @@ section "mod-tome/mod/dialogs/debug/ChangeZone.lua"
 
 -- new text
 --[==[
-t("DEBUG -- Change Zone", "DEBUG -- Change Zone", "_t")
-t("Zone: %s", "Zone: %s", "tformat")
-t("Level %s-%s", "Level %s-%s", "tformat")
+t("DEBUG -- Change Zone", "DEBUG -- Zona de cambio", "_t")
+t("Zone: %s", "Zona:", "tformat")
+t("Level %s-%s", "Nivel   PH0      ", "tformat")
 --]==]
 
 ------------------------------------------------
@@ -26344,37 +26338,37 @@ section "mod-tome/mod/dialogs/debug/CreateItem.lua"
 
 -- new text
 --[==[
-t("DEBUG -- Create Object", "DEBUG -- Create Object", "_t")
-t("Load from other zones ", "Load from other zones ", "_t")
-t("Generate examples (right-click refreshes) ", "Generate examples (right-click refreshes) ", "_t")
-t("#CRIMSON#==Resolved Example==#LAST#", "#CRIMSON#==Resolved Example==#LAST#", "_t")
-t("#GOLD#%s#LAST#", "#GOLD#%s#LAST#", "tformat")
-t("Object could not be resolved/identified.", "Object could not be resolved/identified.", "_t")
-t("#LIGHT_BLUE#Could not add object to %s at (%d, %d)", "#LIGHT_BLUE#Could not add object to %s at (%d, %d)", "log")
-t("#LIGHT_BLUE#No creature to add object to at (%d, %d)", "#LIGHT_BLUE#No creature to add object to at (%d, %d)", "log")
-t("#LIGHT_BLUE#No object to create", "#LIGHT_BLUE#No object to create", "log")
-t("Place Object", "Place Object", "_t")
-t("Place the object where?", "Place the object where?", "_t")
-t("Inventory of %s%s", "Inventory of %s%s", "tformat")
-t(" #LIGHT_GREEN#(player)#LAST#", " #LIGHT_GREEN#(player)#LAST#", "_t")
-t("Drop @ (%s, %s)%s", "Drop @ (%s, %s)%s", "tformat")
-t("#LIGHT_BLUE#Dropped %s at (%d, %d)", "#LIGHT_BLUE#Dropped %s at (%d, %d)", "log")
+t("DEBUG -- Create Object", "DEBUG -- Crear objetos", "_t")
+t("Load from other zones ", "Carga de otras zonas", "_t")
+t("Generate examples (right-click refreshes) ", "Generar ejemplos (refrigerios de clic derecho)", "_t")
+t("#CRIMSON#==Resolved Example==#LAST#", "#CRIMSON#=Resolved Ejemplo=#LAST#", "_t")
+t("#GOLD#%s#LAST#", "#GOLD#  PH0  #LAST#", "tformat")
+t("Object could not be resolved/identified.", "El objeto no puede ser resuelto o identificado.", "_t")
+t("#LIGHT_BLUE#Could not add object to %s at (%d, %d)", "#LIGHT BLUE#No se puede añadir objeto a   PH0    en (  PH1   ,   PH2   )", "log")
+t("#LIGHT_BLUE#No creature to add object to at (%d, %d)", "#LIGHT BLUE#Ninguna criatura a la que añadir objeto a (  PH0   ,   PH1   )", "log")
+t("#LIGHT_BLUE#No object to create", "#LIGHT BLUE#Ningún objeto para crear", "log")
+t("Place Object", "Objeto", "_t")
+t("Place the object where?", "¿Dónde está el objeto?", "_t")
+t("Inventory of %s%s", "Inventario de   PH0     PH1  ", "tformat")
+t(" #LIGHT_GREEN#(player)#LAST#", "#LIGHT GREEN# (jugador)#", "_t")
+t("Drop @ (%s, %s)%s", "Suelta @ ( PH0   ,   PH1   )   PH2  ", "tformat")
+t("#LIGHT_BLUE#Dropped %s at (%d, %d)", "#LIGHT BLUE#Dropped   PH0    at (  PH1   ,   PH2   )", "log")
 t("NPC Inventory", "NPC Inventory", "tformat")
-t("Cancel", "Cancel", "tformat")
-t("#LIGHT_BLUE#OBJECT:#LAST# %s%s: #LIGHT_BLUE#[%s] %s {%s, slot %s} at (%s, %s)#LAST#", "#LIGHT_BLUE#OBJECT:#LAST# %s%s: #LIGHT_BLUE#[%s] %s {%s, slot %s} at (%s, %s)#LAST#", "log")
-t("Number of items to make", "Number of items to make", "_t")
-t("Enter 1-100%s", "Enter 1-100%s", "tformat")
-t(", or 0 for the example item", ", or 0 for the example item", "_t")
-t("#LIGHT_BLUE# Creating %d items:", "#LIGHT_BLUE# Creating %d items:", "log")
+t("Cancel", "Cancelar", "tformat")
+t("#LIGHT_BLUE#OBJECT:#LAST# %s%s: #LIGHT_BLUE#[%s] %s {%s, slot %s} at (%s, %s)#LAST#", "#LIGHT BLUE#OBJECT:#LAST#   PH0                                                                                                                                                                                                                                            ", "log")
+t("Number of items to make", "Número de artículos para hacer", "_t")
+t("Enter 1-100%s", "Entrar 1-100  PH0  ", "tformat")
+t(", or 0 for the example item", ", o 0 para el tema de ejemplo", "_t")
+t("#LIGHT_BLUE# Creating %d items:", "#LIGHT BLUE# Creating   PH0     items:", "log")
 t("Ego", "Ego", "_t")
-t("Add an ego enhancement if possible?", "Add an ego enhancement if possible?", "_t")
-t("#LIGHT_BLUE#Created %s", "#LIGHT_BLUE#Created %s", "log")
-t("Greater Ego", "Greater Ego", "_t")
-t("Add a greater ego enhancement if possible?", "Add a greater ego enhancement if possible?", "_t")
-t(" #GOLD#All Artifacts#LAST#", " #GOLD#All Artifacts#LAST#", "_t")
-t("#LIGHT_BLUE#Creating All Artifacts.", "#LIGHT_BLUE#Creating All Artifacts.", "log")
-t("#LIGHT_BLUE#%d artifacts created.", "#LIGHT_BLUE#%d artifacts created.", "log")
-t(" #YELLOW#Random Object#LAST#", " #YELLOW#Random Object#LAST#", "_t")
+t("Add an ego enhancement if possible?", "¿Agregar un realce del ego si es posible?", "_t")
+t("#LIGHT_BLUE#Created %s", "#LIGHT BLUE#Creado   PH0  ", "log")
+t("Greater Ego", "Mayor Ego", "_t")
+t("Add a greater ego enhancement if possible?", "¿Agregar un mayor realce del ego si es posible?", "_t")
+t(" #GOLD#All Artifacts#LAST#", "#GOLD# All Artifacts#", "_t")
+t("#LIGHT_BLUE#Creating All Artifacts.", "#LIGHT BLUE#Creando todos los artefactos.", "log")
+t("#LIGHT_BLUE#%d artifacts created.", "#LIGHT BLUE#  PH0        artifacts created.", "log")
+t(" #YELLOW#Random Object#LAST#", "#YELLOW#Random Object#LAST#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26383,9 +26377,9 @@ section "mod-tome/mod/dialogs/debug/CreateTrap.lua"
 
 -- new text
 --[==[
-t("DEBUG -- Create Trap", "DEBUG -- Create Trap", "_t")
-t("#LIGHT_BLUE#Trap [%s]%s already occupies (%d, %d)", "#LIGHT_BLUE#Trap [%s]%s already occupies (%d, %d)", "log")
-t("#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "log")
+t("DEBUG -- Create Trap", "DEBUG -- Crear trampa", "_t")
+t("#LIGHT_BLUE#Trap [%s]%s already occupies (%d, %d)", "#LIGHT BLUE#Trap [  PH0                                           ", "log")
+t("#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "#LIGHT BLUE#Added   PH0                                      ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26394,45 +26388,45 @@ section "mod-tome/mod/dialogs/debug/DebugMain.lua"
 
 -- new text
 --[==[
-t("Debug/Cheat! It's BADDDD!", "Debug/Cheat! It's BADDDD!", "_t")
-t("#LIGHT_BLUE#God mode OFF", "#LIGHT_BLUE#God mode OFF", "log")
-t("#LIGHT_BLUE#God mode ON", "#LIGHT_BLUE#God mode ON", "log")
-t("#LIGHT_BLUE#Demi-God mode OFF", "#LIGHT_BLUE#Demi-God mode OFF", "log")
-t("#LIGHT_BLUE#Demi-God mode ON", "#LIGHT_BLUE#Demi-God mode ON", "log")
-t("#LIGHT_BLUE#Weakdamage mode OFF", "#LIGHT_BLUE#Weakdamage mode OFF", "log")
-t("#LIGHT_BLUE#Weakdamage mode ON", "#LIGHT_BLUE#Weakdamage mode ON", "log")
-t("#LIGHT_BLUE#Revealing Map.", "#LIGHT_BLUE#Revealing Map.", "log")
-t("Zone: %s", "Zone: %s", "tformat")
-t("Level 1-%s", "Level 1-%s", "tformat")
-t("Kill or Remove", "Kill or Remove", "_t")
-t("Remove all (non-party) creatures or kill them for the player (awards experience and drops loot)?", "Remove all (non-party) creatures or kill them for the player (awards experience and drops loot)?", "_t")
-t("#GREY#Removing [%s] %s at (%s, %s)", "#GREY#Removing [%s] %s at (%s, %s)", "log")
-t("#GREY#Killing [%s] %s at (%s, %s)", "#GREY#Killing [%s] %s at (%s, %s)", "log")
-t("#LIGHT_BLUE#%s %d creatures.", "#LIGHT_BLUE#%s %d creatures.", "log")
-t("Removed", "Removed", "_t")
+t("Debug/Cheat! It's BADDDD!", "¡Debug/Cheat! ¡Es BADDDD!", "_t")
+t("#LIGHT_BLUE#God mode OFF", "#LIGHT BLUE#God mode OFF", "log")
+t("#LIGHT_BLUE#God mode ON", "#LIGHT BLUE#God mode ON", "log")
+t("#LIGHT_BLUE#Demi-God mode OFF", "#LIGHT BLUE#Demi-God mode OFF", "log")
+t("#LIGHT_BLUE#Demi-God mode ON", "#LIGHT BLUE#Demi-God mode ON", "log")
+t("#LIGHT_BLUE#Weakdamage mode OFF", "#LIGHT BLUE#Weakdamage mode OFF", "log")
+t("#LIGHT_BLUE#Weakdamage mode ON", "#LIGHT BLUE#Weakdamage mode ON", "log")
+t("#LIGHT_BLUE#Revealing Map.", "#LIGHT BLUE#Revealing Map.", "log")
+t("Zone: %s", "Zona:", "tformat")
+t("Level 1-%s", "Nivel 1-  PH0 ", "tformat")
+t("Kill or Remove", "Matar o quitar", "_t")
+t("Remove all (non-party) creatures or kill them for the player (awards experience and drops loot)?", "Eliminar todas las criaturas (no-partidistas) o matarlas para el jugador (awards experiencia y gotas botín)?", "_t")
+t("#GREY#Removing [%s] %s at (%s, %s)", "#GREY#Removing [  PH0                                                                                       ", "log")
+t("#GREY#Killing [%s] %s at (%s, %s)", "#GREY#Killing [  PH0                                                                                                                                                                                                                                                   ", "log")
+t("#LIGHT_BLUE#%s %d creatures.", "Criaturas.", "log")
+t("Removed", "Eliminado", "_t")
 t("Killed", "Killed", "_t")
-t("Remove", "Remove", "_t")
-t("Kill", "Kill", "_t")
-t("Cancel", "Cancel", "_t")
-t("Change Zone", "Change Zone", "_t")
-t("Change Level", "Change Level", "_t")
-t("Reveal all map", "Reveal all map", "_t")
+t("Remove", "Retirar", "_t")
+t("Kill", "Matar", "_t")
+t("Cancel", "Cancelar", "_t")
+t("Change Zone", "Zona de cambio", "_t")
+t("Change Level", "Nivel de cambio", "_t")
+t("Reveal all map", "Revela todo el mapa", "_t")
 t("Toggle Demi-Godmode", "Toggle Demi-Godmode", "_t")
 t("Toggle Godmode", "Toggle Godmode", "_t")
 t("Alter Faction", "Alter Faction", "_t")
-t("Summon a Creature", "Summon a Creature", "_t")
-t("Create Items", "Create Items", "_t")
-t("Create a Trap", "Create a Trap", "_t")
+t("Summon a Creature", "Invocar una criatura", "_t")
+t("Create Items", "Crear artículos", "_t")
+t("Create a Trap", "Crear una trampa", "_t")
 t("Grant/Alter Quests", "Grant/Alter Quests", "_t")
 t("Advance Player", "Advance Player", "_t")
-t("Remove or Kill all creatures", "Remove or Kill all creatures", "_t")
-t("Give Sher'tul fortress energy", "Give Sher'tul fortress energy", "_t")
-t("Give all ingredients", "Give all ingredients", "_t")
-t("Weakdamage", "Weakdamage", "_t")
+t("Remove or Kill all creatures", "Quitar o matar a todas las criaturas", "_t")
+t("Give Sher'tul fortress energy", "Dar energía a Sher'tul fortaleza", "_t")
+t("Give all ingredients", "Dar todos los ingredientes", "_t")
+t("Weakdamage", "Daño", "_t")
 t("Spawn Event", "Spawn Event", "_t")
 t("Endgamify", "Endgamify", "_t")
 t("Reload/regenerate Zone and level", "Reload/regenerate Zone and level", "_t")
-t("Automatically Clear Zones", "Automatically Clear Zones", "_t")
+t("Automatically Clear Zones", "Zonas automáticamente limpias", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26441,7 +26435,7 @@ section "mod-tome/mod/dialogs/debug/Endgamify.lua"
 
 -- new text
 --[==[
-t("Failed to generate %s", "Failed to generate %s", "log")
+t("Failed to generate %s", "Failed to generate   PH0 ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26459,8 +26453,8 @@ section "mod-tome/mod/dialogs/debug/PlotTalent.lua"
 
 -- new text
 --[==[
-t("Values plot for: %s (mastery %0.1f)", "Values plot for: %s (mastery %0.1f)", "tformat")
-t("TL: ", "TL: ", "_t")
+t("Values plot for: %s (mastery %0.1f)", "Los valores conspiran para:   PH0   (mastery   PH1  )", "tformat")
+t("TL: ", "TL:", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26469,33 +26463,33 @@ section "mod-tome/mod/dialogs/debug/RandomActor.lua"
 
 -- new text
 --[==[
-t("#LIGHT_GREEN#(From %s, line %s):#LAST#", "#LIGHT_GREEN#(From %s, line %s):#LAST#", "tformat")
-t("DEBUG -- Create Random Actor", "DEBUG -- Create Random Actor", "_t")
+t("#LIGHT_GREEN#(From %s, line %s):#LAST#", "#LIGHT GREEN#(De   PH0    , line   PH1     )#", "tformat")
+t("DEBUG -- Create Random Actor", "DEBUG -- Crear Actor Aleatorio", "_t")
 t("#GREY#None#LAST#", "#GREY#None#LAST#", "_t")
-t("Current Base Actor: %s", "Current Base Actor: %s", "tformat")
-t("Generate", "Generate", "_t")
-t("#LIGHT_BLUE# Current base actor: %s", "#LIGHT_BLUE# Current base actor: %s", "log")
-t("Place", "Place", "_t")
-t("Default Filter", "Default Filter", "_t")
-t("#LIGHT_BLUE# Reset base filter", "#LIGHT_BLUE# Reset base filter", "log")
-t("Clear", "Clear", "_t")
-t("#LIGHT_BLUE# Clear base actor: %s", "#LIGHT_BLUE# Clear base actor: %s", "log")
-t("#LIGHT_BLUE#Base Filter:#LAST# ", "#LIGHT_BLUE#Base Filter:#LAST# ", "_t")
-t("The #ORANGE#Boss Data#LAST# is used to transform the base actor into a random boss (which will use a random actor if needed).", "The #ORANGE#Boss Data#LAST# is used to transform the base actor into a random boss (which will use a random actor if needed).", "_t")
-t("Current Boss Actor: %s", "Current Boss Actor: %s", "tformat")
-t("Default Data", "Default Data", "_t")
-t("#LIGHT_BLUE# Reset Randboss Data", "#LIGHT_BLUE# Reset Randboss Data", "log")
-t("#ORANGE#Boss Data:#LAST# ", "#ORANGE#Boss Data:#LAST# ", "_t")
-t("Filter and Data Help", "Filter and Data Help", "_t")
-t("#GREY#No Actor to Display#LAST#", "#GREY#No Actor to Display#LAST#", "_t")
-t("#LIGHT_BLUE#Inspect [%s]%s", "#LIGHT_BLUE#Inspect [%s]%s", "log")
-t("#LIGHT_BLUE#No actor to inspect", "#LIGHT_BLUE#No actor to inspect", "log")
-t("#LIGHT_BLUE#Lua Inspect [%s]%s", "#LIGHT_BLUE#Lua Inspect [%s]%s", "log")
-t("#LIGHT_BLUE#No actor to Lua inspect", "#LIGHT_BLUE#No actor to Lua inspect", "log")
-t("#LIGHT_BLUE#Bad filter for base actor: %s", "#LIGHT_BLUE#Bad filter for base actor: %s", "log")
-t("#LIGHT_BLUE#Could not generate a base actor with filter: %s", "#LIGHT_BLUE#Could not generate a base actor with filter: %s", "log")
-t("#LIGHT_BLUE#Bad data for random boss actor: %s", "#LIGHT_BLUE#Bad data for random boss actor: %s", "log")
-t("#LIGHT_BLUE#Could not generate a base actor with data: %s", "#LIGHT_BLUE#Could not generate a base actor with data: %s", "log")
+t("Current Base Actor: %s", "Base actual Actor:   PH0  ", "tformat")
+t("Generate", "Generar", "_t")
+t("#LIGHT_BLUE# Current base actor: %s", "#LIGHT BLUE# Current base actor:   PH0  ", "log")
+t("Place", "Lugar", "_t")
+t("Default Filter", "Filtro por defecto", "_t")
+t("#LIGHT_BLUE# Reset base filter", "#LIGHT BLUE# Reset base filter", "log")
+t("Clear", "Despejado", "_t")
+t("#LIGHT_BLUE# Clear base actor: %s", "#LIGHT BLUE# Clear base actor:   PH0  ", "log")
+t("#LIGHT_BLUE#Base Filter:#LAST# ", "#LIGHT BLUE#Base Filter:#LAST#", "_t")
+t("The #ORANGE#Boss Data#LAST# is used to transform the base actor into a random boss (which will use a random actor if needed).", "El #ORANGE#Boss Data#LAST# se utiliza para transformar el actor de base en un jefe aleatorio (que utilizará un actor aleatorio si es necesario).", "_t")
+t("Current Boss Actor: %s", "Jefe Actor actual:   PH0  ", "tformat")
+t("Default Data", "Datos predeterminados", "_t")
+t("#LIGHT_BLUE# Reset Randboss Data", "#LIGHT BLUE# Reset Randboss Data", "log")
+t("#ORANGE#Boss Data:#LAST# ", "#ORANGE#Boss Data:#LAST#", "_t")
+t("Filter and Data Help", "Filtro y ayuda de datos", "_t")
+t("#GREY#No Actor to Display#LAST#", "#GREY#No Actor para mostrar#LAST#", "_t")
+t("#LIGHT_BLUE#Inspect [%s]%s", "#LIGHT BLUE#Inspect [  PH0                                                                                                                                                                                                                                                  ", "log")
+t("#LIGHT_BLUE#No actor to inspect", "#LIGHT BLUE#Ningún actor para inspeccionar", "log")
+t("#LIGHT_BLUE#Lua Inspect [%s]%s", "#LIGHT BLUE#Lua Inspect [  PH0               ", "log")
+t("#LIGHT_BLUE#No actor to Lua inspect", "#LIGHT BLUE#Ningún actor a Lua inspect", "log")
+t("#LIGHT_BLUE#Bad filter for base actor: %s", "#LIGHT BLUE#Bad filter for base actor:   PH0  ", "log")
+t("#LIGHT_BLUE#Could not generate a base actor with filter: %s", "#LIGHT BLUE#No podría generar un actor de base con filtro:   PH0  ", "log")
+t("#LIGHT_BLUE#Bad data for random boss actor: %s", "#LIGHT BLUE#Bad data for random boss actor:   PH0  ", "log")
+t("#LIGHT_BLUE#Could not generate a base actor with data: %s", "#LIGHT BLUE#No podría generar un actor de base con datos:   PH0  ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26504,63 +26498,63 @@ section "mod-tome/mod/dialogs/debug/RandomObject.lua"
 
 -- new text
 --[==[
-t("#LIGHT_GREEN#(From %-10.60s, line: %s):#LAST#", "#LIGHT_GREEN#(From %-10.60s, line: %s):#LAST#", "tformat")
-t("unknown", "unknown", "_t")
-t("None", "None", "_t")
-t("Don't apply a resolver", "Don't apply a resolver", "_t")
-t("Equipment", "Equipment", "_t")
-t("Object will be equipped if possible, otherwise added to main inventory", "Object will be equipped if possible, otherwise added to main inventory", "_t")
-t("Inventory", "Inventory", "_t")
-t("Object added to main inventory", "Object added to main inventory", "_t")
-t("Drops", "Drops", "_t")
-t("Object added to main inventory (dropped on death)", "Object added to main inventory (dropped on death)", "_t")
+t("#LIGHT_GREEN#(From %-10.60s, line: %s):#LAST#", "#LIGHT GREEN#(De %-10.60s, line:   PH0   ):#", "tformat")
+t("unknown", "desconocida", "_t")
+t("None", "Ninguno", "_t")
+t("Don't apply a resolver", "No apliques una resolución", "_t")
+t("Equipment", "Equipo", "_t")
+t("Object will be equipped if possible, otherwise added to main inventory", "El objeto será equipado si es posible, de otro modo añadido al inventario principal", "_t")
+t("Inventory", "Inventario", "_t")
+t("Object added to main inventory", "Objeto añadido al inventario principal", "_t")
+t("Drops", "Caídas", "_t")
+t("Object added to main inventory (dropped on death)", "Objeto añadido al inventario principal (permitido a muerte)", "_t")
 t("Attach Tinker", "Attach Tinker", "_t")
-t("Tinker will be attached to a worn object", "Tinker will be attached to a worn object", "_t")
-t("Drop Randart (auto data)", "Drop Randart (auto data)", "_t")
-t("Random Artifact (dropped on death) added to main inventory, uses the Base Object or Base Filter plus Randart Data as input", "Random Artifact (dropped on death) added to main inventory, uses the Base Object or Base Filter plus Randart Data as input", "_t")
-t("Drop Randart", "Drop Randart", "_t")
-t("Random Artifact (dropped on death) added to main inventory", "Random Artifact (dropped on death) added to main inventory", "_t")
-t("DEBUG -- Create Random Object", "DEBUG -- Create Random Object", "_t")
-t("The #LIGHT_GREEN#Random Filter#LAST# controls random generation of a normal object.", "The #LIGHT_GREEN#Random Filter#LAST# controls random generation of a normal object.", "tformat")
+t("Tinker will be attached to a worn object", "Tinker se adjuntará a un objeto usado", "_t")
+t("Drop Randart (auto data)", "Drop Randart (datos automáticos)", "_t")
+t("Random Artifact (dropped on death) added to main inventory, uses the Base Object or Base Filter plus Randart Data as input", "Artifacto aleatorio (permitido en muerte) añadido al inventario principal, utiliza el Objeto Base o Filtro Base más Datos Randart como entrada", "_t")
+t("Drop Randart", "Randart de gota", "_t")
+t("Random Artifact (dropped on death) added to main inventory", "Artifacto aleatorio (permitido en muerte) añadido al inventario principal", "_t")
+t("DEBUG -- Create Random Object", "DEBUG -- Crear objetos aleatorios", "_t")
+t("The #LIGHT_GREEN#Random Filter#LAST# controls random generation of a normal object.", "El filtro #LIGHT GREEN#Random#LAST# controla la generación aleatoria de un objeto normal.", "tformat")
 t("#GREY#None#LAST#", "#GREY#None#LAST#", "_t")
-t("%s: %s", "%s: %s", "tformat")
-t("Object", "Object", "_t")
-t("Generate", "Generate", "_t")
-t("Add Object", "Add Object", "_t")
-t("Default Filter", "Default Filter", "_t")
-t("Clear Object", "Clear Object", "_t")
-t("#LIGHT_GREEN#Random Object#LAST#", "#LIGHT_GREEN#Random Object#LAST#", "_t")
-t("#LIGHT_GREEN#Random Filter:#LAST# ", "#LIGHT_GREEN#Random Filter:#LAST# ", "_t")
-t("The #LIGHT_BLUE#Base Filter#LAST# is to generate a base object for building a Randart.", "The #LIGHT_BLUE#Base Filter#LAST# is to generate a base object for building a Randart.", "tformat")
-t("#LIGHT_BLUE#Base Object#LAST#", "#LIGHT_BLUE#Base Object#LAST#", "_t")
-t("#LIGHT_BLUE#Base Filter:#LAST# ", "#LIGHT_BLUE#Base Filter:#LAST# ", "_t")
-t("#SALMON#Resolver selected:#LAST# ", "#SALMON#Resolver selected:#LAST# ", "tformat")
-t("An object resolver interprets additional filter fields to generate an object and determine where it will go.", "An object resolver interprets additional filter fields to generate an object and determine where it will go.", "_t")
-t("Dropdown text", "Dropdown text", "_t")
-t("No Tooltip", "No Tooltip", "_t")
-t("Use this selector to choose which resolver to use", "Use this selector to choose which resolver to use", "_t")
-t("Default Data", "Default Data", "_t")
-t("#ORANGE#Randart Data:#LAST# ", "#ORANGE#Randart Data:#LAST# ", "_t")
+t("%s: %s", " PH0     PH1 ", "tformat")
+t("Object", "Objeto", "_t")
+t("Generate", "Generar", "_t")
+t("Add Object", "Agregar objeto", "_t")
+t("Default Filter", "Filtro por defecto", "_t")
+t("Clear Object", "Objeto claro", "_t")
+t("#LIGHT_GREEN#Random Object#LAST#", "#LIGHT GREEN#Random Object#LAST#", "_t")
+t("#LIGHT_GREEN#Random Filter:#LAST# ", "#LIGHT GREEN #Random Filter:#", "_t")
+t("The #LIGHT_BLUE#Base Filter#LAST# is to generate a base object for building a Randart.", "El #LIGHT BLUE#Base Filter#LAST# es generar un objeto base para construir un Randart.", "tformat")
+t("#LIGHT_BLUE#Base Object#LAST#", "#LIGHT BLUE#Base Object#LAST#", "_t")
+t("#LIGHT_BLUE#Base Filter:#LAST# ", "#LIGHT BLUE#Base Filter:#LAST#", "_t")
+t("#SALMON#Resolver selected:#LAST# ", "#SALMON#Resolver seleccionado:#LAST#", "tformat")
+t("An object resolver interprets additional filter fields to generate an object and determine where it will go.", "Un solucionador de objetos interpreta campos de filtro adicionales para generar un objeto y determinar dónde irá.", "_t")
+t("Dropdown text", "Texto de la retirada", "_t")
+t("No Tooltip", "Sin necesidad de herramientas", "_t")
+t("Use this selector to choose which resolver to use", "Utilice este selector para elegir qué resolución utilizar", "_t")
+t("Default Data", "Datos predeterminados", "_t")
+t("#ORANGE#Randart Data:#LAST# ", "#ORANGE#Randart Data:#LAST#", "_t")
 t("#ORANGE#Randart#LAST#", "#ORANGE#Randart#LAST#", "_t")
-t("Show #GOLD#I#LAST#nventory", "Show #GOLD#I#LAST#nventory", "_t")
-t("Show #GOLD#C#LAST#haracter Sheet", "Show #GOLD#C#LAST#haracter Sheet", "_t")
-t("Set working actor: [%s] %s", "Set working actor: [%s] %s", "tformat")
-t("Set working actor: [%s] %s%s", "Set working actor: [%s] %s%s", "tformat")
-t(" #LIGHT_GREEN#(player)#LAST#", " #LIGHT_GREEN#(player)#LAST#", "_t")
+t("Show #GOLD#I#LAST#nventory", "Mostrar #GOLD#I#LAST#nventory", "_t")
+t("Show #GOLD#C#LAST#haracter Sheet", "Mostrar #GOLD#C#LAST#", "_t")
+t("Set working actor: [%s] %s", "Acto de trabajo:", "tformat")
+t("Set working actor: [%s] %s%s", "Acto de trabajo:", "tformat")
+t(" #LIGHT_GREEN#(player)#LAST#", "#LIGHT GREEN# (jugador)#", "_t")
 t("#GREY#No Tooltip to Display#LAST#", "#GREY#No Tooltip to Display#LAST#", "_t")
-t("Filter/Data/Resolver Reference", "Filter/Data/Resolver Reference", "_t")
-t("#LIGHT_BLUE#Lua Inspect [%s] %s", "#LIGHT_BLUE#Lua Inspect [%s] %s", "log")
-t("#LIGHT_BLUE#Nothing to Lua inspect", "#LIGHT_BLUE#Nothing to Lua inspect", "log")
-t("#LIGHT_BLUE#Bad %s: %s", "#LIGHT_BLUE#Bad %s: %s", "log")
-t("table definition", "table definition", "_t")
-t("#LIGHT_BLUE# Generate Random object using resolver: %s", "#LIGHT_BLUE# Generate Random object using resolver: %s", "log")
-t("#LIGHT_BLUE# New random%s object: %s", "#LIGHT_BLUE# New random%s object: %s", "log")
-t(" (resolver: %s)", " (resolver: %s)", "tformat")
-t("#LIGHT_BLUE#Could not generate a random object with filter: %s", "#LIGHT_BLUE#Could not generate a random object with filter: %s", "log")
-t("#LIGHT_BLUE#Could not generate a base object with filter: %s", "#LIGHT_BLUE#Could not generate a base object with filter: %s", "log")
-t("#LIGHT_BLUE#Could not generate a Randart with data: %s", "#LIGHT_BLUE#Could not generate a Randart with data: %s", "log")
-t("#LIGHT_BLUE#No object to add", "#LIGHT_BLUE#No object to add", "log")
-t("#LIGHT_BLUE#Working Actor set to [%s]%s at (%d, %d)", "#LIGHT_BLUE#Working Actor set to [%s]%s at (%d, %d)", "log")
+t("Filter/Data/Resolver Reference", "Filtro/Data/Resolver Referencia", "_t")
+t("#LIGHT_BLUE#Lua Inspect [%s] %s", "#LIGHT BLUE#Lua Inspect [  PH0   ]   PH1   ", "log")
+t("#LIGHT_BLUE#Nothing to Lua inspect", "#LIGHT BLUE# Nada a Lua inspeccionar", "log")
+t("#LIGHT_BLUE#Bad %s: %s", "#LIGHT BLUE#Bad   PH0      PH1  ", "log")
+t("table definition", "definición", "_t")
+t("#LIGHT_BLUE# Generate Random object using resolver: %s", "#LIGHT BLUE# Generar objeto aleatorio mediante resolución:   PH0  ", "log")
+t("#LIGHT_BLUE# New random%s object: %s", "#LIGHT BLUE# New random  PH0    object:   PH1  ", "log")
+t(" (resolver: %s)", "(resolver:   PH0  )", "tformat")
+t("#LIGHT_BLUE#Could not generate a random object with filter: %s", "#LIGHT BLUE#No puede generar un objeto aleatorio con filtro:   PH0  ", "log")
+t("#LIGHT_BLUE#Could not generate a base object with filter: %s", "#LIGHT BLUE#No puede generar un objeto base con filtro:   PH0  ", "log")
+t("#LIGHT_BLUE#Could not generate a Randart with data: %s", "#LIGHT BLUE#No podría generar un Randart con datos:   PH0  ", "log")
+t("#LIGHT_BLUE#No object to add", "#LIGHT BLUE#No hay objeto que añadir", "log")
+t("#LIGHT_BLUE#Working Actor set to [%s]%s at (%d, %d)", "#LIGHT BLUE#Working Actor set to [  PH0                                  ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26569,7 +26563,7 @@ section "mod-tome/mod/dialogs/debug/SpawnEvent.lua"
 
 -- new text
 --[==[
-t("DEBUG -- Spawn Event", "DEBUG -- Spawn Event", "_t")
+t("DEBUG -- Spawn Event", "DEBUG -- Evento de la cosecha", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26578,14 +26572,14 @@ section "mod-tome/mod/dialogs/debug/SummonCreature.lua"
 
 -- new text
 --[==[
-t("DEBUG -- Summon Creature", "DEBUG -- Summon Creature", "_t")
-t("#LIGHT_BLUE# no actor to place.", "#LIGHT_BLUE# no actor to place.", "log")
-t("#LIGHT_BLUE#Actor [%s]%s already occupies (%d, %d)", "#LIGHT_BLUE#Actor [%s]%s already occupies (%d, %d)", "log")
-t("#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "log")
+t("DEBUG -- Summon Creature", "DEBUG -- Cretura de limón", "_t")
+t("#LIGHT_BLUE# no actor to place.", "#LIGHT BLUE# no hay actor que colocar.", "log")
+t("#LIGHT_BLUE#Actor [%s]%s already occupies (%d, %d)", "#LIGHT BLUE#Actor [                                ", "log")
+t("#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "#LIGHT BLUE#Added   PH0                                      ", "log")
 t("#YELLOW#Random Actor#LAST#", "#YELLOW#Random Actor#LAST#", "_t")
 t("#PINK#Test Dummy#LAST#", "#PINK#Test Dummy#LAST#", "_t")
-t("Test Dummy", "Test Dummy", "_t")
-t("Test dummy.", "Test dummy.", "_t")
+t("Test Dummy", "Prueba Dummy", "_t")
+t("Test dummy.", "Prueba de tonto.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26594,7 +26588,7 @@ section "mod-tome/mod/dialogs/elements/ChatPortrait.lua"
 
 -- new text
 --[==[
-t("???", "???", "_t")
+t("???", "??", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26603,11 +26597,11 @@ section "mod-tome/mod/dialogs/orders/Behavior.lua"
 
 -- new text
 --[==[
-t("Set behavior: %s", "Set behavior: %s", "tformat")
-t("%s behavior set to %s.", "%s behavior set to %s.", "logPlayer")
+t("Set behavior: %s", "Comportamiento de conjunto:   PH0  ", "tformat")
+t("%s behavior set to %s.", " PH0   Comportamiento establecido para   PH1   .", "logPlayer")
 t("Default", "Default", "_t")
 t("Melee", "Melee", "_t")
-t("Ranged", "Ranged", "_t")
+t("Ranged", "Rango", "_t")
 t("Tank", "Tank", "_t")
 t("Standby", "Standby", "_t")
 --]==]
@@ -26618,12 +26612,12 @@ section "mod-tome/mod/dialogs/orders/Talents.lua"
 
 -- new text
 --[==[
-t("Define tactical talents usage", "Define tactical talents usage", "_t")
+t("Define tactical talents usage", "Definir el uso de talentos tácticos", "_t")
 t("", "", "_t")
-t("Talent Name", "Talent Name", "_t")
-t("Weight", "Weight", "_t")
-t("Enter the talent weight multiplier", "Enter the talent weight multiplier", "_t")
-t("0 is off, 1 is normal", "0 is off, 1 is normal", "_t")
+t("Talent Name", "Nombre de talento", "_t")
+t("Weight", "Peso", "_t")
+t("Enter the talent weight multiplier", "Introduzca el multiplicador de peso de talento", "_t")
+t("0 is off, 1 is normal", "0 está apagado, 1 es normal", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26632,12 +26626,12 @@ section "mod-tome/mod/dialogs/shimmer/CommonData.lua"
 
 -- new text
 --[==[
-t("Character's Skin", "Character's Skin", "_t")
-t("Character's Hair", "Character's Hair", "_t")
-t("Character's Facial Features", "Character's Facial Features", "_t")
-t("Character's Aura", "Character's Aura", "_t")
-t("unknown", "unknown", "_t")
-t("#GREY#Invisible#LAST#", "#GREY#Invisible#LAST#", "_t")
+t("Character's Skin", "La piel del personaje", "_t")
+t("Character's Hair", "Pelo de carácter", "_t")
+t("Character's Facial Features", "Características faciales del personaje", "_t")
+t("Character's Aura", "Personaje Aura", "_t")
+t("unknown", "desconocida", "_t")
+t("#GREY#Invisible#LAST#", "#GREY#Invisible#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26646,17 +26640,17 @@ section "mod-tome/mod/dialogs/shimmer/Shimmer.lua"
 
 -- new text
 --[==[
-t("Shimmer object: %s", "Shimmer object: %s", "tformat")
-t("Search: ", "Search: ", "_t")
-t("Name", "Name", "_t")
+t("Shimmer object: %s", "Objeto Shimmer:   PH0  ", "tformat")
+t("Search: ", "Buscar:", "_t")
+t("Name", "Nombre", "_t")
 t("\
 #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "\
 #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
 t("Donator Cosmetic Feature", "Donator Cosmetic Feature", "_t")
-t("This cosmetic feature is only available to donators/buyers.", "This cosmetic feature is only available to donators/buyers.", "_t")
+t("This cosmetic feature is only available to donators/buyers.", "Esta característica cosmética sólo está disponible para donadores / compradores.", "_t")
 t("shimmer ingame", "shimmer ingame", "_t")
 t("Donate", "Donate", "_t")
-t("Cancel", "Cancel", "_t")
+t("Cancel", "Cancelar", "_t")
 t("#GREY#[Invisible]", "#GREY#[Invisible]", "_t")
 --]==]
 
@@ -26676,17 +26670,17 @@ section "mod-tome/mod/dialogs/shimmer/ShimmerOther.lua"
 
 -- new text
 --[==[
-t("Shimmer: %s", "Shimmer: %s", "tformat")
-t("Search: ", "Search: ", "_t")
-t("Name", "Name", "_t")
+t("Shimmer: %s", "Shimmer:", "tformat")
+t("Search: ", "Buscar:", "_t")
+t("Name", "Nombre", "_t")
 t("\
 #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "\
 #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
 t("Donator Cosmetic Feature", "Donator Cosmetic Feature", "_t")
-t("This cosmetic feature is only available to donators/buyers.", "This cosmetic feature is only available to donators/buyers.", "_t")
+t("This cosmetic feature is only available to donators/buyers.", "Esta característica cosmética sólo está disponible para donadores / compradores.", "_t")
 t("shimmer ingame", "shimmer ingame", "_t")
 t("Donate", "Donate", "_t")
-t("Cancel", "Cancel", "_t")
+t("Cancel", "Cancelar", "_t")
 t("#GREY#[Default]", "#GREY#[Default]", "_t")
 --]==]
 
@@ -26696,16 +26690,16 @@ section "mod-tome/mod/dialogs/shimmer/ShimmerOutfits.lua"
 
 -- new text
 --[==[
-t("Shimmer Sets: %s", "Shimmer Sets: %s", "tformat")
-t("Search: ", "Search: ", "_t")
-t("Name", "Name", "_t")
-t("Save Outfit", "Save Outfit", "_t")
-t("Outfit name?", "Outfit name?", "_t")
+t("Shimmer Sets: %s", "Shimmer Sets:   PH0  ", "tformat")
+t("Search: ", "Buscar:", "_t")
+t("Name", "Nombre", "_t")
+t("Save Outfit", "Saldo", "_t")
+t("Outfit name?", "¿Nombre de salida?", "_t")
 t("Donator Cosmetic Feature", "Donator Cosmetic Feature", "_t")
-t("This cosmetic feature is only available to donators/buyers.", "This cosmetic feature is only available to donators/buyers.", "_t")
+t("This cosmetic feature is only available to donators/buyers.", "Esta característica cosmética sólo está disponible para donadores / compradores.", "_t")
 t("shimmer ingame", "shimmer ingame", "_t")
 t("Donate", "Donate", "_t")
-t("Cancel", "Cancel", "_t")
+t("Cancel", "Cancelar", "_t")
 t("#GOLD#[save current outfit]", "#GOLD#[save current outfit]", "_t")
 --]==]
 
@@ -26716,18 +26710,18 @@ section "mod-tome/mod/dialogs/shimmer/ShimmerRemoveSustains.lua"
 -- new text
 --[==[
 t("Shimmer: Remove Sustains Effects", "Shimmer: Remove Sustains Effects", "_t")
-t("Name", "Name", "_t")
-t("Active", "Active", "_t")
+t("Name", "Nombre", "_t")
+t("Active", "Activo", "_t")
 t("\
 #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "\
 #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
 t("Donator Cosmetic Feature", "Donator Cosmetic Feature", "_t")
-t("This cosmetic feature is only available to donators/buyers.", "This cosmetic feature is only available to donators/buyers.", "_t")
+t("This cosmetic feature is only available to donators/buyers.", "Esta característica cosmética sólo está disponible para donadores / compradores.", "_t")
 t("shimmer ingame", "shimmer ingame", "_t")
 t("Donate", "Donate", "_t")
-t("Cancel", "Cancel", "_t")
-t("#LIGHT_RED#no", "#LIGHT_RED#no", "_t")
-t("#LIGHT_GREEN#yes", "#LIGHT_GREEN#yes", "_t")
+t("Cancel", "Cancelar", "_t")
+t("#LIGHT_RED#no", "#LIGHT RED #no", "_t")
+t("#LIGHT_GREEN#yes", "#LIGHT GREEN#yes", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26736,11 +26730,11 @@ section "mod-tome/mod/dialogs/talents/ChronomancyContingency.lua"
 
 -- new text
 --[==[
-t("Contingency", "Contingency", "_t")
+t("Contingency", "Contingencia", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("#{bold}#Choose a talent#{normal}#", "#{bold}#Choose a talent#{normal}#", "_t")
-t("All talents that can be used with Contingency.", "All talents that can be used with Contingency.", "_t")
+t("Talent", "Talento", "_t")
+t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")
+t("All talents that can be used with Contingency.", "Todos los talentos que se pueden utilizar con Contingencia.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26751,9 +26745,9 @@ section "mod-tome/mod/dialogs/talents/ChronomancyEmpower.lua"
 --[==[
 t("Empower", "Empower", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("#{bold}#Choose a talent#{normal}#", "#{bold}#Choose a talent#{normal}#", "_t")
-t("All talents that can be used with Empower.", "All talents that can be used with Empower.", "_t")
+t("Talent", "Talento", "_t")
+t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")
+t("All talents that can be used with Empower.", "Todos los talentos que se pueden utilizar con Empower.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26762,11 +26756,11 @@ section "mod-tome/mod/dialogs/talents/ChronomancyExtension.lua"
 
 -- new text
 --[==[
-t("Extension", "Extension", "_t")
+t("Extension", "Extensión", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("#{bold}#Choose a talent#{normal}#", "#{bold}#Choose a talent#{normal}#", "_t")
-t("All talents that can be used with Extension.", "All talents that can be used with Extension.", "_t")
+t("Talent", "Talento", "_t")
+t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")
+t("All talents that can be used with Extension.", "Todos los talentos que se pueden utilizar con Extension.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26775,11 +26769,11 @@ section "mod-tome/mod/dialogs/talents/ChronomancyMatrix.lua"
 
 -- new text
 --[==[
-t("Matrix", "Matrix", "_t")
+t("Matrix", "Matriz", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("#{bold}#Choose a talent#{normal}#", "#{bold}#Choose a talent#{normal}#", "_t")
-t("All talents that can be used with Matrix.", "All talents that can be used with Matrix.", "_t")
+t("Talent", "Talento", "_t")
+t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")
+t("All talents that can be used with Matrix.", "Todos los talentos que se pueden utilizar con Matrix.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26790,9 +26784,9 @@ section "mod-tome/mod/dialogs/talents/ChronomancyQuicken.lua"
 --[==[
 t("Quicken", "Quicken", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("#{bold}#Choose a talent#{normal}#", "#{bold}#Choose a talent#{normal}#", "_t")
-t("All talents that can be used with Quicken.", "All talents that can be used with Quicken.", "_t")
+t("Talent", "Talento", "_t")
+t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")
+t("All talents that can be used with Quicken.", "Todos los talentos que se pueden utilizar con Quicken.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26803,11 +26797,11 @@ section "mod-tome/mod/dialogs/talents/MagicalCombatArcaneCombat.lua"
 --[==[
 t("Arcane Combat", "Arcane Combat", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("Random spells", "Random spells", "_t")
-t("Each time Arcane Combat is triggered, a random allowed spell will be used.", "Each time Arcane Combat is triggered, a random allowed spell will be used.", "_t")
-t("#{bold}#Choose a spell#{normal}#", "#{bold}#Choose a spell#{normal}#", "_t")
-t("All known spells that can be used with Arcane Combat.", "All known spells that can be used with Arcane Combat.", "_t")
+t("Talent", "Talento", "_t")
+t("Random spells", "Deletreos aleatorios", "_t")
+t("Each time Arcane Combat is triggered, a random allowed spell will be used.", "Cada vez que se activa Arcane Combat, se utilizará un hechizo permitido al azar.", "_t")
+t("#{bold}#Choose a spell#{normal}#", "Escoge un hechizo", "_t")
+t("All known spells that can be used with Arcane Combat.", "Todos los hechizos conocidos que se pueden utilizar con Arcane Combat.", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26816,9 +26810,9 @@ section "mod-tome/mod/ai/escort.lua"
 
 -- new text
 --[==[
-t("Help!", "Help!", "_t")
-t(" %s to the %s!", " %s to the %s!", "tformat")
-t("Something", "Something", "_t")
+t("Help!", "¡Ayuda!", "_t")
+t(" %s to the %s!", " PH0   al   PH1   !", "tformat")
+t("Something", "Algo", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26827,16 +26821,16 @@ section "mod-tome/mod/ai/improved_tactical.lua"
 
 -- new text
 --[==[
-t("#ORCHID#%s wants escape(move) %0.2f (air: %s = %0.2f) on %s (%d, %d, air:%s = %s turns)", "#ORCHID#%s wants escape(move) %0.2f (air: %s = %0.2f) on %s (%d, %d, air:%s = %s turns)", "log")
-t("#ORCHID#%s wants escape(move) %0.2f (heal) in %s at(%d, %d) dam %d vs %d avail life)", "#ORCHID#%s wants escape(move) %0.2f (heal) in %s at(%d, %d) dam %d vs %d avail life)", "log")
-t("#GREY#__%s[%d] tactical AI: NO USEFUL ACTIONS", "#GREY#__%s[%d] tactical AI: NO USEFUL ACTIONS", "log")
-t("#GREY#%3d: %-40s score=%-+4.2f[Lx%-5.2f Sx%5.2f Mx%0.2f] (%s)", "#GREY#%3d: %-40s score=%-+4.2f[Lx%-5.2f Sx%5.2f Mx%0.2f] (%s)", "log")
-t("%s__%s[%d] tactical AI picked action[att:%d, turn %s]: (%s)%s {%-+4.2f [%s]}", "%s__%s[%d] tactical AI picked action[att:%d, turn %s]: (%s)%s {%-+4.2f [%s]}", "log")
-t("#GREY#__[%d]%s ACTION SUCCEEDED:  %s, tacs: %s, FT:%s", "#GREY#__[%d]%s ACTION SUCCEEDED:  %s, tacs: %s, FT:%s", "log")
-t("__[%d]%s #ORANGE# ACTION FAILED:  %s, FT:%s", "__[%d]%s #ORANGE# ACTION FAILED:  %s, FT:%s", "log")
-t("__[%d]%s #SLATE# tactical AI: NO ACTION, best: %s, %s", "__[%d]%s #SLATE# tactical AI: NO ACTION, best: %s, %s", "log")
-t("%s__turn %d: Invoking improved tactical AI for [%s]%s(%d,%d) target:[%s]%s %s", "%s__turn %d: Invoking improved tactical AI for [%s]%s(%d,%d) target:[%s]%s %s", "log")
-t("#ROYAL_BLUE#---talents disabled---", "#ROYAL_BLUE#---talents disabled---", "log")
+t("#ORCHID#%s wants escape(move) %0.2f (air: %s = %0.2f) on %s (%d, %d, air:%s = %s turns)", "#ORCHID# PH0    quiere escapar (move)   PH1    (air:   PH2   =   PH3                                                ", "log")
+t("#ORCHID#%s wants escape(move) %0.2f (heal) in %s at(%d, %d) dam %d vs %d avail life)", "#ORCHID#  PH0    quiere escapar(move)   PH1     (heal) in   PH2    at(                                                                      ", "log")
+t("#GREY#__%s[%d] tactical AI: NO USEFUL ACTIONS", "#GREY#                                                                 ", "log")
+t("#GREY#%3d: %-40s score=%-+4.2f[Lx%-5.2f Sx%5.2f Mx%0.2f] (%s)", "#GREY# PH0  :%-40s score=%-+4.2f[Lx%-5.2f Sx   PH1                                                                                                                                                                                                                           ", "log")
+t("%s__%s[%d] tactical AI picked action[att:%d, turn %s]: (%s)%s {%-+4.2f [%s]}", " PH0                                                                         ", "log")
+t("#GREY#__[%d]%s ACTION SUCCEEDED:  %s, tacs: %s, FT:%s", "#GREY#                                                                                                                                                                                                                                                           ", "log")
+t("__[%d]%s #ORANGE# ACTION FAILED:  %s, FT:%s", "                                  ", "log")
+t("__[%d]%s #SLATE# tactical AI: NO ACTION, best: %s, %s", "                 #SLATE# tactical AI: NO ACTION, best:   PH2   ,   PH3  ", "log")
+t("%s__turn %d: Invoking improved tactical AI for [%s]%s(%d,%d) target:[%s]%s %s", " PH0                                                                            ", "log")
+t("#ROYAL_BLUE#---talents disabled---", "#ROYAL BLUE#---talentes discapacitados---", "log")
 --]==]
 
 ------------------------------------------------
@@ -26845,7 +26839,7 @@ section "mod-tome/mod/ai/improved_talented.lua"
 
 -- new text
 --[==[
-t("%s__turn %d: Invoking improved_talented_simple AI for [%s]%s(%d,%d) target:[%s]%s %s", "%s__turn %d: Invoking improved_talented_simple AI for [%s]%s(%d,%d) target:[%s]%s %s", "log")
+t("%s__turn %d: Invoking improved_talented_simple AI for [%s]%s(%d,%d) target:[%s]%s %s", " PH0    turn   PH1   : Invoking improved talented simple AI for [   PH2                                                                                                                                                                                                                            ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26854,8 +26848,8 @@ section "mod-tome/mod/ai/maintenance.lua"
 
 -- new text
 --[==[
-t("#ORCHID#__%s[%d]maintenance AI picked action: %s (%s)", "#ORCHID#__%s[%d]maintenance AI picked action: %s (%s)", "log")
-t("__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "log")
+t("#ORCHID#__%s[%d]maintenance AI picked action: %s (%s)", "#ORCHID#                                             ", "log")
+t("__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "                #ORANGE# maintenance ACTION FAILED:   PH2  ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26864,8 +26858,8 @@ section "mod-tome/mod/ai/quests.lua"
 
 -- new text
 --[==[
-t("Protect Limmir from the demons coming from north-east. Hold them off!", "Protect Limmir from the demons coming from north-east. Hold them off!", "_t")
-t("This place is corrupted! I will cleanse it! Protect me while I do it!", "This place is corrupted! I will cleanse it! Protect me while I do it!", "_t")
+t("Protect Limmir from the demons coming from north-east. Hold them off!", "Protege a Limmir de los demonios que vienen del noreste. ¡Sosténganlos!", "_t")
+t("This place is corrupted! I will cleanse it! Protect me while I do it!", "¡Este lugar está dañado! ¡Lo limpiaré! ¡Protégeme mientras lo hago!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -26874,7 +26868,7 @@ section "mod-tome/mod/ai/sandworm_tunneler.lua"
 
 -- new text
 --[==[
-t("#OLIVE_DRAB#The %s burrows into the ground and disappears.", "#OLIVE_DRAB#The %s burrows into the ground and disappears.", "logSeen")
+t("#OLIVE_DRAB#The %s burrows into the ground and disappears.", "#OLIVE DRAB#The   PH0     se mete en el suelo y desaparece.", "logSeen")
 --]==]
 
 ------------------------------------------------
@@ -26883,7 +26877,7 @@ section "mod-tome/mod/ai/shadow.lua"
 
 -- new text
 --[==[
-t("#PINK#%s returns to the shadows.", "#PINK#%s returns to the shadows.", "logPlayer")
+t("#PINK#%s returns to the shadows.", "Vuelve a las sombras.", "logPlayer")
 --]==]
 
 ------------------------------------------------
@@ -26892,10 +26886,10 @@ section "mod-tome/mod/ai/special_movements.lua"
 
 -- new text
 --[==[
-t("__%s #GREY# (%d, %d) trying to move to a safe grid", "__%s #GREY# (%d, %d) trying to move to a safe grid", "log")
-t("#GREY#___Trying existing path to (%s, %s)", "#GREY#___Trying existing path to (%s, %s)", "log")
-t("#GREY#___Using new path to (%s, %s)", "#GREY#___Using new path to (%s, %s)", "log")
-t("__%s #GREY# (%d, %d) trying to flee_dmap_keep_los to (%d, %d)", "__%s #GREY# (%d, %d) trying to flee_dmap_keep_los to (%d, %d)", "log")
+t("__%s #GREY# (%d, %d) trying to move to a safe grid", "                                         ", "log")
+t("#GREY#___Trying existing path to (%s, %s)", "#GREY#   Tratando el camino existente a (  PH0   ,   PH1   )", "log")
+t("#GREY#___Using new path to (%s, %s)", "#GREY#   Using new path to (  PH0   ,   PH1   )", "log")
+t("__%s #GREY# (%d, %d) trying to flee_dmap_keep_los to (%d, %d)", "                                                      ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26904,7 +26898,7 @@ section "mod-tome/mod/ai/tactical.lua"
 
 -- new text
 --[==[
-t("%s__turn %d: Invoking old tactical AI for [%s]%s(%d,%d) target:[%s]%s %s", "%s__turn %d: Invoking old tactical AI for [%s]%s(%d,%d) target:[%s]%s %s", "log")
+t("%s__turn %d: Invoking old tactical AI for [%s]%s(%d,%d) target:[%s]%s %s", " PH0                                                                            ", "log")
 --]==]
 
 ------------------------------------------------
@@ -26913,7 +26907,7 @@ section "mod-tome/mod/ai/target.lua"
 
 -- new text
 --[==[
-t("#RED# [%s]%s #ORANGE#CLEARING OLD TARGET#LAST#: [%s]%s", "#RED# [%s]%s #ORANGE#CLEARING OLD TARGET#LAST#: [%s]%s", "log")
+t("#RED# [%s]%s #ORANGE#CLEARING OLD TARGET#LAST#: [%s]%s", "#RED# [  PH0  ]   PH1   ################################################################################################################################################################################################################################################################", "log")
 --]==]
 
 ------------------------------------------------
@@ -28766,7 +28760,7 @@ section "mod-tome/data/texts/unlock-adventurer.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Adventurer", "New Class: #LIGHT_GREEN#Adventurer", "_t")
+t("New Class: #LIGHT_GREEN#Adventurer", "Nueva clase: #LIGHT GREEN#Adventurer", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28775,7 +28769,7 @@ section "mod-tome/data/texts/unlock-afflicted_cursed.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Cursed (Afflicted)", "New Class: #LIGHT_GREEN#Cursed (Afflicted)", "_t")
+t("New Class: #LIGHT_GREEN#Cursed (Afflicted)", "Nueva clase: #LIGHT GREEN#Cursed (Afligido)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28784,7 +28778,7 @@ section "mod-tome/data/texts/unlock-afflicted_doomed.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Doomed (Afflicted)", "New Class: #LIGHT_GREEN#Doomed (Afflicted)", "_t")
+t("New Class: #LIGHT_GREEN#Doomed (Afflicted)", "New Class: #LIGHT GREEN#Doomed (Afligido)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28793,7 +28787,7 @@ section "mod-tome/data/texts/unlock-birth_transmo_chest.lua"
 
 -- new text
 --[==[
-t("New birth equipment: #LIGHT_GREEN#Transmogrification Chest", "New birth equipment: #LIGHT_GREEN#Transmogrification Chest", "_t")
+t("New birth equipment: #LIGHT_GREEN#Transmogrification Chest", "Nuevo equipo de nacimiento: #LIGHT GREEN#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28802,7 +28796,7 @@ section "mod-tome/data/texts/unlock-birth_zigur_sacrifice.lua"
 
 -- new text
 --[==[
-t("New birth power: #LIGHT_GREEN#Ziguranth Sacrifice", "New birth power: #LIGHT_GREEN#Ziguranth Sacrifice", "_t")
+t("New birth power: #LIGHT_GREEN#Ziguranth Sacrifice", "Nuevo poder de nacimiento: #LIGHT GREEN#Ziguranth Sacrifice", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28811,7 +28805,7 @@ section "mod-tome/data/texts/unlock-campaign_arena.lua"
 
 -- new text
 --[==[
-t("New game campaign: #LIGHT_GREEN#The Arena: Challenge of the Master", "New game campaign: #LIGHT_GREEN#The Arena: Challenge of the Master", "_t")
+t("New game campaign: #LIGHT_GREEN#The Arena: Challenge of the Master", "Nueva campaña de juego: #LIGHT GREEN#The Arena: Challenge of the Master", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28820,7 +28814,7 @@ section "mod-tome/data/texts/unlock-campaign_infinite_dungeon.lua"
 
 -- new text
 --[==[
-t("New game campaign: #LIGHT_GREEN#Infinite Dungeon: The Neverending Descent", "New game campaign: #LIGHT_GREEN#Infinite Dungeon: The Neverending Descent", "_t")
+t("New game campaign: #LIGHT_GREEN#Infinite Dungeon: The Neverending Descent", "Nueva campaña de juego: #LIGHT GREEN#Infinite Dungeon: The Neverending Descent", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28829,7 +28823,7 @@ section "mod-tome/data/texts/unlock-chronomancer_paradox_mage.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Paradox Mage (Chronomancer)", "New Class: #LIGHT_GREEN#Paradox Mage (Chronomancer)", "_t")
+t("New Class: #LIGHT_GREEN#Paradox Mage (Chronomancer)", "New Class: #LIGHT GREEN#Paradox Mage (Chronomancer)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28838,7 +28832,7 @@ section "mod-tome/data/texts/unlock-chronomancer_temporal_warden.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Temporal Warden (Chronomancer)", "New Class: #LIGHT_GREEN#Temporal Warden (Chronomancer)", "_t")
+t("New Class: #LIGHT_GREEN#Temporal Warden (Chronomancer)", "New Class: #LIGHT GREEN#Temporal Warden (Chronomancer)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28847,7 +28841,7 @@ section "mod-tome/data/texts/unlock-corrupter_corruptor.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Corruptor (Defiler)", "New Class: #LIGHT_GREEN#Corruptor (Defiler)", "_t")
+t("New Class: #LIGHT_GREEN#Corruptor (Defiler)", "Nueva clase: #LIGHT GREEN#Corruptor (Defiler)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28856,7 +28850,7 @@ section "mod-tome/data/texts/unlock-corrupter_reaver.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Reaver (Defiler)", "New Class: #LIGHT_GREEN#Reaver (Defiler)", "_t")
+t("New Class: #LIGHT_GREEN#Reaver (Defiler)", "Nueva clase: #LIGHT GREEN#Reaver (Defiler)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28865,7 +28859,7 @@ section "mod-tome/data/texts/unlock-cosmetic_bikini.lua"
 
 -- new text
 --[==[
-t("New Cosmetic Option: #LIGHT_GREEN#Bikini and Mankini", "New Cosmetic Option: #LIGHT_GREEN#Bikini and Mankini", "_t")
+t("New Cosmetic Option: #LIGHT_GREEN#Bikini and Mankini", "Nueva opción cosmética: #LIGHT GREEN#Bikini y Mankini", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28874,7 +28868,7 @@ section "mod-tome/data/texts/unlock-cosmetic_class_alchemist_drolem.lua"
 
 -- new text
 --[==[
-t("New Class Option: #LIGHT_GREEN#Drolem", "New Class Option: #LIGHT_GREEN#Drolem", "_t")
+t("New Class Option: #LIGHT_GREEN#Drolem", "Nueva opción de clase: #LIGHT GREEN#Drolem", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28883,7 +28877,7 @@ section "mod-tome/data/texts/unlock-cosmetic_race_dwarf_female_beard.lua"
 
 -- new text
 --[==[
-t("New Cosmetic Race Option: #LIGHT_GREEN#Facial Pilosity for Female Dwarves", "New Cosmetic Race Option: #LIGHT_GREEN#Facial Pilosity for Female Dwarves", "_t")
+t("New Cosmetic Race Option: #LIGHT_GREEN#Facial Pilosity for Female Dwarves", "Nueva opción de carrera cosmética: #LIGHT GREEN# Pilosidad facial para enanos femeninos", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28892,7 +28886,7 @@ section "mod-tome/data/texts/unlock-cosmetic_race_human_redhead.lua"
 
 -- new text
 --[==[
-t("New Cosmetic Race Option: #LIGHT_GREEN#Redhead Characters", "New Cosmetic Race Option: #LIGHT_GREEN#Redhead Characters", "_t")
+t("New Cosmetic Race Option: #LIGHT_GREEN#Redhead Characters", "Nueva opción de carrera cosmética: #LIGHT GREEN#Características", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28901,7 +28895,7 @@ section "mod-tome/data/texts/unlock-difficulty_insane.lua"
 
 -- new text
 --[==[
-t("New game difficulty mode: #LIGHT_GREEN#Insane", "New game difficulty mode: #LIGHT_GREEN#Insane", "_t")
+t("New game difficulty mode: #LIGHT_GREEN#Insane", "Nuevo modo de dificultad de juego: #LIGHT GREEN#Insane", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28910,7 +28904,7 @@ section "mod-tome/data/texts/unlock-difficulty_madness.lua"
 
 -- new text
 --[==[
-t("New game difficulty mode: #LIGHT_GREEN#Madness", "New game difficulty mode: #LIGHT_GREEN#Madness", "_t")
+t("New game difficulty mode: #LIGHT_GREEN#Madness", "Nuevo modo de dificultad de juego: #LIGHT GREEN#Madness", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28919,7 +28913,7 @@ section "mod-tome/data/texts/unlock-divine_anorithil.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Anorithil (Celestial)", "New Class: #LIGHT_GREEN#Anorithil (Celestial)", "_t")
+t("New Class: #LIGHT_GREEN#Anorithil (Celestial)", "Nueva clase: #LIGHT GREEN#Anorithil (Celestial)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28928,7 +28922,7 @@ section "mod-tome/data/texts/unlock-divine_sun_paladin.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Sun Paladin (Celestial)", "New Class: #LIGHT_GREEN#Sun Paladin (Celestial)", "_t")
+t("New Class: #LIGHT_GREEN#Sun Paladin (Celestial)", "Nueva clase: #LIGHT GREEN#Sun Paladin (Celestial)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28937,7 +28931,7 @@ section "mod-tome/data/texts/unlock-mage.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Archmage", "New Class: #LIGHT_GREEN#Archmage", "_t")
+t("New Class: #LIGHT_GREEN#Archmage", "Nueva clase: #LIGHT GREEN#Archmage", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28946,7 +28940,7 @@ section "mod-tome/data/texts/unlock-mage_cryomancer.lua"
 
 -- new text
 --[==[
-t("New Talent Category: #LIGHT_GREEN#Ice", "New Talent Category: #LIGHT_GREEN#Ice", "_t")
+t("New Talent Category: #LIGHT_GREEN#Ice", "Nuevo talento Categoría: #LIGHT GREEN#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28955,7 +28949,7 @@ section "mod-tome/data/texts/unlock-mage_geomancer.lua"
 
 -- new text
 --[==[
-t("New Talent Category: #LIGHT_GREEN#Stone", "New Talent Category: #LIGHT_GREEN#Stone", "_t")
+t("New Talent Category: #LIGHT_GREEN#Stone", "Nuevo talento Categoría: #LIGHT GREEN#Stone", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28964,7 +28958,7 @@ section "mod-tome/data/texts/unlock-mage_necromancer.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Necromancer", "New Class: #LIGHT_GREEN#Necromancer", "_t")
+t("New Class: #LIGHT_GREEN#Necromancer", "Nueva clase: #LIGHT GREEN#Necromancer", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28973,7 +28967,7 @@ section "mod-tome/data/texts/unlock-mage_pyromancer.lua"
 
 -- new text
 --[==[
-t("New Talent Category: #LIGHT_GREEN#Wildfire", "New Talent Category: #LIGHT_GREEN#Wildfire", "_t")
+t("New Talent Category: #LIGHT_GREEN#Wildfire", "Nueva categoría de talentos: #LIGHT GREEN#", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28982,7 +28976,7 @@ section "mod-tome/data/texts/unlock-mage_tempest.lua"
 
 -- new text
 --[==[
-t("New Talent Category: #LIGHT_GREEN#Storm", "New Talent Category: #LIGHT_GREEN#Storm", "_t")
+t("New Talent Category: #LIGHT_GREEN#Storm", "Nuevo talento Categoría: #LIGHT GREEN#Storm", "_t")
 --]==]
 
 ------------------------------------------------
@@ -28991,7 +28985,7 @@ section "mod-tome/data/texts/unlock-mage_thaumaturgist.lua"
 
 -- new text
 --[==[
-t("New Class Evolution: #LIGHT_GREEN#High Thaumaturgist (Archmage)", "New Class Evolution: #LIGHT_GREEN#High Thaumaturgist (Archmage)", "_t")
+t("New Class Evolution: #LIGHT_GREEN#High Thaumaturgist (Archmage)", "Nueva evolución de clase: #LIGHT GREEN#High Thaumaturgist (Archmage)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29000,7 +28994,7 @@ section "mod-tome/data/texts/unlock-paladin_avatar.lua"
 
 -- new text
 --[==[
-t("New Class Evolution: #LIGHT_GREEN#Avatar of a Distant Sun (Sun Paladin)", "New Class Evolution: #LIGHT_GREEN#Avatar of a Distant Sun (Sun Paladin)", "_t")
+t("New Class Evolution: #LIGHT_GREEN#Avatar of a Distant Sun (Sun Paladin)", "Evolución de Nueva Clase: #LIGHT GREEN#Avatar de un Sol Distante (Sun Paladin)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29009,7 +29003,7 @@ section "mod-tome/data/texts/unlock-paladin_fallen.lua"
 
 -- new text
 --[==[
-t("New Class Evolution: #LIGHT_GREEN#Fallen (Sun Paladin)", "New Class Evolution: #LIGHT_GREEN#Fallen (Sun Paladin)", "_t")
+t("New Class Evolution: #LIGHT_GREEN#Fallen (Sun Paladin)", "Nueva evolución de clase: #LIGHT GREEN#Fallen (Sun Paladin)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29018,7 +29012,7 @@ section "mod-tome/data/texts/unlock-psionic_mindslayer.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Mindslayer (Psionic)", "New Class: #LIGHT_GREEN#Mindslayer (Psionic)", "_t")
+t("New Class: #LIGHT_GREEN#Mindslayer (Psionic)", "Nueva clase: #LIGHT GREEN#Mindslayer (Psionic)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29027,7 +29021,7 @@ section "mod-tome/data/texts/unlock-psionic_solipsist.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Solipsist (Psionic)", "New Class: #LIGHT_GREEN#Solipsist (Psionic)", "_t")
+t("New Class: #LIGHT_GREEN#Solipsist (Psionic)", "Nueva clase: #LIGHT GREEN#Solipsist (Psionic)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29036,7 +29030,7 @@ section "mod-tome/data/texts/unlock-race_ogre.lua"
 
 -- new text
 --[==[
-t("New Race: #LIGHT_GREEN#Ogre", "New Race: #LIGHT_GREEN#Ogre", "_t")
+t("New Race: #LIGHT_GREEN#Ogre", "Nueva carrera: #LIGHT GREEN#Ogre", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29045,7 +29039,7 @@ section "mod-tome/data/texts/unlock-rogue_marauder.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Marauder (Rogue)", "New Class: #LIGHT_GREEN#Marauder (Rogue)", "_t")
+t("New Class: #LIGHT_GREEN#Marauder (Rogue)", "Nueva clase: #LIGHT GREEN#Marauder (Rogue)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29054,7 +29048,7 @@ section "mod-tome/data/texts/unlock-rogue_poisons.lua"
 
 -- new text
 --[==[
-t("New Talent Category: #LIGHT_GREEN#Poisons", "New Talent Category: #LIGHT_GREEN#Poisons", "_t")
+t("New Talent Category: #LIGHT_GREEN#Poisons", "Nuevo talento Categoría: #LIGHT GREEN#Poisons", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29063,7 +29057,7 @@ section "mod-tome/data/texts/unlock-rogue_skirmisher.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Skirmisher (Rogue)", "New Class: #LIGHT_GREEN#Skirmisher (Rogue)", "_t")
+t("New Class: #LIGHT_GREEN#Skirmisher (Rogue)", "Nueva clase: #LIGHT GREEN#Skirmisher (Rogue)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29072,7 +29066,7 @@ section "mod-tome/data/texts/unlock-undead_ghoul.lua"
 
 -- new text
 --[==[
-t("New Race: #LIGHT_GREEN#Ghoul (Undead)", "New Race: #LIGHT_GREEN#Ghoul (Undead)", "_t")
+t("New Race: #LIGHT_GREEN#Ghoul (Undead)", "Nueva carrera: #LIGHT GREEN#Ghoul (Undead)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29081,7 +29075,7 @@ section "mod-tome/data/texts/unlock-undead_skeleton.lua"
 
 -- new text
 --[==[
-t("New Race: #LIGHT_GREEN#Skeleton (Undead)", "New Race: #LIGHT_GREEN#Skeleton (Undead)", "_t")
+t("New Race: #LIGHT_GREEN#Skeleton (Undead)", "Nueva carrera: #LIGHT GREEN#Skeleton (Undead)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29090,7 +29084,7 @@ section "mod-tome/data/texts/unlock-wanderer.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Wanderer", "New Class: #LIGHT_GREEN#Wanderer", "_t")
+t("New Class: #LIGHT_GREEN#Wanderer", "Nueva clase: #LIGHT GREEN#Wanderer", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29099,7 +29093,7 @@ section "mod-tome/data/texts/unlock-warrior_brawler.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Brawler (Warrior)", "New Class: #LIGHT_GREEN#Brawler (Warrior)", "_t")
+t("New Class: #LIGHT_GREEN#Brawler (Warrior)", "Nueva clase: #LIGHT GREEN#Brawler (Warrior)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29108,7 +29102,7 @@ section "mod-tome/data/texts/unlock-wilder_oozemancer.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Oozemancer (Wilder)", "New Class: #LIGHT_GREEN#Oozemancer (Wilder)", "_t")
+t("New Class: #LIGHT_GREEN#Oozemancer (Wilder)", "Nueva clase: #LIGHT GREEN#Oozemancer (Wilder)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29117,7 +29111,7 @@ section "mod-tome/data/texts/unlock-wilder_stone_warden.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Stone Warden (Wilder)", "New Class: #LIGHT_GREEN#Stone Warden (Wilder)", "_t")
+t("New Class: #LIGHT_GREEN#Stone Warden (Wilder)", "Nueva clase: #LIGHT GREEN#Stone Warden (Wilder)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29126,7 +29120,7 @@ section "mod-tome/data/texts/unlock-wilder_summoner.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Summoner (Wilder)", "New Class: #LIGHT_GREEN#Summoner (Wilder)", "_t")
+t("New Class: #LIGHT_GREEN#Summoner (Wilder)", "Nueva clase: #LIGHT GREEN#Summoner (Wilder)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29135,7 +29129,7 @@ section "mod-tome/data/texts/unlock-wilder_wyrmic.lua"
 
 -- new text
 --[==[
-t("New Class: #LIGHT_GREEN#Wyrmic (Wilder)", "New Class: #LIGHT_GREEN#Wyrmic (Wilder)", "_t")
+t("New Class: #LIGHT_GREEN#Wyrmic (Wilder)", "Nueva clase: #LIGHT GREEN#Wyrmic (Wilder)", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29144,7 +29138,7 @@ section "mod-tome/data/texts/unlock-yeek.lua"
 
 -- new text
 --[==[
-t("New Race: #LIGHT_GREEN#Yeek", "New Race: #LIGHT_GREEN#Yeek", "_t")
+t("New Race: #LIGHT_GREEN#Yeek", "Nueva carrera: #LIGHT GREEN #Yeek", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29153,39 +29147,39 @@ section "mod-tome/data/keybinds/tome.lua"
 
 -- new text
 --[==[
-t("Show character sheet (player)", "Show character sheet (player)", "_t")
-t("Show character sheet (actor @ cursor)", "Show character sheet (actor @ cursor)", "_t")
-t("Select controlled character", "Select controlled character", "_t")
-t("Switch control to character 1", "Switch control to character 1", "_t")
-t("Switch control to character 2", "Switch control to character 2", "_t")
-t("Switch control to character 3", "Switch control to character 3", "_t")
-t("Switch control to character 4", "Switch control to character 4", "_t")
-t("Switch control to character 5", "Switch control to character 5", "_t")
-t("Switch control to character 6", "Switch control to character 6", "_t")
-t("Switch control to character 7", "Switch control to character 7", "_t")
-t("Switch control to character 8", "Switch control to character 8", "_t")
-t("Give order to character 1", "Give order to character 1", "_t")
-t("Give order to character 2", "Give order to character 2", "_t")
-t("Give order to character 3", "Give order to character 3", "_t")
-t("Give order to character 4", "Give order to character 4", "_t")
-t("Give order to character 5", "Give order to character 5", "_t")
-t("Give order to character 6", "Give order to character 6", "_t")
-t("Give order to character 7", "Give order to character 7", "_t")
-t("Give order to character 8", "Give order to character 8", "_t")
-t("Toggle movement mode", "Toggle movement mode", "_t")
-t("Attack left", "Attack left", "_t")
-t("Attack right", "Attack right", "_t")
-t("Attack up", "Attack up", "_t")
-t("Attack down", "Attack down", "_t")
-t("Attack diagonally left and up", "Attack diagonally left and up", "_t")
-t("Attack diagonally right and up", "Attack diagonally right and up", "_t")
-t("Attack diagonally left and down", "Attack diagonally left and down", "_t")
-t("Attack diagonally right and down", "Attack diagonally right and down", "_t")
+t("Show character sheet (player)", "Mostrar ficha de caracteres (jugador)", "_t")
+t("Show character sheet (actor @ cursor)", "Mostrar la hoja de caracteres (actor @ cursor)", "_t")
+t("Select controlled character", "Seleccione el carácter controlado", "_t")
+t("Switch control to character 1", "Control de conmutación al personaje 1", "_t")
+t("Switch control to character 2", "Control de conmutación al personaje 2", "_t")
+t("Switch control to character 3", "Control de conmutación al personaje 3", "_t")
+t("Switch control to character 4", "Control de conmutación al personaje 4", "_t")
+t("Switch control to character 5", "Control de conmutación al personaje 5", "_t")
+t("Switch control to character 6", "Control de conmutación al personaje 6", "_t")
+t("Switch control to character 7", "Control de conmutación al personaje 7", "_t")
+t("Switch control to character 8", "Control de conmutación al personaje 8", "_t")
+t("Give order to character 1", "Dar orden al personaje 1", "_t")
+t("Give order to character 2", "Dar orden al personaje 2", "_t")
+t("Give order to character 3", "Dar orden al personaje 3", "_t")
+t("Give order to character 4", "Dar orden al personaje 4", "_t")
+t("Give order to character 5", "Dar orden al personaje 5", "_t")
+t("Give order to character 6", "Dar orden al personaje 6", "_t")
+t("Give order to character 7", "Dar orden al personaje 7", "_t")
+t("Give order to character 8", "Dar orden al personaje 8", "_t")
+t("Toggle movement mode", "Modo de movimiento", "_t")
+t("Attack left", "Ataque izquierdo", "_t")
+t("Attack right", "Ataque derecho", "_t")
+t("Attack up", "Ataque", "_t")
+t("Attack down", "Ataque", "_t")
+t("Attack diagonally left and up", "Ataque diagonal izquierda y arriba", "_t")
+t("Attack diagonally right and up", "Ataque diagonalmente derecho y arriba", "_t")
+t("Attack diagonally left and down", "Ataque diagonal izquierda y abajo", "_t")
+t("Attack diagonally right and down", "Ataque diagonalmente derecho y abajo", "_t")
 t("Toggle UI display", "Toggle UI display", "_t")
-t("Locks tooltip in place", "Locks tooltip in place", "_t")
-t("Locks tooltip in place while comparing items", "Locks tooltip in place while comparing items", "_t")
-t("Toggle automatic talent usage", "Toggle automatic talent usage", "_t")
-t("Toggle automatic accept target option", "Toggle automatic accept target option", "_t")
+t("Locks tooltip in place", "Cerraduras herramientatip en el lugar", "_t")
+t("Locks tooltip in place while comparing items", "Cierre el alcance de la herramienta en su lugar al comparar los elementos", "_t")
+t("Toggle automatic talent usage", "Toggle uso de talento automático", "_t")
+t("Toggle automatic accept target option", "Toggle automatic accept target opción", "_t")
 --]==]
 
 ------------------------------------------------
@@ -29195,9 +29189,9 @@ section "mod-tome/data/factions.lua"
 -- new text
 --[==[
 t("Neutral", "Neutral", "faction name")
-t("Unaligned", "Unaligned", "faction name")
+t("Unaligned", "Incumplido", "faction name")
 t("Merchant Caravan", "Merchant Caravan", "faction name")
-t("Point Zero Onslaught", "Point Zero Onslaught", "faction name")
+t("Point Zero Onslaught", "Punto Zero Onslaught", "faction name")
 t("Point Zero Guardians", "Point Zero Guardians", "faction name")
 --]==]
 
@@ -29207,7 +29201,7 @@ section "mod-tome/data/rooms/greater_vault.lua"
 
 -- new text
 --[==[
-t("#GOLD#PLACED GREATER VAULT: %s", "#GOLD#PLACED GREATER VAULT: %s", "log")
+t("#GOLD#PLACED GREATER VAULT: %s", "GREATER VAULT:", "log")
 --]==]
 
 ------------------------------------------------
@@ -29216,7 +29210,7 @@ section "mod-tome/data/rooms/lesser_vault.lua"
 
 -- new text
 --[==[
-t("#GOLD#PLACED LESSER VAULT: %s", "#GOLD#PLACED LESSER VAULT: %s", "log")
+t("#GOLD#PLACED LESSER VAULT: %s", "#GOLD#PLACED LESSER VAULT:   PH0 ", "log")
 --]==]
 
 ------------------------------------------------
@@ -29228,13 +29222,13 @@ section "mod-tome/data/calendar_allied.lua"
 t("Wintertide", "Wintertide", "calendar allied")
 t("Allure", "Allure", "calendar allied")
 t("Regrowth", "Regrowth", "calendar allied")
-t("Time of Balance", "Time of Balance", "calendar allied")
+t("Time of Balance", "Tiempo de equilibrio", "calendar allied")
 t("Pyre", "Pyre", "calendar allied")
 t("Mirth", "Mirth", "calendar allied")
 t("Summertide", "Summertide", "calendar allied")
 t("Flare", "Flare", "calendar allied")
 t("Dusk", "Dusk", "calendar allied")
-t("Time of Equilibrium", "Time of Equilibrium", "calendar allied")
+t("Time of Equilibrium", "Tiempo de Equilibrio", "calendar allied")
 t("Haze", "Haze", "calendar allied")
 t("Decay", "Decay", "calendar allied")
 --]==]
@@ -29246,15 +29240,15 @@ section "mod-tome/data/calendar_dwarf.lua"
 -- new text
 --[==[
 t("Iron", "Iron", "calendar dwarf")
-t("Steel", "Steel", "calendar dwarf")
-t("Gold", "Gold", "calendar dwarf")
+t("Steel", "Acero", "calendar dwarf")
+t("Gold", "Oro", "calendar dwarf")
 t("Stralite", "Stralite", "calendar dwarf")
 t("Voratun", "Voratun", "calendar dwarf")
-t("Acquisition", "Acquisition", "calendar dwarf")
+t("Acquisition", "Adquisición", "calendar dwarf")
 t("Profit", "Profit", "calendar dwarf")
-t("Wealth", "Wealth", "calendar dwarf")
-t("Dearth", "Dearth", "calendar dwarf")
-t("Loss", "Loss", "calendar dwarf")
+t("Wealth", "La riqueza", "calendar dwarf")
+t("Dearth", "Querida", "calendar dwarf")
+t("Loss", "Pérdida", "calendar dwarf")
 t("Shortage", "Shortage", "calendar dwarf")
 --]==]
 
@@ -29265,5 +29259,5 @@ section "mod-tome/data/wda/eyal.lua"
 -- new text
 --[==[
 t("Maj'Eyal", "Maj'Eyal", "_t")
-t("Far East", "Far East", "_t")
+t("Far East", "Lejano Oriente", "_t")
 --]==]

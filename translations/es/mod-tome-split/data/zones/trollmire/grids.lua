@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dirt road", "dirt road", "entity name")
-t("wall", "wall", "entity type")
-t("grass", "grass", "entity subtype")
-t("troll stew", "troll stew", "entity name")
-t("water", "water", "entity subtype")
-t("tree", "tree", "entity name")
-t("bog water", "bog water", "entity name")
+t("dirt road", "carretera de tierra", "entity name")
+t("wall", "pared", "entity type")
+t("grass", "hierba", "entity subtype")
+t("troll stew", "guiso de troll", "entity name")
+t("water", "agua", "entity subtype")
+t("tree", "árbol", "entity name")
+t("bog water", "agua potable", "entity name")
 

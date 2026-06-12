@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("You collect a new ingredient: #LIGHT_GREEN#%s%s#WHITE#.", "You collect a new ingredient: #LIGHT_GREEN#%s%s#WHITE#.", "log")
-t("You collect a new ingredient: #LIGHT_GREEN#%s%s (%d)#WHITE#.", "You collect a new ingredient: #LIGHT_GREEN#%s%s (%d)#WHITE#.", "log")
+t("You collect a new ingredient: #LIGHT_GREEN#%s%s#WHITE#.", "Recopilas un nuevo ingrediente: #LIGHT GREEN# PH0     PH1    WHITE#.", "log")
+t("You collect a new ingredient: #LIGHT_GREEN#%s%s (%d)#WHITE#.", "Recopila un nuevo ingrediente: #LIGHT GREEN# PH0                                                                                                                                                                                                                                             .", "log")
 

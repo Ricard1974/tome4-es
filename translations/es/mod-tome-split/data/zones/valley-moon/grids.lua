@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("moonstone", "moonstone", "entity name")
-t("floor", "floor", "entity type")
-t("grass", "grass", "entity subtype")
-t("Fearscape Portal", "Fearscape Portal", "entity name")
-t("An invocation portal, perpetually summoning beings through it.", "An invocation portal, perpetually summoning beings through it.", "_t")
+t("moonstone", "piedra lunar", "entity name")
+t("floor", "planta baja", "entity type")
+t("grass", "hierba", "entity subtype")
+t("Fearscape Portal", "Portal de Miedo", "entity name")
+t("An invocation portal, perpetually summoning beings through it.", "Un portal de invocación, convocando perpetuamente a los seres a través de él.", "_t")
 

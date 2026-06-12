@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("god", "god", "entity type")
-t("eyal", "eyal", "entity subtype")
-t("Gerlyk, the Creator", "Gerlyk, the Creator", "entity name")
+t("god", "dios", "entity type")
+t("eyal", "Eyal", "entity subtype")
+t("Gerlyk, the Creator", "Gerlyk, el Creador", "entity name")
 

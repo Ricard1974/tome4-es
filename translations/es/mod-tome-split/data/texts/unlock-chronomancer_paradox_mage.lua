@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Paradox Mage (Chronomancer)", "New Class: #LIGHT_GREEN#Paradox Mage (Chronomancer)", "_t")
+t("New Class: #LIGHT_GREEN#Paradox Mage (Chronomancer)", "New Class: #LIGHT GREEN#Paradox Mage (Chronomancer)", "_t")
 

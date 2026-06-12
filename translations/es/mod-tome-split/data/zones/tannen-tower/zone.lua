@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Tannen's Tower", "Tannen's Tower", "_t")
-t("The portal brought you to what seems to be a cell in the basement of the tower. You must escape!", "The portal brought you to what seems to be a cell in the basement of the tower. You must escape!", "_t")
+t("Tannen's Tower", "Torre de Tannen", "_t")
+t("The portal brought you to what seems to be a cell in the basement of the tower. You must escape!", "El portal te trajo a lo que parece ser una célula en el sótano de la torre. ¡Debes escapar!", "_t")
 

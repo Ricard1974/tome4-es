@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Unknown tunnels", "Unknown tunnels", "_t")
+t("Unknown tunnels", "Túneles desconocidos", "_t")
 

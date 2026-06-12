@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class Evolution: #LIGHT_GREEN#High Thaumaturgist (Archmage)", "New Class Evolution: #LIGHT_GREEN#High Thaumaturgist (Archmage)", "_t")
+t("New Class Evolution: #LIGHT_GREEN#High Thaumaturgist (Archmage)", "Nueva evolución de clase: #LIGHT GREEN#High Thaumaturgist (Archmage)", "_t")
 

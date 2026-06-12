@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Matrix", "Matrix", "_t")
+t("Matrix", "Matriz", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("#{bold}#Choose a talent#{normal}#", "#{bold}#Choose a talent#{normal}#", "_t")
-t("All talents that can be used with Matrix.", "All talents that can be used with Matrix.", "_t")
+t("Talent", "Talento", "_t")
+t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")
+t("All talents that can be used with Matrix.", "Todos los talentos que se pueden utilizar con Matrix.", "_t")
 

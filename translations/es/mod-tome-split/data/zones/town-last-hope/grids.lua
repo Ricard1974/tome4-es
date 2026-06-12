@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("old road", "old road", "entity name")
-t("Farportal: Gates of Morning", "Farportal: Gates of Morning", "entity name")
-t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in sight of the Gates of Morning, with no trace of the portal...", "#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in sight of the Gates of Morning, with no trace of the portal...", "_t")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("old road", "antigua carretera", "entity name")
+t("Farportal: Gates of Morning", "Farportal: Puertas de la mañana", "entity name")
+t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in sight of the Gates of Morning, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos pones un pie a la vista de las puertas de la mañana, sin rastro del portal...", "_t")
 

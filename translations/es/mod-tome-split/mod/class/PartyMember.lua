@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Behavior: %s", "Behavior: %s", "tformat")
-t("default", "default", "_t")
-t("Action radius: %d", "Action radius: %d", "tformat")
+t("Behavior: %s", "Comportamiento:", "tformat")
+t("default", "por defecto", "_t")
+t("Action radius: %d", "Radio de acción:   PH0  ", "tformat")
 

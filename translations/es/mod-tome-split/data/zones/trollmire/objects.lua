@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("tattered paper scrap", "tattered paper scrap", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
+t("tattered paper scrap", "pedazo de papel tattered", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
 

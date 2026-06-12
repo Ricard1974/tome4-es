@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Limmir the Jeweler", "Limmir the Jeweler", "_t")
+t("Limmir the Jeweler", "Limmir el joyero", "_t")
 t("Melnela", "Melnela", "_t")
 

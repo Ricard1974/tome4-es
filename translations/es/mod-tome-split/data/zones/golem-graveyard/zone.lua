@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Golem Graveyard", "Golem Graveyard", "_t")
+t("Golem Graveyard", "Cementerio de Golem", "_t")
 

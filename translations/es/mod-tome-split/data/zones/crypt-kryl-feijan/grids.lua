@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("sealed door", "sealed door", "entity name")
-t("demonic symbol", "demonic symbol", "entity name")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("sealed door", "puerta sellada", "entity name")
+t("demonic symbol", "símbolo demoníaco", "entity name")
 t("altar", "altar", "entity name")
 

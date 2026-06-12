@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("thalore", "thalore", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
 t("thalore hunter", "thalore hunter", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
 t("thalore wilder", "thalore wilder", "entity name")
-t("A tall elf, his skin covered in green moss.", "A tall elf, his skin covered in green moss.", "_t")
+t("A tall elf, his skin covered in green moss.", "Un elfo alto, su piel cubierta de musgo verde.", "_t")
 

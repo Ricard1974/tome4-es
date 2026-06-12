@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("wall", "wall", "entity type")
-t("water", "water", "entity subtype")
-t("tree", "tree", "entity name")
-t("bog water", "bog water", "entity name")
-t("coral portal", "coral portal", "entity name")
-t("#VIOLET#The portal is already broken!", "#VIOLET#The portal is already broken!", "log")
-t("destroying the portal", "destroying the portal", "_t")
-t("destroyed the portal", "destroyed the portal", "_t")
-t("#VIOLET#The portal starts to break down, run!", "#VIOLET#The portal starts to break down, run!", "log")
+t("wall", "pared", "entity type")
+t("water", "agua", "entity subtype")
+t("tree", "árbol", "entity name")
+t("bog water", "agua potable", "entity name")
+t("coral portal", "portal de coral", "entity name")
+t("#VIOLET#The portal is already broken!", "¡El portal ya está roto!", "log")
+t("destroying the portal", "destruir el portal", "_t")
+t("destroyed the portal", "destruido el portal", "_t")
+t("#VIOLET#The portal starts to break down, run!", "#VIOLET #El portal comienza a desmoronarse, corre!", "log")
 

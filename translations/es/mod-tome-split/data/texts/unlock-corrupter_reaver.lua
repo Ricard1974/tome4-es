@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Reaver (Defiler)", "New Class: #LIGHT_GREEN#Reaver (Defiler)", "_t")
+t("New Class: #LIGHT_GREEN#Reaver (Defiler)", "Nueva clase: #LIGHT GREEN#Reaver (Defiler)", "_t")
 

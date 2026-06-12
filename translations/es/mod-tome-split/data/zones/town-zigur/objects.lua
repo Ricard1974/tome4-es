@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("the great evil", "the great evil", "entity subtype")
-t("The Great Evil", "The Great Evil", "entity name")
-t("History of the horrors of magic.", "History of the horrors of magic.", "_t")
+t("the great evil", "el gran mal", "entity subtype")
+t("The Great Evil", "El Gran Mal", "entity name")
+t("History of the horrors of magic.", "Historia de los horrores de la magia.", "_t")
 

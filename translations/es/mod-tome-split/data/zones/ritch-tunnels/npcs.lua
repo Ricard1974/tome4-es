@@ -4,12 +4,12 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("insect", "insect", "entity type")
+t("insect", "insectos", "entity type")
 t("ritch", "ritch", "entity subtype")
-t(", who incubated her eggs in the corpse,", ", who incubated her eggs in the corpse,", "_t")
-t("ritch flamespitter", "ritch flamespitter", "entity name")
+t(", who incubated her eggs in the corpse,", ", que incubaron sus huevos en el cuerpo,", "_t")
+t("ritch flamespitter", "gritch flamespitter", "entity name")
 t("ritch impaler", "ritch impaler", "entity name")
-t("chitinous ritch", "chitinous ritch", "entity name")
-t("Ritch Great Hive Mother", "Ritch Great Hive Mother", "entity name")
-t("This huge ritch seems to be the mother of all those here. Her sharp, fiery, claws dart toward you!", "This huge ritch seems to be the mother of all those here. Her sharp, fiery, claws dart toward you!", "_t")
+t("chitinous ritch", "chitín", "entity name")
+t("Ritch Great Hive Mother", "Gran Hive madre", "entity name")
+t("This huge ritch seems to be the mother of all those here. Her sharp, fiery, claws dart toward you!", "Este enorme ritch parece ser la madre de todos esos aquí. ¡Su fuerte, ardiente, garras se atrevieron hacia ti!", "_t")
 

@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#Source# burns #Target#!", "#Source# burns #Target#!", "logCombat")
+t("#Source# burns #Target#!", "¡#Source# quema a #Target#!", "logCombat")
 t("#Source# heals #Target#!", "#Source# heals #Target#!", "logCombat")
 

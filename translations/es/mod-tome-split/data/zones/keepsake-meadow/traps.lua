@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("event", "event", "entity type")
-t("event", "event", "entity subtype")
-t("creeping darkness", "creeping darkness", "entity name")
-t("trap", "trap", "_t")
-t("A creeping darkness spreads through the air!", "A creeping darkness spreads through the air!", "_t")
-t("summon shadow", "summon shadow", "entity name")
-t("A shadow traces across the floor.", "A shadow traces across the floor.", "_t")
+t("event", "evento", "entity type")
+t("event", "evento", "entity subtype")
+t("creeping darkness", "oscuridad", "entity name")
+t("trap", "trampa", "_t")
+t("A creeping darkness spreads through the air!", "¡Una oscuridad espeluznante se extiende por el aire!", "_t")
+t("summon shadow", "llamada sombra", "entity name")
+t("A shadow traces across the floor.", "Una sombra rastrea el suelo.", "_t")
 

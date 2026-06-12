@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Epoch's Curve", "Epoch's Curve", "entity name")
-t("white ash longbow", "white ash longbow", "_t")
+t("Epoch's Curve", "Curva de la época", "entity name")
+t("white ash longbow", "de ceniza blanca longbow", "_t")
 

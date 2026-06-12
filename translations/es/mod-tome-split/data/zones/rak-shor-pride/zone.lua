@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Rak'shor Pride", "Rak'shor Pride", "_t")
+t("Rak'shor Pride", "Pride del caballo de Rak", "_t")
 

@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("DEBUG -- Alter Faction", "DEBUG -- Alter Faction", "_t")
-t("Alter: %s", "Alter: %s", "tformat")
-t("Alter to which state:", "Alter to which state:", "_t")
-t("friendly", "friendly", "_t")
+t("Alter: %s", "Alter:", "tformat")
+t("Alter to which state:", "Alter a qué estado:", "_t")
+t("friendly", "amigable", "_t")
 t("neutral", "neutral", "_t")
-t("hostile", "hostile", "_t")
+t("hostile", "hostil", "_t")
 

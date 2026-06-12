@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Resonating Diamond", "Resonating Diamond", "entity name")
+t("Resonating Diamond", "Diamante resonante", "entity name")
 

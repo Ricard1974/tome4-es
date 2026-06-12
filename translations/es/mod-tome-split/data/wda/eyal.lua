@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Maj'Eyal", "Maj'Eyal", "_t")
-t("Far East", "Far East", "_t")
+t("Far East", "Lejano Oriente", "_t")
 

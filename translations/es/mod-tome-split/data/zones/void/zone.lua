@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Void between worlds", "Void between worlds", "_t")
+t("Void between worlds", "Vacío entre mundos", "_t")
 

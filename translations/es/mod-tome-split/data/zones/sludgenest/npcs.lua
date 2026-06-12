@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("giant", "giant", "entity type")
-t("troll", "troll", "entity subtype")
-t("Corrupted Oozemancer", "Corrupted Oozemancer", "entity name")
-t("This blight-ridden troll was once a proud defender of Nature. His corruption is spreading, eating away at the forest around him.", "This blight-ridden troll was once a proud defender of Nature. His corruption is spreading, eating away at the forest around him.", "_t")
-t("and dissolved into acidic ooze", "and dissolved into acidic ooze", "_t")
+t("giant", "gigante", "entity type")
+t("troll", "trol", "entity subtype")
+t("Corrupted Oozemancer", "Oozemancer corrupto", "entity name")
+t("This blight-ridden troll was once a proud defender of Nature. His corruption is spreading, eating away at the forest around him.", "Este trol lleno de luz fue una vez un orgulloso defensor de la Naturaleza. Su corrupción se está propagando, comiendo en el bosque que le rodea.", "_t")
+t("and dissolved into acidic ooze", "y disuelto en ooze ácido", "_t")
 

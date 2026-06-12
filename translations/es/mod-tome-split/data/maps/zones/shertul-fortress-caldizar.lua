@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Control Room", "Control Room", "_t")
+t("Control Room", "Sala de control", "_t")
 t("Exploratory Farportal", "Exploratory Farportal", "_t")
 

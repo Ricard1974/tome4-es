@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Moss covered statue", "Moss covered statue", "_t")
+t("Moss covered statue", "Estatua cubierta de Moss", "_t")
 

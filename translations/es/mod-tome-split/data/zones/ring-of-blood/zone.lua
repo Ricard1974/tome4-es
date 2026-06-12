@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ring of Blood", "Ring of Blood", "_t")
-t("Slavers Compound (%d)", "Slavers Compound (%d)", "tformat")
+t("Ring of Blood", "Anillo de sangre", "_t")
+t("Slavers Compound (%d)", "Esclavistas compuestos (  PH0  )", "tformat")
 

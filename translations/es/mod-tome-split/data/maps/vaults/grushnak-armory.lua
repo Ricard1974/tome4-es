@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("#rng# the Archer", "#rng# the Archer", "_t")
-t("Warbear #rng#", "Warbear #rng#", "_t")
+t("Warbear #rng#", "Warbear", "_t")
 t("Elite Combat Trainer #rng#", "Elite Combat Trainer #rng#", "_t")
 

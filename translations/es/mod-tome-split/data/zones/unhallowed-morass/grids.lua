@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Temporal Rift", "Temporal Rift", "entity name")
-t("The rift leads to another part of the morass.", "The rift leads to another part of the morass.", "_t")
-t("Point Zero", "Point Zero", "_t")
-t("wall", "wall", "entity type")
-t("rift", "rift", "entity subtype")
-t("crack in spacetime", "crack in spacetime", "entity name")
+t("Temporal Rift", "Robo temporal", "entity name")
+t("The rift leads to another part of the morass.", "El grifo conduce a otra parte de la morsa.", "_t")
+t("Point Zero", "Punto Cero", "_t")
+t("wall", "pared", "entity type")
+t("rift", "grieta", "entity subtype")
+t("crack in spacetime", "grieta en el espacio-tiempo", "entity name")
 

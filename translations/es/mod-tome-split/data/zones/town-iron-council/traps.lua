@@ -11,6 +11,6 @@ t("Sword smith", "Sword smith", "entity name")
 t("Axe smith", "Axe smith", "entity name")
 t("Mace smith", "Mace smith", "entity name")
 t("Runemaster", "Runemaster", "entity name")
-t("Jewelry", "Jewelry", "entity name")
+t("Jewelry", "Joyería", "entity name")
 t("Delver's Delights", "Delver's Delights", "entity name")
 

@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("", "", "_t")
-t("Inventory", "Inventory", "_t")
-t("Category", "Category", "_t")
-t("Price", "Price", "_t")
+t("Inventory", "Inventario", "_t")
+t("Category", "Categoría", "_t")
+t("Price", "Precio", "_t")
 t("Store", "Store", "_t")
-t(" (pays up to %0.2f gold, Your Gold: %0.2f)", " (pays up to %0.2f gold, Your Gold: %0.2f)", "tformat")
+t(" (pays up to %0.2f gold, Your Gold: %0.2f)", "(paga hasta   PH0    oro, tu oro:   PH1   )", "tformat")
 

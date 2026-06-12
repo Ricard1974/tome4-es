@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Mark of the Spellblaze", "Mark of the Spellblaze", "_t")
+t("Mark of the Spellblaze", "Marca del Spellblaze", "_t")
 

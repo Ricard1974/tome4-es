@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Projectile: ", "Projectile: ", "_t")
-t("Origin: ", "Origin: ", "_t")
-t("Speed: %d%% %s", "Speed: %d%% %s", "tformat")
-t("Affect origin chance: ", "Affect origin chance: ", "_t")
-t("Affect origin's friends chance: ", "Affect origin's friends chance: ", "_t")
-t("UID: ", "UID: ", "_t")
-t("Coords: ", "Coords: ", "_t")
-t(" homing: %s(%s, %s)", " homing: %s(%s, %s)", "tformat")
-t(" range: ", " range: ", "_t")
-t("projectile", "projectile", "_t")
-t("%s's %s", "%s's %s", "tformat")
+t("Projectile: ", "Projectile:", "_t")
+t("Origin: ", "Origen:", "_t")
+t("Speed: %d%% %s", "Velocidad", "tformat")
+t("Affect origin chance: ", "Posibilidad de origen afectado:", "_t")
+t("Affect origin's friends chance: ", "Los amigos de origen afectan la oportunidad:", "_t")
+t("UID: ", "UID:", "_t")
+t("Coords: ", "Coords:", "_t")
+t(" homing: %s(%s, %s)", "homing:   PH0         ,   PH2   )", "tformat")
+t(" range: ", "rango:", "_t")
+t("projectile", "proyecto", "_t")
+t("%s's %s", " PH0    ", "tformat")
 

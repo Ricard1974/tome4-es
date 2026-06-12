@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("__%s #GREY# (%d, %d) trying to move to a safe grid", "__%s #GREY# (%d, %d) trying to move to a safe grid", "log")
-t("#GREY#___Trying existing path to (%s, %s)", "#GREY#___Trying existing path to (%s, %s)", "log")
-t("#GREY#___Using new path to (%s, %s)", "#GREY#___Using new path to (%s, %s)", "log")
-t("__%s #GREY# (%d, %d) trying to flee_dmap_keep_los to (%d, %d)", "__%s #GREY# (%d, %d) trying to flee_dmap_keep_los to (%d, %d)", "log")
+t("__%s #GREY# (%d, %d) trying to move to a safe grid", "                                         ", "log")
+t("#GREY#___Trying existing path to (%s, %s)", "#GREY#   Tratando el camino existente a (  PH0   ,   PH1   )", "log")
+t("#GREY#___Using new path to (%s, %s)", "#GREY#   Using new path to (  PH0   ,   PH1   )", "log")
+t("__%s #GREY# (%d, %d) trying to flee_dmap_keep_los to (%d, %d)", "                                                      ", "log")
 

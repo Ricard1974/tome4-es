@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("Grand Corruptor", "Grand Corruptor", "entity name")
-t("An Elven corruptor, drawn to these blighted lands.", "An Elven corruptor, drawn to these blighted lands.", "_t")
+t("An Elven corruptor, drawn to these blighted lands.", "Un corruptor Elven, atraído a estas tierras desoladas.", "_t")
 t("Protector Myssil", "Protector Myssil", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("A Halfling Ziguranth, clad in dark steel plates. She is the current leader of Zigur.", "A Halfling Ziguranth, clad in dark steel plates. She is the current leader of Zigur.", "_t")
+t("halfling", "mediador", "entity subtype")
+t("A Halfling Ziguranth, clad in dark steel plates. She is the current leader of Zigur.", "Un medio Ziguranth, revestido en placas de acero oscuro. Ella es la líder actual de Zigur.", "_t")
 

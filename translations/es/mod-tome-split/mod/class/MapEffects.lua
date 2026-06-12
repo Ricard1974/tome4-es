@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t(" area effect", " area effect", "_t")
-t("area effect", "area effect", "_t")
-t("%s's %s", "%s's %s", "tformat")
+t(" area effect", "efecto de la zona", "_t")
+t("area effect", "efecto de la zona", "_t")
+t("%s's %s", " PH0    ", "tformat")
 

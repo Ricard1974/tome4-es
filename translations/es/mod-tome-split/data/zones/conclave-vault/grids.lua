@@ -4,12 +4,12 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("wall", "wall", "entity name")
-t("body remains", "body remains", "entity name")
-t("bone pile", "bone pile", "entity name")
-t("infusion rack", "infusion rack", "entity name")
-t("operating table", "operating table", "entity name")
-t("broken vat", "broken vat", "entity name")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("wall", "pared", "entity name")
+t("body remains", "restos corporales", "entity name")
+t("bone pile", "pila de hueso", "entity name")
+t("infusion rack", "de infusión", "entity name")
+t("operating table", "mesa de operaciones", "entity name")
+t("broken vat", "vatio roto", "entity name")
 

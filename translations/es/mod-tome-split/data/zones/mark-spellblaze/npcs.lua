@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Grand Corruptor", "Grand Corruptor", "entity name")
-t("An Elven corruptor, drawn to these blighted lands.", "An Elven corruptor, drawn to these blighted lands.", "_t")
+t("An Elven corruptor, drawn to these blighted lands.", "Un corruptor Elven, atraído a estas tierras desoladas.", "_t")
 

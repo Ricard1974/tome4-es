@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Help!", "Help!", "_t")
-t(" %s to the %s!", " %s to the %s!", "tformat")
-t("Something", "Something", "_t")
+t("Help!", "¡Ayuda!", "_t")
+t(" %s to the %s!", " PH0   al   PH1   !", "tformat")
+t("Something", "Algo", "_t")
 

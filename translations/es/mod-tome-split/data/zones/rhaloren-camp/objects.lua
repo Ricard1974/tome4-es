@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("letter", "letter", "entity name")
-t("A letter.", "A letter.", "_t")
-t("a carefully preserved letter", "a carefully preserved letter", "entity name")
+t("letter", "carta", "entity name")
+t("A letter.", "Una carta.", "_t")
+t("a carefully preserved letter", "una carta cuidadosamente conservada", "entity name")
 

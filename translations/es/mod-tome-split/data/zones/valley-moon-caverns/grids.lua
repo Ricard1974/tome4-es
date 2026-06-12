@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("exit to the lost valley", "exit to the lost valley", "entity name")
+t("exit to the lost valley", "salida al valle perdido", "entity name")
 

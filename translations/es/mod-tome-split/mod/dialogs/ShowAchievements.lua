@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("-- Unknown --", "-- Unknown --", "_t")
+t("-- Unknown --", "-- Desconocido --", "_t")
 

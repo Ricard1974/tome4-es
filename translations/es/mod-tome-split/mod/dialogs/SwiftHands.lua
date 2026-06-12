@@ -6,6 +6,6 @@
 
 t("Managed readied tools", "Managed readied tools", "_t")
 t("", "", "_t")
-t("Readied tools", "Readied tools", "_t")
-t("Inventory", "Inventory", "_t")
+t("Readied tools", "Herramientas de lectura", "_t")
+t("Inventory", "Inventario", "_t")
 

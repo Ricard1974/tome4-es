@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("hastily written log", "hastily written log", "entity name")
-t("A paper scrap, left by Ukruk.", "A paper scrap, left by Ukruk.", "_t")
+t("A paper scrap, left by Ukruk.", "Un trozo de papel, dejado por Ukruk.", "_t")
 

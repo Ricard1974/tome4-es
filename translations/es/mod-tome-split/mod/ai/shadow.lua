@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#PINK#%s returns to the shadows.", "#PINK#%s returns to the shadows.", "logPlayer")
+t("#PINK#%s returns to the shadows.", "Vuelve a las sombras.", "logPlayer")
 

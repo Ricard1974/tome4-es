@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New birth equipment: #LIGHT_GREEN#Transmogrification Chest", "New birth equipment: #LIGHT_GREEN#Transmogrification Chest", "_t")
+t("New birth equipment: #LIGHT_GREEN#Transmogrification Chest", "Nuevo equipo de nacimiento: #LIGHT GREEN#", "_t")
 

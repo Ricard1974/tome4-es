@@ -4,18 +4,18 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
 t("derth guard", "derth guard", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
-t("halfling slinger", "halfling slinger", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("A Halfling, with a sling. Beware.", "A Halfling, with a sling. Beware.", "_t")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
+t("halfling slinger", "slinger a medias", "entity name")
+t("halfling", "mediador", "entity subtype")
+t("A Halfling, with a sling. Beware.", "Un Halfling, con un sling. Cuidado.", "_t")
 t("human farmer", "human farmer", "entity name")
-t("A weather-worn Human farmer.", "A weather-worn Human farmer.", "_t")
-t("halfling gardener", "halfling gardener", "entity name")
-t("A Halfling, he seems to be looking for plants.", "A Halfling, he seems to be looking for plants.", "_t")
+t("A weather-worn Human farmer.", "Un agricultor humano del tiempo.", "_t")
+t("halfling gardener", "medio jardinero", "entity name")
+t("A Halfling, he seems to be looking for plants.", "Un Halfling, parece estar buscando plantas.", "_t")
 t("Shady cornac man", "Shady cornac man", "entity name")
-t("Hey you. Come here.", "Hey you. Come here.", "_t")
+t("Hey you. Come here.", "Hola. Ven aquí.", "_t")
 

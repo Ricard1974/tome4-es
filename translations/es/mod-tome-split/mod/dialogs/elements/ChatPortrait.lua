@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("???", "???", "_t")
+t("???", "??", "_t")
 

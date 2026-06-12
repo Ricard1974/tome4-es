@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("arcane crystal", "arcane crystal", "_t")
+t("arcane crystal", "cristal arcane", "_t")
 

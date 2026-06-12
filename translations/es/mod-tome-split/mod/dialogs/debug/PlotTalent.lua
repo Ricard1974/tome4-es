@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Values plot for: %s (mastery %0.1f)", "Values plot for: %s (mastery %0.1f)", "tformat")
-t("TL: ", "TL: ", "_t")
+t("Values plot for: %s (mastery %0.1f)", "Los valores conspiran para:   PH0   (mastery   PH1  )", "tformat")
+t("TL: ", "TL:", "_t")
 

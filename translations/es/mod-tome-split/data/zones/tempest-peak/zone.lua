@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Tempest Peak", "Tempest Peak", "_t")
+t("Tempest Peak", "Peak Tempest", "_t")
 

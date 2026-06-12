@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("unholy circle", "unholy circle", "entity name")
-t("broken unholy circle", "broken unholy circle", "entity name")
+t("unholy circle", "círculo impío", "entity name")
+t("broken unholy circle", "roto círculo impío", "entity name")
 

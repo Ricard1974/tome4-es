@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Stone Warden (Wilder)", "New Class: #LIGHT_GREEN#Stone Warden (Wilder)", "_t")
+t("New Class: #LIGHT_GREEN#Stone Warden (Wilder)", "Nueva clase: #LIGHT GREEN#Stone Warden (Wilder)", "_t")
 

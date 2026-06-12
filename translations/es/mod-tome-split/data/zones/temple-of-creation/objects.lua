@@ -5,12 +5,12 @@
 -- Traductor: --
 
 t("Eldritch Pearl", "Eldritch Pearl", "entity name")
-t("bright pearl", "bright pearl", "_t")
-t("Thousands of years spent inside the temple of creation have infused this pearl with the fury of rushing water. It pulses light.", "Thousands of years spent inside the temple of creation have infused this pearl with the fury of rushing water. It pulses light.", "_t")
-t("tract", "tract", "entity name")
-t("A tract revealing the history of the Nagas.", "A tract revealing the history of the Nagas.", "_t")
-t("note", "note", "entity name")
-t("A note.", "A note.", "_t")
-t("Legacy of the Naloren", "Legacy of the Naloren", "entity name")
-t("ornate orichalcum trident", "ornate orichalcum trident", "_t")
+t("bright pearl", "perla brillante", "_t")
+t("Thousands of years spent inside the temple of creation have infused this pearl with the fury of rushing water. It pulses light.", "Miles de años pasados dentro del templo de la creación han infundido esta perla con la furia del agua precipitada. Pulsa luz.", "_t")
+t("tract", "tracto", "entity name")
+t("A tract revealing the history of the Nagas.", "Un tracto que revela la historia de los Nagas.", "_t")
+t("note", "nota", "entity name")
+t("A note.", "Una nota.", "_t")
+t("Legacy of the Naloren", "Legado de los Naloren", "entity name")
+t("ornate orichalcum trident", "ornado oricalco tridente", "_t")
 

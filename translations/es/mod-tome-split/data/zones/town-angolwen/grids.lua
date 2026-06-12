@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("cultivated fields", "cultivated fields", "entity name")
+t("cultivated fields", "campos cultivados", "entity name")
 t("cobblestone road", "cobblestone road", "entity name")
-t("magical rock", "magical rock", "entity name")
-t("fountain", "fountain", "entity name")
+t("magical rock", "rock mágico", "entity name")
+t("fountain", "fuente", "entity name")
 

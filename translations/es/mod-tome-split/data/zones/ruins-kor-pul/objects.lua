@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("journal page", "journal page", "entity name")
-t("A journal page, left by an adventurer.", "A journal page, left by an adventurer.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A journal page, left by an adventurer.", "Una página de diario, izquierda por un aventurero.", "_t")
 

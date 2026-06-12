@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Unhallowed Morass", "Unhallowed Morass", "_t")
+t("Unhallowed Morass", "Morass", "_t")
 

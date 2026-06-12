@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#YELLOW#The world spins around you!", "#YELLOW#The world spins around you!", "logPlayer")
-t("#YELLOW#The air comes alive with terrible magics!", "#YELLOW#The air comes alive with terrible magics!", "logPlayer")
+t("#YELLOW#The world spins around you!", "¡El mundo gira alrededor tuyo!", "logPlayer")
+t("#YELLOW#The air comes alive with terrible magics!", "¡El aire viene vivo con terribles magias!", "logPlayer")
 

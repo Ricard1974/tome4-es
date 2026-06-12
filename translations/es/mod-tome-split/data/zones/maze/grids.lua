@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("teleporting circle to the surface", "teleporting circle to the surface", "entity name")
-t("wall", "wall", "entity type")
-t("cracks", "cracks", "entity subtype")
-t("huge crack in the floor", "huge crack in the floor", "entity name")
-t("Crack in the floor", "Crack in the floor", "_t")
-t("Jump", "Jump", "_t")
-t("Stay", "Stay", "_t")
+t("teleporting circle to the surface", "círculo teletransportado a la superficie", "entity name")
+t("wall", "pared", "entity type")
+t("cracks", "grietas", "entity subtype")
+t("huge crack in the floor", "enorme crack en el suelo", "entity name")
+t("Crack in the floor", "Cangrejo en el suelo", "_t")
+t("Jump", "Salto", "_t")
+t("Stay", "Quédate", "_t")
 

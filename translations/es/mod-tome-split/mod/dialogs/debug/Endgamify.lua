@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Failed to generate %s", "Failed to generate %s", "log")
+t("Failed to generate %s", "Failed to generate   PH0 ", "log")
 

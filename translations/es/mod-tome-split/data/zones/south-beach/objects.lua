@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("beach bikini", "beach bikini", "entity name")
+t("beach bikini", "playa bikini", "entity name")
 

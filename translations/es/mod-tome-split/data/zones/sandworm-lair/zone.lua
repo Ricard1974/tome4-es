@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Sandworm lair", "Sandworm lair", "_t")
-t("#OLIVE_DRAB#You feel the ground shaking from the west.", "#OLIVE_DRAB#You feel the ground shaking from the west.", "log")
+t("#OLIVE_DRAB#You feel the ground shaking from the west.", "#OLIVE DRAB #Sientes el suelo temblando desde el oeste.", "log")
 

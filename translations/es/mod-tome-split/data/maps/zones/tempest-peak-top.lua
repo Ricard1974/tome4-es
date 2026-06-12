@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("open sky", "open sky", "_t")
+t("open sky", "cielo abierto", "_t")
 

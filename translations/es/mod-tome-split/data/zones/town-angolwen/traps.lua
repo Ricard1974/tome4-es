@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shining Jewel", "Shining Jewel", "entity name")
-t("Alchemist", "Alchemist", "entity name")
-t("Library", "Library", "entity name")
-t("Tools of the Art", "Tools of the Art", "entity name")
+t("Shining Jewel", "Joya brillante", "entity name")
+t("Alchemist", "Alquimista", "entity name")
+t("Library", "Biblioteca", "entity name")
+t("Tools of the Art", "Herramientas del Arte", "entity name")
 

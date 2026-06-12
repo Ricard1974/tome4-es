@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Contingency", "Contingency", "_t")
+t("Contingency", "Contingencia", "_t")
 t("", "", "_t")
-t("Talent", "Talent", "_t")
-t("#{bold}#Choose a talent#{normal}#", "#{bold}#Choose a talent#{normal}#", "_t")
-t("All talents that can be used with Contingency.", "All talents that can be used with Contingency.", "_t")
+t("Talent", "Talento", "_t")
+t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")
+t("All talents that can be used with Contingency.", "Todos los talentos que se pueden utilizar con Contingencia.", "_t")
 

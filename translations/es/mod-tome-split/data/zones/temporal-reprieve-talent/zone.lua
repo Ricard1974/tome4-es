@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Temporal Reprieve", "Temporal Reprieve", "_t")
+t("Temporal Reprieve", "Reprieve temporal", "_t")
 

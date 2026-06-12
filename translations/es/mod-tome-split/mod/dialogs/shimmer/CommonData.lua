@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Character's Skin", "Character's Skin", "_t")
-t("Character's Hair", "Character's Hair", "_t")
-t("Character's Facial Features", "Character's Facial Features", "_t")
-t("Character's Aura", "Character's Aura", "_t")
-t("unknown", "unknown", "_t")
-t("#GREY#Invisible#LAST#", "#GREY#Invisible#LAST#", "_t")
+t("Character's Skin", "La piel del personaje", "_t")
+t("Character's Hair", "Pelo de carácter", "_t")
+t("Character's Facial Features", "Características faciales del personaje", "_t")
+t("Character's Aura", "Personaje Aura", "_t")
+t("unknown", "desconocida", "_t")
+t("#GREY#Invisible#LAST#", "#GREY#Invisible#", "_t")
 

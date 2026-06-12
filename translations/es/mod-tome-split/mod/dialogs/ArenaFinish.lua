@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#LIGHT_GREEN#No high scores. This should not happen.", "#LIGHT_GREEN#No high scores. This should not happen.", "_t")
-t("unknown", "unknown", "_t")
+t("#LIGHT_GREEN#No high scores. This should not happen.", "#LIGHT GREEN #Ninguna puntuación alta. Esto no debería suceder.", "_t")
+t("unknown", "desconocida", "_t")
 

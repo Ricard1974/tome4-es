@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Stellar System: Shandral", "Stellar System: Shandral", "_t")
+t("Stellar System: Shandral", "Sistema estelar: Shandral", "_t")
 

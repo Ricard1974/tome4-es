@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("last hope foundation", "last hope foundation", "entity subtype")
-t("The Diaries of King Toknor the Brave (%d)", "The Diaries of King Toknor the Brave (%d)", "tformat")
-t("A part of the history of Last Hope, and King Toknor the Brave.", "A part of the history of Last Hope, and King Toknor the Brave.", "_t")
-t("analysis", "analysis", "entity subtype")
-t("southspar", "southspar", "entity subtype")
-t("the Pale King part %s", "the Pale King part %s", "tformat")
-t("one", "one", "_t")
-t("two", "two", "_t")
-t("A study of Southspar's most unusual ruler.", "A study of Southspar's most unusual ruler.", "_t")
-t("oceans", "oceans", "entity subtype")
-t("The Oceans of Eyal", "The Oceans of Eyal", "entity name")
-t("Thoughts about the impossibility of sea travel.", "Thoughts about the impossibility of sea travel.", "_t")
+t("last hope foundation", "última esperanza fundación", "entity subtype")
+t("The Diaries of King Toknor the Brave (%d)", "Los Diarios del Rey Toknor el Brave (  PH0  )", "tformat")
+t("A part of the history of Last Hope, and King Toknor the Brave.", "Una parte de la historia de la Última Esperanza, y el rey Toknor el Brave.", "_t")
+t("analysis", "análisis", "entity subtype")
+t("southspar", "Southspar", "entity subtype")
+t("the Pale King part %s", "la parte de Pale King   PH0 ", "tformat")
+t("one", "uno", "_t")
+t("two", "dos", "_t")
+t("A study of Southspar's most unusual ruler.", "Un estudio de la regla más inusual de Southspar.", "_t")
+t("oceans", "océanos", "entity subtype")
+t("The Oceans of Eyal", "Los Océanos del Eyal", "entity name")
+t("Thoughts about the impossibility of sea travel.", "Pensamientos sobre la imposibilidad de viajar al mar.", "_t")
 

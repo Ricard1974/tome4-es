@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("An entity appears through the portal!", "An entity appears through the portal!", "logSeen")
+t("An entity appears through the portal!", "¡Una entidad aparece a través del portal!", "logSeen")
 

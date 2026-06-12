@@ -5,10 +5,10 @@
 -- Traductor: --
 
 t("log of healer Astelrid", "log of healer Astelrid", "entity name")
-t("A very faded note, nearly unreadable.", "A very faded note, nearly unreadable.", "_t")
-t("investigator Churrack note", "investigator Churrack note", "entity name")
-t("Astelrid's Clubstaff", "Astelrid's Clubstaff", "entity name")
-t("huge maul", "huge maul", "_t")
-t("Like its former owner, this was once an instrument of altruistic healing, before fury and fear caused its twisting into a sadistic weapon.  Surges of restorative magic can be faintly felt under the layers of plaster and sharp surgical equipment.", "Like its former owner, this was once an instrument of altruistic healing, before fury and fear caused its twisting into a sadistic weapon.  Surges of restorative magic can be faintly felt under the layers of plaster and sharp surgical equipment.", "_t")
-t("Improves the contribution of primary stats on infusions and runes by 15%", "Improves the contribution of primary stats on infusions and runes by 15%", "_t")
+t("A very faded note, nearly unreadable.", "Una nota muy de moda, casi imposible de leer.", "_t")
+t("investigator Churrack note", "detective Churrack", "entity name")
+t("Astelrid's Clubstaff", "Club de Astelrid", "entity name")
+t("huge maul", "enorme maul", "_t")
+t("Like its former owner, this was once an instrument of altruistic healing, before fury and fear caused its twisting into a sadistic weapon.  Surges of restorative magic can be faintly felt under the layers of plaster and sharp surgical equipment.", "Al igual que su anterior propietario, esto fue una vez un instrumento de curación altruista, antes de la furia y el miedo causó su torsión en un arma sádica. La magia restaurativa se puede sentir débilmente bajo las capas de yeso y el equipo quirúrgico agudo.", "_t")
+t("Improves the contribution of primary stats on infusions and runes by 15%", "Mejora la contribución de las estadísticas primarias sobre infusiones y runas en un 15%", "_t")
 

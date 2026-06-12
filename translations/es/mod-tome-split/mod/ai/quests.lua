@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Protect Limmir from the demons coming from north-east. Hold them off!", "Protect Limmir from the demons coming from north-east. Hold them off!", "_t")
-t("This place is corrupted! I will cleanse it! Protect me while I do it!", "This place is corrupted! I will cleanse it! Protect me while I do it!", "_t")
+t("Protect Limmir from the demons coming from north-east. Hold them off!", "Protege a Limmir de los demonios que vienen del noreste. ¡Sosténganlos!", "_t")
+t("This place is corrupted! I will cleanse it! Protect me while I do it!", "¡Este lugar está dañado! ¡Lo limpiaré! ¡Protégeme mientras lo hago!", "_t")
 

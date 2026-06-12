@@ -4,12 +4,12 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Activate an object", "Activate an object", "_t")
-t("Activate: %s", "Activate: %s", "tformat")
-t("%s activates %s %s!", "%s activates %s %s!", "logSeen")
-t("%s", "%s", "logSeen")
-t("Activate an object.", "Activate an object.", "_t")
-t("(unknown object)", "(unknown object)", "_t")
-t("Activate %s", "Activate %s", "tformat")
-t("nothing", "nothing", "_t")
+t("Activate an object", "Activar un objeto", "_t")
+t("Activate: %s", "Activar:   PH0  ", "tformat")
+t("%s activates %s %s!", " PH0   activa   PH1     PH2   !", "logSeen")
+t("%s", " PH0 ", "logSeen")
+t("Activate an object.", "Activar un objeto.", "_t")
+t("(unknown object)", "(objeto desconocido)", "_t")
+t("Activate %s", "Activar   PH0 ", "tformat")
+t("nothing", "nada", "_t")
 

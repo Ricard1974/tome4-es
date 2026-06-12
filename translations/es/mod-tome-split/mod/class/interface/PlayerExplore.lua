@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("at door", "at door", "_t")
-t("something interesting", "something interesting", "_t")
-t("interesting terrain", "interesting terrain", "_t")
-t("Running...", "Running...", "_t")
-t("You are exploring, press any key to stop.", "You are exploring, press any key to stop.", "_t")
-t("checked door", "checked door", "_t")
-t("at %s", "at %s", "tformat")
-t("at object (diggable)", "at object (diggable)", "_t")
-t("the path is blocked", "the path is blocked", "_t")
+t("at door", "a la puerta", "_t")
+t("something interesting", "algo interesante", "_t")
+t("interesting terrain", "interesante terreno", "_t")
+t("Running...", "Corriendo...", "_t")
+t("You are exploring, press any key to stop.", "Estás explorando, presiona cualquier llave para parar.", "_t")
+t("checked door", "puerta cerrada", "_t")
+t("at %s", " PH0 ", "tformat")
+t("at object (diggable)", "at objeto (diggable)", "_t")
+t("the path is blocked", "el camino está bloqueado", "_t")
 

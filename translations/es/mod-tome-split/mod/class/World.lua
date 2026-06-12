@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s the %s %s level %s", "%s the %s %s level %s", "tformat")
-t("#LIGHT_BLUE#New shimmer option unlocked: #{italic}#%s#{normal}#", "#LIGHT_BLUE#New shimmer option unlocked: #{italic}#%s#{normal}#", "log")
+t("%s the %s %s level %s", " PH0                                                                                                                                                                                                                                                            ", "tformat")
+t("#LIGHT_BLUE#New shimmer option unlocked: #{italic}#%s#{normal}#", "#LIGHT BLUE#New shimmer option unlocked: #{italic}#     #{normal}#", "log")
 

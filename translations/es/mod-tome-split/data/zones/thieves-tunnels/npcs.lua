@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("Assassin Lord", "Assassin Lord", "entity name")
-t("He is the leader of a gang of bandits; watch out for his men.", "He is the leader of a gang of bandits; watch out for his men.", "_t")
-t("#DARK_GREY#The assassin lord throws a smoke bomb and disappears!", "#DARK_GREY#The assassin lord throws a smoke bomb and disappears!", "logPlayer")
-t("As the assassin dies the magical veil protecting the stairs out vanishes.", "As the assassin dies the magical veil protecting the stairs out vanishes.", "logSeen")
-t("Lost Merchant", "Lost Merchant", "entity name")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("Assassin Lord", "Asesino Señor", "entity name")
+t("He is the leader of a gang of bandits; watch out for his men.", "Es el líder de una banda de bandidos; cuida a sus hombres.", "_t")
+t("#DARK_GREY#The assassin lord throws a smoke bomb and disappears!", "¡El señor asesino lanza una bomba de humo y desaparece!", "logPlayer")
+t("As the assassin dies the magical veil protecting the stairs out vanishes.", "Mientras el asesino muere el velo mágico protegiendo las escaleras se desvanecen.", "logSeen")
+t("Lost Merchant", "Perdido Merchant", "entity name")
 

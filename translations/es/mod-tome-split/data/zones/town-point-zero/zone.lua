@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Point Zero", "Point Zero", "_t")
-t("temporal beam endpoint", "temporal beam endpoint", "_t")
+t("Point Zero", "Punto Cero", "_t")
+t("temporal beam endpoint", "punto final de haz temporal", "_t")
 

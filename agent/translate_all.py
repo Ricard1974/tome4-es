@@ -174,6 +174,19 @@ def main():
             ("Suelos", "data/general/grids"),
             ("NPCs", "data/general/npcs"),
             ("Nacimiento", "data/birth"),
+            ("Mod (principal)", "mod"),
+            ("Clases", "mod/class"),
+            ("Interface de clase", "mod/class/interface"),
+            ("Dialogos mod", "mod/dialogs"),
+            ("IA", "mod/ai"),
+            ("Zonas", "data/zones"),
+            ("Textos", "data/texts"),
+            ("Mapas", "data/maps"),
+            ("Mapscripts", "data/mapscripts"),
+            ("Keybinds", "data/keybinds"),
+            ("Salas", "data/rooms"),
+            ("WDA", "data/wda"),
+            ("Datos raiz", "data"),
         ]
 
     for title, section_path in sections:

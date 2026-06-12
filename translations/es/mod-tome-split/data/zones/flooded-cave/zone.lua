@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Flooded Cave", "Flooded Cave", "_t")
+t("Flooded Cave", "Cueva inundada", "_t")
 

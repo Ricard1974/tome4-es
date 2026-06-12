@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("scroll", "scroll", "_t")
-t("How to Summon a Phoenix", "How to Summon a Phoenix", "_t")
-t("An old and singed scroll, the bottom half burnt off.", "An old and singed scroll, the bottom half burnt off.", "_t")
+t("scroll", "pergamino", "_t")
+t("How to Summon a Phoenix", "Cómo Invocar un Fénix", "_t")
+t("An old and singed scroll, the bottom half burnt off.", "Un pergamino viejo y cantado, la mitad inferior quemó.", "_t")
 t("#rng# the Flamebringer", "#rng# the Flamebringer", "_t")
 t("#rng# the Invoker", "#rng# the Invoker", "_t")
 

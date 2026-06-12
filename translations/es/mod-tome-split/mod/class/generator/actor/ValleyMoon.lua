@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Limmir summons a blast of holy light!", "Limmir summons a blast of holy light!", "logSeen")
+t("Limmir summons a blast of holy light!", "Limmir llama una explosión de luz santa!", "logSeen")
 

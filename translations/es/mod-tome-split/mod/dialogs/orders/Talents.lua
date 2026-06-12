@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Define tactical talents usage", "Define tactical talents usage", "_t")
+t("Define tactical talents usage", "Definir el uso de talentos tácticos", "_t")
 t("", "", "_t")
-t("Talent Name", "Talent Name", "_t")
-t("Weight", "Weight", "_t")
-t("Enter the talent weight multiplier", "Enter the talent weight multiplier", "_t")
-t("0 is off, 1 is normal", "0 is off, 1 is normal", "_t")
+t("Talent Name", "Nombre de talento", "_t")
+t("Weight", "Peso", "_t")
+t("Enter the talent weight multiplier", "Introduzca el multiplicador de peso de talento", "_t")
+t("0 is off, 1 is normal", "0 está apagado, 1 es normal", "_t")
 

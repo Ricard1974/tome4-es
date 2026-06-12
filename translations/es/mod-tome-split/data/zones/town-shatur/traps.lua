@@ -10,5 +10,5 @@ t("Swordsmith", "Swordsmith", "entity name")
 t("Nature's Punch", "Nature's Punch", "entity name")
 t("Silent Hunter", "Silent Hunter", "entity name")
 t("Herbalist", "Herbalist", "entity name")
-t("Night's Star", "Night's Star", "entity name")
+t("Night's Star", "Estrella de la noche", "entity name")
 

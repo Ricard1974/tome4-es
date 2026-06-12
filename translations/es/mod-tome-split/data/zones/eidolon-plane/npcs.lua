@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("unknown", "unknown", "entity type")
-t("unknown", "unknown", "entity subtype")
-t("The Eidolon", "The Eidolon", "entity name")
-t("A ripple in the void that somehow seems... alive, this creature stares at you with interest.", "A ripple in the void that somehow seems... alive, this creature stares at you with interest.", "_t")
+t("unknown", "desconocida", "entity type")
+t("unknown", "desconocida", "entity subtype")
+t("The Eidolon", "El Eidolon", "entity name")
+t("A ripple in the void that somehow seems... alive, this creature stares at you with interest.", "Una onda en el vacío que de alguna manera parece... viva, esta criatura te mira con interés.", "_t")
 

@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Sun Paladin Guren", "Sun Paladin Guren", "entity name")
-t("A Human warrior, clad in shining plate armour. Power radiates from him.", "A Human warrior, clad in shining plate armour. Power radiates from him.", "_t")
+t("A Human warrior, clad in shining plate armour. Power radiates from him.", "Un guerrero humano, revestido de brillante armadura de placa. El poder irradia de él.", "_t")
 

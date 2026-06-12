@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Talent Category: #LIGHT_GREEN#Poisons", "New Talent Category: #LIGHT_GREEN#Poisons", "_t")
+t("New Talent Category: #LIGHT_GREEN#Poisons", "Nuevo talento Categoría: #LIGHT GREEN#Poisons", "_t")
 

@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("red", "red", "entity subtype")
+t("red", "rojo", "entity subtype")
 t("Atamathon's Ruby Eye", "Atamathon's Ruby Eye", "entity name")
 

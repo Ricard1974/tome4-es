@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ruined halfling complex", "Ruined halfling complex", "_t")
+t("Ruined halfling complex", "Complejo mediocre en ruinas", "_t")
 

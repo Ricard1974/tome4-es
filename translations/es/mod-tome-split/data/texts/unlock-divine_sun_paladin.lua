@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Sun Paladin (Celestial)", "New Class: #LIGHT_GREEN#Sun Paladin (Celestial)", "_t")
+t("New Class: #LIGHT_GREEN#Sun Paladin (Celestial)", "Nueva clase: #LIGHT GREEN#Sun Paladin (Celestial)", "_t")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("teleporting circle to the surface", "teleporting circle to the surface", "entity name")
+t("teleporting circle to the surface", "círculo teletransportado a la superficie", "entity name")
 

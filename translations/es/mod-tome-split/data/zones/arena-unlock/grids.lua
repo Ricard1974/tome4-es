@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("wall", "wall", "entity name")
-t("closed gate", "closed gate", "entity name")
+t("wall", "pared", "entity name")
+t("closed gate", "puerta cerrada", "entity name")
 

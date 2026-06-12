@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("cooking pit", "cooking pit", "entity name")
+t("cooking pit", "pozo de cocina", "entity name")
 

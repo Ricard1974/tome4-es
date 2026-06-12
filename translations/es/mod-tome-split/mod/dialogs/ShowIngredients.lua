@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ingredients collected", "Ingredients collected", "_t")
-t("Ingredient", "Ingredient", "_t")
-t("Category", "Category", "_t")
-t("Quantity", "Quantity", "_t")
+t("Ingredients collected", "Ingredientes recogidos", "_t")
+t("Ingredient", "Ingrediente", "_t")
+t("Category", "Categoría", "_t")
+t("Quantity", "Cantidad", "_t")
 

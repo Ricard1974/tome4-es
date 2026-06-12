@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("cultivated fields", "cultivated fields", "entity name")
+t("cultivated fields", "campos cultivados", "entity name")
 t("cobblestone road", "cobblestone road", "entity name")
 

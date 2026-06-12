@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Fortress Gladium", "Fortress Gladium", "_t")
+t("Fortress Gladium", "Fortaleza Gladium", "_t")
 

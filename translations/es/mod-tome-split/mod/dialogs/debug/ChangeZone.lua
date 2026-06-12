@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("DEBUG -- Change Zone", "DEBUG -- Change Zone", "_t")
-t("Zone: %s", "Zone: %s", "tformat")
-t("Level %s-%s", "Level %s-%s", "tformat")
+t("DEBUG -- Change Zone", "DEBUG -- Zona de cambio", "_t")
+t("Zone: %s", "Zona:", "tformat")
+t("Level %s-%s", "Nivel   PH0      ", "tformat")
 

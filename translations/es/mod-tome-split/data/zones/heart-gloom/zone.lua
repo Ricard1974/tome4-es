@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Heart of the Gloom", "Heart of the Gloom", "_t")
+t("Heart of the Gloom", "Corazón del Gloom", "_t")
 

@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("Neutral", "Neutral", "faction name")
-t("Unaligned", "Unaligned", "faction name")
+t("Unaligned", "Incumplido", "faction name")
 t("Merchant Caravan", "Merchant Caravan", "faction name")
-t("Point Zero Onslaught", "Point Zero Onslaught", "faction name")
+t("Point Zero Onslaught", "Punto Zero Onslaught", "faction name")
 t("Point Zero Guardians", "Point Zero Guardians", "faction name")
 

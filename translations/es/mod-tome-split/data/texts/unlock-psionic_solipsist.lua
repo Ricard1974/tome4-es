@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Solipsist (Psionic)", "New Class: #LIGHT_GREEN#Solipsist (Psionic)", "_t")
+t("New Class: #LIGHT_GREEN#Solipsist (Psionic)", "Nueva clase: #LIGHT GREEN#Solipsist (Psionic)", "_t")
 

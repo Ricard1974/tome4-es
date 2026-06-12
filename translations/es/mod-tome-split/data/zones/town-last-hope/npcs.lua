@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
-t("last hope guard", "last hope guard", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
-t("halfling guard", "halfling guard", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("A Halfling, with a sling. Beware.", "A Halfling, with a sling. Beware.", "_t")
-t("human citizen", "human citizen", "entity name")
-t("A clean-looking Human resident of Last Hope.", "A clean-looking Human resident of Last Hope.", "_t")
-t("halfling citizen", "halfling citizen", "entity name")
-t("A clean-looking Halfling resident of Last Hope.", "A clean-looking Halfling resident of Last Hope.", "_t")
+t("last hope guard", "último guardia de esperanza", "entity name")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
+t("halfling guard", "medio guardia", "entity name")
+t("halfling", "mediador", "entity subtype")
+t("A Halfling, with a sling. Beware.", "Un Halfling, con un sling. Cuidado.", "_t")
+t("human citizen", "ciudadano humano", "entity name")
+t("A clean-looking Human resident of Last Hope.", "Un residente humano de última esperanza.", "_t")
+t("halfling citizen", "medio ciudadano", "entity name")
+t("A clean-looking Halfling resident of Last Hope.", "Un residente de la última esperanza.", "_t")
 

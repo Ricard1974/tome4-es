@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ambush!", "Ambush!", "_t")
+t("Ambush!", "¡Ambush!", "_t")
 

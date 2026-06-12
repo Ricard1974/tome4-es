@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("sign post with a note", "sign post with a note", "entity name")
+t("sign post with a note", "post de firma con nota", "entity name")
 

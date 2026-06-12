@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("book", "book", "entity name")
-t("reading candle", "reading candle", "entity name")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("book", "libro", "entity name")
+t("reading candle", "vela de lectura", "entity name")
 

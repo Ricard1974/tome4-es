@@ -4,12 +4,12 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Dreams", "Dreams", "_t")
-t("Dream of vulnerability", "Dream of vulnerability", "_t")
-t("Dream of loss", "Dream of loss", "_t")
-t("Dream ???", "Dream ???", "_t")
+t("Dreams", "Sueños", "_t")
+t("Dream of vulnerability", "Sueño de vulnerabilidad", "_t")
+t("Dream of loss", "Sueño de pérdida", "_t")
+t("Dream ???", "¿Sueño?", "_t")
 t("frail mouse", "frail mouse", "_t")
-t("lost man", "lost man", "_t")
-t("%s has %d stat point(s) to spend. Press p to use them.", "%s has %d stat point(s) to spend. Press p to use them.", "log")
-t("Deep slumber...", "Deep slumber...", "_t")
+t("lost man", "hombre perdido", "_t")
+t("%s has %d stat point(s) to spend. Press p to use them.", " PH0   tiene   PH1      punto(s) para gastar. Presione p para usarlos.", "log")
+t("Deep slumber...", "Un sueño profundo...", "_t")
 

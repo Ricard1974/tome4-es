@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dragon", "dragon", "entity type")
-t("water", "water", "entity subtype")
-t("Ukllmswwik the Wise", "Ukllmswwik the Wise", "entity name")
-t("It looks like a cross between a shark and a dragon, only nastier.", "It looks like a cross between a shark and a dragon, only nastier.", "_t")
+t("dragon", "dragón", "entity type")
+t("water", "agua", "entity subtype")
+t("Ukllmswwik the Wise", "Ukllmswwik el Wise", "entity name")
+t("It looks like a cross between a shark and a dragon, only nastier.", "Parece una cruz entre un tiburón y un dragón, sólo más salvaje.", "_t")
 

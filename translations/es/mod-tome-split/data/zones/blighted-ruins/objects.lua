@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("armor", "armor", "entity type")
-t("cloak", "cloak", "entity subtype")
+t("armor", "armadura", "entity type")
+t("cloak", "capa", "entity subtype")
 t("Cloak of Deception", "Cloak of Deception", "entity name")
-t("black cloak", "black cloak", "_t")
-t("A black cloak, with subtle illusion enchantments woven into its very fabric.", "A black cloak, with subtle illusion enchantments woven into its very fabric.", "_t")
-t("journal page", "journal page", "entity name")
-t("A paper scrap, left by the Necromancer.", "A paper scrap, left by the Necromancer.", "_t")
+t("black cloak", "negro capa", "_t")
+t("A black cloak, with subtle illusion enchantments woven into its very fabric.", "Un manto negro, con sutiles encantamientos de ilusión tejidos en su propia tela.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A paper scrap, left by the Necromancer.", "Un trozo de papel, dejado por el Necromancer.", "_t")
 

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("research log", "research log", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
-t("exploration log", "exploration log", "entity name")
+t("research log", "historial de investigación", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
+t("exploration log", "log", "entity name")
 

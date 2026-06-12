@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s from %s", "%s from %s", "tformat")
+t("%s from %s", " PH0   de   PH1  ", "tformat")
 

@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("demon", "demon", "entity type")
-t("minor", "minor", "entity subtype")
-t("Draebor, the Imp", "Draebor, the Imp", "entity name")
-t("An intensely irritating git of a monster.", "An intensely irritating git of a monster.", "_t")
-t("Back and there again", "Back and there again", "_t")
-t("As the annoying imp falls a portal appears under its corpse.", "As the annoying imp falls a portal appears under its corpse.", "_t")
+t("demon", "demonios", "entity type")
+t("minor", "menor", "entity subtype")
+t("Draebor, the Imp", "Draebor, el Imp", "entity name")
+t("An intensely irritating git of a monster.", "Un git intensamente irritante de un monstruo.", "_t")
+t("Back and there again", "Atrás y allá de nuevo", "_t")
+t("As the annoying imp falls a portal appears under its corpse.", "Mientras el imp molesto cae un portal aparece bajo su cuerpo.", "_t")
 

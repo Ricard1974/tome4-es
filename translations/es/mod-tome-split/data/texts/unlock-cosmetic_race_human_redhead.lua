@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Cosmetic Race Option: #LIGHT_GREEN#Redhead Characters", "New Cosmetic Race Option: #LIGHT_GREEN#Redhead Characters", "_t")
+t("New Cosmetic Race Option: #LIGHT_GREEN#Redhead Characters", "Nueva opción de carrera cosmética: #LIGHT GREEN#Características", "_t")
 

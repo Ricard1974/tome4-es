@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ruins of Kor'Pul", "Ruins of Kor'Pul", "_t")
+t("Ruins of Kor'Pul", "Ruinas de Kor'Pul", "_t")
 

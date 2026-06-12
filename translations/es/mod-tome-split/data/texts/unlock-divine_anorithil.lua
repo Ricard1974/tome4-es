@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Anorithil (Celestial)", "New Class: #LIGHT_GREEN#Anorithil (Celestial)", "_t")
+t("New Class: #LIGHT_GREEN#Anorithil (Celestial)", "Nueva clase: #LIGHT GREEN#Anorithil (Celestial)", "_t")
 

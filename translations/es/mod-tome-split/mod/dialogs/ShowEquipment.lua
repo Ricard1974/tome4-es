@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("Equipment", "Equipo", "_t")
-t("Main Set", "Main Set", "_t")
+t("Main Set", "Juego principal", "_t")
 t("Off Set", "Off Set", "_t")
 

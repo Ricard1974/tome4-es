@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Small lumberjack village", "Small lumberjack village", "_t")
-t("Screams", "Screams", "_t")
-t("You hear screaming not too far from you.", "You hear screaming not too far from you.", "_t")
+t("Small lumberjack village", "Pequeño pueblo de leña", "_t")
+t("Screams", "Gritos", "_t")
+t("You hear screaming not too far from you.", "Oíste gritar no muy lejos de ti.", "_t")
 

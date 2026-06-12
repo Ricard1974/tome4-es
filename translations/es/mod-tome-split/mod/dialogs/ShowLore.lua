@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Lore", "Lore", "_t")
-t("Search: ", "Search: ", "_t")
+t("Search: ", "Buscar:", "_t")
 t("", "", "_t")
-t("Category", "Category", "_t")
+t("Category", "Categoría", "_t")
 

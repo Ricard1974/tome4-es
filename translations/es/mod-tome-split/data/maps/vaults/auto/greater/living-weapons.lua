@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Poltergeist %s", "Poltergeist %s", "tformat")
-t("Animated %s", "Animated %s", "tformat")
-t("Moving %s", "Moving %s", "tformat")
-t("Poltergeist's %s", "Poltergeist's %s", "tformat")
+t("Poltergeist %s", "Poltergeist   PH0 ", "tformat")
+t("Animated %s", "Animados   PH0 ", "tformat")
+t("Moving %s", "Moving   PH0  ", "tformat")
+t("Poltergeist's %s", "Poltergeist   PH0  ", "tformat")
 

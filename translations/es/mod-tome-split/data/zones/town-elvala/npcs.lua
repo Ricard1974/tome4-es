@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("humanoid", "humanoid", "entity type")
+t("humanoid", "humanoide", "entity type")
 t("shalore", "shalore", "entity subtype")
 t("Catch @himher@!", "Catch @himher@!", "_t")
 t("elvala guard", "elvala guard", "entity name")
-t("A stern-looking guard, he will not let you disturb the town.", "A stern-looking guard, he will not let you disturb the town.", "_t")
+t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
 t("shalore rune master", "shalore rune master", "entity name")
-t("A tall Elf, his skin covered in runes.", "A tall Elf, his skin covered in runes.", "_t")
-t("giant", "giant", "entity type")
-t("ogre", "ogre", "entity subtype")
-t("ogre rune-spinner", "ogre rune-spinner", "entity name")
-t("A towering ogre guard, her skin covered in runes.", "A towering ogre guard, her skin covered in runes.", "_t")
+t("A tall Elf, his skin covered in runes.", "Un Elfo alto, su piel cubierta de escorrentías.", "_t")
+t("giant", "gigante", "entity type")
+t("ogre", "ogro", "entity subtype")
+t("ogre rune-spinner", "ogro rune-spinner", "entity name")
+t("A towering ogre guard, her skin covered in runes.", "Una imponente guardia de ogro, su piel cubierta de runas.", "_t")
 

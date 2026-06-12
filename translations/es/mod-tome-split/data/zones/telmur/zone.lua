@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ruins of Telmur", "Ruins of Telmur", "_t")
+t("Ruins of Telmur", "Ruinas de Telmur", "_t")
 t("Telmur", "Telmur", "_t")
-t("As you approach the tower you notice it is utterly destroyed, only the basement remaining.", "As you approach the tower you notice it is utterly destroyed, only the basement remaining.", "_t")
+t("As you approach the tower you notice it is utterly destroyed, only the basement remaining.", "A medida que se acercan a la torre se nota que es completamente destruido, sólo el sótano restante.", "_t")
 

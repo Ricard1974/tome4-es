@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Slime Tunnels", "Slime Tunnels", "_t")
+t("Slime Tunnels", "Tunnels Slime", "_t")
 

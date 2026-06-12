@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("entrance to a slimy pit", "entrance to a slimy pit", "entity name")
-t("training dummy", "training dummy", "entity name")
-t("training", "training", "entity type")
+t("entrance to a slimy pit", "entrada a un pozo delgado", "entity name")
+t("training dummy", "entrenamiento", "entity name")
+t("training", "capacitación", "entity type")
 t("dummy", "dummy", "entity subtype")
 

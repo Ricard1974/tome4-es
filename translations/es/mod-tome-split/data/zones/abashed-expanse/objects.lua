@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("Void Star", "Void Star", "entity name")
-t("tiny black star", "tiny black star", "_t")
-t("It looks like a very tiny star -- deep black -- and yet it somehow shines.", "It looks like a very tiny star -- deep black -- and yet it somehow shines.", "_t")
+t("tiny black star", "pequeña estrella negra", "_t")
+t("It looks like a very tiny star -- deep black -- and yet it somehow shines.", "Parece una estrella muy pequeña... negra profunda... y de alguna manera brilla.", "_t")
 

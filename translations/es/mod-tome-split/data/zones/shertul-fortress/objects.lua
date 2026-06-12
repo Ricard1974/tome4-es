@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("simple gown", "simple gown", "entity name")
+t("simple gown", "simple vestido", "entity name")
 

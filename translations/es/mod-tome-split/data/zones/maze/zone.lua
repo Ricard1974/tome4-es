@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("The Maze", "The Maze", "_t")
+t("The Maze", "El laberinto", "_t")
 

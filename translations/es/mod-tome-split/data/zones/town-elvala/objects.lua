@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("spellblaze", "spellblaze", "entity subtype")
+t("spellblaze", "hechizoblaze", "entity subtype")
 

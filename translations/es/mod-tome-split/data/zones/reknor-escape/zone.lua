@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Escape from Reknor", "Escape from Reknor", "_t")
+t("Escape from Reknor", "Escape de Reknor", "_t")
 

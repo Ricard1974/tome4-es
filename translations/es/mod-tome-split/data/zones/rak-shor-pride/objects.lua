@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("draft note", "draft note", "entity name")
-t("A note.", "A note.", "_t")
+t("draft note", "proyecto de nota", "entity name")
+t("A note.", "Una nota.", "_t")
 

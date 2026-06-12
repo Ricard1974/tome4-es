@@ -15,6 +15,6 @@ t("euro", "euro", "_t")
 t("Cancel", "Cancelar", "_t")
 t("You can also make a pledge on Patreon if you prefer.", "También puedes hacer una donación en Patreon si lo prefieres.", "_t")
 t("Thank you", "Gracias", "_t")
-t("Thank you, a paypal page should now open in your browser.", "Thank you, a paypal page should now open in your browser.", "_t")
-t("Thank you, a Patreon page should now open in your browser.", "Thank you, a Patreon page should now open in your browser.", "_t")
+t("Thank you, a paypal page should now open in your browser.", "Gracias, una página de paypal debería abrirse ahora en su navegador.", "_t")
+t("Thank you, a Patreon page should now open in your browser.", "Gracias, una página de Patreon debería abrirse ahora en su navegador.", "_t")
 

@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Caldizar", "Caldizar", "entity name")
-t("A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "_t")
+t("A creature stands before you, with long tentacle-like appendages and a squat bump in place of a head. An intense aura of power radiates from this being unlike anything you've ever felt before. It can only be a Sher'Tul. A living Sher'Tul!", "Una criatura está delante de ti, con largos apéndices tipo tentáculo y un bache en lugar de una cabeza. Un intenso aura de poder irradia de este ser diferente a cualquier cosa que hayas sentido antes. Sólo puede ser un Sher'Tul. ¡Un Sher'Tul vivo!", "_t")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Race: #LIGHT_GREEN#Yeek", "New Race: #LIGHT_GREEN#Yeek", "_t")
+t("New Race: #LIGHT_GREEN#Yeek", "Nueva carrera: #LIGHT GREEN #Yeek", "_t")
 

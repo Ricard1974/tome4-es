@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Inventory", "Inventory", "_t")
+t("Inventory", "Inventario", "_t")
 t("", "", "_t")
-t("Tool", "Tool", "_t")
+t("Tool", "Herramienta", "_t")
 t("Cooldown", "Enfriamiento", "_t")
-t("Ready", "Ready", "_t")
-t("%d/%d", "%d/%d", "tformat")
-t("#RED#%d/%d", "#RED#%d/%d", "tformat")
+t("Ready", "Listo", "_t")
+t("%d/%d", " PH0      ", "tformat")
+t("#RED#%d/%d", "#RED#  PH0                      ###################################################################################################################################################################################################################################", "tformat")
 

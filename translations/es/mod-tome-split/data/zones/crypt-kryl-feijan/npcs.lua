@@ -5,13 +5,13 @@
 -- Traductor: --
 
 t("Kryl-Feijan", "Kryl-Feijan", "entity name")
-t("and devoured as a demonic breakfast", "and devoured as a demonic breakfast", "_t")
+t("and devoured as a demonic breakfast", "y devorado como un desayuno demoníaco", "_t")
 t("Melinda", "Melinda", "entity name")
-t("humanoid", "humanoid", "entity type")
-t("human", "human", "entity subtype")
-t("A female Human with twisted sigils scored into her naked flesh. Her wrists and ankles are sore and hurt by ropes and chains. You can discern great beauty beyond the stains of blood covering her skin.", "A female Human with twisted sigils scored into her naked flesh. Her wrists and ankles are sore and hurt by ropes and chains. You can discern great beauty beyond the stains of blood covering her skin.", "_t")
+t("humanoid", "humanoide", "entity type")
+t("human", "humanos", "entity subtype")
+t("A female Human with twisted sigils scored into her naked flesh. Her wrists and ankles are sore and hurt by ropes and chains. You can discern great beauty beyond the stains of blood covering her skin.", "Una mujer humana con sigiles torcidos anotó en su carne desnuda. Sus muñecas y tobillos están doloridos y heridos por cuerdas y cadenas. Usted puede discernir gran belleza más allá de las manchas de sangre que cubren su piel.", "_t")
 t("Acolyte of the Sect of Kryl-Feijan", "Acolyte of the Sect of Kryl-Feijan", "entity name")
-t("elf", "elf", "entity subtype")
-t("Black-robed Elves with a mad look in their eyes.", "Black-robed Elves with a mad look in their eyes.", "_t")
+t("elf", "elfo", "entity subtype")
+t("Black-robed Elves with a mad look in their eyes.", "Elfos negros con una mirada loca en sus ojos.", "_t")
 t("Melinda", "Melinda", "_t")
 

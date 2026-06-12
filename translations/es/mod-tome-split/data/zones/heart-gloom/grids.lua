@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("wall", "wall", "entity type")
-t("dark_grass", "dark_grass", "entity subtype")
-t("tree", "tree", "entity name")
+t("wall", "pared", "entity type")
+t("dark_grass", "dark grass", "entity subtype")
+t("tree", "árbol", "entity name")
 

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("cloud", "cloud", "entity subtype")
-t("floor", "floor", "entity name")
+t("floor", "planta baja", "entity type")
+t("cloud", "nube", "entity subtype")
+t("floor", "planta baja", "entity name")
 

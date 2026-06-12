@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("journal page", "journal page", "entity name")
-t("A paper scrap, left by an adventurer.", "A paper scrap, left by an adventurer.", "_t")
+t("journal page", "página de diario", "entity name")
+t("A paper scrap, left by an adventurer.", "Un trozo de papel, dejado por un aventurero.", "_t")
 

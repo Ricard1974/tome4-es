@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Caverns to the hidden valley", "Caverns to the hidden valley", "_t")
+t("Caverns to the hidden valley", "Cavernas al valle escondido", "_t")
 

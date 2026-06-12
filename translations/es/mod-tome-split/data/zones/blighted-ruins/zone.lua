@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Blighted Ruins", "Blighted Ruins", "_t")
+t("Blighted Ruins", "Ruinas llenas", "_t")
 

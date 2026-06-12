@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Briagh's Lair", "Briagh's Lair", "_t")
+t("Briagh's Lair", "Lair de Briagh", "_t")
 

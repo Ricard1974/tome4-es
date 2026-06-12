@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Gates of Morning", "Gates of Morning", "_t")
+t("Gates of Morning", "Puertas de la mañana", "_t")
 

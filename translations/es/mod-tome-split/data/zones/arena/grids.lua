@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("wall", "wall", "entity type")
-t("floor", "floor", "entity subtype")
-t("wall", "wall", "entity name")
-t("closed gate", "closed gate", "entity name")
-t("open gate", "open gate", "entity name")
+t("wall", "pared", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("wall", "pared", "entity name")
+t("closed gate", "puerta cerrada", "entity name")
+t("open gate", "puerta abierta", "entity name")
 
