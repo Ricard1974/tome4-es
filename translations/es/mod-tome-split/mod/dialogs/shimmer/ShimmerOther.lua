@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shimmer: %s", "Shimmer:", "tformat")
+t("Shimmer: %s", "Shimmer:%s", "tformat")
 t("Search: ", "Buscar:", "_t")
 t("Name", "Nombre", "_t")
 t(" #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", " #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")

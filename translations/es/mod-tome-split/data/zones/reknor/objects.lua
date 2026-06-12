@@ -7,7 +7,7 @@
 t("Sealed Scroll of Last Hope", "Tornillo sellado de la última esperanza", "entity name")
 t("open the seal and read the message", "abrir el sello y leer el mensaje", "_t")
 t("Resonating Diamond", "Diamante resonante", "entity name")
-t("You cannot bring yourself to drop the %s", "No puedes traerte a ti mismo para dejar caer el   PH0 ", "logPlayer")
+t("You cannot bring yourself to drop the %s", "No puedes traerte a ti mismo para dejar caer el  %s", "logPlayer")
 t("misc", "varios", "entity type")
 t("misc", "varios", "entity subtype")
 t("Blood-Runed Athame", "Athame de sangre", "entity name")

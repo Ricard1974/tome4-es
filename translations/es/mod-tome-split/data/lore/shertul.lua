@@ -32,5 +32,5 @@ t("Yiilkgur, the Sher'Tul Fortress is re-activated and raises from the depths of
 t("a living Sher'Tul?!", "un Sher'Tul vivo?!", "_t")
 t("You somehow got teleported to an other Sher'Tul Fortress, in a very alien location. There you saw a living Sher'Tul.", "De alguna manera te teletransportaron a otra Fortaleza Sher'Tul, en una ubicación muy alienígena. Allí viste un Sher'Tul vivo.", "_t")
 t("lost farportal", "perdido farportal", "_t")
-t("%s boldly entering a Sher'Tul farportal.", "Entrando audazmente en un faro Sher'Tul.", "tformat")
+t("%s boldly entering a Sher'Tul farportal.", "Entrando audazmente en un faro Sher'Tul.%s", "tformat")
 

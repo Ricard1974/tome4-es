@@ -6,5 +6,5 @@
 
 t("High Peak", "Alto pico", "_t")
 t("High Peak: The Sanctum", "Alto pico: el santuario", "_t")
-t("High Peak (%d)", "Alto pico (  PH0  )", "tformat")
+t("High Peak (%d)", "Alto pico ( %d )", "tformat")
 

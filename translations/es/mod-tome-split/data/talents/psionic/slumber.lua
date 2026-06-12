@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Slumber", "o", "talent name")
-t("%s resists the sleep!", " PH0  resiste el sueño!", "logSeen")
+t("%s resists the sleep!", "%s resiste el sueño!", "logSeen")
 t("Restless Night", "Restless Noche", "talent name")
 t("Sandman", "o Sandman", "talent name")
 t("Dreamscape", "Paisaje onírico", "talent name")

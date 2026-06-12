@@ -9,5 +9,5 @@ t("worms", "gusanos", "entity subtype")
 t("white worm mass", "masa de gusano blanco", "entity name")
 t("green worm mass", "masa de gusano verde", "entity name")
 t("carrion worm mass", "masa de gusano carriona", "entity name")
-t("%s exudes a corrupted gas as it dies.", " PH0  exude un gas corrupto mientras muere.", "logSeen")
+t("%s exudes a corrupted gas as it dies.", "%s exude un gas corrupto mientras muere.", "logSeen")
 

@@ -18,7 +18,7 @@ t("#LIGHT_GREEN#* You defeated the Sorcerers and Aeryn sacrificed herself to clo
 t("#LIGHT_GREEN#* You defeated the Sorcerers and sacrificed yourself to close the Void portal.#LAST#", "#LIGHT GREEN#* Has derrotado a los Hechiceros y te has sacrificado para cerrar el portal Void. #LAST#", "_t")
 t("Endgame", "Endgame", "_t")
 t("#LIGHT_RED#As you enter the level you hear a familiar voice.", "#LIGHT RED#A medida que entras al nivel escuchas una voz familiar.", "logPlayer")
-t("#LIGHT_RED#Fallen Sun Paladin Aeryn: '%s YOU BROUGHT ONLY DESTRUCTION TO THE SUNWALL! YOU WILL PAY!'", "#LIGHT RED #Fallen Sun Paladin Aeryn: '  PH0  ¡Trajiste solamente la destrucción al infierno! ¡Pagarás", "logPlayer")
+t("#LIGHT_RED#Fallen Sun Paladin Aeryn: '%s YOU BROUGHT ONLY DESTRUCTION TO THE SUNWALL! YOU WILL PAY!'", "#LIGHT RED #Fallen Sun Paladin Aeryn: ' %s ¡Trajiste solamente la destrucción al infierno! ¡Pagarás", "logPlayer")
 t("Ruins of the Gates of Morning", "Ruinas de las puertas de la mañana", "_t")
 t("The Sunwall was destroyed while you were trapped in the High Peak.", "El Sunwall fue destruido mientras estabas atrapado en el High Peak.", "_t")
 t("Winner", "Ganador", "_t")

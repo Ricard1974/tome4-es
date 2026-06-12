@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Ring of Blood", "Anillo de sangre", "_t")
-t("Slavers Compound (%d)", "Esclavistas compuestos (  PH0  )", "tformat")
+t("Slavers Compound (%d)", "Esclavistas compuestos ( %d )", "tformat")
 

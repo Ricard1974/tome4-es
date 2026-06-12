@@ -1405,10 +1405,10 @@ t("Game installation successful. Have fun!", "Instalación completada. ¡Diviér
 
 
 -- new text
-t("%dth", "%to", "_t")
+t("%dth", "%to%d", "_t")
 t("%dst", "%do", "_t")
 t("%dnd", "%da", "_t")
-t("%drd", "%ar", "_t")
+t("%drd", "%ar%d", "_t")
 t("an ", "un ", "_t")
 t("a ", "un ", "_t")
 t("she", "ella", "_t")

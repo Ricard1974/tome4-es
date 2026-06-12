@@ -6,5 +6,5 @@
 
 t(" area effect", "efecto de la zona", "_t")
 t("area effect", "efecto de la zona", "_t")
-t("%s's %s", " PH0    ", "tformat")
+t("%s's %s", "%s   %s", "tformat")
 

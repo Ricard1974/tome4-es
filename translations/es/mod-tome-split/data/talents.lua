@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#LIGHT_STEEL_BLUE#%s (Class Evolution)", "#LIGHT STEEL BLUE#  PH0   (Class Evolution)", "tformat")
-t("#SANDY_BROWN#%s (Race Evolution)", "#SANDY BROWN# PH0   (Race Evolution)", "tformat")
+t("#LIGHT_STEEL_BLUE#%s (Class Evolution)", "#LIGHT STEEL BLUE# %s  (Class Evolution)", "tformat")
+t("#SANDY_BROWN#%s (Race Evolution)", "#SANDY BROWN#%s  (Race Evolution)", "tformat")
 t("a spell", "un hechizo", "_t")
 t("a mind power", "un poder mental", "_t")
 t("a nature gift", "un regalo de naturaleza", "_t")

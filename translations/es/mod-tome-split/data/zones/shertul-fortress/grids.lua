@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%0.2f Energy Stored", " PH0  Energy Stored", "tformat")
+t("%0.2f Energy Stored", "%0.2f Energy Stored", "tformat")
 t("stair back to the lake of Nur", "escalera de regreso al lago de Nur", "entity name")
 t("teleportation circle to the surface", "círculo de teletransportación a la superficie", "entity name")
 t("teleportation circle for Melinda", "círculo de teletransportación para Melinda", "entity name")
@@ -18,7 +18,7 @@ t("The farportal is broken and will not be usable anymore.", "El farportal está
 t("The fortress does not have enough energy to power a trip through the portal.", "La fortaleza no tiene suficiente energía para hacer un viaje a través del portal.", "_t")
 t("Do you want to travel in the farportal? You cannot know where you will end up.", "¿Quieres viajar en el farportal? No puedes saber dónde terminarás.", "_t")
 t("Exploratory Farportal exit", "Salida exploratoria Farportal", "_t")
-t("#VIOLET#As %s falls you notice a portal appearing.", "#VIOLET#As   PH0   se nota que aparece un portal.", "logSeen")
+t("#VIOLET#As %s falls you notice a portal appearing.", "#VIOLET#As  %s  se nota que aparece un portal.", "logSeen")
 t("#VIOLET#Your rod of recall shakes, a portal appears beneath you.", "#VIOLET #Tu vara de batidos de memoria, un portal aparece debajo de ti.", "logSeen")
 t("#VIOLET#You enter the swirling portal and in the blink of an eye you set foot in an unfamiliar zone, with no trace of the portal...", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos pones un pie en una zona desconocida, sin rastro del portal...", "log")
 t("Library of Lost Mysteries", "Biblioteca de los misterios perdidos", "entity name")

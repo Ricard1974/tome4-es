@@ -11,5 +11,5 @@ t("ice wall", "muro de hielo", "_t")
 t("a summoned, transparent wall of ice", "una pared de hielo convocada y transparente", "_t")
 t("Ice Breath", "Aliento de hielo", "talent name")
 t("@Source@ breathes ice!", "@Source@ respira hielo!", "_t")
-t("%s resists the freeze!", " PH0  resiste la congelación!", "logSeen")
+t("%s resists the freeze!", "%s resiste la congelación!", "logSeen")
 

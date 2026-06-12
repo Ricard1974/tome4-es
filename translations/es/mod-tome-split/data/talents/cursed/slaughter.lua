@@ -13,7 +13,7 @@ t("#Target# blocks #Source#!", "#Target# blocks #Source#!", "logCombat")
 t("Big", "Grande", "_t")
 t("Medium-sized", "Mediana", "_t")
 t("Small", "Pequeñas", "_t")
-t("Charge through your opponents, attacking anyone near your path for %d%% (at 0 Hate) to %d%% (at 100+ Hate) damage. %s opponents may be knocked away from your path. You can attack a maximum of %d times, and can hit targets along your path more than once.", "Cargue a través de sus oponentes, atacando a alguien cerca de su camino para   PH0 % (a 0 odio) a   PH1 %% (a 100+ Daño. Los oponentes   PH2  pueden ser noqueados lejos de su camino. Usted puede atacar un máximo de   PH3   veces, y puede alcanzar objetivos a lo largo de su camino más de una vez.", "tformat")
+t("Charge through your opponents, attacking anyone near your path for %d%% (at 0 Hate) to %d%% (at 100+ Hate) damage. %s opponents may be knocked away from your path. You can attack a maximum of %d times, and can hit targets along your path more than once.", "Cargue a través de sus oponentes, atacando a alguien cerca de su camino para  %d% (a 0 odio) a  %d%% (a 100+ Daño. Los oponentes  %s pueden ser noqueados lejos de su camino. Usted puede atacar un máximo de  %d  veces, y puede alcanzar objetivos a lo largo de su camino más de una vez.", "tformat")
 t("Cleave", "Partir", "talent name")
 t("#Source# cleaves through #Target#!", "¡Fuente!", "logCombat")
 

@@ -12,5 +12,5 @@ t("You cannot move!", "¡No puedes moverte!", "logPlayer")
 t("Hurricane Throw", "Hurricane Lanzar", "talent name")
 t("You must be grappling something to use this talent.", "Debes estar liando algo para usar este talento.", "logPlayer")
 t("Your grapple victim must be able to move to use this talent.", "Su víctima de grapa debe ser capaz de moverse para usar este talento.", "logPlayer")
-t("#RED#%s is shaken by the collision and loses a turn!#LAST#", "#RED#  PH0  es sacudido por la colisión y pierde un giro! #LAST#", "logSeen")
+t("#RED#%s is shaken by the collision and loses a turn!#LAST#", "#RED# %s es sacudido por la colisión y pierde un giro! #LAST#", "logSeen")
 

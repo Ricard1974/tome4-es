@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s grabs her amulet and disappears in a whirl of arcane energies.", " PH0  toma su amuleto y desaparece en un látigo de energías arcanas.", "logPlayer")
+t("%s grabs her amulet and disappears in a whirl of arcane energies.", "%s toma su amuleto y desaparece en un látigo de energías arcanas.", "logPlayer")
 t("What are you talking about? Why did you attack me?", "¿De qué estás hablando? ¿Por qué me atacaste?", "_t")
 t("Speak and I might spare you. Why did you attack me?", "Habla y te perdonaré. ¿Por qué me atacaste?", "_t")
 t("[kill her]", "[matándola]", "_t")

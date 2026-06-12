@@ -6,9 +6,9 @@
 
 t("Orb of Thaumaturgy", "Orb de Thaumaturgy", "talent name")
 t("Multicaster", "a Multicaster", "talent name")
-t("#LIGHT_BLUE#%s [known, eligible]#LAST#", "#LIGHT BLUE#  PH0   [conocido, elegible]#", "tformat")
-t("#YELLOW#%s [known]#LAST#", "################################################################################################################################################################################################################################################################", "tformat")
-t("#GREY#%s [unknown]#LAST#", "# GREY#  PH0  [unknown]#", "tformat")
+t("#LIGHT_BLUE#%s [known, eligible]#LAST#", "#LIGHT BLUE# %s  [conocido, elegible]#", "tformat")
+t("#YELLOW#%s [known]#LAST#", "################################################################################################################################################################################################################################################################%s", "tformat")
+t("#GREY#%s [unknown]#LAST#", "# GREY# %s [unknown]#", "tformat")
 t("Slipstream", "Influencia", "talent name")
 t("#PURPLE#Your Slipstream does not have enough resources!", "#PURPLE# Your Slipstream does not have enough resources!", "logPlayer")
 t("#PURPLE#Your Slipstream regenerates to full!", "#PURPLE# Your Slipstream regenera to full!", "logPlayer")

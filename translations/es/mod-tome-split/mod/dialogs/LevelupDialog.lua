@@ -78,7 +78,7 @@ t("A generic talent allows you to perform various utility actions and improve yo
 t("Class talent tree", "Árbol de talento de clase", "_t")
 t("A class talent allows you to perform new combat moves, cast spells, and improve your character. It represents the core function of your class. You gain one point every level and two every 5th level. You may also find trainers or artifacts that allow you to learn more.", "Un talento de clase te permite realizar nuevos movimientos de combate, lanzar hechizos y mejorar tu personaje. Representa la función central de tu clase. Ganas un punto cada nivel y dos cada quinto nivel. También puede encontrar entrenadores o artefactos que le permitan aprender más.", "_t")
 t("This talent was recently learnt; you can still unlearn it.", "Este talento fue recientemente aprendido; aún puedes desaprenderlo.", "_t")
-t("The last %d %s talents you learnt are always unlearnable.", "Los últimos   PH0     PH1    talentos que aprendiste son siempre insostenibles.", "tformat")
+t("The last %d %s talents you learnt are always unlearnable.", "Los últimos  %d   %s   talentos que aprendiste son siempre insostenibles.", "tformat")
 t(" generic", "genérico", "_t")
 t(" class", "clase", "_t")
 t("This talent can alter the world in a permanent way; as such, you can never unlearn it once known.", "Este talento puede alterar el mundo de manera permanente; como tal, nunca se puede desaprenderlo una vez conocido.", "_t")

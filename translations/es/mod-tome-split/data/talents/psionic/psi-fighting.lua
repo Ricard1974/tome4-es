@@ -10,5 +10,5 @@ t("Augmentation", "Agotación", "talent name")
 t("Warding Weapon", "arma de guerra", "talent name")
 t("Impale", "Empalar", "talent name")
 t("You cannot do that without a weapon in your telekinetic slot.", "No puedes hacerlo sin un arma en tu tragaperras telequinética.", "logPlayer")
-t("#CRIMSON#%s shatters %s shield!", "¡Escudo!", "logSeen")
+t("#CRIMSON#%s shatters %s shield!", "¡Escudo!%s%s", "logSeen")
 

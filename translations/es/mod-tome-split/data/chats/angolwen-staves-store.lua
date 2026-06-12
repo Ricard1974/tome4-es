@@ -12,11 +12,11 @@ t("I can teach you staff combat (talent category Spell/Staff combat).  Learning 
 t("Just give me the basics (reveals locked talent category) - 100 gold.", "Solo dame lo básico (reveals de la categoría de talento bloqueado) - 100 oro.", "_t")
 t("The staff carver spends some time with you, teaching you the basics of staff combat.", "El carburador del personal pasa algún tiempo contigo, enseñándote los fundamentos del combate del personal.", "logPlayer")
 t("He is surprised at how quickly you are able to follow his tutelage.", "Le sorprende lo rápido que eres capaz de seguir su tutelaje.", "logPlayer")
-t("Please teach me what I need to know (unlocks talent category) - %d gold.", "Por favor enséñame lo que necesito saber (desbloquear la categoría de talento) -   PH0    oro.", "tformat")
+t("Please teach me what I need to know (unlocks talent category) - %d gold.", "Por favor enséñame lo que necesito saber (desbloquear la categoría de talento) -  %d   oro.", "tformat")
 t("The staff carver spends a substantial amount of time teaching you all of the techniques of staff combat.", "El carpas de personal pasa una cantidad sustancial de tiempo enseñándole todas las técnicas de combate del personal.", "logPlayer")
 t("He is impressed with your mastery and shows you a few extra techniques.", "Está impresionado con su maestría y le muestra algunas técnicas adicionales.", "logPlayer")
 t("I'm already proficient, but I want to be an expert (improves talent mastery by 0.2) - 750 gold.", "Ya soy competente, pero quiero ser un experto (mejorando la maestría de talento por 0,2) - 750 oro.", "_t")
-t("The staff carver spends a great deal of time going over the finer details of staff combat with you%s.", "El carburador del personal pasa mucho tiempo repasando los detalles más finos del combate del personal con usted   PH0   .", "tformat")
+t("The staff carver spends a great deal of time going over the finer details of staff combat with you%s.", "El carburador del personal pasa mucho tiempo repasando los detalles más finos del combate del personal con usted  %s  .", "tformat")
 t(", including some esoteric techniques", ", incluyendo algunas técnicas esotéricas", "_t")
 t("No thanks.", "No, gracias.", "_t")
 

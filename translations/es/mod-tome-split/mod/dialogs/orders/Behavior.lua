@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Set behavior: %s", "Comportamiento de conjunto:   PH0  ", "tformat")
-t("%s behavior set to %s.", " PH0   Comportamiento establecido para   PH1   .", "logPlayer")
+t("Set behavior: %s", "Comportamiento de conjunto:  %s ", "tformat")
+t("%s behavior set to %s.", "%s  Comportamiento establecido para  %s  .", "logPlayer")
 t("Default", "Default", "_t")
 t("Melee", "Melee", "_t")
 t("Ranged", "Rango", "_t")

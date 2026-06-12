@@ -6,10 +6,10 @@
 
 t("Blurred Mortality", "Mortalidad desenfrenada", "talent name")
 t("Across the Veil", "A través del velo", "talent name")
-t("#GREY#%s unleashes a blast of frostdusk as %s crosses the veil!", "#GREY#  PH0   desata una explosión de frostdusk mientras   PH1    cruza el velo!", "logSeen")
+t("#GREY#%s unleashes a blast of frostdusk as %s crosses the veil!", "#GREY# %s  desata una explosión de frostdusk mientras  %s   cruza el velo!", "logSeen")
 t("Runeskin", "Piel Rúnica", "talent name")
 t("effects disabled because of an infusion", "efectos discapacitados debido a una infusión", "_t")
 t("effects disabled because of no rune", "efectos discapacitados debido a la ausencia de runa", "_t")
-t("%d runes active", " PH0   funciona activamente", "tformat")
+t("%d runes active", "%d  funciona activamente", "tformat")
 t("Spikes of Decrepitude", "Puas of Decrepitude", "talent name")
 

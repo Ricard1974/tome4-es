@@ -71,14 +71,13 @@ class LibreTranslator:
                 self.cache[text] = result
                 return result
 
-        # Preservar placeholders
+        # Preservar placeholders: reemplazar %s, %d, %f con marcadores ffNff
         ph_map = {}
-        ph_counter = [0]
 
         def save_ph(m):
-            ph_map[f"__PH{ph_counter[0]}__"] = m.group(0)
-            ph_counter[0] += 1
-            return f"__PH{ph_counter[0] - 1}__"
+            idx = len(ph_map)
+            ph_map[f"ff{idx}ff"] = m.group(0)
+            return f"ff{idx}ff"
 
         text_clean = re.sub(r"%[0-9.]*[sdf]", save_ph, text)
 
@@ -99,9 +98,17 @@ class LibreTranslator:
             self.cache[text] = text
             return text
 
-        # Restaurar placeholders
+        # Restaurar placeholders: buscar ffNff y reemplazar con el original
         for ph, orig in ph_map.items():
             result = result.replace(ph, orig)
+
+        # Si aun hay PH0, PH1, __PH0__ (de version anterior del traductor), arreglarlos
+        # buscando en el texto original que placeholders hay y restaurandolos
+        orig_phs = re.findall(r"%\d*\.?\d*[sdfd]", text)
+        for i, ph in enumerate(orig_phs):
+            for variant in [f"__PH{i}__", f"PH{i}", f" PH{i} ", f"  PH{i}  "]:
+                if variant in result:
+                    result = result.replace(variant, ph)
 
         self.cache[text] = result
         return result

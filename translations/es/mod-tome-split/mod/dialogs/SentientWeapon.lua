@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Points left: #00FF00#%d#WHITE#", "Puntos a la izquierda:", "_t")
+t("Points left: #00FF00#%d#WHITE#", "Puntos a la izquierda:%d", "_t")
 t("Stat", "Stat", "_t")
 t("Value", "Valor", "_t")
 t("Spellpower", "Poder de hechizo", "_t")
@@ -15,7 +15,7 @@ t("Stat is at the maximum", "Stat está al máximo", "_t")
 t("You can not increase this stat further!", "¡No puedes aumentar este estante más lejos!", "_t")
 t("Impossible", "Imposible", "_t")
 t("You cannot take out more points!", "¡No puedes sacar más puntos!", "_t")
-t("Stats points left: #00FF00#%s", "Puntos a la izquierda:", "tformat")
+t("Stats points left: #00FF00#%s", "Puntos a la izquierda:%s", "tformat")
 t("Strength", "Fuerza", "_t")
 t("Dexterity", "Destreza", "_t")
 t("Magic", "Magia", "_t")

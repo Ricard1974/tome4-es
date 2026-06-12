@@ -6,7 +6,7 @@
 
 t("horror", "horror", "entity type")
 t("aquatic", "acuático", "entity subtype")
-t("#LIGHT_BLUE#%s explodes into a huge bubble of air!", "#LIGHT BLUE#  PH0   explota en una enorme burbuja de aire!", "logSeen")
+t("#LIGHT_BLUE#%s explodes into a huge bubble of air!", "#LIGHT BLUE# %s  explota en una enorme burbuja de aire!", "logSeen")
 t("entrenched horror", "horror arraigado", "entity name")
 t("This massive stony structure shifts and pulsates, its many long, thin tentacles probing the nearby water for food.", "Esta estructura pésima cambia y pulsa, sus muchos tentáculos largos y delgados que provocan el agua cercana para la comida.", "_t")
 t("swarming horror", "horror enjambre", "entity name")

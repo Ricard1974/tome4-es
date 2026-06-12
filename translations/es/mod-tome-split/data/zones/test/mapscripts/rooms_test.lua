@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("!!! %d", "!!!   PH0 ", "log")
+t("!!! %d", "!!!  %d", "log")
 

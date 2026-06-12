@@ -16,7 +16,7 @@ t("Please teach me what I need to know (unlocks talent category) - 500 gold.", "
 t("The shopkeeper spends a great deal of time going over the finer details of channeling energy through mindstars with you.", "El comerciante pasa mucho tiempo repasando los detalles más finos de canalizar energía a través de las estrellas mentales contigo.", "logPlayer")
 t("He is impressed with your mastery and shows you a few tricks to handle stronger energy flows.", "Está impresionado con su dominio y le muestra algunos trucos para manejar flujos de energía más fuertes.", "logPlayer")
 t("I'm already proficient, but I want to be an expert (improves talent mastery by 0.2) - 750 gold.", "Ya soy competente, pero quiero ser un experto (mejorando la maestría de talento por 0,2) - 750 oro.", "_t")
-t("The shopkeeper spends a great deal of time going over the finer details of channeling energy through mindstars with you%s.", "El comerciante pasa mucho tiempo repasando los detalles más finos de canalizar energía a través de las estrellas mentales con usted  PH0  .", "tformat")
+t("The shopkeeper spends a great deal of time going over the finer details of channeling energy through mindstars with you%s.", "El comerciante pasa mucho tiempo repasando los detalles más finos de canalizar energía a través de las estrellas mentales con usted %s .", "tformat")
 t(", and teaches you enhanced mental discipline needed to maintain powerful energy fields", ", y te enseña mayor disciplina mental necesaria para mantener campos energéticos poderosos", "_t")
 t("No thanks.", "No, gracias.", "_t")
 

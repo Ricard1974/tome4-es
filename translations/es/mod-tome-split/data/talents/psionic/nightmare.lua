@@ -5,13 +5,13 @@
 -- Traductor: --
 
 t("Nightmare", "Pesadilla", "talent name")
-t("%s resists the nightmare!", " PH0  resiste la pesadilla!", "logSeen")
+t("%s resists the nightmare!", "%s resiste la pesadilla!", "logSeen")
 t("Inner Demons", "Demonios internos", "talent name")
-t("%s's Inner Demon", "El Demonio Interior", "tformat")
+t("%s's Inner Demon", "El Demonio Interior%s", "tformat")
 t("A hideous, demonic entity that resembles the creature it came from.", "Una entidad horrible y demoníaca que se parece a la criatura de la que vino.", "_t")
-t("#F53CBE#%s's Inner Demon manifests!", "¡El Demonio Interior se manifiesta!", "logSeen")
+t("#F53CBE#%s's Inner Demon manifests!", "¡El Demonio Interior se manifiesta!%s", "logSeen")
 t("You can't cast this on friendly targets.", "No puedes poner esto en objetivos amistosos.", "logPlayer")
-t("%s resists the demons!", " PH0  resiste a los demonios!", "logSeen")
+t("%s resists the demons!", "%s resiste a los demonios!", "logSeen")
 t("Waking Nightmare", "Despertar Pesadilla", "talent name")
 t("Night Terror", "Noche Terror", "talent name")
 t("terror", "terror", "_t")

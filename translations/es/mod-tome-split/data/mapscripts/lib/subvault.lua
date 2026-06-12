@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Hidden Vault - %s", "Vault ocultada -   PH0  ", "tformat")
-t("stairs back to %s", "escaleras de vuelta a   PH0  ", "_t")
+t("Hidden Vault - %s", "Vault ocultada -  %s ", "tformat")
+t("stairs back to %s", "escaleras de vuelta a  %s ", "_t")
 t("hidden vault", "bóveda oculta", "_t")
 t("Crumbling stairs lead down to something.", "Las escaleras cruzadas conducen a algo.", "_t")
 t("collapsing hidden vault", "bóveda escondida", "_t")

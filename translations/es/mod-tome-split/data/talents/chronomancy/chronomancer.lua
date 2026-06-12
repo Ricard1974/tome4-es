@@ -54,6 +54,6 @@ t("paradox", "paradoja", "talent type")
 t("Break the laws of spacetime.", "Romper las leyes de tiempo espacial.", "_t")
 t("anomalies", "anomalías", "talent type")
 t("Spacetime anomalies that can randomly occur when paradox is to high.", "Las anomalías de tiempo espacial que pueden ocurrir aleatoriamente cuando la paradoja es alta.", "_t")
-t("%s's temporal clone", "El clon temporal de Phow", "tformat")
+t("%s's temporal clone", "El clon temporal de Phow%s", "tformat")
 t("A creature from another timeline.", "Una criatura de otro cronómetro.", "_t")
 

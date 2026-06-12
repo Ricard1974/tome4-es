@@ -105,6 +105,6 @@ t("eldritch stone", "piedra eldritch", "talent type")
 t("Summon stony spikes imbued with various powers.", "Apuntas picantes de limón con varios poderes.", "_t")
 t("deeprock", "profunda", "talent type")
 t("Harness the power of the world to turn into a Deeprock Form.", "Harness el poder del mundo para convertirse en una forma Deeprock.", "_t")
-t("#GREY#%s can not be healed this way!", "#GREY #        no puede ser curado de esta manera!", "logSeen")
+t("#GREY#%s can not be healed this way!", "#GREY #        no puede ser curado de esta manera!%s", "logSeen")
 t("Necrotic Minion", "Necrotic Minion", "_t")
 

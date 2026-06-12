@@ -6,9 +6,9 @@
 
 t("Resolve", "Resolver", "talent name")
 t("Antimagic Zone", "Zona Antimágica", "talent name")
-t("%s resists the silence!", " PH0  resiste el silencio!", "logSeen")
+t("%s resists the silence!", "%s resiste el silencio!", "logSeen")
 t("Antimagic Shield", "Antimagic Escudo", "talent name")
-t("#GREEN#The antimagic shield of %s crumbles.", "#GREEN# El escudo antimagico de   PH0   se desmorona.", "logSeen")
+t("#GREEN#The antimagic shield of %s crumbles.", "#GREEN# El escudo antimagico de  %s  se desmorona.", "logSeen")
 t("Mana Clash", "Maná Choque", "talent name")
 t(" #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", " #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "_t")
 t("Antimagic Adept", "Antimagic Experto", "talent name")

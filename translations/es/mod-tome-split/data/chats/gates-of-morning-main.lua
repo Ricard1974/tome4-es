@@ -40,5 +40,5 @@ t("I am afraid I was too late, but I still have some valuable information. *#LIG
 t("I will avenge your men.", "Vengaré a sus hombres.", "_t")
 t("Ah! This is wonderful! Finally a ray of hope amidst the darkness. I will assign my best troops to this. Thank you, @playername@ - take this as a token of gratitude.", "¡Ah! ¡Esto es maravilloso! Finalmente un rayo de esperanza en medio de la oscuridad. Voy a asignar mis mejores tropas a esto. Gracias, @playername@ - tomar esto como muestra de gratitud.", "_t")
 t("Good luck.", "Buena suerte.", "_t")
-t("Aeryn gives you: %s", "Aeryn te da:", "logPlayer")
+t("Aeryn gives you: %s", "Aeryn te da:%s", "logPlayer")
 

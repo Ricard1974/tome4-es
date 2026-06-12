@@ -10,5 +10,5 @@ t("Materialize Barrier", "Materializar la barrera", "talent name")
 t("materialize barrier", "materializar la barrera", "_t")
 t("a summoned wall of stone", "un muro de piedra convocado", "_t")
 t("Disintegration", "Desintegración", "talent name")
-t("#CRIMSON#%s's beneficial effect was stripped!#LAST#", "#CRIMSON#  PH0  El efecto beneficioso fue despojado!#", "logSeen")
+t("#CRIMSON#%s's beneficial effect was stripped!#LAST#", "#CRIMSON# %s El efecto beneficioso fue despojado!#", "logSeen")
 

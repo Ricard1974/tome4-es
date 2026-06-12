@@ -6,7 +6,7 @@
 
 t("Throwing Knives", "Cuchillos arrojadizos", "talent name")
 t("Throwing Knife", "Tirando cuchillo", "_t")
-t("%d%% %s", " PH0  %%   PH1 ", "tformat")
+t("%d%% %s", "%d %%  %s", "tformat")
 t("Fan of Knives", "Fan de Knives", "talent name")
 t("Fan of Knives", "Fan de Knives", "_t")
 t("Precise Aim", "Precise Apuntar", "talent name")

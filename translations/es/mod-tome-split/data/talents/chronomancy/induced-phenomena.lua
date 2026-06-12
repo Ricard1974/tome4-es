@@ -12,7 +12,7 @@ t("You must have Cosmic Cycle active to use this talent.", "Debes tener el Ciclo
 t("Polarity Bolt", "Polarity Bolt", "_t")
 t("Reverse Causality", "Carácter inverso", "talent name")
 t("Epoch", "Epoca", "talent name")
-t("%s resists the blindness!", " PH0  resiste la ceguera!", "logSeen")
-t("%s resists the pin!", " PH0  resiste el pin!", "logSeen")
-t("%s resists the confusion!", " PH0  resiste la confusión!", "logSeen")
+t("%s resists the blindness!", "%s resiste la ceguera!", "logSeen")
+t("%s resists the pin!", "%s resiste el pin!", "logSeen")
+t("%s resists the confusion!", "%s resiste la confusión!", "logSeen")
 

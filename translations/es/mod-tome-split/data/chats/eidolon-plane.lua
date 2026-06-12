@@ -13,7 +13,7 @@ t("Thank you, I am ready to go back!", "¡Gracias, estoy listo para regresar!", 
 t("Thank you, but I am weary of this life, I wish no more, please let me go.", "Gracias, pero estoy cansado de esta vida, no deseo más, por favor déjame ir.", "_t")
 t("Thanks.", "Gracias.", "chat_eidolon-plane")
 t("Just let me go please.", "Déjame ir por favor.", "_t")
-t("asked the Eidolon to let %s die in peace", "pidió al Eidolon que dejara morir en paz", "tformat")
+t("asked the Eidolon to let %s die in peace", "pidió al Eidolon que dejara morir en paz%s", "tformat")
 t("her", "ella", "_t")
 t("him", "él", "_t")
 t("brought down by Eidolon", "derribado por Eidolon", "_t")

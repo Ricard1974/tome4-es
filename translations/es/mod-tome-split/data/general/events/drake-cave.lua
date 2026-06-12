@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Intimidating Cave", "Intimidación de la cueva", "_t")
-t("ladder back to %s", "escalera de vuelta a   PH0 ", "_t")
+t("ladder back to %s", "escalera de vuelta a  %s", "_t")
 

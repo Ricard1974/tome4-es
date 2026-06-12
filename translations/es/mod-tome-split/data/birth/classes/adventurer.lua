@@ -20,6 +20,6 @@ t("#{bold}##PURPLE#Every 10 levels starting at level 2 they gain a new unlocked 
 t("#{bold}##GOLD#This is a bonus class for the chaotically inclined. It is by no means balanced, fun or winnable, it is most of all #{italic}#RANDOM#{bold}#.#WHITE##{normal}#", "Esta es una clase de bonificación para los caóticos inclinados. No es por ningún medio equilibrado, divertido o winnable, es casi todo #{italic}#RANDOM#{bold}#.#WHITE###{normal}#", "_t")
 t("Their most important stats depend on what they get to do.", "Sus estadísticas más importantes dependen de lo que puedan hacer.", "_t")
 t("#GOLD#Life per level:#LIGHT_BLUE# +2", "#GOLD#Life per level:#LIGHT BLUE# +2", "_t")
-t("#GOLD#As you level up you learn the talent tree: #LIGHT_BLUE#%s", "#GOLD#A medida que nivelas, aprendes el árbol de talentos: #LIGHT BLUE#  PH0 ", "say")
+t("#GOLD#As you level up you learn the talent tree: #LIGHT_BLUE#%s", "#GOLD#A medida que nivelas, aprendes el árbol de talentos: #LIGHT BLUE# %s", "say")
 t("Wanderer Seed", "Semilla Errante", "_t")
 

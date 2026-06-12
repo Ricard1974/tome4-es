@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s (fell aura)", " PH0   (fell aura)", "tformat")
+t("%s (fell aura)", "%s  (fell aura)", "tformat")
 

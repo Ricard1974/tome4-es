@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("ramp up to %s", "rampa hasta   PH0 ", "tformat")
+t("ramp up to %s", "rampa hasta  %s", "tformat")
 t("#VIOLET# The ramp crumbles as you climb it, followed by the collapse of the cavern.", "#VIOLET# La rampa se desmorona mientras la subes, seguido por el colapso de la caverna.", "log")
 t("Cavern beneath tombstones", "Cavern under tombstones", "_t")
 t("Undead are rising from the ground! You must hold on!", "¡Los muertos están saliendo del suelo! ¡Debes aguantar!", "_t")

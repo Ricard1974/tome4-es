@@ -6,9 +6,9 @@
 
 t("Open", "Abierto", "_t")
 t("Leave", "Vete", "_t")
-t("%s", " PH0 ", "logSeen")
+t("%s", "%s", "logSeen")
 t("spot", "lugar", "_t")
-t("%s's %s", " PH0    ", "tformat")
+t("%s's %s", "%s   %s", "tformat")
 t(" (range: ", "(range:", "_t")
 t("Min.level: ", "Min.level:", "_t")
 t("Max.level: ", "Max.level:", "_t")

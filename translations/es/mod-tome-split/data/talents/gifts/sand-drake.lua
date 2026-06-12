@@ -6,7 +6,7 @@
 
 t("Swallow", "Tragar", "talent name")
 t("#Source# tries to swallow #Target#!", "#Source# intenta tragar #Target#!", "logCombat")
-t("%s resists!", " PH0  resiste!", "logSeen")
+t("%s resists!", "%s resiste!", "logSeen")
 t("Quake", "Terremoto", "talent name")
 t("@Source@ shakes the ground!", "@Source@ sacude el suelo!", "_t")
 t("Burrow", "Excavar", "talent name")

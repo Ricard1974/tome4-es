@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("The Way We Weren't", "La forma en que no estábamos", "_t")
-t("%s the Paradox Mage", " PH0    El mensaje paradoja", "tformat")
-t("A later (less fortunate?) version of %s, possibly going mad.", "Una versión posterior (¿menos afortunado?) de   PH0  , posiblemente enloqueciendo.", "tformat")
+t("%s the Paradox Mage", "%s   El mensaje paradoja", "tformat")
+t("A later (less fortunate?) version of %s, possibly going mad.", "Una versión posterior (¿menos afortunado?) de  %s , posiblemente enloqueciendo.", "tformat")
 t("but nobody knew why #sex# suddenly became evil", "pero nadie sabía por qué el sexo de repente se convirtió en mal", "_t")
 t("#LIGHT_BLUE#Killing your own future self does feel weird, but you know that you can avoid this future. Just do not time travel.", "#LIGHT BLUE #Killing your own future self does feel rare, but you know that you can avoid this future. No viajes en el tiempo.", "logSeen")
 t("Meet the guardian!", "¡Conoce al tutor!", "_t")

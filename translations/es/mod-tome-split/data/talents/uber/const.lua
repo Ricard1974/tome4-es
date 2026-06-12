@@ -6,7 +6,7 @@
 
 t("Draconic Body", "Draconic Cuerpo", "talent name")
 t("Be close to the draconic world", "Estar cerca del mundo dracónico", "_t")
-t("%s's draconic body hardens and heals!", "¡El cuerpo dracónico se endurece y sana!", "logSeen")
+t("%s's draconic body hardens and heals!", "¡El cuerpo dracónico se endurece y sana!%s", "logSeen")
 t("Your body hardens and recovers quickly. When pushed below 30%% life, you instantly restore 40%% of your total life.", "Su cuerpo se endurece y se recupera rápidamente. Cuando se empuja por debajo del 30% de la vida, se restablece instantáneamente el 40% de su vida total.", "tformat")
 t("Bloodspring", "Sangre", "talent name")
 t("Have let Melinda be sacrificed", "Deja que Melinda sea sacrificada", "_t")

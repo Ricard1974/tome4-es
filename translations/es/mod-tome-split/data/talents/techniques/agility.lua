@@ -5,10 +5,10 @@
 -- Traductor: --
 
 t("Agile Defense", "Defensa ágil", "talent name")
-t("%s(%d deflected)#LAST#", " PH0          desviado)#", "tformat")
+t("%s(%d deflected)#LAST#", "%s         desviado)#%d", "tformat")
 t("Vault", "Boveda", "talent name")
 t("You require a shield to use this talent.", "Necesitas un escudo para usar este talento.", "logPlayer")
-t("%s resists the daze!", " PH0  resiste a la daze!", "logSeen")
+t("%s resists the daze!", "%s resiste a la daze!", "logSeen")
 t("Bull Shot", "Bull Disparo", "talent name")
 t("You are too close to build up momentum!", "¡Estás demasiado cerca para aumentar el impulso!", "logPlayer")
 t("Rapid Shot", "Rapid Disparo", "talent name")

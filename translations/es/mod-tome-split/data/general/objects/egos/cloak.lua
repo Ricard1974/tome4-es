@@ -53,7 +53,7 @@ t("hunter", "cazador", "entity keyword")
 t(" of the voidstalker", "of the voidstalker", "entity name")
 t("voidstriker", "golpevacío", "entity keyword")
 t("blink randomly (up to range 8) within 2 spaces of a target hostile creature", "parpadear al azar (hasta el rango 8) dentro de 2 espacios de una criatura hostil objetivo", "_t")
-t("%s uses %s!", " PH0  utiliza   PH1   !", "logSeen")
+t("%s uses %s!", "%s utiliza  %s  !", "logSeen")
 t(" of backstabbing", "of backstabbing", "entity name")
 t("backstab", "apuñalar", "entity keyword")
 

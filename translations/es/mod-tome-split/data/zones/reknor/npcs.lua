@@ -14,7 +14,7 @@ t("When last you saw it, this cavern was littered with the corpses of orcs that 
 t("human", "humanos", "entity subtype")
 t("Harno, Herald of Last Hope", "Harno, Herald of Last Hope", "entity name")
 t("This is one of the heralds of Last Hope. He seems to be looking for you.", "Este es uno de los heraldos de la Última Esperanza. Parece estar buscándote.", "_t")
-t("#LIGHT_RED#You hear a death cry. '%s I have a messag... ARG!'", "Oíste un grito de muerte. '  PH0   Tengo un lío... ¡ARG", "logPlayer")
+t("#LIGHT_RED#You hear a death cry. '%s I have a messag... ARG!'", "Oíste un grito de muerte. ' %s  Tengo un lío... ¡ARG", "logPlayer")
 t("demon", "demonios", "entity type")
 t("major", "principales", "entity subtype")
 t("Lithfengel", "Lithfengel", "entity name")

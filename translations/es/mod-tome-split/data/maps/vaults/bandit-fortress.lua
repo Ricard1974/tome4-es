@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("bandit fortress", "fortaleza bandida", "_t")
-t("stairs back to %s", "escaleras de vuelta a   PH0  ", "_t")
+t("stairs back to %s", "escaleras de vuelta a  %s ", "_t")
 t("#rng# the Guard", "#rng# the Guard", "_t")
 t("scroll", "pergamino", "_t")
 t("Guard's Journal", "Diario de la Guardia", "_t")

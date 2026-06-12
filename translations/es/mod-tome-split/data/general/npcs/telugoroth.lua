@@ -6,7 +6,7 @@
 
 t("Reality has shifted.", "La realidad ha cambiado.", "logSeen")
 t("The spell fizzles!", "¡El hechizo brilla!", "logSeen")
-t("%s resists the swap!", " PH0  resiste el intercambio!", "logSeen")
+t("%s resists the swap!", "%s resiste el intercambio!", "logSeen")
 t("elemental", "elemental", "entity type")
 t("temporal", "temporal", "entity subtype")
 t("and lost outside time", "y perdido fuera del tiempo", "_t")

@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Thank you for your courage.", "Gracias por tu coraje.", "_t")
-t("The herald gives you %s.", "El heraldo te da   PH0   .", "logPlayer")
+t("The herald gives you %s.", "El heraldo te da  %s  .", "logPlayer")
 

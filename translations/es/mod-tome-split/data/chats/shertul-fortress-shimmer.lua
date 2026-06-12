@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("[Alter the appearance of %s]", "[Más allá de la apariencia de   PH0  ]", "tformat")
+t("[Alter the appearance of %s]", "[Más allá de la apariencia de  %s ]", "tformat")
 t("[Alter the appearance of your body]", "[Más allá de la apariencia de su cuerpo]", "_t")
 t("[Alter the appearance of your facial features]", "[Más allá de la apariencia de sus características faciales]", "_t")
 t("[Alter the appearance of your hair]", "[Más allá de la apariencia de su pelo]", "_t")

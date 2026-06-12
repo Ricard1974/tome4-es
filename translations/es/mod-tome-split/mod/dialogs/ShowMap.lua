@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Map: #0080FF#%s", "Mapa: #0080FF# PH0  ", "tformat")
+t("Map: #0080FF#%s", "Mapa: #0080FF#%s ", "tformat")
 

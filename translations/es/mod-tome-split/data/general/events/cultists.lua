@@ -22,5 +22,5 @@ t("and used for her perverted desires", "y utilizado para sus deseos pervertidos
 t("Crown of Burning Pain", "Crown of Burning Pain", "_t")
 t("burning crown", "corona ardiente", "_t")
 t("This crown of pure flames possesses a myriad of small molten rocks floating wildly above it. Each can be removed to throw as a true meteor.", "Esta corona de llamas puras posee una miríada de pequeñas rocas fundidas flotando salvajemente sobre ella. Cada uno puede ser eliminado para lanzar como un verdadero meteoro.", "_t")
-t("%s pulls a dagger and opens his own chest, piercing his beating heart. The stone glows with malevolent colors.", " PH0    tira una daga y abre su propio pecho, perforando su corazón latido. La piedra brilla con colores masculinos.", "logSeen")
+t("%s pulls a dagger and opens his own chest, piercing his beating heart. The stone glows with malevolent colors.", "%s   tira una daga y abre su propio pecho, perforando su corazón latido. La piedra brilla con colores masculinos.", "logSeen")
 

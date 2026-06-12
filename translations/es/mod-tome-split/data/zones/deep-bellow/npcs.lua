@@ -6,7 +6,7 @@
 
 t("The Mouth", "El Mouth", "entity name")
 t("and revived as a screeching drem bat", "y revivido como un murciélago de esperma", "_t")
-t("#CRIMSON#%s seems invulnerable, there must be an other way to kill it!", "#CRIMSON#       Parece invulnerable, debe haber otra manera de matarlo!", "logSeen")
+t("#CRIMSON#%s seems invulnerable, there must be an other way to kill it!", "#CRIMSON#       Parece invulnerable, debe haber otra manera de matarlo!%s", "logSeen")
 t("I have heard a dwarf whispering about some abomination in the deep bellow.", "He oído un enano susurrando sobre una abominación en el profundo vientre.", "_t")
 t("slimy crawler", "slimy rastreador", "entity name")
 t("#AQUAMARINE#With the Mouth's death its crawler also falls lifeless on the ground!", "#AQUAMARINE#Con la muerte del Mouth, su rastreador también cae sin vida en el suelo!", "logSeen")

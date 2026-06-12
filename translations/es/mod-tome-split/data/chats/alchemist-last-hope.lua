@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Damn it all. You're too late. %s has already finished. But I suppose you did your best, so I'll take these and keep my end of the bargian.", "Maldita sea. Llegas demasiado tarde. Ya ha terminado. Pero supongo que hiciste lo mejor que pudiste, así que tomaré esto y mantendré mi final del bargiano.", "tformat")
-t("Great work! And you're still in one piece, I see. Always nice. I feel the same way after safely brewing up a particularly tricky mixture. I've near blown my face clean off several times. Oh, while you were gone a little bird told me that %s has managed to create a %s. Don't let him finish before me!", "¡Gran trabajo! Y aún estás en una pieza, ya veo. Siempre agradable. Me siento igual después de elaborar con seguridad una mezcla particularmente difícil. Estoy cerca de volar mi cara limpia varias veces. Mientras te habías ido un pajarito me dijo que   PH0   ha logrado crear un   PH1   . ¡No dejes que termine antes que yo!", "tformat")
+t("Damn it all. You're too late. %s has already finished. But I suppose you did your best, so I'll take these and keep my end of the bargian.", "Maldita sea. Llegas demasiado tarde. Ya ha terminado. Pero supongo que hiciste lo mejor que pudiste, así que tomaré esto y mantendré mi final del bargiano.%s", "tformat")
+t("Great work! And you're still in one piece, I see. Always nice. I feel the same way after safely brewing up a particularly tricky mixture. I've near blown my face clean off several times. Oh, while you were gone a little bird told me that %s has managed to create a %s. Don't let him finish before me!", "¡Gran trabajo! Y aún estás en una pieza, ya veo. Siempre agradable. Me siento igual después de elaborar con seguridad una mezcla particularmente difícil. Estoy cerca de volar mi cara limpia varias veces. Mientras te habías ido un pajarito me dijo que  %s  ha logrado crear un  %s  . ¡No dejes que termine antes que yo!", "tformat")
 t("Always.", "Siempre.", "_t")
 t("[leave]", "[Salir]", "_t")
 t("What do you propose?", "¿Qué propones?", "_t")
@@ -17,14 +17,14 @@ t("Oh, easy. You get a swig of each brew, of course. They'll put hair on your ch
 t("I accept.", "Acepto.", "_t")
 t("I cannot aid you at this time.", "No puedo ayudarte en este momento.", "_t")
 t("One last thing. There's a few other fellows angling for the same slot in the Brotherhood that I am. They're not going to be sitting on their hands while we're at work here, so best move quick-like. Now, which of these do you want to help me with first: the Brew of Brawn, the Brew of Stoneskin, or the Brew of Foundations? Or Elixirs, rather. Not Brews. Best get in the habit now, I suppose.", "Una última cosa. Hay otros tipos que se afanan por la misma ranura en la Hermandad que yo. No van a estar sentados en sus manos mientras estamos trabajando aquí, así que mejor movernos rápido. Ahora, ¿cuál de estos quieres ayudarme con el primero: el Brew of Brawn, el Brew of Stoneskin, o el Brew of Foundations? O Elixirs, más bien. No Brews. Será mejor que te pongas en el hábito ahora, supongo.", "_t")
-t("The %s.", "El   PH0  .", "tformat")
+t("The %s.", "El  %s .", "tformat")
 t("Right, here's the list. Oh, one more thing. Got me some fellas already out hunting for this stuff, and I'll not play favorites. One of them brings me those ingredients before you do, and you're out of luck. Hurry back.", "Bien, aquí está la lista. Una cosa más. Tengo algunos tipos que ya están cazando para estas cosas, y no jugaré favoritos. Uno de ellos me trae esos ingredientes antes de hacerlo, y estás fuera de suerte. Date prisa.", "_t")
 t("I'll be off.", "Me voy.", "_t")
 t("Well, I'll see if I can help.", "Bueno, veré si puedo ayudar.", "_t")
 t("I'm here for profit, not errands - I have the list and will work on it; sort your own sidejobs out.", "Estoy aquí para el beneficio, no para los recados - tengo la lista y trabajaré en ella; ordenar sus propias tareas laterales.", "_t")
 t("#LIGHT_GREEN#*The door is locked and nobody responds to your knocks*#WHITE#", "#LIGHT GREEN#*La puerta está cerrada y nadie responde a tus golpes*#", "_t")
 t("[Leave]", "[Salir]", "_t")
-t("I've returned with the ingredients for the %s.", "He vuelto con los ingredientes para el   PH0  .", "tformat")
+t("I've returned with the ingredients for the %s.", "He vuelto con los ingredientes para el  %s .", "tformat")
 t("I've come to offer more aid.", "He venido a ofrecer más ayuda.", "_t")
 t("[Give him the monster bits.]", "[Dale el monstruo pedacitos.]", "_t")
 t("[Give him the monster bits]", "[Dale el monstruo pica]", "_t")

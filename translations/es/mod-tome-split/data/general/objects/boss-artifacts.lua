@@ -18,7 +18,7 @@ t("Upon defeat, Ak'Gishil collapsed into this tiny rift. How it remains stable, 
 t("Blade of Distorted Time", "Hoja of Distorted Tiempo", "entity name")
 t("time-warped sword", "espada encadenada", "_t")
 t("The remnants of a damaged timeline, this blade shifts and fades at random.", "Los restos de un cronograma dañado, esta hoja cambia y se desvanece al azar.", "_t")
-t("deals %d temporal damage and slows enemies in radius 6 of the target by %d%% based on Magic", "acuerdos   PH0    daño temporal y retrasa a los enemigos en el radio 6 del objetivo por   PH1 % basado en Magic", "tformat")
+t("deals %d temporal damage and slows enemies in radius 6 of the target by %d%% based on Magic", "acuerdos  %d   daño temporal y retrasa a los enemigos en el radio 6 del objetivo por  %d% basado en Magic", "tformat")
 t("Rune of Reflection", "Rune of Reflection", "entity name")
 t("You can see your own image mirrored in the surface of this silvery rune.", "Puedes ver tu propia imagen reflejada en la superficie de esta columna plateada.", "_t")
 t("shiny rune", "rígido", "_t")

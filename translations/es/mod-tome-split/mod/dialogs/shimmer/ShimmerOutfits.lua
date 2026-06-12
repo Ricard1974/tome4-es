@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shimmer Sets: %s", "Shimmer Sets:   PH0  ", "tformat")
+t("Shimmer Sets: %s", "Shimmer Sets:  %s ", "tformat")
 t("Search: ", "Buscar:", "_t")
 t("Name", "Nombre", "_t")
 t("Save Outfit", "Saldo", "_t")

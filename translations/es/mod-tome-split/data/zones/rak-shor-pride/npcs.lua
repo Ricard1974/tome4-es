@@ -9,7 +9,7 @@ t("An old orc, wearing black robes. He commands his undead armies to destroy you
 t("and raised as a malformed servant", "y criado como sirviente malformado", "_t")
 t("Rotting Titan", "Titán rotativo", "entity name")
 t("This gigantic mass of flesh and stone moves slowly, the ground rumbling with each step it takes. Its body seems to constantly pulsate and reform. Massive stones at the end of each limb form massive blunt weapons.", "Esta gigantesca masa de carne y piedra se mueve lentamente, la tierra retuyendo con cada paso que toma. Su cuerpo parece pulsar y reformar constantemente. Las piedras masivas al final de cada miembro forman armas contundentes masivas.", "_t")
-t("The ground shakes as %s steps!", "El suelo se sacude como pasos   PH0  !", "logSeen")
+t("The ground shakes as %s steps!", "El suelo se sacude como pasos  %s !", "logSeen")
 t("Glacial Legion", "Legión glacial", "entity name")
 t("A massive, shifting, ethereal form floats in the air around an orb of frozen blood.  The air around it condenses into freezing pools on the floor beneath it.", "Una forma masiva, cambiante, etérea flota en el aire alrededor de un orbe de sangre congelada. El aire alrededor se condensa en piscinas heladas en el suelo debajo.", "_t")
 t("Heavy Sentinel", "Sentinel pesado", "entity name")

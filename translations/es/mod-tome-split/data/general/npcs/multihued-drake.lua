@@ -14,5 +14,5 @@ t("greater multi-hued wyrm", "mayor wyrm multi-hued", "entity name")
 t("An old and powerful multi-hued drake, armed with many deadly breath weapons and nasty claws.", "Un viejo y poderoso drake multihued, armado con muchas armas de aliento mortal y garras desagradables.", "_t")
 t("Ureslak the Prismatic", "Ureslak el prismático", "entity name")
 t("A huge multi-hued drake. It seems to shift color rapidly.", "Un enorme drake multihued. Parece cambiar el color rápidamente.", "_t")
-t("#YELLOW#%s's skin turns %s!", "#YELLOW#         's skin turn   PH1    !", "logSeen")
+t("#YELLOW#%s's skin turns %s!", "#YELLOW#         's skin turn  %s   !%s", "logSeen")
 

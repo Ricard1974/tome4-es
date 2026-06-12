@@ -20,5 +20,5 @@ t("gigantic gravity worm", "gigantesco gusano de gravedad", "entity name")
 t("Space and time seem to bend around this huge worm.", "El espacio y el tiempo parecen doblarse alrededor de este enorme gusano.", "_t")
 t("gigantic corrosive tunneler", "gigantesco túnel corrosivo", "entity name")
 t("This huge worm burrows through the earth using its powerful corrosive saliva.", "Este enorme gusano se hunde por la tierra usando su poderosa saliva corrosiva.", "_t")
-t("%s explodes in an acidic cloud.", " PH0   explota en una nube ácida.", "logSeen")
+t("%s explodes in an acidic cloud.", "%s  explota en una nube ácida.", "logSeen")
 

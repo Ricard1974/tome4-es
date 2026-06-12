@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("coral invasion portal", "portal de invasión de coral", "_t")
-t("portal back to %s", "portal volver a   PH0 ", "tformat")
+t("portal back to %s", "portal volver a  %s", "tformat")
 t("water cavern", "agua caverna", "_t")
 t("#rng# the Tidebender", "#rng# the Tidebender", "_t")
 t("naga invasion coral portal", "portal de coral de invasión naga", "_t")
@@ -18,5 +18,5 @@ t("Quit", "Salir", "dialog_portal")
 t("#VIOLET#Ignoring the portal...", "#VIOLET#Ignorando el portal...", "log")
 t("Destroy", "Destrucción", "_t")
 t("Enter", "Entra", "_t")
-t("#VIOLET#A naga steps out of the %s!", "#VIOLET#A naga sale del   PH0  !", "logSeen")
+t("#VIOLET#A naga steps out of the %s!", "#VIOLET#A naga sale del  %s !", "logSeen")
 

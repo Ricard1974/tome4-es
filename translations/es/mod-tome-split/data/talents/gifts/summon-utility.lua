@@ -5,11 +5,11 @@
 -- Traductor: --
 
 t("Taunt", "Provocar", "talent name")
-t("Forces all hostile foes in radius %d to attack you.", "Fuerza a todos los enemigos hostiles en radio   PH0   para atacarte.", "tformat")
+t("Forces all hostile foes in radius %d to attack you.", "Fuerza a todos los enemigos hostiles en radio  %d  para atacarte.", "tformat")
 t("Shell Shield", "Shell Escudo", "talent name")
-t("Under the cover of your shell, gain %d%% all resistance for %d turns", "Bajo la cubierta de su cáscara, ganar   PH0 %% toda la resistencia para   PH1    vueltas", "tformat")
+t("Under the cover of your shell, gain %d%% all resistance for %d turns", "Bajo la cubierta de su cáscara, ganar  %d%% toda la resistencia para  %d   vueltas", "tformat")
 t("Web", "Tela", "talent name")
-t("Spread a web and throw it toward your target. If caught, it won't be able to move for %d turns.", "Difundir una web y lanzarla hacia su objetivo. Si lo pillan, no será capaz de moverse para giras   PH0  .", "tformat")
+t("Spread a web and throw it toward your target. If caught, it won't be able to move for %d turns.", "Difundir una web y lanzarla hacia su objetivo. Si lo pillan, no será capaz de moverse para giras  %d .", "tformat")
 t("Turtle", "Tortuga", "talent name")
 t("@Source@ summons a Turtle!", "@Source@ llama a una tortuga!", "_t")
 t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")

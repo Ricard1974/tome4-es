@@ -4,14 +4,14 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#PINK#Your summoned %s disappears.", "Tu llamada desaparece.", "logPlayer")
+t("#PINK#Your summoned %s disappears.", "Tu llamada desaparece.%s", "logPlayer")
 t("her", "ella", "_t")
 t("him", "él", "_t")
-t("Killed by you: %s", "Asesinado por ti", "tformat")
+t("Killed by you: %s", "Asesinado por ti%s", "tformat")
 t("Target: ", "Meta:", "_t")
 t("none", "ninguno", "_t")
-t(" looking %s", "buscando   PH0 ", "tformat")
+t(" looking %s", "buscando  %s", "tformat")
 t(" looking at you.", "mírate.", "_t")
 t("UID: ", "UID:", "_t")
-t("%s says: '%s'", " PH0   dice: '         ", "logSeen")
+t("%s says: '%s'", "%s  dice: '         %s", "logSeen")
 

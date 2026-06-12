@@ -11,5 +11,5 @@ t("The target is out of range", "El objetivo está fuera de alcance", "logPlayer
 t("Telekinetic Leap", "Salto telequinético", "talent name")
 t("@Source@ performs a telekinetically enhanced leap!", "@Source@ realiza un salto telekinetically mejorado!", "_t")
 t("You can not jump onto a creature.", "No puedes saltar sobre una criatura.", "logPlayer")
-t("You perform a precise, telekinetically-enhanced leap, landing up to %d squares from your starting point.", "Realiza un salto preciso, telekinetically-enhanced, aterrizando hasta   PH0     cuadrados desde su punto de partida.", "tformat")
+t("You perform a precise, telekinetically-enhanced leap, landing up to %d squares from your starting point.", "Realiza un salto preciso, telekinetically-enhanced, aterrizando hasta  %d    cuadrados desde su punto de partida.", "tformat")
 

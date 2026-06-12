@@ -10,7 +10,7 @@ t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as thi
 t("Yes, please.", "Sí, por favor.", "_t")
 t("Name your item", "Nombre de su artículo", "_t")
 t("Name", "Nombre", "_t")
-t("#LIGHT_BLUE#You are given: %s", "Te dan:", "log")
+t("#LIGHT_BLUE#You are given: %s", "Te dan:%s", "log")
 t("No thanks.", "No, gracias.", "_t")
 t("Oh I am sorry, it seems we could not make the item your require.", "Oh, lo siento, parece que no podríamos hacer que el artículo sea su requisito.", "_t")
 t("Oh, let's try something else then.", "Vamos a probar otra cosa entonces.", "_t")

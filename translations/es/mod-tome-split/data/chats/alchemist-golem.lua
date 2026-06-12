@@ -4,17 +4,17 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Equipment(%s) <=> Inventory(%s)", "Equipo(  PH0  )", "tformat")
+t("Equipment(%s) <=> Inventory(%s)", "Equipo( %s )%s", "tformat")
 t("Change your golem's name", "Cambia el nombre de tu golem", "_t")
 t("Name", "Nombre", "_t")
-t("%s (servant of %s)", " PH0   (servidor de   PH1  )", "tformat")
+t("%s (servant of %s)", "%s  (servidor de  %s )", "tformat")
 t("I want to change your equipment.", "Quiero cambiar tu equipo.", "_t")
 t("I want to change your talents.", "Quiero cambiar tus talentos.", "_t")
 t("I want to change your tactics.", "Quiero cambiar tus tácticas.", "_t")
 t("I want to take direct control.", "Quiero tomar control directo.", "_t")
 t("I want to change your name.", "Quiero cambiar tu nombre.", "_t")
-t("Telos the Great and Powerful (reluctant follower of %s)", "Telos the Great and Powerful (reluctant follower of   PH0  )", "tformat")
-t("#ROYAL_BLUE#The golem decides to change it's name to #{bold}#%s#{normal}#.", "#ROYAL BLUE#The golem decide cambiar su nombre a #{bold}      #{normal}#.", "log")
+t("Telos the Great and Powerful (reluctant follower of %s)", "Telos the Great and Powerful (reluctant follower of  %s )", "tformat")
+t("#ROYAL_BLUE#The golem decides to change it's name to #{bold}#%s#{normal}#.", "#ROYAL BLUE#The golem decide cambiar su nombre a #{bold}      #{normal}#.%s", "log")
 t("How is it that you speak?", "¿Cómo es que hablas?", "_t")
 t("I want to change your appearance (one-time only).", "Quiero cambiar tu apariencia (sólo una vez).", "_t")
 t("Nothing, let's go.", "Nada, vamos.", "_t")

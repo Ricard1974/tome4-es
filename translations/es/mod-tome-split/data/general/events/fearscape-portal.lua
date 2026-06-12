@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("portal back to %s", "portal volver a   PH0 ", "tformat")
+t("portal back to %s", "portal volver a  %s", "tformat")
 t("#VIOLET# You escape the Fearscape!", "#VIOLET# Tú escapas al Misericordia!", "log")
 t("orbital fearscape platform", "plataforma orbital de paisaje", "_t")
 t("#rng# the Invader", "#rng# the Invader", "_t")
@@ -18,5 +18,5 @@ t("Quit", "Salir", "dialog_portal")
 t("#VIOLET#Ignoring the portal...", "#VIOLET#Ignorando el portal...", "log")
 t("Destroy", "Destrucción", "_t")
 t("Enter", "Entra", "_t")
-t("#VIOLET#A demon steps out of the %s!", "¡Un demonio sale del   PH0 !", "logSeen")
+t("#VIOLET#A demon steps out of the %s!", "¡Un demonio sale del  %s!", "logSeen")
 

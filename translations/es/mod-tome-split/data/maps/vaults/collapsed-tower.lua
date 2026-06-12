@@ -6,5 +6,5 @@
 
 t("elemental crystal", "cristal elemental", "_t")
 t("collapsed tower", "torre colapsada", "_t")
-t("stairs back to %s", "escaleras de vuelta a   PH0  ", "_t")
+t("stairs back to %s", "escaleras de vuelta a  %s ", "_t")
 

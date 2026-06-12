@@ -5,10 +5,10 @@
 -- Traductor: --
 
 t("[Cancel]", "[Cancelar]", "_t")
-t("#LIGHT_BLUE#You cannot prepare this trap: %s.", "No puedes preparar esta trampa.", "logPlayer")
+t("#LIGHT_BLUE#You cannot prepare this trap: %s.", "No puedes preparar esta trampa.%s", "logPlayer")
 t("Not Prepared", "No está preparado", "_t")
 t("Primed Trigger", "Gatillo Preparado", "_t")
 t("Not Usable", "No utilizable", "_t")
 t("Normal Trigger", "Gatillo Normal", "_t")
-t("%s[%s: %s]#LAST#", " PH0                                                                                                                                                                                                                                                            ", "tformat")
+t("%s[%s: %s]#LAST#", "%s                                                                                                                                                                                                                                                           %s%s", "tformat")
 

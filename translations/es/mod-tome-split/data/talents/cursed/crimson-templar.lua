@@ -5,10 +5,10 @@
 -- Traductor: --
 
 t("Shared Agony", "Compartida Agony", "talent name")
-t("%s(%d shared agony)#LAST#", " PH0          agonía compartida)#", "tformat")
+t("%s(%d shared agony)#LAST#", "%s         agonía compartida)#%d", "tformat")
 t("Splatter Sigils", "Splatter Sigils", "talent name")
 t("sacrificed themself", "los sacrificaba", "_t")
 t("Mark of the Vampire", "Marca of the Vampire", "talent name")
 t("Rosebloom", "o Rosebloom", "talent name")
-t("%s resists the sleep!", " PH0  resiste el sueño!", "logSeen")
+t("%s resists the sleep!", "%s resiste el sueño!", "logSeen")
 

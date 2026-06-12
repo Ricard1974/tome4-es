@@ -7,6 +7,6 @@
 t("Freeze", "Congelar", "talent name")
 t("Frozen Ground", "Congelado Ground", "talent name")
 t("Shatter", "Hacer añicos", "talent name")
-t("%s shatters!", "¡Se rompe!", "logSeen")
+t("%s shatters!", "¡Se rompe!%s", "logSeen")
 t("Uttercold", "o Uttercold", "talent name")
 

@@ -9,8 +9,8 @@ t("You require two weapons to use this talent.", "Necesitas dos armas para usar 
 t("Blink Blade", "Parpadeo Hoja", "talent name")
 t("The spell fizzles!", "¡El hechizo brilla!", "logSeen")
 t("Blade Shear", "Hoja Shear", "talent name")
-t("%s has been cut from the timeline!", " PH0   ha sido cortado de la línea de tiempo!", "logSeen")
-t("%s resists the temporal shear!", " PH0  resiste el tinte temporal!", "logSeen")
+t("%s has been cut from the timeline!", "%s  ha sido cortado de la línea de tiempo!", "logSeen")
+t("%s resists the temporal shear!", "%s resiste el tinte temporal!", "logSeen")
 t("Blade Ward", "Hoja Ward", "talent name")
-t("While dual-wielding you have a %d%% chance of completely parrying melee attacks made against you.", "Mientras usted tiene un   PH0 %% de probabilidad de perseguir completamente los ataques melee hechos contra usted.", "tformat")
+t("While dual-wielding you have a %d%% chance of completely parrying melee attacks made against you.", "Mientras usted tiene un  %d%% de probabilidad de perseguir completamente los ataques melee hechos contra usted.", "tformat")
 

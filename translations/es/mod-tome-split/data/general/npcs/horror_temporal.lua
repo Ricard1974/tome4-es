@@ -16,5 +16,5 @@ t("temporal stalker", "acosador temporal", "entity name")
 t("A slender metallic monstrosity with long claws in place of fingers, and razor-sharp teeth.", "Una monstruosidad metálica esbelta con garras largas en lugar de los dedos, y dientes de afeitado.", "_t")
 t("void horror", "horror", "entity name")
 t("It looks like a hole in spacetime, but you get the impression it's somehow more than that.", "Parece un agujero en tiempo espacial, pero tienes la impresión de que es algo más que eso.", "_t")
-t("%s has collapsed in upon itself.", " PH0   se ha colapsado sobre sí mismo.", "logSeen")
+t("%s has collapsed in upon itself.", "%s  se ha colapsado sobre sí mismo.", "logSeen")
 

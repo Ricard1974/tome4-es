@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("DEBUG -- Create Trap", "DEBUG -- Crear trampa", "_t")
-t("#LIGHT_BLUE#Trap [%s]%s already occupies (%d, %d)", "#LIGHT BLUE#Trap [  PH0                                           ", "log")
-t("#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "#LIGHT BLUE#Added   PH0                                      ", "log")
+t("#LIGHT_BLUE#Trap [%s]%s already occupies (%d, %d)", "#LIGHT BLUE#Trap [ %s                                          %s%d%d", "log")
+t("#LIGHT_BLUE#Added %s[%s]%s at (%d, %d)", "#LIGHT BLUE#Added  %s                                     %s%s%d%d", "log")
 

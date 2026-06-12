@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Pfaugh. You're too late. %s has already finished. But I suppose it doesn't do any harm to take these and give you your undeserved reward.", "Pfaugh. Llegas demasiado tarde. Ya ha terminado. Pero supongo que no hace ningún daño tomar esto y darle su recompensa no merecida.", "tformat")
-t("Ah, excellent. Hand them over, if you please. You should know that in your overlong absence, %s has managed to create a %s. I'll be most put out if he steals my rightful spot.", "Excelente. Pásalos, por favor. Usted debe saber que en su ausencia prolongada,   PH0   ha logrado crear un   PH1   . Me echarán más si roba mi lugar correcto.", "tformat")
+t("Pfaugh. You're too late. %s has already finished. But I suppose it doesn't do any harm to take these and give you your undeserved reward.", "Pfaugh. Llegas demasiado tarde. Ya ha terminado. Pero supongo que no hace ningún daño tomar esto y darle su recompensa no merecida.%s", "tformat")
+t("Ah, excellent. Hand them over, if you please. You should know that in your overlong absence, %s has managed to create a %s. I'll be most put out if he steals my rightful spot.", "Excelente. Pásalos, por favor. Usted debe saber que en su ausencia prolongada,  %s  ha logrado crear un  %s  . Me echarán más si roba mi lugar correcto.", "tformat")
 t("That sounds promising. And ominous.", "Suena prometedor. Y ominoso.", "_t")
 t("[leave]", "[Salir]", "_t")
 t("Indeed, it is both promising and ominous. I can reward you handsomely for your efforts, but they will lead you into deadly peril to which, I assume, the previous three fellows who went off on my errand never to return can attest.", "De hecho, es prometedor y ominoso. Puedo recompensarte con buen gusto por tus esfuerzos, pero te llevarán a un peligro mortal al que, supongo, los tres anteriores compañeros que salieron de mi mandado y nunca regresarán pueden dar fe.", "_t")
@@ -18,12 +18,12 @@ t("Why, I will let you share in the fruits of my labors! Each of the three mixtu
 t("I accept.", "Acepto.", "_t")
 t("I cannot aid you at this time.", "No puedo ayudarte en este momento.", "_t")
 t("Excellent. Now then, I've three elixirs I'm working on. I'll burden you with only one at a time, since I've learned the hard way about the hazards of overloading an adventurer's brain. Here are your options: the elixir of the fox, which makes you as nimble and cunning as a fox; the elixir of avoidance, which sharpens your natural inclinations to get out of the way of incoming harm; or the elixir of precision, which grants intuitive understanding of an enemy's most sensitive spots. Which would you like to aid me with?", "Excelente. Ahora, tengo tres elixirs en los que estoy trabajando. Te cargaré con sólo uno a la vez, ya que he aprendido la manera difícil sobre los peligros de sobrecargar el cerebro de un aventurero. Aquí están tus opciones: el elixir del zorro, que te hace tan ágil y astuto como un zorro; el elixir de la evasión, que afila tus inclinaciones naturales para salir del camino del daño entrante; o el elixir de la precisión, que otorga una comprensión intuitiva de los puntos más sensibles de un enemigo. ¿Con qué te gustaría ayudarme?", "_t")
-t("The %s.", "El   PH0  .", "tformat")
+t("The %s.", "El  %s .", "tformat")
 t("Here's a list of the ingredients I'm missing. Please attempt to not lose your life in their pursuit. I'll be most put out if I must wait another year. Oh, and I suppose I should tell you that I've already a handful of adventurers out scouring the unpleasant places of the world for these ingredients. Dally and one of them shall claim the prize while you're out.", "Aquí hay una lista de los ingredientes que me estoy perdiendo. Por favor, intenta no perder tu vida en su búsqueda. Seré más listo si debo esperar otro año. Y supongo que debería decirte que ya tengo un puñado de aventureros que recorren los lugares desagradables del mundo para estos ingredientes. Dally y uno de ellos reclamarán el premio mientras estés fuera.", "_t")
 t("I'll be off.", "Me voy.", "_t")
 t("#LIGHT_GREEN#*The door is locked and nobody responds to your knocks*#WHITE#", "#LIGHT GREEN#*La puerta está cerrada y nadie responde a tus golpes*#", "_t")
 t("[Leave]", "[Salir]", "_t")
-t("I've returned with the ingredients for the %s.", "He vuelto con los ingredientes para el   PH0  .", "tformat")
+t("I've returned with the ingredients for the %s.", "He vuelto con los ingredientes para el  %s .", "tformat")
 t("I've come to offer more aid.", "He venido a ofrecer más ayuda.", "_t")
 t("[Give him the monster bits.]", "[Dale el monstruo pedacitos.]", "_t")
 t("[Give him the monster bits]", "[Dale el monstruo pica]", "_t")

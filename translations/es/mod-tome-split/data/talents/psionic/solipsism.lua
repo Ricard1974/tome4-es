@@ -9,5 +9,5 @@ t("Balance", "Saldo", "talent name")
 t("Clarity", "Claridad", "talent name")
 t("Dismissal", "Dismissal", "talent name")
 t("#TAN##Source# mentally dismisses some damage!", "#TAN###Source# mentalmente descarta algún daño!", "delayedLogMessage")
-t("#TAN#(%d dismissed)#LAST#", "#TAN#(  PH0   despedido)#", "tformat")
+t("#TAN#(%d dismissed)#LAST#", "#TAN#( %d  despedido)#", "tformat")
 

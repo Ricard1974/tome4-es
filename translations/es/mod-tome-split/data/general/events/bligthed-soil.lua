@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("blighted soil", "suelo despejado", "_t")
-t("%s (blighted aura)", " PH0   (blighted aura)", "tformat")
+t("%s (blighted aura)", "%s  (blighted aura)", "tformat")
 

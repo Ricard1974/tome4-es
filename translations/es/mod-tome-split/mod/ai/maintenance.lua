@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#ORCHID#__%s[%d]maintenance AI picked action: %s (%s)", "#ORCHID#                                             ", "log")
-t("__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "                #ORANGE# maintenance ACTION FAILED:   PH2  ", "log")
+t("#ORCHID#__%s[%d]maintenance AI picked action: %s (%s)", "#ORCHID#                                             %s%d%s%s", "log")
+t("__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "log")
 

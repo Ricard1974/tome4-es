@@ -9,9 +9,9 @@ t("#Source# shoots down '#Target#'!", "#Source# shoots down '#Target#'!", "logCo
 t("Bull Shot", "Bull Disparo", "talent name")
 t("You are too close to build up momentum!", "¡Estás demasiado cerca para aumentar el impulso!", "logPlayer")
 t("Intuitive Shots", "Zapatos intuitivos", "talent name")
-t("%s %s the attack!", "¡El ataque!", "logSeen")
+t("%s %s the attack!", "¡El ataque!%s%s", "logSeen")
 t("intercepts", "interceptaciones", "_t")
 t("fails to intercept", "no interceptar", "_t")
 t("Strangling Shot", "Strangling Disparo", "talent name")
-t("%s resists the strangling shot!", " PH0  resiste el tiro de estrangulamiento!", "logSeen")
+t("%s resists the strangling shot!", "%s resiste el tiro de estrangulamiento!", "logSeen")
 

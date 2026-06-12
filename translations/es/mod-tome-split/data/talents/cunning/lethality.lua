@@ -8,5 +8,5 @@ t("Lethality", "Letalidad", "talent name")
 t("Expose Weakness", "Expose Debilidad", "talent name")
 t("Blade Flurry", "Blade Ráfaga", "talent name")
 t("Snap", "Romper", "talent name")
-t("Your quick wits allow you to reset the cooldown of up to %d of your combat talents (cunning or technique) of tier %d or less.", "Sus ingenios rápidos le permiten restablecer la refrigeración de hasta   PH0   de sus talentos de combate (cunning o técnica) de nivel   PH1   o menos.", "tformat")
+t("Your quick wits allow you to reset the cooldown of up to %d of your combat talents (cunning or technique) of tier %d or less.", "Sus ingenios rápidos le permiten restablecer la refrigeración de hasta  %d  de sus talentos de combate (cunning o técnica) de nivel  %d  o menos.", "tformat")
 
