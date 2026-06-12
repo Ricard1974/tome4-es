@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("warded ", "warded", "entity name")
-t("ward", "ward", "entity keyword")
+t("ward", "guardia", "entity keyword")
 

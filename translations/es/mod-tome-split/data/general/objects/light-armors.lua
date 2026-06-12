@@ -6,11 +6,11 @@
 
 t("armor", "armadura", "entity type")
 t("light", "luz", "entity subtype")
-t("A suit of armour made of leather.", "A suit of armour made of leather.", "_t")
+t("A suit of armour made of leather.", "Un traje de armadura hecho de cuero.", "_t")
 t("rough leather armour", "armadura de cuero duro", "entity name")
 t("rough", "basto", "entity short_name")
 t("cured leather armour", "armadura de cuero curado", "entity name")
-t("cured", "cured", "entity short_name")
+t("cured", "curado", "entity short_name")
 t("hardened leather armour", "armadura de cuero endurecida", "entity name")
 t("hardened", "endurecido", "entity short_name")
 t("reinforced leather armour", "armadura de cuero reforzado", "entity name")

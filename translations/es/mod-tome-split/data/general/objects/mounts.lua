@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("mount", "mount", "entity type")
-t("A mount.", "A mount.", "_t")
-t("golem", "golem", "entity subtype")
+t("mount", "montaje", "entity type")
+t("A mount.", "Un montaje.", "_t")
+t("golem", "gólem", "entity subtype")
 t("alchemist golem mount", "alquimista golem montaje", "entity name")
 

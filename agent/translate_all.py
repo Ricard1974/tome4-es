@@ -35,14 +35,14 @@ def get_untranslated_talent_names():
 
 
 def get_untranslated_objects():
-    """Extrae nombres de objetos sin traducir."""
+    """Extrae todas las cadenas de objetos sin traducir."""
     items = []
     for f in sorted(
         (TRANS_DIR / "mod-tome-split" / "data" / "general" / "objects").rglob("*.lua")
     ):
         with open(f, "r", encoding="utf-8") as fh:
             for line in fh:
-                m = re.match(r't\("([^"]+)",\s*"\1",\s*"entity name"\)', line)
+                m = re.match(r't\("([^"]+)",\s*"\1",\s*"([^"]+)"\)', line)
                 if m:
                     items.append((f, m.group(1)))
     return items
@@ -142,22 +142,25 @@ def main():
     translator = LibreTranslator()
     total = 0
 
-    if not only_objects and not only_chats:
+    if only_objects:
+        items = get_untranslated_objects()
+        total += translate_items(items, translator, "Objetos", dry_run)
+    elif only_chats:
+        items = get_untranslated_chats()
+        total += translate_items(items, translator, "Dialogos NPC", dry_run)
+    else:
         items = get_untranslated_talent_names()
         total += translate_items(items, translator, "Talentos", dry_run)
 
-    if not only_talents and not only_chats:
         items = get_untranslated_objects()
         total += translate_items(items, translator, "Objetos", dry_run)
 
-    if not only_chats:
         items = get_untranslated_timed_effects()
         total += translate_items(items, translator, "Efectos de combate", dry_run)
 
-    items = get_untranslated_chats()
-    total += translate_items(items, translator, "Dialogos NPC", dry_run)
+        items = get_untranslated_chats()
+        total += translate_items(items, translator, "Dialogos NPC", dry_run)
 
-    if not only_chats:
         items = get_untranslated_quests()
         total += translate_items(items, translator, "Misiones", dry_run)
 

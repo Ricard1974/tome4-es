@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("armor", "armadura", "entity type")
-t("heavy", "heavy", "entity subtype")
-t("A suit of armour made of mail.", "A suit of armour made of mail.", "_t")
+t("heavy", "pesado", "entity subtype")
+t("A suit of armour made of mail.", "Un traje de armadura hecho de correo.", "_t")
 t("iron mail armour", "cota de malla de hierro", "entity name")
 t("iron", "hierro", "entity short_name")
 t("steel mail armour", "cota de malla de acero", "entity name")

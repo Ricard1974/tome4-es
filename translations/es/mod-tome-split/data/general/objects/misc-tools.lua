@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("tool", "herramienta", "entity type")
-t("misc", "misc", "entity subtype")
-t("A miscellaneous tool.", "A miscellaneous tool.", "_t")
+t("misc", "varios", "entity subtype")
+t("A miscellaneous tool.", "Una herramienta diversa.", "_t")
 

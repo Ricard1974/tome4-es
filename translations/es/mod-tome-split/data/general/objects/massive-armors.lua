@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("armor", "armadura", "entity type")
-t("massive", "massive", "entity subtype")
-t("A suit of armour made of metal plates.", "A suit of armour made of metal plates.", "_t")
+t("massive", "masiva", "entity subtype")
+t("A suit of armour made of metal plates.", "Un traje de armadura hecho de placas metálicas.", "_t")
 t("iron plate armour", "armadura de placas de hierro", "entity name")
 t("iron", "hierro", "entity short_name")
 t("steel plate armour", "armadura de placas de acero", "entity name")

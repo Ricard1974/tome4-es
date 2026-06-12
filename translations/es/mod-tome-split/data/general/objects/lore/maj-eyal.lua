@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("analysis", "analysis", "entity subtype")
+t("analysis", "análisis", "entity subtype")
 

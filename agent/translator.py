@@ -10,21 +10,66 @@ import urllib.parse
 
 
 class LibreTranslator:
-    """Traductor usando LibreTranslate via API REST."""
+    """Traductor usando diccionario + LibreTranslate via API REST."""
 
     def __init__(self, url="http://localhost:5000"):
         self.url = url
         self.cache = {}
-        print(f"[AGENT] Usando LibreTranslate en {url}")
+        # Cargar diccionario de términos forzados
+        try:
+            from terms import FORCED_TERMS, NO_TRANSLATE
+
+            self.forced = FORCED_TERMS
+            self.no_translate = NO_TRANSLATE
+        except ImportError:
+            self.forced = {}
+            self.no_translate = set()
+        print(
+            f"[AGENT] Usando LibreTranslate en {url} (+{len(self.forced)} terminos forzados)"
+        )
 
     def translate(self, text):
-        """Traduce un texto usando LibreTranslate."""
+        """Traduce un texto usando diccionario + LibreTranslate."""
         if not text or text.strip() == "":
             return text
 
         # Cache
         if text in self.cache:
             return self.cache[text]
+
+        # Diccionario forzado primero
+        if text in self.forced:
+            self.cache[text] = self.forced[text]
+            return self.forced[text]
+
+        # No traducir (nombre propio sensible a mayusculas)
+        if text in self.no_translate:
+            self.cache[text] = text
+            return text
+        if text.lower() in self.no_translate:
+            self.cache[text] = text
+            return text
+
+        # Para frases compuestas: traducir palabra por palabra si falla
+        words = text.split()
+        if len(words) > 1:
+            translated_words = []
+            all_dictionary = True
+            for w in words:
+                w_clean = w.strip(".,!?;:'\"")
+                if w_clean in self.forced:
+                    translated_words.append(self.forced[w_clean])
+                elif (
+                    w_clean in self.no_translate or w_clean.lower() in self.no_translate
+                ):
+                    translated_words.append(w_clean)
+                else:
+                    all_dictionary = False
+                    break
+            if all_dictionary:
+                result = " ".join(translated_words)
+                self.cache[text] = result
+                return result
 
         # Preservar placeholders
         ph_map = {}

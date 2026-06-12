@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("charm", "charm", "entity type")
-t("rod", "rod", "entity subtype")
-t("rod", "rod", "_t")
+t("charm", "encanto", "entity type")
+t("rod", "barra", "entity subtype")
+t("rod", "barra", "_t")
 t("", "", "_t")
 

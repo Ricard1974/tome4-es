@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("weapon", "arma", "entity type")
-t("whip", "whip", "entity subtype")
-t("whip", "whip", "entity combat talented")
-t("Sharp, long and deadly.", "Sharp, long and deadly.", "_t")
+t("whip", "látigo", "entity subtype")
+t("whip", "látigo", "entity combat talented")
+t("Sharp, long and deadly.", "Sharp, largo y mortal.", "_t")
 

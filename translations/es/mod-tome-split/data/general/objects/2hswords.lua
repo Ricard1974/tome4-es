@@ -7,7 +7,7 @@
 t("weapon", "arma", "entity type")
 t("greatsword", "espada bastarda", "entity subtype")
 t("sword", "espada", "entity combat talented")
-t("Massive two-handed swords.", "Massive two-handed swords.", "_t")
+t("Massive two-handed swords.", "Espadas masivas de dos manos.", "_t")
 t("iron greatsword", "espada bastarda de hierro", "entity name")
 t("iron", "hierro", "entity short_name")
 t("steel greatsword", "espada bastarda de acero", "entity name")

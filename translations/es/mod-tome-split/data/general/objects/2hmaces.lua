@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("weapon", "arma", "entity type")
-t("greatmaul", "greatmaul", "entity subtype")
+t("greatmaul", "grandemaul", "entity subtype")
 t("mace", "maza", "entity combat talented")
-t("Massive two-handed mauls.", "Massive two-handed mauls.", "_t")
+t("Massive two-handed mauls.", "Mauls masivos de dos manos.", "_t")
 t("iron greatmaul", "granma de hierro", "entity name")
 t("iron", "hierro", "entity short_name")
 t("steel greatmaul", "acero granmaul", "entity name")

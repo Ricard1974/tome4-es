@@ -6,7 +6,7 @@
 
 t("armor", "armadura", "entity type")
 t("hands", "manos", "entity subtype")
-t("Light gloves which do not seriously hinder finger movements, while still protecting the hands somewhat.", "Light gloves which do not seriously hinder finger movements, while still protecting the hands somewhat.", "_t")
+t("Light gloves which do not seriously hinder finger movements, while still protecting the hands somewhat.", "Guantes de luz que no obstaculizan seriamente los movimientos de los dedos, mientras que todavía protegen las manos un poco.", "_t")
 t("rough leather gloves", "guantes de cuero basto", "entity name")
 t("rough", "basto", "entity short_name")
 t("hardened leather gloves", "guantes de cuero endurecidos", "entity name")

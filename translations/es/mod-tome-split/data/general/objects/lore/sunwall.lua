@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Loremaster Verutir's note", "Nota de Loremaster Verutir", "entity name")
-t("A paper scrap containing some lore.", "A paper scrap containing some lore.", "_t")
+t("A paper scrap containing some lore.", "Un trozo de papel que contiene algo de loro.", "_t")
 

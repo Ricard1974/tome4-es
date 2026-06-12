@@ -6,7 +6,7 @@
 
 t("armor", "armadura", "entity type")
 t("feet", "pies", "entity subtype")
-t("Heavy boots, with metal strips at the toes, heels and other vulnerable parts, to better protect the wearer's feet from harm.", "Heavy boots, with metal strips at the toes, heels and other vulnerable parts, to better protect the wearer's feet from harm.", "_t")
+t("Heavy boots, with metal strips at the toes, heels and other vulnerable parts, to better protect the wearer's feet from harm.", "Botas pesadas, con tiras de metal en los dedos de los pies, tacones y otras partes vulnerables, para proteger mejor los pies del portador del daño.", "_t")
 t("pair of iron boots", "par de botas de hierro", "entity name")
 t("iron", "hierro", "entity short_name")
 t("pair of dwarven-steel boots", "par de botas de acero enano", "entity name")

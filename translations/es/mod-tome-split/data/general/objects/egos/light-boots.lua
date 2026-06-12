@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("stealthy ", "stealthy", "entity name")
-t("stealth", "stealth", "entity keyword")
+t("stealth", "robo", "entity keyword")
 

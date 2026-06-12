@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("damage", "daño", "entity name")
-t("apr", "apr", "entity name")
+t("apr", "per", "entity name")
 t("crit", "crit", "entity name")
-t("phasing", "phasing", "entity name")
+t("phasing", "fasear", "entity name")
 t("physical melee", "melee física", "entity name")
 t("mind melee", "mente melee", "entity name")
 t("acid melee", "acid melee", "entity name")

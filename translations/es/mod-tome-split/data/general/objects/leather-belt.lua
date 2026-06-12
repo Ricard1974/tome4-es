@@ -6,7 +6,7 @@
 
 t("armor", "armadura", "entity type")
 t("belt", "cinturón", "entity subtype")
-t("A belt that goes around your waist.", "A belt that goes around your waist.", "_t")
+t("A belt that goes around your waist.", "Un cinturón que rodea tu cintura.", "_t")
 t("rough leather belt", "correa de cuero duro", "entity name")
 t("rough", "basto", "entity short_name")
 t("hardened leather belt", "correa de cuero endurecida", "entity name")

@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("armor", "armadura", "entity type")
-t("mummy", "mummy", "entity subtype")
-t("Decaying mummy wrappings.", "Decaying mummy wrappings.", "_t")
+t("mummy", "mamá", "entity subtype")
+t("Decaying mummy wrappings.", "Dejándole envolturas a la momia.", "_t")
 t("mummy wrappings", "envolturas de momia", "entity name")
-t("mummy", "mummy", "entity short_name")
+t("mummy", "mamá", "entity short_name")
 

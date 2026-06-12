@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("armor", "armadura", "entity type")
-t("shield", "shield", "entity subtype")
-t("Handheld deflection devices.", "Handheld deflection devices.", "_t")
+t("shield", "escudo", "entity subtype")
+t("Handheld deflection devices.", "Dispositivos de deflexión portátiles.", "_t")
 t("iron shield", "escudo de hierro", "entity name")
 t("iron", "hierro", "entity short_name")
 t("steel shield", "escudo de acero", "entity name")

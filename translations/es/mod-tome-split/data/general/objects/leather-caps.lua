@@ -6,7 +6,7 @@
 
 t("armor", "armadura", "entity type")
 t("head", "cabeza", "entity subtype")
-t("A cap made of leather.", "A cap made of leather.", "_t")
+t("A cap made of leather.", "Una gorra hecha de cuero.", "_t")
 t("rough leather cap", "gorro de cuero basto", "entity name")
 t("rough", "basto", "entity short_name")
 t("hardened leather cap", "gorro de cuero endurecido", "entity name")
