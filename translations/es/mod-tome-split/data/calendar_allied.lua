@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Wintertide", "Wintertide", "calendar allied")
-t("Allure", "Allure", "calendar allied")
-t("Regrowth", "Regrowth", "calendar allied")
+t("Wintertide", "Marea Invernal", "calendar allied")
+t("Allure", "Atracción", "calendar allied")
+t("Regrowth", "Renuevo", "calendar allied")
 t("Time of Balance", "Tiempo de equilibrio", "calendar allied")
-t("Pyre", "Pyre", "calendar allied")
-t("Mirth", "Mirth", "calendar allied")
-t("Summertide", "Summertide", "calendar allied")
-t("Flare", "Flare", "calendar allied")
-t("Dusk", "Dusk", "calendar allied")
+t("Pyre", "Pira", "calendar allied")
+t("Mirth", "Júbilo", "calendar allied")
+t("Summertide", "Marea Estival", "calendar allied")
+t("Flare", "Llamarada", "calendar allied")
+t("Dusk", "Ocaso", "calendar allied")
 t("Time of Equilibrium", "Tiempo de Equilibrio", "calendar allied")
-t("Haze", "Haze", "calendar allied")
-t("Decay", "Decay", "calendar allied")
+t("Haze", "Bruma", "calendar allied")
+t("Decay", "Decaimiento", "calendar allied")
 

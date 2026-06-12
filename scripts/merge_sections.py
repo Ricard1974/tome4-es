@@ -130,15 +130,12 @@ def merge_sections():
             if i > 0:
                 f.write("\n")
             f.write("-" * 48 + "\n")
-            f.write(f'section "{section_name}"')
-            f.write("\n\n\n")
+            f.write(f'-- section "{section_name}"')
+            f.write("\n\n")
             f.write("-- new text\n")
-            f.write("--[==[\n")
 
             for t_call in t_calls:
                 f.write(f"t({t_call})\n")
-
-            f.write("--]==]\n")
 
     return len(sections), total_calls
 
