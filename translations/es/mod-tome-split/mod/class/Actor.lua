@@ -123,7 +123,7 @@ t("#LIGHT_RED#The cease to exist spell fizzles and cancels, leaving the timeline
 t("Prodigy!", "¡Prodigy!", "_t")
 t("Level 50!", "¡Nivel 50!", "_t")
 t("LEVEL UP!", "¡ARRIBA!", "_t")
-t("#00ffff#Welcome to level %d [%s].", "#00ff#Welcome to level  %d   [ %s  ].", "log")
+t("#00ffff#Welcome to level %d [%s].", "#00ffff#Bienvenido al nivel %d [%s].", "log")
 t("Press p to use them.", "Presione p para usarlos.", "_t")
 t("Select %s in the party list and press G to use them.", "Seleccione  %s  en la lista de fiestas y presione G para utilizarlos.", "tformat")
 t("%d stat point(s)", "%d   punto(s)", "tformat")
