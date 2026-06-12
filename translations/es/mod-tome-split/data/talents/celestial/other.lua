@@ -9,7 +9,7 @@ t("You somehow fail to set the corrosive seed.", "De alguna manera no puedes est
 t("glyph of explosion", "glifo de explosión", "_t")
 t("trap", "trampa", "_t")
 t("Explodes (radius 1) for %d light damage.", "Explodes (radius 1) por   PH0    daño ligero.", "tformat")
-t("test glyph", "test glyph", "tformat")
+t("test glyph", "glifo de prueba", "tformat")
 t("Glyph of Paralysis", "Glifo of Paralysis", "talent name")
 t("glyph of paralysis", "glifo de parálisis", "_t")
 t("Dazes for %d turns.", "Dazes para giras   PH0 .", "tformat")

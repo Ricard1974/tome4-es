@@ -6,7 +6,7 @@
 
 t("humanoid", "humanoide", "entity type")
 t("human", "humanos", "entity subtype")
-t("Catch @himher@!", "Catch @himher@!", "_t")
+t("Catch @himher@!", "¡Atrapa a @himher@!", "_t")
 t("last hope guard", "último guardia de esperanza", "entity name")
 t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
 t("halfling guard", "medio guardia", "entity name")

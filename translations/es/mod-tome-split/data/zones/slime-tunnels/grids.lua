@@ -6,7 +6,7 @@
 
 t("Strange Pedestal", "Pedestal extraño", "_t")
 t("This pedestal looks old, you can see the shape of an orb carved on it.", "Este pedestal se ve viejo, se puede ver la forma de un orbe tallado en él.", "_t")
-t("orb pedestal (dragon)", "orb pedestal (dragon)", "entity name")
+t("orb pedestal (dragon)", "pedestal de orbe (dragón)", "entity name")
 t("#rng# the Fearsome", "El miedo", "_t")
 t("orb pedestal (undeath)", "orb pedestal (muerte)", "entity name")
 t("#rng# the Neverdead", "#rng# the Neverdead", "_t")
@@ -17,6 +17,6 @@ t("#rng# the Crusher", "#rng# the Crusher", "_t")
 t("sealed door", "puerta sellada", "entity name")
 t("exit to Grushnak Pride", "salida a Grushnak Pride", "entity name")
 t("Entrance to the High Peak", "Entrada al pico alto", "entity name")
-t("High Peak", "High Peak", "_t")
+t("High Peak", "Alto pico", "_t")
 t("The way forward is blocked. There must be some way around here to unlock those doors.", "El camino a seguir está bloqueado. Debe haber alguna manera de abrir esas puertas.", "_t")
 

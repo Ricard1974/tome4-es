@@ -6,10 +6,10 @@
 
 t("humanoid", "humanoide", "entity type")
 t("shalore", "shalore", "entity subtype")
-t("Catch @himher@!", "Catch @himher@!", "_t")
-t("elvala guard", "elvala guard", "entity name")
+t("Catch @himher@!", "¡Atrapa a @himher@!", "_t")
+t("elvala guard", "guardia de Elvala", "entity name")
 t("A stern-looking guard, he will not let you disturb the town.", "Un guardia de aspecto severo, no te dejará perturbar la ciudad.", "_t")
-t("shalore rune master", "shalore rune master", "entity name")
+t("shalore rune master", "maestro de runas shalore", "entity name")
 t("A tall Elf, his skin covered in runes.", "Un Elfo alto, su piel cubierta de escorrentías.", "_t")
 t("giant", "gigante", "entity type")
 t("ogre", "ogro", "entity subtype")

@@ -17,7 +17,7 @@ t(" in some sort of fetish experiment gone wrong", "en algún tipo de experiment
 t(", providing a free meal to the wildlife", ", proporcionar una comida gratis a la vida silvestre", "_t")
 t(" (how embarrassing)", "(que vergonzoso)", "_t")
 t("%s the level %d %s %s was %s to death by %s%s%s on level %s of %s.", " PH0                                                                                                                                                                                                                                                            .", "tformat")
-t("battered", "battered", "_t")
+t("battered", "estropeado", "_t")
 t(" (yet again)", "(otra vez)", "_t")
 t("%s(%d %s %s) was %s to death by %s%s on %s %s.", " PH0                                                                                                                                                                                                                                                            .", "tformat")
 t("%s the level %d %s %s %s on level %s of %s.", " PH0                                                                                                                                                                                                                                                            .", "tformat")

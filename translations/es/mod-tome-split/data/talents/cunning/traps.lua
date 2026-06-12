@@ -32,7 +32,7 @@ t("#LIGHT_BLUE#No changes to trap preparation.", "No hay cambios en la preparaci
 t("#GREY#(see trap description)#LAST#", "#GREY#(ver descripción de la trampa)#", "_t")
 t("Lure", "o Lure", "talent name")
 t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
-t("lure", "lure", "_t")
+t("lure", "señuelo", "_t")
 t("A noisy lure.", "Un ruidoso lure.", "_t")
 t("Advanced Trap Deployment", "Despliegue de trampas avanzado", "talent name")
 t("Trap Priming", "Trampa Priming", "talent name")

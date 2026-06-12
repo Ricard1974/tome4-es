@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("angolwen", "angolwen", "newLore category")
+t("angolwen", "Angolwen", "newLore category")
 t("Lecture on Humility by Archmage Linaniil", "Conferencia sobre Humildad por Archmage Linaniil", "_t")
 t("Lecture on the nature of magic by Archmage Tarelion", "Conferencia sobre la naturaleza de la magia por Archmage Tarelion", "_t")
 t("The spellblade", "El hechizo", "_t")

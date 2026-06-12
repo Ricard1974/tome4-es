@@ -22,7 +22,7 @@ t("Summon the power of the Sun to burn your foes.", "Invoca el poder del Sol par
 t("sun", "sol", "talent type")
 t("glyphs", "glifos", "talent type")
 t("Bind the brilliant powers into glyphs to trap your foes.", "Ata los poderes brillantes en glifos para atrapar a tus enemigos.", "_t")
-t("twilight", "twilight", "talent type")
+t("twilight", "crepúsculo", "talent type")
 t("Stand between the darkness and the light, harnessing both.", "Párate entre la oscuridad y la luz, aprovechando ambas cosas.", "_t")
 t("star fury", "estrella furia", "talent type")
 t("Call the fury of the Stars and the Moon to destroy your foes.", "Llama a la furia de las Estrellas y la Luna para destruir a tus enemigos.", "_t")

@@ -34,7 +34,7 @@ t("Up to five targets in a radius of %d are teleporting %d tiles every turn.", "
 t("Anomaly Summon Townsfolk", "Anomalía de Invocar Townsfolk", "talent name")
 t("Some innocent bystanders have been teleported into the fight.", "Algunos espectadores inocentes han sido teletransportados en la lucha.", "_t")
 t("Not enough space to summon!", "¡No hay suficiente espacio para invocar!", "logPlayer")
-t("human farmer", "human farmer", "_t")
+t("human farmer", "granjero humano", "_t")
 t("A weather-worn Human farmer, looking at a loss as to what's going on.", "Un agricultor humano con el tiempo, mirando una pérdida de lo que está pasando.", "_t")
 t("halfling gardener", "medio jardinero", "_t")
 t("A rugged Halfling gardener, looking quite confused as to what he's doing here.", "Un jardinero rudo, se ve muy confundido con lo que hace aquí.", "_t")

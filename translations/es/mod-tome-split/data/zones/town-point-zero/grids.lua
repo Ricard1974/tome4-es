@@ -10,5 +10,5 @@ t("wall", "pared", "entity type")
 t("ice", "hielo", "entity subtype")
 t("cold forest", "bosque frío", "entity name")
 t("floor", "planta baja", "entity type")
-t("polar cap", "polar cap", "entity name")
+t("polar cap", "casquete polar", "entity name")
 

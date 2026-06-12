@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("cultivated fields", "campos cultivados", "entity name")
-t("cobblestone road", "cobblestone road", "entity name")
+t("cobblestone road", "camino adoquinado", "entity name")
 

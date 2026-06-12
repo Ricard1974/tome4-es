@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Control Room", "Sala de control", "_t")
-t("Exploratory Farportal", "Exploratory Farportal", "_t")
+t("Exploratory Farportal", "Portal Lejano Exploratorio", "_t")
 

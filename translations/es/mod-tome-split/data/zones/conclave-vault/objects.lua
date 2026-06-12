@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("log of healer Astelrid", "log of healer Astelrid", "entity name")
+t("log of healer Astelrid", "diario del curandero Astelrid", "entity name")
 t("A very faded note, nearly unreadable.", "Una nota muy de moda, casi imposible de leer.", "_t")
 t("investigator Churrack note", "detective Churrack", "entity name")
 t("Astelrid's Clubstaff", "Club de Astelrid", "entity name")

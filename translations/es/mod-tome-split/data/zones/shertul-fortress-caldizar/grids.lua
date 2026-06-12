@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Sher'Tul Control Orb", "Sher'Tul Control Orb", "entity name")
-t("Exploratory Farportal", "Exploratory Farportal", "entity name")
+t("Exploratory Farportal", "Portal Lejano Exploratorio", "entity name")
 t("Farportal", "Farportal", "_t")
 t("The farportal seems to be inactive", "El farportal parece estar inactivo", "_t")
 

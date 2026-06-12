@@ -12,7 +12,7 @@ t("#ORCHID#Target out of range.  Hold <ctrl> to force your weapon to fire at tar
 t("#ORCHID#You COULD NOT SHOOT your %s (Resource: %s%s#LAST#).", "#ORCHID# Usted no podría golpear su   PH0    (Resource:   PH1          #LAST#).", "logPlayer")
 t("%s(%d parried#LAST#)", " PH0 (        parried#LAST#)", "tformat")
 t("#{bold}##Source# performs a ranged critical strike against #Target#!#{normal}#", "######Source# performs a ranged critical strike against #Target# ##{normal}#", "logCombat")
-t("#Source# misses #target#.", "#Source# misses #target#.", "logCombat")
+t("#Source# misses #target#.", "#Source# falla a #target#.", "logCombat")
 t("The siege arrow creates a shockwave!", "¡La flecha del asedio crea una onda de choque!", "logSeen")
 t("You are disarmed!", "¡Estás desarmado!", "logPlayer")
 t("You must wield a ranged weapon (%s)!", "¡Debes usar un arma con rango (  PH0  )!", "logPlayer")

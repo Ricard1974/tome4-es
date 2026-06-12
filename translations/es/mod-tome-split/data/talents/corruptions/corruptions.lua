@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("corruption", "corrupción", "talent category")
-t("sanguisuge", "sanguisuge", "talent type")
+t("sanguisuge", "sanguijuela", "talent type")
 t("Manipulate life force to feed your own dark powers.", "Manipular la fuerza vital para alimentar sus propios poderes oscuros.", "_t")
 t("torment", "tormento", "talent type")
 t("All the tools to torment your foes.", "Todas las herramientas para atormentar a tus enemigos.", "_t")

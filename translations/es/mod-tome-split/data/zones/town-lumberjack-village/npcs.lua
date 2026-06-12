@@ -7,6 +7,6 @@
 t("humanoid", "humanoide", "entity type")
 t("human", "humanos", "entity subtype")
 t("Ben Cruthdar, the Cursed", "Ben Cruthdar, el Cursed", "entity name")
-t("lumberjack", "lumberjack", "entity name")
+t("lumberjack", "leñador", "entity name")
 t("A lumberjack. Cutting wood is his job, dream and passion.", "Un leñador. Cortar madera es su trabajo, sueño y pasión.", "_t")
 

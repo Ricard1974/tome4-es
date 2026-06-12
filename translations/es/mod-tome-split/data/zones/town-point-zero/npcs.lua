@@ -6,7 +6,7 @@
 
 t("humanoid", "humanoide", "entity type")
 t("human", "humanos", "entity subtype")
-t("Catch @himher@!", "Catch @himher@!", "_t")
+t("Catch @himher@!", "¡Atrapa a @himher@!", "_t")
 t("guardian of reality", "tutor de la realidad", "entity name")
 t("A stern-looking guardian, ever vigilant against the threats of the paradox.", "Un guardián de aspecto severo, siempre vigilante contra las amenazas de la paradoja.", "_t")
 t("elemental", "elemental", "entity type")

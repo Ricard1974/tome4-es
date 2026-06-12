@@ -6,7 +6,7 @@
 
 t("vermin", "alimaña", "entity type")
 t("sandworm", "gusano de arena", "entity subtype")
-t("sandworm burrower", "sandworm burrower", "entity name")
+t("sandworm burrower", "excavador de gusano de arena", "entity name")
 t("huge sandworm burrower", "enorme burrower de gusano de arena", "entity name")
 t("Sandworm Queen", "Sandworm Queen", "entity name")
 t("Before you stands the queen of the sandworms. Massive and bloated, she slithers toward you, calling for her offspring!", "Antes de que te quedes con la reina de las flores. Masiva y hinchada, ella se desliza hacia ti, pidiendo su descendencia!", "_t")

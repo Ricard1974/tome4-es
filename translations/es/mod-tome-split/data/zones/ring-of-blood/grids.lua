@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("lava pit", "lava pit", "entity name")
+t("lava pit", "pozo de lava", "entity name")
 t("Slave Control Orb", "Slave Control Orb", "entity name")
 

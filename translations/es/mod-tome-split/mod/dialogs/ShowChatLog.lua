@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Game Log", "Game Log", "_t")
+t("Game Log", "Registro de Juego", "_t")
 t("Right click to inspect.", "Haga clic derecho para inspeccionar.", "_t")
 t("Show infos", "Mostrar información", "_t")
-t("Whisper", "Whisper", "_t")
+t("Whisper", "Susurro", "_t")
 t("Ignore", "Ignoro", "_t")
 t("Open profile(in browser)", "Perfil abierto(en el navegador)", "_t")
 t("Report for bad behavior", "Informe de mala conducta", "_t")

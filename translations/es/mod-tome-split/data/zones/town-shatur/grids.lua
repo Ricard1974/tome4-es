@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("cobblestone road", "cobblestone road", "entity name")
+t("cobblestone road", "camino adoquinado", "entity name")
 

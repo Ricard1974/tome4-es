@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Last Hope", "Last Hope", "_t")
+t("Last Hope", "La última esperanza", "_t")
 

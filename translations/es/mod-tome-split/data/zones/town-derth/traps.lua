@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Armoury", "Armoury", "entity name")
-t("Tanner", "Tanner", "entity name")
-t("Swordsmith", "Swordsmith", "entity name")
+t("Armoury", "Armería", "entity name")
+t("Tanner", "Peletero", "entity name")
+t("Swordsmith", "Espadero", "entity name")
 t("Knives and daggers", "Cuchillos y dagas", "entity name")
 t("Death from Afar", "Muerte de Afar", "entity name")
 t("Herbalist", "Herbalist", "entity name")
