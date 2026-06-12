@@ -15732,7 +15732,7 @@ t("No thanks.", "No, gracias.", "_t")
 -- section "mod-tome/data/chats/antimagic-end.lua"
 
 -- new text
-t("  #{italic}##LIGHT_GREEN#*As you drink the potion, your runes start to burn as they fade away, and a terrible agony seems to sink through your skin to your bones, muscles, and heart.  You black out from the pain, and come to a bit later, the runes gone forever.  You feel very ill, and yet...  cleansed.*#{normal}##WHITE#", "#{italic}##LIGHT GREEN#*A medida que bebes la poción, tus runas comienzan a quemar mientras se desvanecen, y una terrible agonía parece hundirse a través de tu piel a tus huesos, músculos y corazón. Te desmayas del dolor, y vienes un poco más tarde, las runas se fueron para siempre. Te sientes muy mal, y sin embargo... limpiado", "_t")
+t("#{italic}##LIGHT_GREEN#*As you drink the potion, your runes start to burn as they fade away, and a terrible agony seems to sink through your skin to your bones, muscles, and heart.  You black out from the pain, and come to a bit later, the runes gone forever.  You feel very ill, and yet...  cleansed.*#{normal}##WHITE#", "#{italic}##LIGHT GREEN#*A medida que bebes la poción, tus runas comienzan a quemar mientras se desvanecen, y una terrible agonía parece hundirse a través de tu piel a tus huesos, músculos y corazón. Te desmayas del dolor, y vienes un poco más tarde, las runas se fueron para siempre. Te sientes muy mal, y sin embargo... limpiado", "_t")
 t("Thank you. I shall not let magic triumph! #LIGHT_GREEN#[you drink the potion]", "Gracias. ¡No dejaré que la magia triunfe! #LIGHT GREEN# [Bebes la poción]", "_t")
 
 ------------------------------------------------
@@ -22219,7 +22219,7 @@ t("The selected race/class has both magic and antimagic, this is unlikely to wor
 t("Yes I'm sure", "Sí, estoy seguro", "_t")
 t("Tutorials", "Tutoriales", "_t")
 t("Basic Gameplay (recommended)", "Juego básico (recomendado)", "_t")
-t("  #GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "  #GOLD#Esta es una opcion bloqueada de creacion. Realizar ciertas acciones y completar ciertas misiones hara que las campanas, razas y clases bloqueadas esten permanentemente disponibles.", "_t")
+t("#GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "#GOLD#Esta es una opcion bloqueada de creacion. Realizar ciertas acciones y completar ciertas misiones hara que las campanas, razas y clases bloqueadas esten permanentemente disponibles.", "_t")
 t("-- locked --", "-- encerrado --", "_t")
 t("Characters Vault", "Carácteres Vault", "_t")
 t(" Load ", "Carga", "_t")

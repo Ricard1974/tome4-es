@@ -28,7 +28,7 @@ t("The selected race/class has both magic and antimagic, this is unlikely to wor
 t("Yes I'm sure", "Sí, estoy seguro", "_t")
 t("Tutorials", "Tutoriales", "_t")
 t("Basic Gameplay (recommended)", "Juego básico (recomendado)", "_t")
-t("  #GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "  #GOLD#Esta es una opcion bloqueada de creacion. Realizar ciertas acciones y completar ciertas misiones hara que las campanas, razas y clases bloqueadas esten permanentemente disponibles.", "_t")
+t("#GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "#GOLD#Esta es una opcion bloqueada de creacion. Realizar ciertas acciones y completar ciertas misiones hara que las campanas, razas y clases bloqueadas esten permanentemente disponibles.", "_t")
 t("-- locked --", "-- encerrado --", "_t")
 t("Characters Vault", "Carácteres Vault", "_t")
 t(" Load ", "Carga", "_t")
