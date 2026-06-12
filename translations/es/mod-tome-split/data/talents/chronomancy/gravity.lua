@@ -5,11 +5,11 @@
 -- Traductor: --
 
 t("Repulsion Blast", "Repulsion Explosion", "talent name")
-t("%s slams into something solid!", "%s slams into something solid!", "logSeen")
-t("%s is knocked back!", "%s is knocked back!", "logSeen")
-t("%s resists the knockback!", "%s resists the knockback!", "logSeen")
+t("%s slams into something solid!", " PH0   se mete en algo sólido!", "logSeen")
+t("%s is knocked back!", " PH0    está devuelta!", "logSeen")
+t("%s resists the knockback!", " PH0  resiste el golpe!", "logSeen")
 t("Gravity Spike", "Gravedad Pua", "talent name")
-t("%s is drawn in by the singularity!", "%s is drawn in by the singularity!", "logSeen")
+t("%s is drawn in by the singularity!", " PH0   es dibujado por la singularidad!", "logSeen")
 t("Gravity Locus", "Gravedad Locus", "talent name")
 t("Gravity Well", "Gravedad Well", "talent name")
 

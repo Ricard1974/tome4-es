@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("Concealment", "Concealment", "talent name")
-t("You are being observed too closely to enter Concealment!", "You are being observed too closely to enter Concealment!", "logPlayer")
+t("You are being observed too closely to enter Concealment!", "¡Te están observando demasiado de cerca para entrar en Concealment!", "logPlayer")
 t("Shadow Shot", "Sombra Disparo", "talent name")
 t("Aim", "Apuntar", "talent name")
 t("Snipe", "Francotiro", "talent name")
-t("Fire a lethal shot. This shot will bypass other enemies between you and your target, and gains 100 increased accuracy.", "Fire a lethal shot. This shot will bypass other enemies between you and your target, and gains 100 increased accuracy.", "tformat")
+t("Fire a lethal shot. This shot will bypass other enemies between you and your target, and gains 100 increased accuracy.", "Dispara un disparo letal. Este disparo evitará a otros enemigos entre usted y su objetivo, y gana 100 mayor precisión.", "tformat")
 

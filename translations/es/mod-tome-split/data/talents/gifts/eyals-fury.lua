@@ -7,8 +7,8 @@
 t("Reclaim", "Reclama", "talent name")
 t("Nature's Defiance", "El desafío de la naturaleza", "talent name")
 t("Acidfire", "a Acidfire", "talent name")
-t("Acidfire cloud", "Acidfire cloud", "_t")
+t("Acidfire cloud", "Nube del Fuego", "_t")
 t("Eyal's Wrath", "Eyal's Ira", "talent name")
-t("#CRIMSON#%s drains magical energy!", "#CRIMSON#%s drains magical energy!", "tformat")
+t("#CRIMSON#%s drains magical energy!", "#CRIMSON#  PH0   drena energía mágica!", "tformat")
 t("Eyal's Wrath", "Eyal's Ira", "_t")
 

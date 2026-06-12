@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("Realign", "real", "talent name")
-t("%s is cured!", "%s is cured!", "logSeen")
+t("%s is cured!", "¡Está curado!", "logSeen")
 t("Form and Function", "Forma and Function", "talent name")
 t("Matter is Energy", "Matter is Energia", "talent name")
-t("Use which gem?", "Use which gem?", "_t")
+t("Use which gem?", "¿Usar qué gema?", "_t")
 t("Resonant Focus", "Resonant Enfoque", "talent name")
 

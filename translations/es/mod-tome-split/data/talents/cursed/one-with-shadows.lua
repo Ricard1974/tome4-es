@@ -8,6 +8,6 @@ t("Shadow Senses", "Sombra Sentidos", "talent name")
 t("Shadows Empathy", "Sombras Empathy", "talent name")
 t("Shadow Transposition", "Sombra Transposition", "talent name")
 t("Shadow Decoy", "Sombra Decoy", "talent name")
-t("#GOLD#(%d decoy)#LAST#", "#GOLD#(%d decoy)#LAST#", "tformat")
-t("#GOLD#%d decoy#LAST#", "#GOLD#%d decoy#LAST#", "tformat")
+t("#GOLD#(%d decoy)#LAST#", "#GOLD#(  PH0    decoy)#", "tformat")
+t("#GOLD#%d decoy#LAST#", "#GOLD#  PH0    Decoy#LAST#", "tformat")
 

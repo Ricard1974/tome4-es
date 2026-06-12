@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("Blood Red Moon", "Sangre Red Moon", "talent name")
-t("Increases your spell critical chance by %d%%.", "Increases your spell critical chance by %d%%.", "tformat")
+t("Increases your spell critical chance by %d%%.", "Aumenta tu hechizo de oportunidad crítica por   PH0 %%.", "tformat")
 t("Totality", "Totalidad", "talent name")
 t("Corona", "o Corona", "talent name")
 t("Darkest Light", "Darkest Luz", "talent name")
-t("Shroud foes within radius %d in darkest light, dealing %0.2f light and %0.2f darkness damage per turn and converting %d%% of the damage they deal between light and darkness for %d turns.", "Shroud foes within radius %d in darkest light, dealing %0.2f light and %0.2f darkness damage per turn and converting %d%% of the damage they deal between light and darkness for %d turns.", "tformat")
+t("Shroud foes within radius %d in darkest light, dealing %0.2f light and %0.2f darkness damage per turn and converting %d%% of the damage they deal between light and darkness for %d turns.", "Fríos en el radio   PH0     en la luz más oscura, tratando   PH1     luz y   PH2       daño de la oscuridad por turno y conversión   PH3  %% del daño que tratan entre la luz y la oscuridad para   PH4    vueltas.", "tformat")
 

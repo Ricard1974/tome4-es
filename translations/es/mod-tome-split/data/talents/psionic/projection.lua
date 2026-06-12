@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("Kinetic Aura", "Cinético Aura", "talent name")
-t("You may only sustain two auras at once. Aura activation cancelled.", "You may only sustain two auras at once. Aura activation cancelled.", "logSeen")
-t("The aura dissipates without producing a spike.", "The aura dissipates without producing a spike.", "logPlayer")
+t("You may only sustain two auras at once. Aura activation cancelled.", "Sólo puede sostener dos auras a la vez. La activación de Aura cancelada.", "logSeen")
+t("The aura dissipates without producing a spike.", "El aura se disipa sin producir un pico.", "logPlayer")
 t("Thermal Aura", "Aura térmica", "talent name")
 t("Charged Aura", "Cargado Aura", "talent name")
 t("Frenzied Focus", "Frenzied Enfoque", "talent name")

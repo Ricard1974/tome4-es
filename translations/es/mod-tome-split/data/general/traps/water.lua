@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("natural", "natural", "entity type")
-t("water", "water", "entity subtype")
-t("trap", "trap", "_t")
-t("water jet", "water jet", "entity name")
-t("@Target@ triggers a water jet!", "@Target@ triggers a water jet!", "_t")
-t("a nozzle", "a nozzle", "_t")
-t("Deals %s%d#LAST# %s damage.", "Deals %s%d#LAST# %s damage.", "tformat")
-t("water siphon", "water siphon", "entity name")
-t("@Target@ is caught by a water siphon!", "@Target@ is caught by a water siphon!", "_t")
-t("a drain", "a drain", "_t")
-t("Deals %s%d#LAST# %s damage (radius %d).", "Deals %s%d#LAST# %s damage (radius %d).", "tformat")
+t("natural", "naturales", "entity type")
+t("water", "agua", "entity subtype")
+t("trap", "trampa", "_t")
+t("water jet", "chorro de agua", "entity name")
+t("@Target@ triggers a water jet!", "@Target@ dispara un chorro de agua!", "_t")
+t("a nozzle", "una boquilla", "_t")
+t("Deals %s%d#LAST# %s damage.", "Tratos   PH0                          daño.", "tformat")
+t("water siphon", "sifón de agua", "entity name")
+t("@Target@ is caught by a water siphon!", "@Target@ es atrapado por un sifón de agua!", "_t")
+t("a drain", "un drenaje", "_t")
+t("Deals %s%d#LAST# %s damage (radius %d).", "Ofertas   PH0                                                                                                                                                                                                                                                           .", "tformat")
 

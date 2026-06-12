@@ -8,6 +8,6 @@ t("Dream Smith's Hammer", "Sueno Smith's Hammer", "talent name")
 t("Hammer Toss", "Hammer Tos", "talent name")
 t("Hammer Toss", "Hammer Toss", "_t")
 t("Dream Crusher", "Sueno Crusher", "talent name")
-t("%s resists the stunning blow!", "%s resists the stunning blow!", "logSeen")
+t("%s resists the stunning blow!", " PH0  resiste el golpe impresionante!", "logSeen")
 t("Forge Echoes", "Forge Ecos", "talent name")
 

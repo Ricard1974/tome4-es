@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dark tendril", "dark tendril", "_t")
-t("The dark tendrils dissipate.", "The dark tendrils dissipate.", "logSeen")
-t("The dark tendrils lash at %s.", "The dark tendrils lash at %s.", "logSeen")
+t("dark tendril", "tentil oscuro", "_t")
+t("The dark tendrils dissipate.", "Los zarcillos oscuros se disipan.", "logSeen")
+t("The dark tendrils lash at %s.", "Los zarcillos oscuros se lanzan a   PH0  .", "logSeen")
 t("Creeping Darkness", "Creeping Oscuridad", "talent name")
-t("%s's creeping dark", "%s's creeping dark", "tformat")
+t("%s's creeping dark", " PH0   está oscuro", "tformat")
 t("Dark Vision", "Oscuro Vision", "talent name")
 t("Dark Torrent", "Oscuro Torrent", "talent name")
 t("Dark Tendrils", "Oscuro Tendrils", "talent name")

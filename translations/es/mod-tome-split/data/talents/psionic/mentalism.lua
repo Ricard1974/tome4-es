@@ -6,11 +6,11 @@
 
 t("Psychometry", "Psicometría", "talent name")
 t("Mental Shielding", "Escudo mental", "talent name")
-t("%s's mind is clear!", "%s's mind is clear!", "logSeen")
-t("Clears your mind of current mental effects, and blocks additional ones over 6 turns.  At most, %d mental effects will be affected.", "Clears your mind of current mental effects, and blocks additional ones over 6 turns.  At most, %d mental effects will be affected.", "tformat")
+t("%s's mind is clear!", "¡La mente está clara!", "logSeen")
+t("Clears your mind of current mental effects, and blocks additional ones over 6 turns.  At most, %d mental effects will be affected.", "Limpia tu mente de los efectos mentales actuales, y bloquea otros más de 6 vueltas. Como mucho, los efectos mentales   PH0  serán afectados.", "tformat")
 t("Projection", "Proyección", "talent name")
-t("Not enough space to invoke your spirit!", "Not enough space to invoke your spirit!", "logPlayer")
-t("Projection of %s", "Projection of %s", "tformat")
-t("A ghostly figure.", "A ghostly figure.", "_t")
+t("Not enough space to invoke your spirit!", "¡No es suficiente espacio para invocar tu espíritu!", "logPlayer")
+t("Projection of %s", "Proyección de   PH0 ", "tformat")
+t("A ghostly figure.", "Una figura fantasmal.", "_t")
 t("Mind Link", "Mental Link", "talent name")
 

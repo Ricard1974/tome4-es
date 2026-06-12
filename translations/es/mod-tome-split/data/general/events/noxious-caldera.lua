@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Way into a volcanic caldera", "Way into a volcanic caldera", "_t")
-t("Ground is shaking", "Ground is shaking", "_t")
-t("You feel a tremor in the ground for a few seconds and it disappears...", "You feel a tremor in the ground for a few seconds and it disappears...", "_t")
+t("Way into a volcanic caldera", "Camino a una caldera volcánica", "_t")
+t("Ground is shaking", "La tierra está temblando", "_t")
+t("You feel a tremor in the ground for a few seconds and it disappears...", "Siente un temblor en el suelo por unos segundos y desaparece...", "_t")
 

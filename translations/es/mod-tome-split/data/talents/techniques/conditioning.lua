@@ -6,7 +6,7 @@
 
 t("Vitality", "Vitalidad", "talent name")
 t("Unflinching Resolve", "Unflinching Resolver", "talent name")
-t("#ORCHID#%s has recovered!#LAST#", "#ORCHID#%s has recovered!#LAST#", "logSeen")
+t("#ORCHID#%s has recovered!#LAST#", "Se ha recuperado", "logSeen")
 t("Daunting Presence", "Daunting Presencia", "talent name")
 t("Adrenaline Surge", "Surge de adrenalina", "talent name")
 

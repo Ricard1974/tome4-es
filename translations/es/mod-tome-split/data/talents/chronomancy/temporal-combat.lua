@@ -11,5 +11,5 @@ t("Weapon Folding", "Arma plegable", "talent name")
 t("Invigorate", "Vigorizar", "talent name")
 t("Weapon Manifold", "Armon Manifold", "talent name")
 t("Breach", "Brecha", "talent name")
-t("You require a weapon to use this talent.", "You require a weapon to use this talent.", "logPlayer")
+t("You require a weapon to use this talent.", "Necesitas un arma para usar este talento.", "logPlayer")
 

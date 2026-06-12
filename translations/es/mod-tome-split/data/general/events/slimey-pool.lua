@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("slimey pool", "slimey pool", "_t")
-t("%s (slimey)", "%s (slimey)", "tformat")
+t("slimey pool", "piscina delgada", "_t")
+t("%s (slimey)", " PH0   (slimey)", "tformat")
 

@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Feed", "Alimentar", "talent name")
-t("You can only gain sustenance from your foes!", "You can only gain sustenance from your foes!", "logPlayer")
+t("You can only gain sustenance from your foes!", "¡Sólo puedes ganar sustento de tus enemigos!", "logPlayer")
 t("Devour Life", "Devour Vida", "talent name")
 t("Feed Power", "Alimentar Poder", "talent name")
 t("Feed Strengths", "Alimentar Strengths", "talent name")

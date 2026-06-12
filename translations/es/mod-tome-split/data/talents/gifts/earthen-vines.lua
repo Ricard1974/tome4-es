@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Stone Vines", "Piedra Vines", "talent name")
-t(" and %0.1f Arcane", " and %0.1f Arcane", "tformat")
+t(" and %0.1f Arcane", " PH0  Arcane", "tformat")
 t("Eldritch Vines", "Arcano Vines", "talent name")
 t("Rockwalk", "Caminarrocas", "talent name")
 t("Rockswallow", "Tragarrocas", "talent name")

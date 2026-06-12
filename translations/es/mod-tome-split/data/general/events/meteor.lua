@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Meteor!", "Meteor!", "_t")
-t("As you walk you notice a huge rock falling from the sky. It crashes right near you!", "As you walk you notice a huge rock falling from the sky. It crashes right near you!", "_t")
+t("Meteor!", "¡Meteoro!", "_t")
+t("As you walk you notice a huge rock falling from the sky. It crashes right near you!", "Mientras caminas notas una enorme roca cayendo del cielo. ¡Se estrella cerca de ti!", "_t")
 

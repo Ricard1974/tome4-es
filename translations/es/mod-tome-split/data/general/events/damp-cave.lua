@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("ladder back to %s", "ladder back to %s", "tformat")
-t("Damp Cave", "Damp Cave", "_t")
-t("damp cave", "damp cave", "_t")
+t("ladder back to %s", "escalera de vuelta a   PH0 ", "tformat")
+t("Damp Cave", "Cueva de humedad", "_t")
+t("damp cave", "cueva de humedad", "_t")
 

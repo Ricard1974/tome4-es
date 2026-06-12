@@ -6,8 +6,8 @@
 
 t("Acidbeam", "Acidbeam", "talent name")
 t("Corrosive Nature", "Corrosive Naturaleza", "talent name")
-t("trap", "trap", "_t")
+t("trap", "trampa", "_t")
 t("Corrosive Seeds", "Corrosivo Seeds", "talent name")
-t("You somehow fail to set the corrosive seed.", "You somehow fail to set the corrosive seed.", "logPlayer")
+t("You somehow fail to set the corrosive seed.", "De alguna manera no puedes establecer la semilla corrosiva.", "logPlayer")
 t("Acidic Soil", "Suelo ácido", "talent name")
 

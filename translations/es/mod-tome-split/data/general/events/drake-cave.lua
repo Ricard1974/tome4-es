@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Intimidating Cave", "Intimidating Cave", "_t")
-t("ladder back to %s", "ladder back to %s", "_t")
+t("Intimidating Cave", "Intimidación de la cueva", "_t")
+t("ladder back to %s", "escalera de vuelta a   PH0 ", "_t")
 

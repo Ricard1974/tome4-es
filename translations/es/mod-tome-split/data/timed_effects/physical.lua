@@ -228,7 +228,7 @@ t("The target is pinned by a bone spike, unable to move.", "El objetivo está ma
 t("#Target# is pinned by a bone spike.", "#Target# está marcado por un pico de hueso.", "_t")
 t("+Bone Grab", "+Bone Grab", "_t")
 t("-Bone Grab", "-Bone Grab", "_t")
-t("golem", "golem", "effect subtype")
+t("golem", "gólem", "effect subtype")
 t("Mighty Blows", "Flujos poderosos", "_t")
 t("The target's combat damage is improved by %d.", "El daño de combate del objetivo es mejorado por   PH0  .", "tformat")
 t("#Target# looks menacing.", "El sargento parece amenazador.", "_t")

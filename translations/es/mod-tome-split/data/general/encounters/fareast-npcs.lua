@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Sun Paladins patrol", "Sun Paladins patrol", "entity name")
-t("patrol", "patrol", "entity type")
-t("sunwall", "sunwall", "entity subtype")
-t("Anorithil patrol", "Anorithil patrol", "entity name")
-t("Orcs patrol", "Orcs patrol", "entity name")
-t("orc pride", "orc pride", "entity subtype")
+t("Sun Paladins patrol", "Patrulla Sun Paladins", "entity name")
+t("patrol", "patrulla", "entity type")
+t("sunwall", "murosolar", "entity subtype")
+t("Anorithil patrol", "Patrulla Anorithil", "entity name")
+t("Orcs patrol", "Patrulla de orcos", "entity name")
+t("orc pride", "orgullo oc", "entity subtype")
 

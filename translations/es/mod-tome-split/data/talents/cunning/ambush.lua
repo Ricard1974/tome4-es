@@ -6,9 +6,9 @@
 
 t("Shadowguard", "o Shadowguard", "talent name")
 t("Shadow Grasp", "Sombra Grasp", "talent name")
-t("%s resists the silence!", "%s resists the silence!", "logSeen")
-t("%s resists the disarm!", "%s resists the disarm!", "logSeen")
+t("%s resists the silence!", " PH0  resiste el silencio!", "logSeen")
+t("%s resists the disarm!", " PH0  resiste el desarme!", "logSeen")
 t("Umbral Agility", "Umbral Agilidad", "talent name")
 t("Shadow Veil", "Sombra Veil", "talent name")
-t("No target nearby.", "No target nearby.", "logPlayer")
+t("No target nearby.", "No hay blanco cerca.", "logPlayer")
 

@@ -5,14 +5,14 @@
 -- Traductor: --
 
 t("Self-Sacrifice", "Self-Sacrifice", "talent name")
-t("You can only use this while in combat", "You can only use this while in combat", "logPlayer")
+t("You can only use this while in combat", "Sólo puedes usar esto mientras estás en combate", "logPlayer")
 t("Self-Loathing", "Auto-Loathing", "talent name")
 t("Self-Destruction", "Autodestrucción", "talent name")
-t("#CRIMSON#%d#LAST#", "#CRIMSON#%d#LAST#", "tformat")
-t("tore themself apart", "tore themself apart", "_t")
+t("#CRIMSON#%d#LAST#", "#CRIMSON#  PH0 ###LAST#", "tformat")
+t("tore themself apart", "destrozarlos", "_t")
 t("Self-Judgement", "Autojuicio", "talent name")
-t("#CRIMSON##Target# suffers from %s from #Source#, mitigating the blow!#LAST#.", "#CRIMSON##Target# suffers from %s from #Source#, mitigating the blow!#LAST#.", "logCombat")
-t("an attack", "an attack", "_t")
-t("damage", "damage", "_t")
-t("%s(%d bled out#LAST#%s)#LAST#", "%s(%d bled out#LAST#%s)#LAST#", "tformat")
+t("#CRIMSON##Target# suffers from %s from #Source#, mitigating the blow!#LAST#.", "#CRIMSON##Target# sufre de   PH0   de #Source#, mitigating the blow! #LAST#.", "logCombat")
+t("an attack", "un ataque", "_t")
+t("damage", "daño", "_t")
+t("%s(%d bled out#LAST#%s)#LAST#", " PH0                             ", "tformat")
 

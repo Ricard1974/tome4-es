@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("antimagic bush", "antimagic bush", "_t")
-t("%s (antimagic aura)", "%s (antimagic aura)", "tformat")
+t("antimagic bush", "arbusto antimagico", "_t")
+t("%s (antimagic aura)", " PH0   (aura mágica)", "tformat")
 

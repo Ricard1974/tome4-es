@@ -5,15 +5,15 @@
 -- Traductor: --
 
 t("Slash", "Cortar", "talent name")
-t("You require a mainhand weapon to use this talent.", "You require a mainhand weapon to use this talent.", "logPlayer")
+t("You require a mainhand weapon to use this talent.", "Necesitas un arma principal para usar este talento.", "logPlayer")
 t("Frenzy", "Frenesi", "talent name")
 t("Reckless Charge", "Reckless Carga", "talent name")
 t("#Source# knocks back #Target#!", "#Source# knocks back #Target#!", "logCombat")
 t("#Target# blocks #Source#!", "#Target# blocks #Source#!", "logCombat")
-t("Big", "Big", "_t")
-t("Medium-sized", "Medium-sized", "_t")
-t("Small", "Small", "_t")
-t("Charge through your opponents, attacking anyone near your path for %d%% (at 0 Hate) to %d%% (at 100+ Hate) damage. %s opponents may be knocked away from your path. You can attack a maximum of %d times, and can hit targets along your path more than once.", "Charge through your opponents, attacking anyone near your path for %d%% (at 0 Hate) to %d%% (at 100+ Hate) damage. %s opponents may be knocked away from your path. You can attack a maximum of %d times, and can hit targets along your path more than once.", "tformat")
+t("Big", "Grande", "_t")
+t("Medium-sized", "Mediana", "_t")
+t("Small", "Pequeñas", "_t")
+t("Charge through your opponents, attacking anyone near your path for %d%% (at 0 Hate) to %d%% (at 100+ Hate) damage. %s opponents may be knocked away from your path. You can attack a maximum of %d times, and can hit targets along your path more than once.", "Cargue a través de sus oponentes, atacando a alguien cerca de su camino para   PH0 % (a 0 odio) a   PH1 %% (a 100+ Daño. Los oponentes   PH2  pueden ser noqueados lejos de su camino. Usted puede atacar un máximo de   PH3   veces, y puede alcanzar objetivos a lo largo de su camino más de una vez.", "tformat")
 t("Cleave", "Partir", "talent name")
-t("#Source# cleaves through #Target#!", "#Source# cleaves through #Target#!", "logCombat")
+t("#Source# cleaves through #Target#!", "¡Fuente!", "logCombat")
 

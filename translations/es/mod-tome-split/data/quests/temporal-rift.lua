@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Back and Back and Back to the Future", "Retroceder y regresar al futuro", "_t")
-t("Temporal Warden", "Temporal Warden", "_t")
+t("Temporal Warden", "Guardián Temporal", "_t")
 

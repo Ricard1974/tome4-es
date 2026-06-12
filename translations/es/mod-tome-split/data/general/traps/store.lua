@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("store", "store", "entity type")
-t("store", "store", "entity subtype")
+t("store", "tienda", "entity type")
+t("store", "tienda", "entity subtype")
 

@@ -5,12 +5,12 @@
 -- Traductor: --
 
 t("Phase Door", "Puerta dimensional", "talent name")
-t("Select a target to teleport...", "Select a target to teleport...", "logPlayer")
-t("The spell fizzles!", "The spell fizzles!", "logSeen")
-t("Select a teleport location...", "Select a teleport location...", "logPlayer")
-t("The targeted phase door fizzles and works randomly!", "The targeted phase door fizzles and works randomly!", "logPlayer")
+t("Select a target to teleport...", "Seleccione un objetivo para teletransportar...", "logPlayer")
+t("The spell fizzles!", "¡El hechizo brilla!", "logSeen")
+t("Select a teleport location...", "Seleccione una ubicación de teleport...", "logPlayer")
+t("The targeted phase door fizzles and works randomly!", "¡La puerta de fase apuntada brilla y funciona al azar!", "logPlayer")
 t("Teleport", "Teletransporte", "talent name")
-t("The targetted teleport fizzles and works randomly!", "The targetted teleport fizzles and works randomly!", "logPlayer")
+t("The targetted teleport fizzles and works randomly!", "¡El teletransportador apuntado y funciona al azar!", "logPlayer")
 t("Displacement Shield", "Displacement Escudo", "talent name")
 t("Probability Travel", "Probabilidad Viajes", "talent name")
 

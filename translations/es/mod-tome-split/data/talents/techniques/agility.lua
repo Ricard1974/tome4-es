@@ -5,12 +5,12 @@
 -- Traductor: --
 
 t("Agile Defense", "Defensa ágil", "talent name")
-t("%s(%d deflected)#LAST#", "%s(%d deflected)#LAST#", "tformat")
+t("%s(%d deflected)#LAST#", " PH0          desviado)#", "tformat")
 t("Vault", "Boveda", "talent name")
-t("You require a shield to use this talent.", "You require a shield to use this talent.", "logPlayer")
-t("%s resists the daze!", "%s resists the daze!", "logSeen")
+t("You require a shield to use this talent.", "Necesitas un escudo para usar este talento.", "logPlayer")
+t("%s resists the daze!", " PH0  resiste a la daze!", "logSeen")
 t("Bull Shot", "Bull Disparo", "talent name")
-t("You are too close to build up momentum!", "You are too close to build up momentum!", "logPlayer")
+t("You are too close to build up momentum!", "¡Estás demasiado cerca para aumentar el impulso!", "logPlayer")
 t("Rapid Shot", "Rapid Disparo", "talent name")
-t("You cannot use Rapid Fire without a bow or sling!", "You cannot use Rapid Fire without a bow or sling!", "logPlayer")
+t("You cannot use Rapid Fire without a bow or sling!", "¡No puedes usar Fuego Rápida sin un arco o un aguijón!", "logPlayer")
 

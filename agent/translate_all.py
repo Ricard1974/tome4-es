@@ -84,6 +84,18 @@ def get_untranslated_quests():
     return items
 
 
+def get_untranslated_section(section_path):
+    """Extrae cadenas sin traducir de una seccion generica."""
+    items = []
+    for f in sorted((TRANS_DIR / "mod-tome-split" / section_path).rglob("*.lua")):
+        with open(f, encoding="utf-8") as fh:
+            for line in fh:
+                m = re.match(r't\("([^"]+)",\s*"\1",\s*"([^"]+)"\)', line)
+                if m:
+                    items.append((f, m.group(1)))
+    return items
+
+
 def translate_items(items, translator, title, dry_run=False):
     """Traduce una lista de items."""
     unique_texts = list(set(text for _, text in items))
@@ -142,27 +154,27 @@ def main():
     translator = LibreTranslator()
     total = 0
 
+    sections = []
     if only_objects:
-        items = get_untranslated_objects()
-        total += translate_items(items, translator, "Objetos", dry_run)
+        sections = [("Objetos", "data/general/objects")]
     elif only_chats:
-        items = get_untranslated_chats()
-        total += translate_items(items, translator, "Dialogos NPC", dry_run)
+        sections = [("Dialogos NPC", "data/chats")]
     else:
-        items = get_untranslated_talent_names()
-        total += translate_items(items, translator, "Talentos", dry_run)
+        sections = [
+            ("Talentos", "data/talents"),
+            ("Objetos", "data/general/objects"),
+            ("Efectos de combate", "data/timed_effects"),
+            ("Dialogos NPC", "data/chats"),
+            ("Misiones", "data/quests"),
+            ("Encuentros", "data/general/encounters"),
+            ("Trampas", "data/general/traps"),
+            ("Eventos", "data/general/events"),
+            ("Logros", "data/achievements"),
+        ]
 
-        items = get_untranslated_objects()
-        total += translate_items(items, translator, "Objetos", dry_run)
-
-        items = get_untranslated_timed_effects()
-        total += translate_items(items, translator, "Efectos de combate", dry_run)
-
-        items = get_untranslated_chats()
-        total += translate_items(items, translator, "Dialogos NPC", dry_run)
-
-        items = get_untranslated_quests()
-        total += translate_items(items, translator, "Misiones", dry_run)
+    for title, section_path in sections:
+        items = get_untranslated_section(section_path)
+        total += translate_items(items, translator, title, dry_run)
 
     print(f"\nTotal: {total} traducciones")
     if not dry_run:

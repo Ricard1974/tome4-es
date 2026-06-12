@@ -9,7 +9,7 @@ t("Incendiary Ammunition", "Incendiary Munición", "talent name")
 t("Venomous Ammunition", "Municiones venenosas", "talent name")
 t("Piercing Ammunition", "Piercing Munición", "talent name")
 t("Explosive Shot", "Disparo explosivo", "talent name")
-t("You require incendiary, venomous or piercing ammunition to use this talent!", "You require incendiary, venomous or piercing ammunition to use this talent!", "logPlayer")
+t("You require incendiary, venomous or piercing ammunition to use this talent!", "¡Necesitas municiones incendiarias, venenosas o perforadoras para usar este talento!", "logPlayer")
 t("Enhanced Munitions", "Municiones mejoradas", "talent name")
 t("Alloyed Munitions", "Munición aleada", "talent name")
 

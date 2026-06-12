@@ -9,5 +9,5 @@ t("Bellowing Roar", "Roar que sigue", "talent name")
 t("@Source@ roars!", "@Source@ roars!", "_t")
 t("Devouring Flame", "Llama devoradora", "talent name")
 t("Fire Breath", "Aliento de fuego", "talent name")
-t("@Source@ breathes fire!", "@Source@ breathes fire!", "_t")
+t("@Source@ breathes fire!", "@Source@ respira fuego!", "_t")
 

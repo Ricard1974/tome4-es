@@ -7,6 +7,6 @@
 t("Dominate", "Dominar", "talent name")
 t("Preternatural Senses", "Preternatural Sentidos", "talent name")
 t("Blindside", "Punto ciego", "talent name")
-t("The blindside fizzles!", "The blindside fizzles!", "logSeen")
+t("The blindside fizzles!", "¡Las boquillas laterales!", "logSeen")
 t("Repel", "Repeler", "talent name")
 

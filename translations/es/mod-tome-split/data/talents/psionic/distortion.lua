@@ -8,6 +8,6 @@ t("Distortion Bolt", "Distortion Proyectil", "talent name")
 t("Distortion Wave", "Distortion Ola", "talent name")
 t("Ravage", "a Ravage", "talent name")
 t("Maelstrom", "Maelstrom", "talent name")
-t("%s's maelstrom", "%s's maelstrom", "tformat")
-t("#Source# pulls #Target# in!", "#Source# pulls #Target# in!", "logCombat")
+t("%s's maelstrom", "El maelstrom", "tformat")
+t("#Source# pulls #Target# in!", "¡Fuente!", "logCombat")
 

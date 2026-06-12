@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("natural", "natural", "entity type")
-t("forest", "forest", "entity subtype")
-t("trap", "trap", "_t")
-t("sliding rock", "sliding rock", "entity name")
-t("@Target@ slides on a rock!", "@Target@ slides on a rock!", "_t")
-t("slippery rock", "slippery rock", "_t")
-t("Stuns for 4 turns.", "Stuns for 4 turns.", "_t")
-t("%s resists!", "%s resists!", "logSeen")
-t("poison vine", "poison vine", "entity name")
-t("A poisonous vine strikes at @Target@!", "A poisonous vine strikes at @Target@!", "_t")
-t("venomous vine", "venomous vine", "_t")
-t("A motile vine that strikes out for %s%d#LAST# %s damage.", "A motile vine that strikes out for %s%d#LAST# %s damage.", "tformat")
+t("natural", "naturales", "entity type")
+t("forest", "bosque", "entity subtype")
+t("trap", "trampa", "_t")
+t("sliding rock", "roca deslizante", "entity name")
+t("@Target@ slides on a rock!", "@Target@ diapositivas en una roca!", "_t")
+t("slippery rock", "roca resbaladiza", "_t")
+t("Stuns for 4 turns.", "Impresionantes para 4 vueltas.", "_t")
+t("%s resists!", " PH0  resiste!", "logSeen")
+t("poison vine", "venenoso", "entity name")
+t("A poisonous vine strikes at @Target@!", "¡Una vid venenosa en @Target@!", "_t")
+t("venomous vine", "vid venenosa", "_t")
+t("A motile vine that strikes out for %s%d#LAST# %s damage.", "Una vid fútil que daña   PH0                                                                    .", "tformat")
 

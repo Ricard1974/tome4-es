@@ -5,12 +5,12 @@
 -- Traductor: --
 
 t("Channel Staff", "Personal del Canal", "talent name")
-t("You need a staff to use this spell.", "You need a staff to use this spell.", "logPlayer")
+t("You need a staff to use this spell.", "Necesitas un personal para usar este hechizo.", "logPlayer")
 t("Staff Mastery", "Staff Maestría", "talent name")
-t("Increases weapon damage by %d%% and physical power by 30 when using staves.", "Increases weapon damage by %d%% and physical power by 30 when using staves.", "tformat")
+t("Increases weapon damage by %d%% and physical power by 30 when using staves.", "Aumenta el daño del arma por   PH0 % y el poder físico por 30 cuando se usa estafas.", "tformat")
 t("Defensive Posture", "Postura defensiva", "talent name")
-t("Adopt a defensive posture, increasing your Defense and Armour by %d.", "Adopt a defensive posture, increasing your Defense and Armour by %d.", "tformat")
+t("Adopt a defensive posture, increasing your Defense and Armour by %d.", "Adopte una postura defensiva, aumentando su Defensa y Armadura por   PH0  .", "tformat")
 t("Blunt Thrust", "Desenfoque", "talent name")
-t("You cannot use Blunt Thrust without a staff weapon!", "You cannot use Blunt Thrust without a staff weapon!", "logPlayer")
-t("%s resists the stunning blow!", "%s resists the stunning blow!", "logSeen")
+t("You cannot use Blunt Thrust without a staff weapon!", "¡No puedes usar Blunt Thrust sin un arma de personal!", "logPlayer")
+t("%s resists the stunning blow!", " PH0  resiste el golpe impresionante!", "logSeen")
 

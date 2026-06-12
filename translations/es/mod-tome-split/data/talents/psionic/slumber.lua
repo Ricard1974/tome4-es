@@ -5,15 +5,15 @@
 -- Traductor: --
 
 t("Slumber", "o", "talent name")
-t("%s resists the sleep!", "%s resists the sleep!", "logSeen")
+t("%s resists the sleep!", " PH0  resiste el sueño!", "logSeen")
 t("Restless Night", "Restless Noche", "talent name")
 t("Sandman", "o Sandman", "talent name")
 t("Dreamscape", "Paisaje onírico", "talent name")
-t("You feel it unwise to travel to the dreamscape in such a fragile form.", "You feel it unwise to travel to the dreamscape in such a fragile form.", "logPlayer")
-t("This talent cannot be used from within the Dreamscape.", "This talent cannot be used from within the Dreamscape.", "logPlayer")
-t("This talent cannot be used here.", "This talent cannot be used here.", "logPlayer")
-t("The spell fizzles...", "The spell fizzles...", "logPlayer")
-t("Your target must be sleeping in order to enter its dreamscape.", "Your target must be sleeping in order to enter its dreamscape.", "logPlayer")
-t("You can't cast this on friendly targets.", "You can't cast this on friendly targets.", "logPlayer")
-t("#LIGHT_BLUE#You are taken to the Dreamscape!", "#LIGHT_BLUE#You are taken to the Dreamscape!", "logPlayer")
+t("You feel it unwise to travel to the dreamscape in such a fragile form.", "Usted siente que no es prudente viajar al paisaje de sueños en una forma tan frágil.", "logPlayer")
+t("This talent cannot be used from within the Dreamscape.", "Este talento no se puede utilizar desde el Dreamscape.", "logPlayer")
+t("This talent cannot be used here.", "Este talento no se puede utilizar aquí.", "logPlayer")
+t("The spell fizzles...", "El hechizo brilla...", "logPlayer")
+t("Your target must be sleeping in order to enter its dreamscape.", "Tu objetivo debe estar durmiendo para entrar en su paisaje de ensueño.", "logPlayer")
+t("You can't cast this on friendly targets.", "No puedes poner esto en objetivos amistosos.", "logPlayer")
+t("#LIGHT_BLUE#You are taken to the Dreamscape!", "#LIGHT BLUE# You are taken to the Dreamscape!", "logPlayer")
 

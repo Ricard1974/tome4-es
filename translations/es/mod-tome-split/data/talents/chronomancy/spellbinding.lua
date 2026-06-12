@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Empower", "Potenciar", "talent name")
-t("None", "None", "_t")
+t("None", "Ninguno", "_t")
 t("Extension", "Extensión", "talent name")
 t("Matrix", "Matriz", "talent name")
 t("Quicken", "Acelerar", "talent name")

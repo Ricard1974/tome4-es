@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("font of life", "font of life", "_t")
-t("%s (life aura)", "%s (life aura)", "tformat")
+t("font of life", "fuente de vida", "_t")
+t("%s (life aura)", " PH0   (life aura)", "tformat")
 

@@ -4,14 +4,14 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("way up (%s)", "way up (%s)", "tformat")
-t("#VIOLET# The stairway collapses completely as you ascend!", "#VIOLET# The stairway collapses completely as you ascend!", "log")
-t("#VIOLET# The decrepit stairs crumble some more as you climb them.", "#VIOLET# The decrepit stairs crumble some more as you climb them.", "log")
-t("Hidden Vault - %s", "Hidden Vault - %s", "tformat")
-t("hidden vault", "hidden vault", "_t")
-t("Crumbling stairs lead down to something.", "Crumbling stairs lead down to something.", "_t")
-t("collapsing hidden vault", "collapsing hidden vault", "_t")
-t("collapsed hidden vault", "collapsed hidden vault", "_t")
-t("A collapsed stairway, leading down", "A collapsed stairway, leading down", "_t")
-t("nearly collapsed hidden vault", "nearly collapsed hidden vault", "_t")
+t("way up (%s)", "arriba ( PH0  )", "tformat")
+t("#VIOLET# The stairway collapses completely as you ascend!", "#VIOLET# ¡La escalera se colapsa completamente a medida que asciendes!", "log")
+t("#VIOLET# The decrepit stairs crumble some more as you climb them.", "#VIOLET# Las escaleras decrépitas se desmoronan un poco más mientras las escalas.", "log")
+t("Hidden Vault - %s", "Vault ocultada -   PH0  ", "tformat")
+t("hidden vault", "bóveda oculta", "_t")
+t("Crumbling stairs lead down to something.", "Las escaleras cruzadas conducen a algo.", "_t")
+t("collapsing hidden vault", "bóveda escondida", "_t")
+t("collapsed hidden vault", "bóveda escondida colapsada", "_t")
+t("A collapsed stairway, leading down", "Una escalera colapsada, bajando", "_t")
+t("nearly collapsed hidden vault", "casi colapsada bóveda oculta", "_t")
 

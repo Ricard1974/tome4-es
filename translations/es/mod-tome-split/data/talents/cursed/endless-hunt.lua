@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("Stalk", "Acechar", "talent name")
-t("#F53CBE#You are having trouble focusing on your prey!", "#F53CBE#You are having trouble focusing on your prey!", "logPlayer")
+t("#F53CBE#You are having trouble focusing on your prey!", "¡Tienes problemas para concentrarte en tu presa!", "logPlayer")
 t("Harass Prey", "Harass Presión", "talent name")
-t("#F53CBE#%s's %s is disrupted!", "#F53CBE#%s's %s is disrupted!", "logSeen")
+t("#F53CBE#%s's %s is disrupted!", "#F53CBE#  PH0   's   PH1    es interrumpido!", "logSeen")
 t("Beckon", "Llamar", "talent name")
 t("Surge", "o", "talent name")
 

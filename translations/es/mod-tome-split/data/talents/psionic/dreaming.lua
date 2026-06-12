@@ -5,10 +5,10 @@
 -- Traductor: --
 
 t("Sleep", "Duerme", "talent name")
-t("%s resists the sleep!", "%s resists the sleep!", "logSeen")
+t("%s resists the sleep!", " PH0  resiste el sueño!", "logSeen")
 t("Lucid Dreamer", "Lucid Dreamer", "talent name")
 t("Dream Walk", "Sueno Caminar", "talent name")
-t("You may only dream walk to an open space within your line of sight.", "You may only dream walk to an open space within your line of sight.", "logPlayer")
-t("Your dream walk fails!", "Your dream walk fails!", "logSeen")
+t("You may only dream walk to an open space within your line of sight.", "Sólo puede soñar caminar a un espacio abierto dentro de su línea de visión.", "logPlayer")
+t("Your dream walk fails!", "¡Tu paseo en sueños falla!", "logSeen")
 t("Dream Prison", "Sueno Prison", "talent name")
 

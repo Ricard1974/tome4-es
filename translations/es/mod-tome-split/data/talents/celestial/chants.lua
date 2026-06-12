@@ -11,6 +11,6 @@ t("Chant of Light", "Chant of Luz", "talent name")
 t("Chant Acolyte", "Cantico Acolyte", "talent name")
 t("Chant Illuminate", "Cantico Illuminate", "talent name")
 t("Chant Adept", "Cantico Experto", "talent name")
-t("%s is cured!", "%s is cured!", "logSeen")
+t("%s is cured!", "¡Está curado!", "logSeen")
 t("Chant Radiant", "Cantico Radiant", "talent name")
 

@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("spellblaze scar", "spellblaze scar", "_t")
-t("%s (spellblaze aura)", "%s (spellblaze aura)", "tformat")
+t("spellblaze scar", "cicatriz de ortografía", "_t")
+t("%s (spellblaze aura)", " PH0   (spellblaze aura)", "tformat")
 

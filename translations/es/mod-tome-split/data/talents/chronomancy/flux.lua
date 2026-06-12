@@ -6,12 +6,12 @@
 
 t("Induce Anomaly", "Induce Anomalía", "talent name")
 t("Reality Smearing", "Realidad Untar", "talent name")
-t("#LIGHT_BLUE##Source# converts damage to paradox!", "#LIGHT_BLUE##Source# converts damage to paradox!", "delayedLogMessage")
-t("#LIGHT_BLUE#(%d converted)#LAST#", "#LIGHT_BLUE#(%d converted)#LAST#", "tformat")
+t("#LIGHT_BLUE##Source# converts damage to paradox!", "#LIGHT BLUE##Source# convierte el daño a la paradoja!", "delayedLogMessage")
+t("#LIGHT_BLUE#(%d converted)#LAST#", "#LIGHT BLUE#(  PH0   convertido)#", "tformat")
 t("Attenuate", "Atenuar", "talent name")
 t("Twist Fate", "Twist Destino", "talent name")
-t("You must have a twisted anomaly to cast this spell.", "You must have a twisted anomaly to cast this spell.", "logPlayer")
-t("#STEEL_BLUE#Casts %s.", "#STEEL_BLUE#Casts %s.", "logPlayer")
-t("#STEEL_BLUE#Targeting %s", "#STEEL_BLUE#Targeting %s", "saySimple")
-t("#STEEL_BLUE#You take control of %s.", "#STEEL_BLUE#You take control of %s.", "logPlayer")
+t("You must have a twisted anomaly to cast this spell.", "Debes tener una anomalía torcida para lanzar este hechizo.", "logPlayer")
+t("#STEEL_BLUE#Casts %s.", "#STEEL BLUE#Casts   PH0  .", "logPlayer")
+t("#STEEL_BLUE#Targeting %s", "#STEEL BLUE#Targeting   PH0  ", "saySimple")
+t("#STEEL_BLUE#You take control of %s.", "Tomas el control de   PH0  .", "logPlayer")
 

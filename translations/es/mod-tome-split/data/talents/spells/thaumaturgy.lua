@@ -6,12 +6,12 @@
 
 t("Orb of Thaumaturgy", "Orb de Thaumaturgy", "talent name")
 t("Multicaster", "a Multicaster", "talent name")
-t("#LIGHT_BLUE#%s [known, eligible]#LAST#", "#LIGHT_BLUE#%s [known, eligible]#LAST#", "tformat")
-t("#YELLOW#%s [known]#LAST#", "#YELLOW#%s [known]#LAST#", "tformat")
-t("#GREY#%s [unknown]#LAST#", "#GREY#%s [unknown]#LAST#", "tformat")
+t("#LIGHT_BLUE#%s [known, eligible]#LAST#", "#LIGHT BLUE#  PH0   [conocido, elegible]#", "tformat")
+t("#YELLOW#%s [known]#LAST#", "################################################################################################################################################################################################################################################################", "tformat")
+t("#GREY#%s [unknown]#LAST#", "# GREY#  PH0  [unknown]#", "tformat")
 t("Slipstream", "Influencia", "talent name")
-t("#PURPLE#Your Slipstream does not have enough resources!", "#PURPLE#Your Slipstream does not have enough resources!", "logPlayer")
-t("#PURPLE#Your Slipstream regenerates to full!", "#PURPLE#Your Slipstream regenerates to full!", "logPlayer")
+t("#PURPLE#Your Slipstream does not have enough resources!", "#PURPLE# Your Slipstream does not have enough resources!", "logPlayer")
+t("#PURPLE#Your Slipstream regenerates to full!", "#PURPLE# Your Slipstream regenera to full!", "logPlayer")
 t("Elemental Array Burst", "Elemental Array Explosión", "talent name")
 t("Thaumaturgy Unlock Checker", "Thaumaturgy Deslock Checker", "talent name")
 

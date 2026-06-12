@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("annoy", "annoy", "entity type")
-t("annoy", "annoy", "entity subtype")
-t("trap", "trap", "_t")
-t("lethargy trap", "lethargy trap", "entity name")
-t("@Target@ seems less active.", "@Target@ seems less active.", "_t")
-t("pattern of glyphs", "pattern of glyphs", "_t")
-t("Disrupts activated talents.", "Disrupts activated talents.", "_t")
-t("burning curse trap", "burning curse trap", "entity name")
-t("@Target@ triggers a burning curse!", "@Target@ triggers a burning curse!", "_t")
-t("dark pentagram", "dark pentagram", "_t")
-t("Afflicts the target with a curse: talents inflict %d fire damage and have increased cooldowns.", "Afflicts the target with a curse: talents inflict %d fire damage and have increased cooldowns.", "_t")
+t("annoy", "molesto", "entity type")
+t("annoy", "molesto", "entity subtype")
+t("trap", "trampa", "_t")
+t("lethargy trap", "trampa letargo", "entity name")
+t("@Target@ seems less active.", "@Target@ parece menos activo.", "_t")
+t("pattern of glyphs", "patrón de glifos", "_t")
+t("Disrupts activated talents.", "Disrupta talentos activados.", "_t")
+t("burning curse trap", "maldición", "entity name")
+t("@Target@ triggers a burning curse!", "@Target@ activa una maldición ardiente!", "_t")
+t("dark pentagram", "pentagrama oscuro", "_t")
+t("Afflicts the target with a curse: talents inflict %d fire damage and have increased cooldowns.", "Aflige al objetivo con una maldición: los talentos infligen   PH0    daño al fuego y han aumentado las refrigeraciones.", "_t")
 
