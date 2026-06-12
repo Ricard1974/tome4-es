@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Rest in peace.", "Rest in peace.", "_t")
+t("Rest in peace.", "Descansa en paz.", "_t")
 

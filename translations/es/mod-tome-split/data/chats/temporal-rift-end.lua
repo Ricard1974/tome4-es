@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ok...", "Ok...", "_t")
-t("The temporal warden gives you: %s.", "The temporal warden gives you: %s.", "log")
+t("Ok...", "Vale...", "_t")
+t("The temporal warden gives you: %s.", "El guardia temporal te da:   PH0   .", "log")
 

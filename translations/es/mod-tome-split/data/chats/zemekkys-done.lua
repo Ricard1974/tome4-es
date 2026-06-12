@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Yes, thank you.", "Yes, thank you.", "_t")
-t("Whatever.", "Whatever.", "chat_zemekkys-done")
+t("Yes, thank you.", "Sí, gracias.", "_t")
+t("Whatever.", "Lo que sea.", "chat_zemekkys-done")
 

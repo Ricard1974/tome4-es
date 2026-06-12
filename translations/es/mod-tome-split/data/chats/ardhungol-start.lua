@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Good day to you.", "Good day to you.", "_t")
-t("Good day to you too.", "Good day to you too.", "_t")
-t("I have heard you are a great hero of the west. Could you help me, please?", "I have heard you are a great hero of the west. Could you help me, please?", "_t")
-t("Maybe, what is it about?", "Maybe, what is it about?", "_t")
-t("I have got enough problems sorry.", "I have got enough problems sorry.", "_t")
-t("Welcome back, @playername@.", "Welcome back, @playername@.", "_t")
-t("I have found your husband. I take it he made it home safely?", "I have found your husband. I take it he made it home safely?", "_t")
-t("I've got to go. Bye.", "I've got to go. Bye.", "_t")
-t("I will see if I can find him.", "I will see if I can find him.", "_t")
-t("Spiders? Eww, sorry, but he is probably dead now.", "Spiders? Eww, sorry, but he is probably dead now.", "_t")
-t("Yes, yes he did! He said he would have died if not for you.", "Yes, yes he did! He said he would have died if not for you.", "_t")
-t("It was nothing.", "It was nothing.", "_t")
+t("Good day to you.", "Buen día para ti.", "_t")
+t("Good day to you too.", "Buen día para ti también.", "_t")
+t("I have heard you are a great hero of the west. Could you help me, please?", "He oído que eres un gran héroe del oeste. ¿Podrías ayudarme, por favor?", "_t")
+t("Maybe, what is it about?", "Tal vez, ¿de qué se trata?", "_t")
+t("I have got enough problems sorry.", "Tengo suficientes problemas.", "_t")
+t("Welcome back, @playername@.", "Bienvenido, @playername@.", "_t")
+t("I have found your husband. I take it he made it home safely?", "He encontrado a su marido. Supongo que llegó a casa con seguridad?", "_t")
+t("I've got to go. Bye.", "Tengo que irme. Adiós.", "_t")
+t("I will see if I can find him.", "Veré si puedo encontrarlo.", "_t")
+t("Spiders? Eww, sorry, but he is probably dead now.", "¿Arañas? Lo siento, pero probablemente ahora está muerto.", "_t")
+t("Yes, yes he did! He said he would have died if not for you.", "¡Sí, sí que lo hizo! Dijo que habría muerto si no fuera por ti.", "_t")
+t("It was nothing.", "No fue nada.", "_t")
 

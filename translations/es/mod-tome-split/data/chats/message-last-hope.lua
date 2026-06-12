@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Thank you for your courage.", "Thank you for your courage.", "_t")
-t("The herald gives you %s.", "The herald gives you %s.", "logPlayer")
+t("Thank you for your courage.", "Gracias por tu coraje.", "_t")
+t("The herald gives you %s.", "El heraldo te da   PH0   .", "logPlayer")
 

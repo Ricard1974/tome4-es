@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I have been sent by your wife. She was worried for you.", "I have been sent by your wife. She was worried for you.", "_t")
-t("Lead the way!", "Lead the way!", "_t")
+t("I have been sent by your wife. She was worried for you.", "He sido enviado por tu esposa. Estaba preocupada por ti.", "_t")
+t("Lead the way!", "¡Adelante!", "_t")
 

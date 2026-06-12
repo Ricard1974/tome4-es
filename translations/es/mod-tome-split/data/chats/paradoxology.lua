@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("What the...", "What the...", "_t")
+t("What the...", "¿Qué....", "_t")
 

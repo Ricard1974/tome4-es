@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I will go there and see what I can do.", "I will go there and see what I can do.", "_t")
-t("This is not my problem. Go away!", "This is not my problem. Go away!", "_t")
+t("I will go there and see what I can do.", "Iré a ver qué puedo hacer.", "_t")
+t("This is not my problem. Go away!", "Este no es mi problema. ¡Vete!", "_t")
 

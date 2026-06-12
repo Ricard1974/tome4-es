@@ -50,7 +50,9 @@ def get_untranslated_objects():
 
 def get_untranslated_timed_effects():
     items = []
-    for f in sorted((TRANS_DIR / "mod-tome-split" / "data" / "timed_effects").rglob("*.lua")):
+    for f in sorted(
+        (TRANS_DIR / "mod-tome-split" / "data" / "timed_effects").rglob("*.lua")
+    ):
         with open(f, encoding="utf-8") as fh:
             for line in fh:
                 m = re.match(r't\("([^"]+)",\s*"\1",\s*"([^"]+)"\)', line)
@@ -132,6 +134,7 @@ def main():
     dry_run = "--dry-run" in sys.argv
     only_talents = "--talents" in sys.argv or "-t" in sys.argv
     only_objects = "--objects" in sys.argv or "-o" in sys.argv
+    only_chats = "--chats" in sys.argv or "-c" in sys.argv
 
     mode = "[SIMULACION]" if dry_run else ""
     print(f"AGENTE DE TRADUCCION ToME4-es {mode}")
@@ -139,22 +142,24 @@ def main():
     translator = LibreTranslator()
     total = 0
 
-    if not only_objects:
+    if not only_objects and not only_chats:
         items = get_untranslated_talent_names()
         total += translate_items(items, translator, "Talentos", dry_run)
 
-    if not only_talents:
+    if not only_talents and not only_chats:
         items = get_untranslated_objects()
         total += translate_items(items, translator, "Objetos", dry_run)
-    
-    items = get_untranslated_timed_effects()
-    total += translate_items(items, translator, "Efectos de combate", dry_run)
-    
+
+    if not only_chats:
+        items = get_untranslated_timed_effects()
+        total += translate_items(items, translator, "Efectos de combate", dry_run)
+
     items = get_untranslated_chats()
     total += translate_items(items, translator, "Dialogos NPC", dry_run)
-    
-    items = get_untranslated_quests()
-    total += translate_items(items, translator, "Misiones", dry_run)
+
+    if not only_chats:
+        items = get_untranslated_quests()
+        total += translate_items(items, translator, "Misiones", dry_run)
 
     print(f"\nTotal: {total} traducciones")
     if not dry_run:

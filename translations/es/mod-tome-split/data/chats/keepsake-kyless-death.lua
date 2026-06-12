@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I will. #LIGHT_GREEN#[destroy the book]#LAST#", "I will. #LIGHT_GREEN#[destroy the book]#LAST#", "_t")
-t("I'm sorry but I need it. #LIGHT_GREEN#[keep the book]#LAST#", "I'm sorry but I need it. #LIGHT_GREEN#[keep the book]#LAST#", "_t")
-t("#VIOLET#*You destroy the book. When you finish you look up and see that Kyless is already dead.*#LAST#", "#VIOLET#*You destroy the book. When you finish you look up and see that Kyless is already dead.*#LAST#", "_t")
-t("Goodbye, Kyless.", "Goodbye, Kyless.", "_t")
-t("#VIOLET#*You place the book in your pack. When you finish you look up and see that Kyless is already dead.*#LAST#", "#VIOLET#*You place the book in your pack. When you finish you look up and see that Kyless is already dead.*#LAST#", "_t")
+t("I will. #LIGHT_GREEN#[destroy the book]#LAST#", "Lo haré. #LIGHT GREEN# [destruir el libro]#", "_t")
+t("I'm sorry but I need it. #LIGHT_GREEN#[keep the book]#LAST#", "Lo siento pero lo necesito. #LIGHT GREEN # [guarda el libro]#", "_t")
+t("#VIOLET#*You destroy the book. When you finish you look up and see that Kyless is already dead.*#LAST#", "#VIOLET#*Destruye el libro. Cuando termines de mirar hacia arriba y ver que Kyless ya está muerto.*#", "_t")
+t("Goodbye, Kyless.", "Adiós, Kyless.", "_t")
+t("#VIOLET#*You place the book in your pack. When you finish you look up and see that Kyless is already dead.*#LAST#", "#VIOLET#* Colocas el libro en tu paquete. Cuando termines de mirar hacia arriba y ver que Kyless ya está muerto.*#", "_t")
 

@@ -116,6 +116,17 @@ FORCED_TERMS = {
     "temporal": "temporal",
     "mind": "mente",
     "poison": "veneno",
+    # Diálogos / UI
+    "Hrmph.": "Hrmpf.",
+    "Ok...": "Vale...",
+    "error!": "¡error!",
+    "Escort": "Escolta",
+    "Warp": "Distorsión",
+    "Temporal": "Temporal",
+    "Armour Hardiness": "Fortaleza de Armadura",
+    "Armour": "Armadura",
+    "Primed Trigger": "Gatillo Preparado",
+    "Normal Trigger": "Gatillo Normal",
     # Palabras comunes del juego
     "damage": "daño",
     "talent": "talento",

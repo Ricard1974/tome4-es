@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("For the Empire! Take care.", "For the Empire! Take care.", "_t")
+t("For the Empire! Take care.", "¡Por el Imperio! Cuídate.", "_t")
 

@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("What kind of anomaly do you prefer?", "What kind of anomaly do you prefer?", "_t")
-t("Physical", "Physical", "_t")
-t("Warp", "Warp", "_t")
+t("What kind of anomaly do you prefer?", "¿Qué clase de anomalía prefieres?", "_t")
+t("Physical", "Física", "_t")
+t("Warp", "Distorsion", "_t")
 t("Temporal", "Temporal", "_t")
-t("Never mind", "Never mind", "_t")
+t("Never mind", "No importa", "_t")
 

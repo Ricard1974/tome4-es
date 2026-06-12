@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I've changed my mind.", "I've changed my mind.", "_t")
-t("Which kind of item would you like ?", "Which kind of item would you like ?", "_t")
-t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "_t")
-t("Yes, please.", "Yes, please.", "_t")
-t("Name your item", "Name your item", "_t")
-t("Name", "Name", "_t")
-t("#LIGHT_BLUE#You are given: %s", "#LIGHT_BLUE#You are given: %s", "log")
-t("No thanks.", "No thanks.", "_t")
-t("Oh I am sorry, it seems we could not make the item your require.", "Oh I am sorry, it seems we could not make the item your require.", "_t")
-t("Oh, let's try something else then.", "Oh, let's try something else then.", "_t")
-t("Oh well, maybe later then.", "Oh well, maybe later then.", "_t")
+t("I've changed my mind.", "He cambiado de opinión.", "_t")
+t("Which kind of item would you like ?", "¿Qué tipo de artículo te gustaría?", "_t")
+t("#CRIMSON#Your timetravel has no effect on pre-determined outcomes such as this.", "#CRIMSON#Tu timetravel no tiene efecto en los resultados predeterminados como este.", "_t")
+t("Yes, please.", "Sí, por favor.", "_t")
+t("Name your item", "Nombre de su artículo", "_t")
+t("Name", "Nombre", "_t")
+t("#LIGHT_BLUE#You are given: %s", "Te dan:", "log")
+t("No thanks.", "No, gracias.", "_t")
+t("Oh I am sorry, it seems we could not make the item your require.", "Oh, lo siento, parece que no podríamos hacer que el artículo sea su requisito.", "_t")
+t("Oh, let's try something else then.", "Vamos a probar otra cosa entonces.", "_t")
+t("Oh well, maybe later then.", "Bueno, tal vez más tarde entonces.", "_t")
 

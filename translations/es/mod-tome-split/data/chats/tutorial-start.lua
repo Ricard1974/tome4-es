@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Hello there. What subject interests you?", "Hello there. What subject interests you?", "_t")
-t("Basic gameplay", "Basic gameplay", "_t")
-t("Combat stat mechanics", "Combat stat mechanics", "_t")
-t("Never mind.", "Never mind.", "_t")
-t("Is there nothing more for me to learn here?", "Is there nothing more for me to learn here?", "_t")
+t("Hello there. What subject interests you?", "Hola. ¿Qué tema te interesa?", "_t")
+t("Basic gameplay", "Juego básico", "_t")
+t("Combat stat mechanics", "Mecánica de puestos de combate", "_t")
+t("Never mind.", "No importa.", "_t")
+t("Is there nothing more for me to learn here?", "¿No hay nada más para aprender aquí?", "_t")
 t("\
 You have completed all the tutorials, and should now know the basics of ToME4. You are ready to step forward into the world to find glory, treasures and be mercilessly slaughtered by hordes of creatures you thought you could handle!\
 \

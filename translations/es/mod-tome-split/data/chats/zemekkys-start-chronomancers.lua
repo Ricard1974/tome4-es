@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I will, Grand Keeper.", "I will, Grand Keeper.", "_t")
-t("I am sorry, but I cannot do that.", "I am sorry, but I cannot do that.", "_t")
+t("I will, Grand Keeper.", "Lo haré, Gran Guardián.", "_t")
+t("I am sorry, but I cannot do that.", "Lo siento, pero no puedo hacer eso.", "_t")
 

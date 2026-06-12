@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I ain't no chatting! Speak to the boss!", "I ain't no chatting! Speak to the boss!", "_t")
-t("[leave]", "[leave]", "_t")
+t("I ain't no chatting! Speak to the boss!", "¡No estoy charlando! ¡Habla con el jefe!", "_t")
+t("[leave]", "[Salir]", "_t")
 

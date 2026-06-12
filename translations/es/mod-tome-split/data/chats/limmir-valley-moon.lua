@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I do not have time to talk. This ritual is intense, and we are not alone here. Stop them!", "I do not have time to talk. This ritual is intense, and we are not alone here. Stop them!", "_t")
-t("I will not let you down!", "I will not let you down!", "_t")
-t("[leave]", "[leave]", "_t")
+t("I do not have time to talk. This ritual is intense, and we are not alone here. Stop them!", "No tengo tiempo para hablar. Este ritual es intenso, y no estamos solos aquí. ¡Detenlos!", "_t")
+t("I will not let you down!", "¡No te decepcionaré!", "_t")
+t("[leave]", "[Salir]", "_t")
 

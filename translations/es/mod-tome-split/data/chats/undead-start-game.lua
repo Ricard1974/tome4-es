@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("[listen]", "[listen]", "_t")
-t("I am not a tool! RELEASE ME!", "I am not a tool! RELEASE ME!", "_t")
-t("[attack]", "[attack]", "_t")
+t("[listen]", "[escuchar]", "_t")
+t("I am not a tool! RELEASE ME!", "¡No soy una herramienta! ¡Respóndeme!", "_t")
+t("[attack]", "[ataque]", "_t")
 

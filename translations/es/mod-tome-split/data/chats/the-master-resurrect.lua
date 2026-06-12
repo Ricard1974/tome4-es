@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Never! Die!", "Never! Die!", "_t")
+t("Never! Die!", "¡Nunca! ¡Muere!", "_t")
 

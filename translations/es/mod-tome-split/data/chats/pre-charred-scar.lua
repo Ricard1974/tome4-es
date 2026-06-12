@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Where?!", "Where?!", "_t")
-t("I will, right now!", "I will, right now!", "_t")
+t("Where?!", "¿Dónde!", "_t")
+t("I will, right now!", "¡Lo haré ahora mismo!", "_t")
 

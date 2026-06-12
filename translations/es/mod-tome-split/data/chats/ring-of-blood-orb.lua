@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("[Pay 150 gold]", "[Pay 150 gold]", "_t")
-t("[Leave]", "[Leave]", "_t")
-t("Let the fight start!", "Let the fight start!", "_t")
-t("Bring it on!", "Bring it on!", "_t")
+t("[Pay 150 gold]", "[Pago 150 oro]", "_t")
+t("[Leave]", "[Salir]", "_t")
+t("Let the fight start!", "¡Que empiece la pelea!", "_t")
+t("Bring it on!", "¡Vamos!", "_t")
 

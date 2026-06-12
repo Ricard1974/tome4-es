@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("And thus my task is done, serpent!", "And thus my task is done, serpent!", "_t")
-t("You do not understand: it will explode!", "You do not understand: it will explode!", "_t")
+t("And thus my task is done, serpent!", "¡Y así se hace mi tarea, serpiente!", "_t")
+t("You do not understand: it will explode!", "Usted no entiende: va a explotar!", "_t")
 t("...", "...", "_t")
 

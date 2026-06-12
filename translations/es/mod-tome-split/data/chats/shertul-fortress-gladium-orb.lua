@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("*#LIGHT_GREEN#This orb is used to control the gladium arena.#WHITE#*", "*#LIGHT_GREEN#This orb is used to control the gladium arena.#WHITE#*", "_t")
-t("[Go back to the Fortress]", "[Go back to the Fortress]", "_t")
-t("[Leave the orb alone]", "[Leave the orb alone]", "_t")
+t("*#LIGHT_GREEN#This orb is used to control the gladium arena.#WHITE#*", "*#LIGHT GREEN#Este orb se utiliza para controlar la arena de gladio", "_t")
+t("[Go back to the Fortress]", "[Vuelve a la Fortaleza]", "_t")
+t("[Leave the orb alone]", "[Deja el orbe solo]", "_t")
 

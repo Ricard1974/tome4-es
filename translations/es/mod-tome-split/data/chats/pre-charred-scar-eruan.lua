@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("I think I can use the portal. Do not worry!", "I think I can use the portal. Do not worry!", "_t")
+t("I think I can use the portal. Do not worry!", "Creo que puedo usar el portal. ¡No te preocupes!", "_t")
 

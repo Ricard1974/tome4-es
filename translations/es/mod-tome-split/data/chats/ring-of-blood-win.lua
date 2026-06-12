@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Thanks, it was fun!", "Thanks, it was fun!", "_t")
+t("Thanks, it was fun!", "¡Gracias, fue divertido!", "_t")
 

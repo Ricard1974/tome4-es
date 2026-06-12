@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("There you go. Farewell!", "There you go. Farewell!", "_t")
+t("There you go. Farewell!", "Ahí tienes. ¡Adiós!", "_t")
 t("Thank you.", "Gracias.", "_t")
 
