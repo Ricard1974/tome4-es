@@ -38,7 +38,7 @@ t("Unfolding the space time structure...", "Desplegiendo la estructura del tiemp
 t("the great unknown", "el gran desconocido", "_t")
 t("something", "algo", "_t")
 t("unknown", "desconocida", "entity name")
-t("#Source# hits #Target# for %s (#RED##{bold}#%0.0f#LAST##{normal}# total damage)%s.", "#Source# hits #Target# for %s (#RED##{bold}#%0.0f#LAST##{normal}# total damage)%s.", "logMessage")
+t("#Source# hits #Target# for %s (#RED##{bold}#%0.0f#LAST##{normal}# total damage)%s.", "#Source # hits #Target# for %s (#RED##{bold}#%0.0f####{normal}# total damage)%s.", "logMessage")
 t(" #LIGHT_GREEN#[%0.0f healing]#LAST#", "#LIGHT GREEN# ########################################################################################################################################################################################################################################################%0.0f", "tformat")
 t("#Source# hits #Target# for %s damage.", "#Source# hits #Target# for  %s   damage.", "logMessage")
 t("#Source# receives %s.", "#Source# receives  %s .", "logMessage")

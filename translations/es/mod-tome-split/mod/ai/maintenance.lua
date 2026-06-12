@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("#ORCHID#__%s[%d]maintenance AI picked action: %s (%s)", "#ORCHID#                                             %s%d%s%s", "log")
-t("__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", "log")
+t("__%s[%d] #ORANGE# maintenance ACTION FAILED:  %s", " %s[%d] #ORANGE# maintenance ACTION FAILED: %s", "log")
 

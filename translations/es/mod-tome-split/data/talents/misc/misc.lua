@@ -40,9 +40,11 @@ t("There are creatures that could be watching you; you cannot take the risk.", "
 t("Timeport: Point Zero", "Timeport: Punto Cero", "talent name")
 t("Relentless Pursuit", "Pursuit incesante", "talent name")
 t("%s: Reducing duration of %s, using %s, by %d", "%s : Reducción de la duración de  %s , utilizando  %s  , por  %d ", "tformat")
-t(" %s effect durations -%d turns", " %s effect durations -%d turns", "tformat")
+t(" %s effect durations -%d turns", "%s duración del efecto -%d turnos", "tformat")
 t("Teleport to the ground", "Teletransporte to the ground", "talent name")
 t("You cannot teleport there.", "No puedes teletransportar allí.", "log")
 t("Fire a blast of energy", "Fuego a blast of energy", "talent name")
 t("High Planetary Orbit", "Orbito planetario alto", "talent name")
 
+t("You are hunted!.\n\t\tThere is a %d%% chance each turn that all foes in a %d radius get a glimpse of your position for 30 turns.", "¡Estás cazado!\nHay una posibilidad de %d %% cada vuelta que todos los enemigos en un radio %d consiguen un vistazo de su posición para 30 vueltas.", "tformat")
+t("Not the Master himself, nor all the orcs in fallen Reknor, nor even the terrifying unknown beyond Reknor's portal could slow your pursuit of the Staff of Absorption.\n\t\tChildren will hear of your relentlessness in song for years to come.\n\t\tWhen activated, this ability reduces the duration of all active detrimental effects by 20%% of your associated save value or 2, whichever is greater:\n\t\t%s", "No el mismo Maestro, ni todos los orcos en Reknor caído, ni siquiera el aterrador desconocido más allá del portal de Reknor podría retrasar su búsqueda del Personal de Absorción.\nLos niños escucharán de su implacable canción durante años.\nCuando se activa, esta habilidad reduce la duración de todos los efectos perjudiciales activos por 20%% de su valor de ahorro asociado o 2, lo que sea mayor:\n%s", "tformat")

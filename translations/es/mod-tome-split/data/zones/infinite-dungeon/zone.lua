@@ -30,7 +30,7 @@ t("empty", "vacío", "_t")
 t("flooded", "inundaciones", "_t")
 t("molten", "fundido", "_t")
 t("temperate", "templado", "_t")
-t(" Encroaching terrain: %s%s", " Encroaching terrain: %s%s", "tformat")
+t(" Encroaching terrain: %s%s", "Terreno de cultivo: %s %s", "tformat")
 t("indistinct", "indistinto", "_t")
 t("continuation of the Infinite Dungeon", "continuación del Infinito Dungeon", "_t")
 

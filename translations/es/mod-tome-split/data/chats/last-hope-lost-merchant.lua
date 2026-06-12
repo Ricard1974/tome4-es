@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Urthol's Wondrous Emporium", "Emporium Wondrous de Urthol", "_t")
-t(" By the way, ", " By the way, ", "_t")
+t(" By the way, ", "Por cierto,", "_t")
 t("during our escape I found the plans for an #YELLOW#Ambush Trap#LAST#", "durante nuestra escapada encontré los planes para un #YELLOW#Ambush Trap#LAST", "_t")
 t(" and while", "y mientras", "_t")
 t("while", "mientras", "_t")

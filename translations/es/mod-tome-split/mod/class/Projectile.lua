@@ -6,7 +6,7 @@
 
 t("Projectile: ", "Projectile:", "_t")
 t("Origin: ", "Origen:", "_t")
-t("Speed: %d%% %s", "Speed: %d%% %s", "tformat")
+t("Speed: %d%% %s", "Speed: %d %% %s", "tformat")
 t("Affect origin chance: ", "Posibilidad de origen afectado:", "_t")
 t("Affect origin's friends chance: ", "Los amigos de origen afectan la oportunidad:", "_t")
 t("UID: ", "UID:", "_t")

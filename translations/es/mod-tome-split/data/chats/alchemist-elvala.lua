@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Too late! Argh, too late. %s has already finished. I'll make the elixir and reward you as promised, but only because the Brotherhood breaks the fingers of non-member alchemists who rook people. Members, on the other hand...", "¡Demasiado tarde! Muy tarde. Ya ha terminado. Haré el elixir y te recompensaré como se prometió, pero sólo porque la Hermandad rompe los dedos de los alquimistas no miembros que roban a la gente. Miembros, por otro lado...%s", "tformat")
-t("Give them here. You took long enough; %s cooked up a %s in your absence. Be quicker about the next one lest I make a 'mistake' in brewing your reward.", "Dales aquí. Tomaste el tiempo suficiente;   PH0     cocinaste un   PH1   en tu ausencia. Sé más rápido sobre el próximo para que no haga un "error" en la elaboración de su recompensa.", "tformat")
+t("Give them here. You took long enough; %s cooked up a %s in your absence. Be quicker about the next one lest I make a 'mistake' in brewing your reward.", "Dales aquí. Tomaste el tiempo suficiente; %s cocinaste un %s  en tu ausencia. Sé más rápido sobre el próximo para que no haga un \"error\" en la elaboración de su recompensa.", "tformat")
 t("I am indeed an adventurer. Go on.", "De hecho soy un aventurero. Vamos.", "_t")
 t("[leave]", "[Salir]", "_t")
 t("Three elixirs stand between me and acceptance into the Brotherhood of Alchemists, unless I've been through that already. I'm never quite sure. But I think that's the case. Bring me the ingredients.", "Tres elixirs se interponen entre mí y aceptan la Hermandad de los Alquimistas, a menos que ya haya pasado por eso. Nunca estoy segura. Pero creo que es el caso. Tráeme los ingredientes.", "_t")

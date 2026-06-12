@@ -76,7 +76,7 @@ t("Deals #YELLOW#%d#LAST# Manaburn damage and puts 1 random spell talent on cool
 t("#YELLOW#%s has their %s spell disrupted for for %d turns!", "#YELLOW# %s   tiene su hechizo  %s  interrumpido para  %d s turn!", "logSeen")
 t(" of disruption", "of disruption", "entity name")
 t("disruption", "trastorno", "entity keyword")
-t("Cause the target to have a 10%% chance to fail spellcasting and 10%% chance to lose a magical sustain each turn, stacking up to 50%%", "Porque el objetivo tiene una oportunidad del 10% de fallar la ortografía y el 10%% de la oportunidad de perder un soporte mágico cada vuelta, apilando hasta el 50%%%%", "tformat")
+t("Cause the target to have a 10%% chance to fail spellcasting and 10%% chance to lose a magical sustain each turn, stacking up to 50%%", "Porque el objetivo tiene una oportunidad 10%% de fallar la ortografía y 10%% oportunidad de perder un soporte mágico cada vuelta, apilando hasta 50%%", "tformat")
 t("hateful ", "hateful", "entity name")
 t("hateful", "odioso", "entity keyword")
 t("thought-forged ", "thought-forged", "entity name")

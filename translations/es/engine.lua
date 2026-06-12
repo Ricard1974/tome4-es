@@ -901,7 +901,7 @@ t("Display resolution.", "Resolución de pantalla.", "_t")
 t("#GOLD##{bold}#Resolution#WHITE##{normal}#", "#GOLD##{bold}#Resolución#WHITE##{normal}#", "_t")
 t("If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#", "Si tienes una pantalla de alto DPI, sube este valor. Requiere reiniciar.#WHITE#", "_t")
 t("#GOLD##{bold}#Screen Zoom#WHITE##{normal}#", "#GOLD##{bold}#Zoom de pantalla#WHITE##{normal}#", "_t")
-t("Enter Zoom %", "Introduce % de zoom", "_t")
+t("Enter Zoom %", "Enter Zoom %", "_t")
 t("From 50 to 400", "De 50 a 400", "_t")
 t([[Request this display refresh rate.
 Set it lower to reduce CPU load, higher to increase interface responsiveness.#WHITE#]], [[Request this display refresh rate.
@@ -930,7 +930,7 @@ t([[Apply a global scaling to all fonts.
 Applies after restarting the game]], [[Apply a global scaling to all fonts.
 Applies after restarting the game]], "_t")
 t("#GOLD##{bold}#Font Scale#WHITE##{normal}#", "#GOLD##{bold}#Escala de fuente#WHITE##{normal}#", "_t")
-t("Font Scale %", "% de escala de fuente", "_t")
+t("Font Scale %", "Font Scale %", "_t")
 t("From 50 to 300", "De 50 a 300", "_t")
 t([[Activates framebuffers.
 This option allows for some special graphical effects.
@@ -1405,10 +1405,10 @@ t("Game installation successful. Have fun!", "Instalación completada. ¡Diviér
 
 
 -- new text
-t("%dth", "%to%d", "_t")
+t("%dth", "%dth", "_t")
 t("%dst", "%do", "_t")
 t("%dnd", "%da", "_t")
-t("%drd", "%ar%d", "_t")
+t("%drd", "%drd", "_t")
 t("an ", "un ", "_t")
 t("a ", "un ", "_t")
 t("she", "ella", "_t")
