@@ -14,7 +14,7 @@ t("You cannot use Shield Slam without a shield!", "¡No puedes usar Shield Slam 
 t("Hit your target with your shield 3 times for %d%% damage then quickly return to a blocking position.  The bonus block will not check or trigger Block cooldown.", "Golpea a tu objetivo con tu escudo 3 veces por daños  %d%% luego vuelve rápidamente a una posición de bloqueo. El bloque de bonificación no comprobará ni activará el enfriamiento del bloque.", "tformat")
 t("Assault", "Asalto", "talent name")
 t("You cannot use Assault without a mainhand weapon and shield!", "¡No puedes usar Asalto sin arma principal y escudo!", "logPlayer")
-t("Hits the target with your shield, doing %d%% damage. If it hits, you follow up with two automatic critical hits with your weapon, doing %d%% base damage each.", "Golpea al blanco con tu escudo, haciendo daño. Si golpea, sigues con dos golpes críticos automáticos con tu arma, haciendo  %%d%% de daño base cada uno.%d", "tformat")
+t("Hits the target with your shield, doing %d%% damage. If it hits, you follow up with two automatic critical hits with your weapon, doing %d%% base damage each.", "Hits the target with your shield, doing %d%% damage. If it hits, you follow up with two automatic critical hits with your weapon, doing %d%% base damage each.", "tformat")
 t("Shield Wall", "Escudo Wall", "talent name")
 t("You cannot use Shield Wall without a shield!", "¡No puedes usar Shield Wall sin un escudo!", "logPlayer")
 t("Repulsion", "Repulsión", "talent name")

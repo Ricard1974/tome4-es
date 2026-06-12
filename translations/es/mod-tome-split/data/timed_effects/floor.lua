@@ -21,7 +21,7 @@ t("The target is near an antimagic bush, granting +20%% nature damage, +20%% nat
 t("Necrotic Air", "Necrotic Air", "floorEffect desc")
 t("The target is in a zone of necrotic air, granting -40% healing mod. Undead creatures also get +15% to all resistances.", "El objetivo está en una zona de aire necrótico, otorgando -40% mod curativo. Las criaturas muertas también obtienen +15% a todas las resistencias.", "_t")
 t("Whistling Vortex", "Whistling Vortex", "floorEffect desc")
-t("The target is in a whistling vortex, granting +%d ranged defense, -%d ranged accuracy and incoming projectiles are 30%% slower.", "El objetivo está en un vórtice llorón, concediendo +%d             defensa ampliada, la precisión y los proyectiles entrantes son 30%% más lento.%d", "tformat")
+t("The target is in a whistling vortex, granting +%d ranged defense, -%d ranged accuracy and incoming projectiles are 30%% slower.", "The target is in a whistling vortex, granting +%d ranged defense, -%d ranged accuracy and incoming projectiles are 30%% slower.", "tformat")
 t("Fell Aura", "Fell Aura", "floorEffect desc")
 t("The target is surrounded by a fell aura, granting 40% critical damage bonus but -20% to all resistances.", "El objetivo está rodeado por un aura caído, otorgando un 40% de prima por daños críticos pero -20% a todas las resistencias.", "_t")
 t("Slimey Pool", "Slimey Pool", "floorEffect desc")

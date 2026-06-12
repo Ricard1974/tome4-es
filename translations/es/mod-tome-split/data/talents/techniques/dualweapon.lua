@@ -19,7 +19,7 @@ t("You cannot use Dual Strike without dual wielding!", "¡No puedes usar Dual St
 t("%s resists the stunning strike!", "%s resiste la impresionante huelga!", "logSeen")
 t("Flurry", "Ráfaga", "talent name")
 t("You cannot use Flurry without dual wielding!", "¡No puedes usar Flurry sin doble marchita!", "logPlayer")
-t("Lashes out with a flurry of blows, hitting your target three times with each weapon for %d%% damage.", "Salió con un rayo de golpes, golpeando a tu objetivo tres veces con cada arma por daño  %%d%.", "tformat")
+t("Lashes out with a flurry of blows, hitting your target three times with each weapon for %d%% damage.", "Lashes out with a flurry of blows, hitting your target three times with each weapon for %d%% damage.", "tformat")
 t("Heartseeker", "os", "talent name")
 t("Swiftly leap to your target and strike at their vital points with both weapons, dealing %d%% weapon damage. This attack deals %d%% increased critical strike damage.", "Salteamos bruscamente a tu objetivo y golpeamos sus puntos vitales con ambas armas, tratando  %d%% daño de arma. Este ataque trata  %d %% aumento del daño de huelga crítica.", "tformat")
 t("Whirlwind", "Torbellino", "talent name")

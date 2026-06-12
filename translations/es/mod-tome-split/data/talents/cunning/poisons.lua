@@ -17,7 +17,7 @@ t("Enhances your Deadly Poison with a numbing agent, causing the poison to reduc
 t("Insidious Poison", "Insidious Veneno", "talent name")
 t("Enhances your Deadly Poison with an insidious agent, causing it to reduce the healing taken by enemies by %d%%.", "Mejora tu veneno mortal con un agente insidioso, lo que lo hace reducir la curación tomada por los enemigos por  %d%%.", "tformat")
 t("Crippling Poison", "Veneno paralizante", "talent name")
-t("Enhances your Deadly Poison with a crippling agent, giving enemies a %d%% chance on using a talent to fail and lose a turn.", "Aumenta tu veneno mortal con un agente corrupto, dando a los enemigos una oportunidad de usar un talento para fracasar y perder un giro.%%d", "tformat")
+t("Enhances your Deadly Poison with a crippling agent, giving enemies a %d%% chance on using a talent to fail and lose a turn.", "Enhances your Deadly Poison with a crippling agent, giving enemies a %d%% chance on using a talent to fail and lose a turn.", "tformat")
 t("Leeching Poison", "Leeching Veneno", "talent name")
 t("Enhances your Deadly Poison with a leeching agent, causing it to heal you for %d%% of the damage it does to its target.", "Mejora tu veneno mortal con un agente de sanación, causando que te sane por  %d%% del daño que hace a su objetivo.", "tformat")
 t("Volatile Poison", "Volatile Veneno", "talent name")

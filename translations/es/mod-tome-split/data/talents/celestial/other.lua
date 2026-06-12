@@ -18,5 +18,5 @@ t("glyph of repulsion", "glifo de repulsión", "_t")
 t("Deals %d physical damage, knocking the target back.", "Tratos  %d  daño físico, devolviendo el objetivo.", "tformat")
 t("Glyph of Fatigue", "Glifo of Fatigue", "talent name")
 t("glyph of fatigue", "glifo de fatiga", "_t")
-t("Slows (%d%%) for 5 turns.", "Lentas por 5 vueltas.%%d", "tformat")
+t("Slows (%d%%) for 5 turns.", "Slows (%d%%) for 5 turns.", "tformat")
 
