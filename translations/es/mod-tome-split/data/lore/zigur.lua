@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("zigur", "zigur", "newLore category")
+t("zigur", "Zigur", "newLore category")
 t("Rules of the Ziguranth", "Reglas del Ziguranth", "_t")
 t("The Great Evil", "El Gran Mal", "_t")
 t("The story of my salvation", "La historia de mi salvación", "_t")

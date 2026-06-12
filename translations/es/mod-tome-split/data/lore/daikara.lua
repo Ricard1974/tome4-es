@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("daikara", "daikara", "newLore category")
+t("daikara", "Daikara", "newLore category")
 t("expedition journal entry (daikara)", "expedición diario entrada (daikara)", "_t")
 t("Dragonsfire Trap", "Trampa de Fuego de Dragón", "_t")
 t("Freezing Trap", "Trampa de Freezing", "_t")

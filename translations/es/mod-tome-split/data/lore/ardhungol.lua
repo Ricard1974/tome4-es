@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("ardhungol", "ardhungol", "newLore category")
+t("ardhungol", "Ardhungol", "newLore category")
 t("Rashim Journal (1)", "Rashim Journal (1)", "_t")
 t("Rashim Journal (2)", "Rashim Journal (2)", "_t")
 t("Rashim Journal (3)", "Rashim Journal (3)", "_t")

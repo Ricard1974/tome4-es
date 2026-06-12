@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("dogroth caldera", "dogroth caldera", "newLore category")
+t("dogroth caldera", "caldera Dogroth", "newLore category")
 t("tattered paper scrap", "pedazo de papel tattered", "_t")
 

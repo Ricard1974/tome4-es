@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("rhaloren", "rhaloren", "newLore category")
+t("rhaloren", "Rhaloren", "newLore category")
 t("letter (rhaloren camp)", "carta (campo rhaloren)", "_t")
 t("carefully preserved letter (rhaloren camp)", "carta cuidadosamente conservada (campo rhaloren)", "_t")
 

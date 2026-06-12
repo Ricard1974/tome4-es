@@ -7,7 +7,7 @@
 t("undead", "no-muerto", "talent category")
 t("base", "base", "talent type")
 t("Undead's innate abilities.", "Las habilidades innatas de Undead.", "_t")
-t("ghoul", "ghoul", "talent type")
+t("ghoul", "ghul", "talent type")
 t("Ghoul's innate abilities.", "Las habilidades innatas de Ghoul.", "_t")
 t("skeleton", "esqueleto", "talent type")
 t("Skeleton's innate abilities.", "Las habilidades innatas de Skeleton.", "_t")

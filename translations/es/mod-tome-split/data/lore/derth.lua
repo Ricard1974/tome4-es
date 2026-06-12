@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("derth", "derth", "newLore category")
+t("derth", "Derth", "newLore category")
 t("Beam Trap", "Trampa de Rayo", "_t")
 

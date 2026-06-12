@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("kor'pul", "kor'pul", "newLore category")
+t("kor'pul", "Kor'Pul", "newLore category")
 t("journal page (kor'pul)", "(kor'pul)", "_t")
 
