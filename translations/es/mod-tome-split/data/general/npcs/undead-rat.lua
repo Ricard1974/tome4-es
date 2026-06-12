@@ -30,7 +30,5 @@ t("*SQUEAK*", "*SQUEAK*", "_t")
 t("Rat Lich", "Rata Liche", "entity name")
 t("The master of the pit is before you. It squeaks with menace as it and a horde of minions approach you.", "El maestro de la fosa está ante ti. Se hunde con la amenaza mientras y una horda de secuaces se acercan a usted.", "_t")
 t("#RED#Rising again, the Rat Lich's eyes glow with renewed energy!", "#RED#Rising again, the Rat Lich's eyes bright with renewed energy!", "logSeen")
-t("\
-The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", "\
-The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", "_t")
+t(" The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", " The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", "_t")
 

@@ -5,9 +5,7 @@
 -- Traductor: --
 
 t("- will only auto use when no saturation effect exists", "- sólo se utilizará automáticamente cuando no exista efecto saturación", "_t")
-t("\
-Its effects scale with your %s stat.", "\
-Its effects scale with your %s stat.", "tformat")
+t(" Its effects scale with your %s stat.", " Its effects scale with your %s stat.", "tformat")
 t("Infusion: Regeneration", "Infusión: Regeneración", "talent name")
 t("Activate the infusion to heal yourself for %d life over %d turns.", "Activar la infusión para sanarte para la vida   PH0            vueltas.", "tformat")
 t("heal %d; %d cd", "sanar   PH0     PH1    cd", "tformat")
@@ -77,9 +75,7 @@ t("%d effects / %d heal", " PH0   efectos /   PH1   sanar", "tformat")
 t("Taint: Purging", "Taint: Purging", "talent name")
 t("%d turns", " PH0 ", "tformat")
 t("Infusion: Sun", "Infusión: Sun", "talent name")
-t("\
-The light is so powerful it will also banish magical darkness", "\
-The light is so powerful it will also banish magical darkness", "_t")
+t(" The light is so powerful it will also banish magical darkness", " The light is so powerful it will also banish magical darkness", "_t")
 t("rad %d; power %d; turns %d%s", "rad   PH0  ; power   PH1  ; turn   PH2                                                                                                                                                                                                                                          ", "tformat")
 t("; dispels darkness", "; disipa la oscuridad", "_t")
 t("Taint: Telepathy", "Pintura: Telepatía", "talent name")

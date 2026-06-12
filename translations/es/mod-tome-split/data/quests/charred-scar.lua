@@ -14,6 +14,5 @@ t("", "", "_t")
 t("You arrived too late. The place has been drained of its power and the sorcerers have left.", "Llegaste demasiado tarde. El lugar ha sido drenado de su poder y los hechiceros se han ido.", "_t")
 t("Use the portal to go back to the Far East. You *MUST* stop them, no matter the cost.", "Usa el portal para volver al Lejano Oriente. Usted debe detenerlos, no importa el costo.", "_t")
 t("You arrived in time and interrupted the ritual. The sorcerers have departed.", "Llegaste a tiempo e interrumpiste el ritual. Los hechiceros se han ido.", "_t")
-t("#VIOLET#A portal activates in the distance. You hear the orcs shout, 'The Sorcerers have departed! Follow them!'", "#VIOLET#Un portal se activa en la distancia. Escuchas a los orcos gritar: "¡Los hechiceros se han ido! ¡Síganlos", "logPlayer")
-t("#VIOLET#The Sorcerers flee through a portal. As you prepare to follow them, a huge faeros appears to block the way.", "Los hechiceros huyen por un portal. Mientras te preparas para seguirlos, un gran faeros parece bloquear el camino.", "logPlayer")
-
+t("#VIOLET#A portal activates in the distance. You hear the orcs shout, 'The Sorcerers have departed! Follow them!'", "#VIOLET#Un portal se activa en la distancia. Escuchas a los orcos gritar: 'Los hechiceros se han ido! Siganlos!'", "logPlayer")
+t("#VIOLET#The Sorcerers flee through a portal. As you prepare to follow them, a huge faeros appears to block the way.", "Los hechiceros huyen por un portal. Mientras te preparas para seguirlos, un gran faeros parece bloquear el camino.", "logPlayer") 

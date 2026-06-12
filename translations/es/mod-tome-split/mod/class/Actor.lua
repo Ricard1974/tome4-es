@@ -42,18 +42,10 @@ t("Level: unknown", "Nivel: desconocido", "_t")
 t("Level: %d", "Nivel:   PH0  ", "tformat")
 t("INVULNERABLE!", "¡INVENCIBLE!", "_t")
 t("HP: %d (%d%%) #GREEN#+%0.2f#LAST#", "¿QUÉ? # GREEN#+  PH2  #LAST#", "tformat")
-t("\
-Mana:  %s%d / %d#LAST#", "\
-Mana:  %s%d / %d#LAST#", "tformat")
-t("\
-Vim:  %s%d / %d#LAST#", "\
-Vim:  %s%d / %d#LAST#", "tformat")
-t("\
-Positive:  %s%d / %d#LAST#", "\
-Positive:  %s%d / %d#LAST#", "tformat")
-t("\
-Negative:  %s%d / %d#LAST#", "\
-Negative:  %s%d / %d#LAST#", "tformat")
+t(" Mana:  %s%d / %d#LAST#", " Mana:  %s%d / %d#LAST#", "tformat")
+t(" Vim:  %s%d / %d#LAST#", " Vim:  %s%d / %d#LAST#", "tformat")
+t(" Positive:  %s%d / %d#LAST#", " Positive:  %s%d / %d#LAST#", "tformat")
+t(" Negative:  %s%d / %d#LAST#", " Negative:  %s%d / %d#LAST#", "tformat")
 t(" (%d%%)", "(  PH0  %%)", "tformat")
 t("Iceblock: %d", "Iceblock:", "tformat")
 t("%sVim Value: %d#LAST#", " PH0  Vim Value:   PH1  #LAST#", "tformat")

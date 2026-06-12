@@ -37,11 +37,7 @@ t("Foes left: #LIGHT_RED#%s", "Foes left: #LIGHT RED# PH0  ", "tformat")
 t("Rush Hour (%d)", "Hora de rubor (  PH0  )", "tformat")
 t("Proceed directly to the next Infinite Dungeon level in less than %d turns (an exit is revealed on your map).", "Procede directamente al siguiente nivel de Infinite Dungeon en menos de   PH0   vueltas (una salida se revela en su mapa).", "tformat")
 t("Turns left: #LIGHT_GREEN#%d", "Gira a la izquierda:", "tformat")
-t("\
-#ORCHID# Rush Hour: %s turns left!\
-", "\
-#ORCHID# Rush Hour: %s turns left!\
-", "log")
+t(" #ORCHID# Rush Hour: %s turns left! ", " #ORCHID# Rush Hour: %s turns left! ", "log")
 t("Proceed to the next Infinite Dungeon level! An exit has been marked on your map.", "Proceded al siguiente nivel de Infinite Dungeon! Una salida ha sido marcada en su mapa.", "_t")
 t("Dream Hunter", "Cazador de Sueños", "_t")
 t("Wake up and kill the dreaming horror boss '%s'.", "Despierta y mata al jefe de terror soñado ' PH0  .", "tformat")

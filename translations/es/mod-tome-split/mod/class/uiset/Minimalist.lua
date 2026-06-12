@@ -23,9 +23,7 @@ t("Feedback", "Retroalimentación", "_t")
 t("Fortress Energy", "Energía de Fortaleza", "_t")
 t("Display/Hide resources", "Recursos de visualización/hide", "_t")
 t("Toggle:", "Alternar:", "_t")
-t("\
-Right click to toggle resources bars visibility", "\
-Right click to toggle resources bars visibility", "_t")
+t(" Right click to toggle resources bars visibility", " Right click to toggle resources bars visibility", "_t")
 t("Score[1st]: %d", "Puntuación[1st]:   PH0  ", "tformat")
 t("Score: %d", "Puntuación:   PH0  ", "tformat")
 t("[MiniBoss]", "[Subjefe]", "_t")
@@ -38,15 +36,9 @@ t(" VS", "VS", "_t")
 t("Rank: ", "Rank:", "_t")
 t("Saving... %d%%", "Salvando..", "tformat")
 t("%s reduced the duration of this effect by %d turns, from %d to %d.", " PH0   redujo la duración de este efecto por   PH1   vueltas, desde   PH2   a   PH3   .", "tformat")
-t("\
----\
-Right click to cancel early.", "\
----\
-Right click to cancel early.", "_t")
+t(" --- Right click to cancel early.", " --- Right click to cancel early.", "_t")
 t("Really cancel %s?", "¿De verdad cancelar   PH0  ?", "tformat")
-t("\
-Turns remaining: %s", "\
-Turns remaining: %s", "tformat")
+t(" Turns remaining: %s", " Turns remaining: %s", "tformat")
 t("Lvl %d", "Lvl   PH0 ", "tformat")
 t("Show character infos", "Mostrar información de carácter", "_t")
 t("Click to assign stats and talents!", "Haga clic para asignar estadísticas y talentos!", "_t")

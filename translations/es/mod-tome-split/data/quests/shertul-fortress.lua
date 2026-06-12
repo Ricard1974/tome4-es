@@ -20,9 +20,7 @@ t("#RED#* You have forced a recall while in an exploratory farportal zone. The f
 t("#LIGHT_GREEN#* You have entered the exploratory farportal room and defeated the horror lurking there. You can now use the farportal.#WHITE#", "#LIGHT GREEN # Usted ha entrado en la sala de exploración farportal y derrotado el horror que se acecha allí. Ahora puedes usar el farportal. #WHITE#", "_t")
 t("#LIGHT_GREEN#* You have re-enabled the fortress flight systems. You can now fly around in your fortress!#WHITE#", "#LIGHT GREEN#* Has vuelto a habilitar los sistemas de vuelo de la fortaleza. ¡Ahora puedes volar en tu fortaleza! #WHITE#", "_t")
 t("#SLATE#* The fortress shadow has asked that you find an Ancient Storm Sapphire, along with at least 250 energy, to re-enable the fortress flight systems.#WHITE#", "SLATE# La sombra de la fortaleza ha pedido que encuentres un zafiro de la tormenta antigua, junto con al menos 250 energía, para volver a habilitar los sistemas de vuelo de la fortaleza. #WHITE#", "_t")
-t("\
-The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "\
-The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "tformat")
+t(" The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", " The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "tformat")
 t("Fortress Shadow", "Fortaleza Sombra", "_t")
 t("Master, you have sent enough energy to improve your rod of recall. Please return to the fortress.", "Maestro, has enviado suficiente energía para mejorar tu vara de memoria. Por favor, regresa a la fortaleza.", "_t")
 t("The energy is too low. It needs to be at least 15.", "La energía es demasiado baja. Tiene que ser por lo menos 15.", "_t")

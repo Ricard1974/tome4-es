@@ -18,12 +18,8 @@ t("bladestorm construct", "construcción de cuchillas", "_t")
 t("A lethal contraption of whirling blades.", "Una contrapción letal de cuchillas azotadas.", "_t")
 t("Trap Mastery", "Maestría en trampas", "talent name")
 t("Prepare which traps? (maximum: %d, up to tier %d)%s", "¿Preparar qué trampas? (maximum:   PH0   , up to tier   PH1   )   PH2 ", "tformat")
-t("\
-Game Start: Newly prepared traps will NOT start on cooldown.", "\
-Game Start: Newly prepared traps will NOT start on cooldown.", "_t")
-t("\
-#YELLOW#Newly prepared traps are put on cooldown.#LAST#", "\
-#YELLOW#Newly prepared traps are put on cooldown.#LAST#", "_t")
+t(" Game Start: Newly prepared traps will NOT start on cooldown.", " Game Start: Newly prepared traps will NOT start on cooldown.", "_t")
+t(" #YELLOW#Newly prepared traps are put on cooldown.#LAST#", " #YELLOW#Newly prepared traps are put on cooldown.#LAST#", "_t")
 t("Select Prepared Traps", "Select Prepared Traps", "_t")
 t("#YELLOW_GREEN#Dismantling %s", "#YELLOW GREEN# Dismantling   PH0  ", "log")
 t("#LIGHT_GREEN#Preparing %s%s", "#LIGHT GREEN#Preparación   PH0     PH1  ", "log")
@@ -42,9 +38,7 @@ t("#LIGHT_GREEN#Preparing %s (instant trigger)", "#LIGHT GREEN#Preparación   PH
 t("Springrazor Trap", "Springrazor Trampa", "talent name")
 t("springrazor trap", "trampa de primavera", "_t")
 t("Shrapnel (radius 2) deals %0.2f physical damage, reduces accuracy, armour, and defence by %d.", "Shrapnel (radius 2) trata   PH0    daño físico, reduce la precisión, armadura y defensa por   PH1  .", "tformat")
-t("\
-#YELLOW#Triggers immediately when placed.#LAST#", "\
-#YELLOW#Triggers immediately when placed.#LAST#", "_t")
+t(" #YELLOW#Triggers immediately when placed.#LAST#", " #YELLOW#Triggers immediately when placed.#LAST#", "_t")
 t("Bear Trap", "Bear Trampa", "talent name")
 t("bear trap", "trampa", "_t")
 t("Deals %0.2f physical damage and pins, slows (30%%), and wounds for an additional %0.2f damage over 5 turns).", "Ofertas   PH0    daño físico y pins, ralentiza (30%%), y heridas por un daño adicional   PH1   en 5 vueltas).", "tformat")

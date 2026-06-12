@@ -3210,12 +3210,8 @@ t("bladestorm construct", "construcción de cuchillas", "_t")
 t("A lethal contraption of whirling blades.", "Una contrapción letal de cuchillas azotadas.", "_t")
 t("Trap Mastery", "Maestría en trampas", "talent name")
 t("Prepare which traps? (maximum: %d, up to tier %d)%s", "¿Preparar qué trampas? (maximum:   PH0   , up to tier   PH1   )   PH2 ", "tformat")
-t("\
-Game Start: Newly prepared traps will NOT start on cooldown.", "\
-Game Start: Newly prepared traps will NOT start on cooldown.", "_t")
-t("\
-#YELLOW#Newly prepared traps are put on cooldown.#LAST#", "\
-#YELLOW#Newly prepared traps are put on cooldown.#LAST#", "_t")
+t(" Game Start: Newly prepared traps will NOT start on cooldown.", " Game Start: Newly prepared traps will NOT start on cooldown.", "_t")
+t(" #YELLOW#Newly prepared traps are put on cooldown.#LAST#", " #YELLOW#Newly prepared traps are put on cooldown.#LAST#", "_t")
 t("Select Prepared Traps", "Select Prepared Traps", "_t")
 t("#YELLOW_GREEN#Dismantling %s", "#YELLOW GREEN# Dismantling   PH0  ", "log")
 t("#LIGHT_GREEN#Preparing %s%s", "#LIGHT GREEN#Preparación   PH0     PH1  ", "log")
@@ -3234,9 +3230,7 @@ t("#LIGHT_GREEN#Preparing %s (instant trigger)", "#LIGHT GREEN#Preparación   PH
 t("Springrazor Trap", "Springrazor Trampa", "talent name")
 t("springrazor trap", "trampa de primavera", "_t")
 t("Shrapnel (radius 2) deals %0.2f physical damage, reduces accuracy, armour, and defence by %d.", "Shrapnel (radius 2) trata   PH0    daño físico, reduce la precisión, armadura y defensa por   PH1  .", "tformat")
-t("\
-#YELLOW#Triggers immediately when placed.#LAST#", "\
-#YELLOW#Triggers immediately when placed.#LAST#", "_t")
+t(" #YELLOW#Triggers immediately when placed.#LAST#", " #YELLOW#Triggers immediately when placed.#LAST#", "_t")
 t("Bear Trap", "Bear Trampa", "talent name")
 t("bear trap", "trampa", "_t")
 t("Deals %0.2f physical damage and pins, slows (30%%), and wounds for an additional %0.2f damage over 5 turns).", "Ofertas   PH0    daño físico y pins, ralentiza (30%%), y heridas por un daño adicional   PH1   en 5 vueltas).", "tformat")
@@ -3759,9 +3753,7 @@ t("%s resists the silence!", " PH0  resiste el silencio!", "logSeen")
 t("Antimagic Shield", "Antimagic Escudo", "talent name")
 t("#GREEN#The antimagic shield of %s crumbles.", "#GREEN# El escudo antimagico de   PH0   se desmorona.", "logSeen")
 t("Mana Clash", "Maná Choque", "talent name")
-t("\
-#GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "\
-#GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "_t")
+t(" #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", " #GREEN#Antimagic Adept:  #LAST#4 magical sustains from the target will be removed.", "_t")
 t("Antimagic Adept", "Antimagic Experto", "talent name")
 t("Your Mana Clash talent also removes 4 magical sustains from the target.", "Su talento Mana Clash también elimina 4 sostenes mágicos del objetivo.", "tformat")
 --]==]
@@ -4319,9 +4311,7 @@ section "mod-tome/data/talents/misc/inscriptions.lua"
 -- new text
 --[==[
 t("- will only auto use when no saturation effect exists", "- sólo se utilizará automáticamente cuando no exista efecto saturación", "_t")
-t("\
-Its effects scale with your %s stat.", "\
-Its effects scale with your %s stat.", "tformat")
+t(" Its effects scale with your %s stat.", " Its effects scale with your %s stat.", "tformat")
 t("Infusion: Regeneration", "Infusión: Regeneración", "talent name")
 t("Activate the infusion to heal yourself for %d life over %d turns.", "Activar la infusión para sanarte para la vida   PH0            vueltas.", "tformat")
 t("heal %d; %d cd", "sanar   PH0     PH1    cd", "tformat")
@@ -4391,9 +4381,7 @@ t("%d effects / %d heal", " PH0   efectos /   PH1   sanar", "tformat")
 t("Taint: Purging", "Taint: Purging", "talent name")
 t("%d turns", " PH0 ", "tformat")
 t("Infusion: Sun", "Infusión: Sun", "talent name")
-t("\
-The light is so powerful it will also banish magical darkness", "\
-The light is so powerful it will also banish magical darkness", "_t")
+t(" The light is so powerful it will also banish magical darkness", " The light is so powerful it will also banish magical darkness", "_t")
 t("rad %d; power %d; turns %d%s", "rad   PH0  ; power   PH1  ; turn   PH2                                                                                                                                                                                                                                          ", "tformat")
 t("; dispels darkness", "; disipa la oscuridad", "_t")
 t("Taint: Telepathy", "Pintura: Telepatía", "talent name")
@@ -4464,9 +4452,7 @@ t("There are creatures that could be watching you; you cannot take the risk.", "
 t("Timeport: Point Zero", "Timeport: Punto Cero", "talent name")
 t("Relentless Pursuit", "Pursuit incesante", "talent name")
 t("%s: Reducing duration of %s, using %s, by %d", " PH0  : Reducción de la duración de   PH1  , utilizando   PH2   , por   PH3  ", "tformat")
-t("\
-%s effect durations -%d turns", "\
-%s effect durations -%d turns", "tformat")
+t(" %s effect durations -%d turns", " %s effect durations -%d turns", "tformat")
 t("Teleport to the ground", "Teletransporte to the ground", "talent name")
 t("You cannot teleport there.", "No puedes teletransportar allí.", "log")
 t("Fire a blast of energy", "Fuego a blast of energy", "talent name")
@@ -5529,9 +5515,7 @@ t("Deeprock Form", "Deeprock Forma", "talent name")
 t(", Arcane damage by %0.1f%% and Arcane damage penetration by %0.1f%%", ", Daño Arcano por   PH0 % y penetración por daños Arcane por   PH1 %", "tformat")
 t(", Nature damage by %0.1f%% and Nature damage penetration by %0.1f%%", ", Daño natural por   PH0 % y penetración de daños naturales por   PH1  %%", "tformat")
 t(" and %d%% bleeding, poison, disease, and stun immunity", "y   PH0  %% hemorragia, veneno, enfermedad e inmunidad de aturdimiento", "tformat")
-t("\
-In addition, you use your physical resistance versus all damage against you.", "\
-In addition, you use your physical resistance versus all damage against you.", "_t")
+t(" In addition, you use your physical resistance versus all damage against you.", " In addition, you use your physical resistance versus all damage against you.", "_t")
 t("Volcanic Rock", "Volcanic Roca", "talent name")
 t("Boulder Rock", "Roca Roca", "talent name")
 t("Mountainhewn", "Mountainhewn", "talent name")
@@ -5851,11 +5835,7 @@ section "mod-tome/data/talents/spells/master-of-flesh.lua"
 -- new text
 --[==[
 t("Call of the Mausoleum", "Invocación of the Mausoleum", "talent name")
-t("\
-#DARK_SEA_GREEN#Next free ghoul in %d turn(s).\
-#LAST#", "\
-#DARK_SEA_GREEN#Next free ghoul in %d turn(s).\
-#LAST#", "tformat")
+t(" #DARK_SEA_GREEN#Next free ghoul in %d turn(s). #LAST#", " #DARK_SEA_GREEN#Next free ghoul in %d turn(s). #LAST#", "tformat")
 t("Corpse Explosion", "Explosión de cadáveres", "talent name")
 t("Putrescent Liquefaction", "Liquefacción putrescente", "talent name")
 t("#GREY#%s dissolves into the cloud of gore.", "GREY#  PH0  se disuelve en la nube de gore.", "logSeen")
@@ -8948,15 +8928,9 @@ t(" Strength and Willpower are increased by %d. Poisons and diseases have a %d%%
 t("predator", "depredador", "effect subtype")
 t("Marked Prey", "Prey marcado", "_t")
 t("Hunting:", "Cazando:", "_t")
-t("\
-%d%% Received damage reduction against:", "\
-%d%% Received damage reduction against:", "tformat")
-t("\
-- %s%s#LAST#", "\
-- %s%s#LAST#", "tformat")
-t("\
-- #ffa0ff#%s#LAST#", "\
-- #ffa0ff#%s#LAST#", "tformat")
+t(" %d%% Received damage reduction against:", " %d%% Received damage reduction against:", "tformat")
+t(" - %s%s#LAST#", " - %s%s#LAST#", "tformat")
+t(" - #ffa0ff#%s#LAST#", " - #ffa0ff#%s#LAST#", "tformat")
 t("Faded", "Faded", "_t")
 t("The target has faded and is no longer taking damage.", "El objetivo se ha desvanecido y ya no está causando daños.", "_t")
 t("#Target# fades!", "#Target# fades!", "_t")
@@ -12285,9 +12259,7 @@ t("*SQUEAK*", "*SQUEAK*", "_t")
 t("Rat Lich", "Rata Liche", "entity name")
 t("The master of the pit is before you. It squeaks with menace as it and a horde of minions approach you.", "El maestro de la fosa está ante ti. Se hunde con la amenaza mientras y una horda de secuaces se acercan a usted.", "_t")
 t("#RED#Rising again, the Rat Lich's eyes glow with renewed energy!", "#RED#Rising again, the Rat Lich's eyes bright with renewed energy!", "logSeen")
-t("\
-The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", "\
-The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", "_t")
+t(" The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", " The Rat Lich's true power has been unveiled! Swirling with arcane energy, it stalks towards you uttering warsqueaks at its minions!", "_t")
 --]==]
 
 ------------------------------------------------
@@ -17370,11 +17342,7 @@ section "mod-tome/data/chats/antimagic-end.lua"
 
 -- new text
 --[==[
-t("\
-\
-#{italic}##LIGHT_GREEN#*As you drink the potion, your runes start to burn as they fade away, and a terrible agony seems to sink through your skin to your bones, muscles, and heart.  You black out from the pain, and come to a bit later, the runes gone forever.  You feel very ill, and yet...  cleansed.*#{normal}##WHITE#", "\
-\
-#{italic}##LIGHT_GREEN#*As you drink the potion, your runes start to burn as they fade away, and a terrible agony seems to sink through your skin to your bones, muscles, and heart.  You black out from the pain, and come to a bit later, the runes gone forever.  You feel very ill, and yet...  cleansed.*#{normal}##WHITE#", "_t")
+t("  #{italic}##LIGHT_GREEN#*As you drink the potion, your runes start to burn as they fade away, and a terrible agony seems to sink through your skin to your bones, muscles, and heart.  You black out from the pain, and come to a bit later, the runes gone forever.  You feel very ill, and yet...  cleansed.*#{normal}##WHITE#", "  #{italic}##LIGHT_GREEN#*As you drink the potion, your runes start to burn as they fade away, and a terrible agony seems to sink through your skin to your bones, muscles, and heart.  You black out from the pain, and come to a bit later, the runes gone forever.  You feel very ill, and yet...  cleansed.*#{normal}##WHITE#", "_t")
 t("Thank you. I shall not let magic triumph! #LIGHT_GREEN#[you drink the potion]", "Gracias. ¡No dejaré que la magia triunfe! #LIGHT GREEN# [Bebes la poción]", "_t")
 --]==]
 
@@ -17946,23 +17914,15 @@ section "mod-tome/data/chats/last-hope-lost-merchant.lua"
 -- new text
 --[==[
 t("Urthol's Wondrous Emporium", "Emporium Wondrous de Urthol", "_t")
-t("\
-By the way, ", "\
-By the way, ", "_t")
+t(" By the way, ", " By the way, ", "_t")
 t("during our escape I found the plans for an #YELLOW#Ambush Trap#LAST#", "durante nuestra escapada encontré los planes para un #YELLOW#Ambush Trap#LAST", "_t")
 t(" and while", "y mientras", "_t")
 t("while", "mientras", "_t")
 t(" organizing my inventory, I came across some #YELLOW#Smelly Toxin#LAST# that a colleague claimed could actually turn creatures to stone.  Truly exotic!", "organizando mi inventario, me encontré con algunos #YELLOW#Smelly Toxin#LAST# que un colega dijo que realmente podría convertir criaturas en piedra. Realmente exótico!", "_t")
 t(".", ".", "_t")
-t("\
-You would not happen to be interested, by any chance?", "\
-You would not happen to be interested, by any chance?", "_t")
-t("\
-Oh my friend, good news! As I told you I can now request a truly #{italic}#unique#{normal}# object to be crafted just for you. For a truly unique price...", "\
-Oh my friend, good news! As I told you I can now request a truly #{italic}#unique#{normal}# object to be crafted just for you. For a truly unique price...", "_t")
-t("\
-I eventually plan to arrange a truly unique service for the most discerning of customers. If you come back later when I'm fully set up I shall be able to order for you something quite marvellous. For a perfectly #{italic}#suitable#{normal}# price, of course.", "\
-I eventually plan to arrange a truly unique service for the most discerning of customers. If you come back later when I'm fully set up I shall be able to order for you something quite marvellous. For a perfectly #{italic}#suitable#{normal}# price, of course.", "_t")
+t(" You would not happen to be interested, by any chance?", " You would not happen to be interested, by any chance?", "_t")
+t(" Oh my friend, good news! As I told you I can now request a truly #{italic}#unique#{normal}# object to be crafted just for you. For a truly unique price...", " Oh my friend, good news! As I told you I can now request a truly #{italic}#unique#{normal}# object to be crafted just for you. For a truly unique price...", "_t")
+t(" I eventually plan to arrange a truly unique service for the most discerning of customers. If you come back later when I'm fully set up I shall be able to order for you something quite marvellous. For a perfectly #{italic}#suitable#{normal}# price, of course.", " I eventually plan to arrange a truly unique service for the most discerning of customers. If you come back later when I'm fully set up I shall be able to order for you something quite marvellous. For a perfectly #{italic}#suitable#{normal}# price, of course.", "_t")
 t("Yes please, let me see your wares.", "Sí, por favor, déjame ver tus guerras.", "_t")
 t("What about the unique object?", "¿Qué hay del objeto único?", "_t")
 t("Ambush Trap?  Sounds useful.", "¿Trampa de emboscada? Suena útil.", "_t")
@@ -18391,9 +18351,7 @@ t("I will check it out, thanks.", "Lo comprobaré, gracias.", "_t")
 t("I like it the way it is now. Thanks anyway.", "Me gusta como es ahora. Gracias de todos modos.", "_t")
 t("That could be quite useful. Yes, please do it.", "Eso podría ser muy útil. Sí, por favor hazlo.", "_t")
 t("Maybe later.", "Tal vez más tarde.", "_t")
-t("\
-#{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", "\
-#{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", "_t")
+t(" #{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", " #{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", "_t")
 t("That could be quite nice. Yes, please do it.", "Eso podría ser bastante agradable. Sí, por favor hazlo.", "_t")
 t("Maybe sometime later.", "Quizás algún día más tarde.", "_t")
 t("I can alter the Fortress holographic projection matrix to accomodate your racial tastes. This will require 60 energy, however.", "Puedo alterar la matriz de proyección holográfica Fortaleza para acomodar tus gustos raciales. Esto requerirá 60 energía, sin embargo.", "_t")
@@ -18678,27 +18636,7 @@ t("Basic gameplay", "Juego básico", "_t")
 t("Combat stat mechanics", "Mecánica de puestos de combate", "_t")
 t("Never mind.", "No importa.", "_t")
 t("Is there nothing more for me to learn here?", "¿No hay nada más para aprender aquí?", "_t")
-t("\
-You have completed all the tutorials, and should now know the basics of ToME4. You are ready to step forward into the world to find glory, treasures and be mercilessly slaughtered by hordes of creatures you thought you could handle!\
-\
-During this tutorial some creatures were adjusted according to the needs of the lessons. In the unforgiving world of Eyal, monsters are rarely this nice!\
-\
-If you need a reminder of which key does what, you can access the game menu by pressing #GOLD#Escape#WHITE# and checking the key binds. You can also adjust them to suit your needs.\
-\
-If this is your first time with the game, you will find the selection of races and classes limited. Don't worry; many, many more will become available as you unlock them during your adventures. \
-\
-Now go boldly and remember: #GOLD#have fun!#WHITE#\
-Press #GOLD#Escape#WHITE#, then select #GOLD#Save and Exit#WHITE#, and create a new character!", "\
-You have completed all the tutorials, and should now know the basics of ToME4. You are ready to step forward into the world to find glory, treasures and be mercilessly slaughtered by hordes of creatures you thought you could handle!\
-\
-During this tutorial some creatures were adjusted according to the needs of the lessons. In the unforgiving world of Eyal, monsters are rarely this nice!\
-\
-If you need a reminder of which key does what, you can access the game menu by pressing #GOLD#Escape#WHITE# and checking the key binds. You can also adjust them to suit your needs.\
-\
-If this is your first time with the game, you will find the selection of races and classes limited. Don't worry; many, many more will become available as you unlock them during your adventures. \
-\
-Now go boldly and remember: #GOLD#have fun!#WHITE#\
-Press #GOLD#Escape#WHITE#, then select #GOLD#Save and Exit#WHITE#, and create a new character!", "_t")
+t(" You have completed all the tutorials, and should now know the basics of ToME4. You are ready to step forward into the world to find glory, treasures and be mercilessly slaughtered by hordes of creatures you thought you could handle!  During this tutorial some creatures were adjusted according to the needs of the lessons. In the unforgiving world of Eyal, monsters are rarely this nice!  If you need a reminder of which key does what, you can access the game menu by pressing #GOLD#Escape#WHITE# and checking the key binds. You can also adjust them to suit your needs.  If this is your first time with the game, you will find the selection of races and classes limited. Don't worry; many, many more will become available as you unlock them during your adventures.   Now go boldly and remember: #GOLD#have fun!#WHITE# Press #GOLD#Escape#WHITE#, then select #GOLD#Save and Exit#WHITE#, and create a new character!", " You have completed all the tutorials, and should now know the basics of ToME4. You are ready to step forward into the world to find glory, treasures and be mercilessly slaughtered by hordes of creatures you thought you could handle!  During this tutorial some creatures were adjusted according to the needs of the lessons. In the unforgiving world of Eyal, monsters are rarely this nice!  If you need a reminder of which key does what, you can access the game menu by pressing #GOLD#Escape#WHITE# and checking the key binds. You can also adjust them to suit your needs.  If this is your first time with the game, you will find the selection of races and classes limited. Don't worry; many, many more will become available as you unlock them during your adventures.   Now go boldly and remember: #GOLD#have fun!#WHITE# Press #GOLD#Escape#WHITE#, then select #GOLD#Save and Exit#WHITE#, and create a new character!", "_t")
 t("Thank you.", "Gracias.", "_t")
 --]==]
 
@@ -18928,11 +18866,7 @@ t("I'm not interested.", "No me interesa.", "_t")
 t("Very well. I will say that this is disappointing, but it is your choice. Farewell.", "Muy bien. Diré que esto es decepcionante, pero es tu elección. Adiós.", "_t")
 t("Ah, you seem eager, but maybe still too young. Come back when you have grown a bit.", "Pareces ansiosa, pero tal vez todavía demasiado joven. Vuelve cuando hayas crecido un poco.", "_t")
 t("I shall.", "Lo haré.", "_t")
-t("\
-Worry not, though, Ogre - we can replace your unclean runes with a newly-discovered mixture of infusions, eliminating your dependence on them.  The process will feel...  unpleasant, and will dramatically shorten your lifespan, but you will finally be free from the addictive grip of the arcane!\
-", "\
-Worry not, though, Ogre - we can replace your unclean runes with a newly-discovered mixture of infusions, eliminating your dependence on them.  The process will feel...  unpleasant, and will dramatically shorten your lifespan, but you will finally be free from the addictive grip of the arcane!\
-", "_t")
+t(" Worry not, though, Ogre - we can replace your unclean runes with a newly-discovered mixture of infusions, eliminating your dependence on them.  The process will feel...  unpleasant, and will dramatically shorten your lifespan, but you will finally be free from the addictive grip of the arcane! ", " Worry not, though, Ogre - we can replace your unclean runes with a newly-discovered mixture of infusions, eliminating your dependence on them.  The process will feel...  unpleasant, and will dramatically shorten your lifespan, but you will finally be free from the addictive grip of the arcane! ", "_t")
 t("I am ready", "Estoy listo", "_t")
 t("I need to prepare.", "Necesito prepararme.", "_t")
 t("But wha.. [you notice your first opponent is already there]", "Pero..", "_t")
@@ -20400,11 +20334,7 @@ t("empty", "vacío", "_t")
 t("flooded", "inundaciones", "_t")
 t("molten", "fundido", "_t")
 t("temperate", "templado", "_t")
-t("\
-Encroaching terrain:\
-%s%s", "\
-Encroaching terrain:\
-%s%s", "tformat")
+t(" Encroaching terrain: %s%s", " Encroaching terrain: %s%s", "tformat")
 t("indistinct", "indistinto", "_t")
 t("continuation of the Infinite Dungeon", "continuación del Infinito Dungeon", "_t")
 --]==]
@@ -21274,9 +21204,7 @@ t("The orb is icy to the touch.", "El orb está helado al tacto.", "_t")
 t("Time seems to slow down around the orb.", "El tiempo parece disminuir alrededor del orbe.", "_t")
 t("Your mind is filled with strange thoughts as you approach the orb.", "Tu mente está llena de pensamientos extraños mientras te acercas al orbe.", "_t")
 t("The orb seems to corrupt all it touches.", "El orbe parece corromper todo lo que toca.", "_t")
-t("\
-Do you touch it?", "\
-Do you touch it?", "_t")
+t(" Do you touch it?", " Do you touch it?", "_t")
 --]==]
 
 ------------------------------------------------
@@ -22494,6 +22422,7 @@ section "mod-tome/data/zones/town-last-hope/traps.lua"
 
 -- new text
 --[==[
+t("Hormond & Son Plates", "Hormond y Hijos Placas", "entity name")
 t("Rila's Leather", "Cuero de Rila", "entity name")
 t("Toxar Alchemical Tailor", "Toxar Alchemical Tailor", "entity name")
 t("Herk's Cutting Edge", "Herk's Cutting Edge", "entity name")
@@ -23759,18 +23688,10 @@ t("Level: unknown", "Nivel: desconocido", "_t")
 t("Level: %d", "Nivel:   PH0  ", "tformat")
 t("INVULNERABLE!", "¡INVENCIBLE!", "_t")
 t("HP: %d (%d%%) #GREEN#+%0.2f#LAST#", "¿QUÉ? # GREEN#+  PH2  #LAST#", "tformat")
-t("\
-Mana:  %s%d / %d#LAST#", "\
-Mana:  %s%d / %d#LAST#", "tformat")
-t("\
-Vim:  %s%d / %d#LAST#", "\
-Vim:  %s%d / %d#LAST#", "tformat")
-t("\
-Positive:  %s%d / %d#LAST#", "\
-Positive:  %s%d / %d#LAST#", "tformat")
-t("\
-Negative:  %s%d / %d#LAST#", "\
-Negative:  %s%d / %d#LAST#", "tformat")
+t(" Mana:  %s%d / %d#LAST#", " Mana:  %s%d / %d#LAST#", "tformat")
+t(" Vim:  %s%d / %d#LAST#", " Vim:  %s%d / %d#LAST#", "tformat")
+t(" Positive:  %s%d / %d#LAST#", " Positive:  %s%d / %d#LAST#", "tformat")
+t(" Negative:  %s%d / %d#LAST#", " Negative:  %s%d / %d#LAST#", "tformat")
 t(" (%d%%)", "(  PH0  %%)", "tformat")
 t("Iceblock: %d", "Iceblock:", "tformat")
 t("%sVim Value: %d#LAST#", " PH0  Vim Value:   PH1  #LAST#", "tformat")
@@ -24177,11 +24098,7 @@ t("Foes left: #LIGHT_RED#%s", "Foes left: #LIGHT RED# PH0  ", "tformat")
 t("Rush Hour (%d)", "Hora de rubor (  PH0  )", "tformat")
 t("Proceed directly to the next Infinite Dungeon level in less than %d turns (an exit is revealed on your map).", "Procede directamente al siguiente nivel de Infinite Dungeon en menos de   PH0   vueltas (una salida se revela en su mapa).", "tformat")
 t("Turns left: #LIGHT_GREEN#%d", "Gira a la izquierda:", "tformat")
-t("\
-#ORCHID# Rush Hour: %s turns left!\
-", "\
-#ORCHID# Rush Hour: %s turns left!\
-", "log")
+t(" #ORCHID# Rush Hour: %s turns left! ", " #ORCHID# Rush Hour: %s turns left! ", "log")
 t("Proceed to the next Infinite Dungeon level! An exit has been marked on your map.", "Proceded al siguiente nivel de Infinite Dungeon! Una salida ha sido marcada en su mapa.", "_t")
 t("Dream Hunter", "Cazador de Sueños", "_t")
 t("Wake up and kill the dreaming horror boss '%s'.", "Despierta y mata al jefe de terror soñado ' PH0  .", "tformat")
@@ -24772,11 +24689,7 @@ t("You quit dismantling the trap.", "Dejaste de desmantelar la trampa.", "_t")
 t("#LIGHT_BLUE#%s: %s#LAST#", "#LIGHT BLUE#  PH0      PH1  #LAST#", "logPlayer")
 t("Success", "Éxito", "_t")
 t("Failure", "Fallo", "_t")
-t("\
-#LIGHT_BLUE#Trap Description:#WHITE#\
-", "\
-#LIGHT_BLUE#Trap Description:#WHITE#\
-", "_t")
+t(" #LIGHT_BLUE#Trap Description:#WHITE# ", " #LIGHT_BLUE#Trap Description:#WHITE# ", "_t")
 t("Disarming a trap: %s", "Desarmar una trampa:", "tformat")
 t("not resting", "no descansar", "_t")
 t("You set off the trap!", "¡Saliste de la trampa!", "_t")
@@ -25187,9 +25100,7 @@ t("Feedback", "Retroalimentación", "_t")
 t("Fortress Energy", "Energía de Fortaleza", "_t")
 t("Display/Hide resources", "Recursos de visualización/hide", "_t")
 t("Toggle:", "Alternar:", "_t")
-t("\
-Right click to toggle resources bars visibility", "\
-Right click to toggle resources bars visibility", "_t")
+t(" Right click to toggle resources bars visibility", " Right click to toggle resources bars visibility", "_t")
 t("Score[1st]: %d", "Puntuación[1st]:   PH0  ", "tformat")
 t("Score: %d", "Puntuación:   PH0  ", "tformat")
 t("[MiniBoss]", "[Subjefe]", "_t")
@@ -25202,15 +25113,9 @@ t(" VS", "VS", "_t")
 t("Rank: ", "Rank:", "_t")
 t("Saving... %d%%", "Salvando..", "tformat")
 t("%s reduced the duration of this effect by %d turns, from %d to %d.", " PH0   redujo la duración de este efecto por   PH1   vueltas, desde   PH2   a   PH3   .", "tformat")
-t("\
----\
-Right click to cancel early.", "\
----\
-Right click to cancel early.", "_t")
+t(" --- Right click to cancel early.", " --- Right click to cancel early.", "_t")
 t("Really cancel %s?", "¿De verdad cancelar   PH0  ?", "tformat")
-t("\
-Turns remaining: %s", "\
-Turns remaining: %s", "tformat")
+t(" Turns remaining: %s", " Turns remaining: %s", "tformat")
 t("Lvl %d", "Lvl   PH0 ", "tformat")
 t("Show character infos", "Mostrar información de carácter", "_t")
 t("Click to assign stats and talents!", "Haga clic para asignar estadísticas y talentos!", "_t")
@@ -25289,11 +25194,7 @@ t("The selected race/class has both magic and antimagic, this is unlikely to wor
 t("Yes I'm sure", "Sí, estoy seguro", "_t")
 t("Tutorials", "Tutoriales", "_t")
 t("Basic Gameplay (recommended)", "Juego básico (recomendado)", "_t")
-t("\
-\
-#GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "\
-\
-#GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "_t")
+t("  #GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "  #GOLD#This is a locked birth option. Performing certain actions and completing certain quests will make locked campaigns, races and classes permanently available.", "_t")
 t("-- locked --", "-- encerrado --", "_t")
 t("Characters Vault", "Carácteres Vault", "_t")
 t(" Load ", "Carga", "_t")
@@ -26130,9 +26031,7 @@ section "mod-tome/mod/dialogs/UberTalent.lua"
 -- new text
 --[==[
 t("Prodigies: %s", "Prodigies:   PH0  ", "tformat")
-t("\
-Evolutions are special prodigies specific to a class or race. Only one evolution can be choosen, if any are available at all.", "\
-Evolutions are special prodigies specific to a class or race. Only one evolution can be choosen, if any are available at all.", "_t")
+t(" Evolutions are special prodigies specific to a class or race. Only one evolution can be choosen, if any are available at all.", " Evolutions are special prodigies specific to a class or race. Only one evolution can be choosen, if any are available at all.", "_t")
 t("#{bold}##GOLD#Prodigies#{normal}#", "Prodigies {normal}", "_t")
 t("#{bold}##LIGHT_STEEL_BLUE#Evolutions#{normal}#", "################################################################################################################################################################################################################################################################", "_t")
 --]==]
@@ -26643,9 +26542,7 @@ section "mod-tome/mod/dialogs/shimmer/Shimmer.lua"
 t("Shimmer object: %s", "Objeto Shimmer:   PH0  ", "tformat")
 t("Search: ", "Buscar:", "_t")
 t("Name", "Nombre", "_t")
-t("\
-#{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "\
-#{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
+t(" #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", " #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
 t("Donator Cosmetic Feature", "Donator Cosmetic Feature", "_t")
 t("This cosmetic feature is only available to donators/buyers.", "Esta característica cosmética sólo está disponible para donadores / compradores.", "_t")
 t("shimmer ingame", "brillar en juego", "_t")
@@ -26673,9 +26570,7 @@ section "mod-tome/mod/dialogs/shimmer/ShimmerOther.lua"
 t("Shimmer: %s", "Shimmer:", "tformat")
 t("Search: ", "Buscar:", "_t")
 t("Name", "Nombre", "_t")
-t("\
-#{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "\
-#{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
+t(" #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", " #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
 t("Donator Cosmetic Feature", "Donator Cosmetic Feature", "_t")
 t("This cosmetic feature is only available to donators/buyers.", "Esta característica cosmética sólo está disponible para donadores / compradores.", "_t")
 t("shimmer ingame", "brillar en juego", "_t")
@@ -26712,9 +26607,7 @@ section "mod-tome/mod/dialogs/shimmer/ShimmerRemoveSustains.lua"
 t("Shimmer: Remove Sustains Effects", "Shimmer: Remove Sustains Effects", "_t")
 t("Name", "Nombre", "_t")
 t("Active", "Activo", "_t")
-t("\
-#{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "\
-#{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
+t(" #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", " #{italic}##CRIMSON#This cosmetic feature is only available to donators/buyers. You can only preview.#WHITE##{normal}#", "_t")
 t("Donator Cosmetic Feature", "Donator Cosmetic Feature", "_t")
 t("This cosmetic feature is only available to donators/buyers.", "Esta característica cosmética sólo está disponible para donadores / compradores.", "_t")
 t("shimmer ingame", "brillar en juego", "_t")
@@ -27399,6 +27292,7 @@ t("", "", "_t")
 t("You arrived too late. The place has been drained of its power and the sorcerers have left.", "Llegaste demasiado tarde. El lugar ha sido drenado de su poder y los hechiceros se han ido.", "_t")
 t("Use the portal to go back to the Far East. You *MUST* stop them, no matter the cost.", "Usa el portal para volver al Lejano Oriente. Usted debe detenerlos, no importa el costo.", "_t")
 t("You arrived in time and interrupted the ritual. The sorcerers have departed.", "Llegaste a tiempo e interrumpiste el ritual. Los hechiceros se han ido.", "_t")
+t("#VIOLET#A portal activates in the distance. You hear the orcs shout, 'The Sorcerers have departed! Follow them!'", "#VIOLET#Un portal se activa en la distancia. Escuchas a los orcos gritar: 'Los hechiceros se han ido! Siganlos!'", "logPlayer")
 t("#VIOLET#The Sorcerers flee through a portal. As you prepare to follow them, a huge faeros appears to block the way.", "Los hechiceros huyen por un portal. Mientras te preparas para seguirlos, un gran faeros parece bloquear el camino.", "logPlayer")
 --]==]
 
@@ -27867,9 +27761,7 @@ t("#RED#* You have forced a recall while in an exploratory farportal zone. The f
 t("#LIGHT_GREEN#* You have entered the exploratory farportal room and defeated the horror lurking there. You can now use the farportal.#WHITE#", "#LIGHT GREEN # Usted ha entrado en la sala de exploración farportal y derrotado el horror que se acecha allí. Ahora puedes usar el farportal. #WHITE#", "_t")
 t("#LIGHT_GREEN#* You have re-enabled the fortress flight systems. You can now fly around in your fortress!#WHITE#", "#LIGHT GREEN#* Has vuelto a habilitar los sistemas de vuelo de la fortaleza. ¡Ahora puedes volar en tu fortaleza! #WHITE#", "_t")
 t("#SLATE#* The fortress shadow has asked that you find an Ancient Storm Sapphire, along with at least 250 energy, to re-enable the fortress flight systems.#WHITE#", "SLATE# La sombra de la fortaleza ha pedido que encuentres un zafiro de la tormenta antigua, junto con al menos 250 energía, para volver a habilitar los sistemas de vuelo de la fortaleza. #WHITE#", "_t")
-t("\
-The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "\
-The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "tformat")
+t(" The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", " The fortress's current energy level is: #LIGHT_GREEN#%d#WHITE#.", "tformat")
 t("Fortress Shadow", "Fortaleza Sombra", "_t")
 t("Master, you have sent enough energy to improve your rod of recall. Please return to the fortress.", "Maestro, has enviado suficiente energía para mejorar tu vara de memoria. Por favor, regresa a la fortaleza.", "_t")
 t("The energy is too low. It needs to be at least 15.", "La energía es demasiado baja. Tiene que ser por lo menos 15.", "_t")

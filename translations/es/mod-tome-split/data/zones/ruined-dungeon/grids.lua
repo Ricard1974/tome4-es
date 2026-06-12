@@ -25,7 +25,5 @@ t("The orb is icy to the touch.", "El orb está helado al tacto.", "_t")
 t("Time seems to slow down around the orb.", "El tiempo parece disminuir alrededor del orbe.", "_t")
 t("Your mind is filled with strange thoughts as you approach the orb.", "Tu mente está llena de pensamientos extraños mientras te acercas al orbe.", "_t")
 t("The orb seems to corrupt all it touches.", "El orbe parece corromper todo lo que toca.", "_t")
-t("\
-Do you touch it?", "\
-Do you touch it?", "_t")
+t(" Do you touch it?", " Do you touch it?", "_t")
 

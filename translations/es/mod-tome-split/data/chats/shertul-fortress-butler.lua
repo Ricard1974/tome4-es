@@ -33,9 +33,7 @@ t("I will check it out, thanks.", "Lo comprobaré, gracias.", "_t")
 t("I like it the way it is now. Thanks anyway.", "Me gusta como es ahora. Gracias de todos modos.", "_t")
 t("That could be quite useful. Yes, please do it.", "Eso podría ser muy útil. Sí, por favor hazlo.", "_t")
 t("Maybe later.", "Tal vez más tarde.", "_t")
-t("\
-#{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", "\
-#{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", "_t")
+t(" #{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", " #{italic}##CRIMSON#This feature is purely cosmetic is available only to donators/buyers. You can unlock the room and use the preview but you will not be able to validate your choices.#{normal}#", "_t")
 t("That could be quite nice. Yes, please do it.", "Eso podría ser bastante agradable. Sí, por favor hazlo.", "_t")
 t("Maybe sometime later.", "Quizás algún día más tarde.", "_t")
 t("I can alter the Fortress holographic projection matrix to accomodate your racial tastes. This will require 60 energy, however.", "Puedo alterar la matriz de proyección holográfica Fortaleza para acomodar tus gustos raciales. Esto requerirá 60 energía, sin embargo.", "_t")

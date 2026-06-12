@@ -25,11 +25,7 @@ t("You quit dismantling the trap.", "Dejaste de desmantelar la trampa.", "_t")
 t("#LIGHT_BLUE#%s: %s#LAST#", "#LIGHT BLUE#  PH0      PH1  #LAST#", "logPlayer")
 t("Success", "Éxito", "_t")
 t("Failure", "Fallo", "_t")
-t("\
-#LIGHT_BLUE#Trap Description:#WHITE#\
-", "\
-#LIGHT_BLUE#Trap Description:#WHITE#\
-", "_t")
+t(" #LIGHT_BLUE#Trap Description:#WHITE# ", " #LIGHT_BLUE#Trap Description:#WHITE# ", "_t")
 t("Disarming a trap: %s", "Desarmar una trampa:", "tformat")
 t("not resting", "no descansar", "_t")
 t("You set off the trap!", "¡Saliste de la trampa!", "_t")

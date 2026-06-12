@@ -187,15 +187,9 @@ t(" Strength and Willpower are increased by %d. Poisons and diseases have a %d%%
 t("predator", "depredador", "effect subtype")
 t("Marked Prey", "Prey marcado", "_t")
 t("Hunting:", "Cazando:", "_t")
-t("\
-%d%% Received damage reduction against:", "\
-%d%% Received damage reduction against:", "tformat")
-t("\
-- %s%s#LAST#", "\
-- %s%s#LAST#", "tformat")
-t("\
-- #ffa0ff#%s#LAST#", "\
-- #ffa0ff#%s#LAST#", "tformat")
+t(" %d%% Received damage reduction against:", " %d%% Received damage reduction against:", "tformat")
+t(" - %s%s#LAST#", " - %s%s#LAST#", "tformat")
+t(" - #ffa0ff#%s#LAST#", " - #ffa0ff#%s#LAST#", "tformat")
 t("Faded", "Faded", "_t")
 t("The target has faded and is no longer taking damage.", "El objetivo se ha desvanecido y ya no está causando daños.", "_t")
 t("#Target# fades!", "#Target# fades!", "_t")

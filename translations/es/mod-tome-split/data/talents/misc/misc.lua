@@ -40,9 +40,7 @@ t("There are creatures that could be watching you; you cannot take the risk.", "
 t("Timeport: Point Zero", "Timeport: Punto Cero", "talent name")
 t("Relentless Pursuit", "Pursuit incesante", "talent name")
 t("%s: Reducing duration of %s, using %s, by %d", " PH0  : Reducción de la duración de   PH1  , utilizando   PH2   , por   PH3  ", "tformat")
-t("\
-%s effect durations -%d turns", "\
-%s effect durations -%d turns", "tformat")
+t(" %s effect durations -%d turns", " %s effect durations -%d turns", "tformat")
 t("Teleport to the ground", "Teletransporte to the ground", "talent name")
 t("You cannot teleport there.", "No puedes teletransportar allí.", "log")
 t("Fire a blast of energy", "Fuego a blast of energy", "talent name")
