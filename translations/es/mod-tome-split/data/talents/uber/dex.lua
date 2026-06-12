@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Flexible Combat", "Combate flexible", "talent name")
-t("Each time that you make a melee attack you have a 50%% chance to execute an additional unarmed strike.", "Cada vez que haces un ataque melee tienes un 50% de probabilidades de ejecutar una huelga desarmada adicional.", "tformat")
+t("Each time that you make a melee attack you have a 50%% chance to execute an additional unarmed strike.", "Cada vez que haces un ataque melee tienes un 50%% de probabilidades de ejecutar una huelga desarmada adicional.", "tformat")
 t("Through The Crowd", "A través del Crowd", "talent name")
 t("Have had at least 6 party members at the same time", "Han tenido al menos 6 miembros del partido al mismo tiempo", "_t")
 t("Manage Swift Hands", "Manage Swift Manos", "talent name")

@@ -7,7 +7,7 @@
 t("Death Dance", "Muerte Dance", "talent name")
 t("You require a two handed weapon to use this talent.", "Necesitas un arma de dos manos para usar este talento.", "logPlayer")
 t("You cannot use Death Dance without a two-handed weapon!", "¡No puedes usar Death Dance sin un arma de dos manos!", "logPlayer")
-t("Spin around, extending your weapon and damaging all targets around you for %d%% weapon damage.", "Gira alrededor, extiende tu arma y daña todos los objetivos alrededor de ti por daños de arma.%d", "tformat")
+t("Spin around, extending your weapon and damaging all targets around you for %d%% weapon damage.", "Gira alrededor, extiende tu arma y daña todos los objetivos alrededor de ti por daños de arma.%%d", "tformat")
 t("Berserker", "o Berserker", "talent name")
 t("You cannot use Berserker without a two-handed weapon!", "¡No puedes usar Berserker sin un arma de dos manos!", "logPlayer")
 t("Warshout", "Grito de guerra", "talent name")

@@ -7,7 +7,7 @@
 t("%s reduced the duration of this effect by %d turns, from %d to %d.", "%s  redujo la duración de este efecto por  %d  vueltas, desde  %d  a  %d  .", "tformat")
 t("Really cancel %s?", "¿De verdad cancelar  %s ?", "tformat")
 t("%s#{normal}#", "%s #{normal}", "tformat")
-t("Level / Exp: #00ff00#%s / %2d%%", "Nivel / Exp%s%2d", "tformat")
+t("Level / Exp: #00ff00#%s / %2d%%", "Nivel / Exp: #00ff00#%s / %2d%%", "tformat")
 t("Gold: #00ff00#%0.2f", "Oro:%0.2f", "tformat")
 t("Accuracy:", "Precisión:", "_t")
 t("P. power:", "P. físico:", "_t")

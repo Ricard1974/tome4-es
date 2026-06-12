@@ -7,8 +7,8 @@
 t("Bow Mastery", "Bow Maestría", "talent name")
 t("Piercing Arrow", "Piercing Flecha", "talent name")
 t("You must wield a bow!", "¡Debes usar un arco!", "logPlayer")
-t("You fire an arrow that cuts right through anything, piercing multiple targets if possible with nigh infinite armor penetration, doing %d%% damage.", "Disparas una flecha que corta a través de cualquier cosa, perforando múltiples objetivos si es posible con una penetración infinita de la armadura, haciendo  %d% de daño.", "tformat")
+t("You fire an arrow that cuts right through anything, piercing multiple targets if possible with nigh infinite armor penetration, doing %d%% damage.", "Disparas una flecha que corta a través de cualquier cosa, perforando múltiples objetivos si es posible con una penetración infinita de la armadura, haciendo  %d%% de daño.", "tformat")
 t("Dual Arrows", "Doble flechas", "talent name")
 t("Volley of Arrows", "Lluvia of Arrows", "talent name")
-t("You fire multiple arrows at an area of %d radius, doing %d%% damage with each arrow.", "Dispara múltiples flechas en un área de  %d   radio, haciendo  %d % de daño con cada flecha.", "tformat")
+t("You fire multiple arrows at an area of %d radius, doing %d%% damage with each arrow.", "Dispara múltiples flechas en un área de  %d   radio, haciendo  %d %% de daño con cada flecha.", "tformat")
 

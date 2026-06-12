@@ -10,7 +10,7 @@ t("What is the Way, and what are you?", "¿Cuál es el camino, y qué eres?", "_
 t("The Way is enlightenment, peace and protection. I am a Yeek. I came through this tunnel to explore this part of the world that was closed to us for centuries.", "El Camino es iluminación, paz y protección. Soy un Yeek. Pasé por este túnel para explorar esta parte del mundo que nos fue cerrada durante siglos.", "_t")
 t("Can you tell me more about the Way?", "¿Puedes contarme más sobre el Camino?", "_t")
 t("Select the party member to receive the mental shield:", "Seleccione el miembro del partido para recibir el escudo mental:", "_t")
-t("The contact with the Wayist mind has improved your mental shields. (+15 mental save, +10%% confusion resistance)", "El contacto con la mente wayista ha mejorado sus escudos mentales. (+15 ahorro mental, +10% de resistencia a la confusión)", "logPlayer")
+t("The contact with the Wayist mind has improved your mental shields. (+15 mental save, +10%% confusion resistance)", "El contacto con la mente wayista ha mejorado sus escudos mentales. (+15 ahorro mental, +10%% de resistencia a la confusión)", "logPlayer")
 t("I am never alone. I have the Way.", "Nunca estoy sola. Tengo el Camino.", "_t")
 t("Farewell, then.", "Adiós, entonces.", "_t")
 t("Thank you for this vision. Farewell, my friend.", "Gracias por esta visión. Adiós, amigo.", "_t")

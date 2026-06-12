@@ -31,5 +31,5 @@ t("Not enough space to invoke!", "¡No es suficiente espacio para invocar!", "lo
 t("You invoke your golem to your side, granting it a temporary melee power increase of %d for 5 turns.", "Usted invoca su golem a su lado, concediéndole un aumento de potencia de melee temporal de  %d  para 5 vueltas.", "tformat")
 t("Golem Portal", "Portal Golem", "talent name")
 t("#Target# focuses on #Source#.", "#Target# se centra en #Source#.", "logCombat")
-t("Teleport to your golem, while your golem teleports to your location. Your foes will be confused, and those that were attacking you will have a %d%% chance to target your golem instead.", "Teletransporte a su golem, mientras sus telepuertos de golem a su ubicación. Tus enemigos estarán confundidos, y aquellos que estaban atacando tendrás una oportunidad de atacar tu golem.%d", "tformat")
+t("Teleport to your golem, while your golem teleports to your location. Your foes will be confused, and those that were attacking you will have a %d%% chance to target your golem instead.", "Teletransporte a su golem, mientras sus telepuertos de golem a su ubicación. Tus enemigos estarán confundidos, y aquellos que estaban atacando tendrás una oportunidad de atacar tu golem.%%d", "tformat")
 

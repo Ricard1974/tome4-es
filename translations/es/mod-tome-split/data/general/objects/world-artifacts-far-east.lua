@@ -53,7 +53,7 @@ t("inflicts spydric poison dealing 200 damage over 3 turns and pinning the targe
 t("Kinetic Spike", "Kinetic Pua", "entity name")
 t("bladeless hilt", "hilo sin hojas", "_t")
 t("A simple, rudely crafted stone hilt, this object manifests a blade of wavering, nearly invisible force, like a heat haze, as you grasp it. Despite its simple appearance, it is capable of shearing through solid granite, in the hands of those with the necessary mental fortitude to use it properly.", "Una simple y ruda empuñadura de piedra, este objeto manifiesta una espada de onda, fuerza casi invisible, como una estufa de calor, mientras la agarras. A pesar de su simple apariencia, es capaz de esquilar a través de granito sólido, en manos de aquellos con la fortaleza mental necesaria para utilizarlo correctamente.", "_t")
-t("fire a bolt of kinetic force (range %d), dealing 150%% (physical) weapon damage", "disparar un perno de fuerza cinética (rango  %d ), tratando 150% (física) daño de arma", "tformat")
+t("fire a bolt of kinetic force (range %d), dealing 150%% (physical) weapon damage", "disparar un perno de fuerza cinética (rango  %d ), tratando 150%% (física) daño de arma", "tformat")
 t("The %s fires a bolt of kinetic force!", "¡El  %s dispara un tornillo de fuerza cinética!", "logSeen")
 t("Rod of Sarrilon", "Vara de Sarrilon", "entity name")
 t("ceremonial staff", "personal ceremonial", "_t")
