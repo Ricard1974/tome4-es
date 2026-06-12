@@ -48,9 +48,47 @@ def extract_t_calls(content):
     return t_calls
 
 
+def unescape_lua(s):
+    """
+    Convierte escapes de Lua (dentro de comillas dobles) a caracteres reales.
+
+    Los archivos split contienen secuencias como \\n, \\t que son ESCAPES de Lua
+    para newline y tab. Necesitamos convertirlos a caracteres reales (0x0A, 0x09)
+    para que lua_escape() los procese correctamente después.
+
+    Ejemplo: "\\n\\t\\t" (6 chars) → newline + tab + tab (3 chars reales)
+    """
+    result = []
+    i = 0
+    while i < len(s):
+        if s[i] == "\\" and i + 1 < len(s):
+            next_char = s[i + 1]
+            if next_char == "n":
+                result.append("\n")  # newline real (0x0A)
+                i += 2
+            elif next_char == "t":
+                result.append("\t")  # tab real (0x09)
+                i += 2
+            elif next_char == '"':
+                result.append('"')  # comilla literal
+                i += 2
+            elif next_char == "\\":
+                result.append("\\")  # backslash literal
+                i += 2
+            elif next_char == "9":  # \9 = tab en el extractor original
+                result.append("\t")
+                i += 2
+            else:
+                result.append(s[i])
+                i += 1
+        else:
+            result.append(s[i])
+            i += 1
+    return "".join(result)
+
+
 def lua_escape(s):
     """Escapa una cadena para usarla entre comillas dobles en Lua."""
-
     s = s.replace("\\", "\\\\")
     s = s.replace('"', '\\"')
     s = s.replace("\n", "\\n")
@@ -72,8 +110,12 @@ def convert_file(src_path, dest_path, mode="a"):
 
     with open(dest_path, mode, encoding="utf-8") as f:
         for original, translation, type_ in t_calls:
-            escaped_original = lua_escape(original)
-            escaped_translation = lua_escape(translation)
+            # Primero des-escapar secuencias Lua (\n → newline real, \t → tab real, etc.)
+            # Luego re-escapar correctamente para el locale final
+            unescaped_original = unescape_lua(original)
+            unescaped_translation = unescape_lua(translation)
+            escaped_original = lua_escape(unescaped_original)
+            escaped_translation = lua_escape(unescaped_translation)
             f.write(f't("{escaped_original}", "{escaped_translation}", "{type_}")\n')
 
     return len(t_calls)
@@ -175,6 +217,7 @@ def build_addon():
 def package_addon():
     """Empaqueta el addon como .teaa (zip)."""
     output_path = PROJECT_DIR / "tome-spanish.teaa"
+    boot_path = PROJECT_DIR / "boot-spanish.teaa"
 
     with zipfile.ZipFile(output_path, "w", zipfile.ZIP_DEFLATED) as zf:
         for root, dirs, files in os.walk(ADDON_DIR):
@@ -186,6 +229,11 @@ def package_addon():
                 file_path = Path(root) / file
                 arcname = str(file_path.relative_to(ADDON_DIR))
                 zf.write(file_path, arcname)
+
+        # Incluir boot-spanish.teaa dentro del .teaa principal
+        if boot_path.exists():
+            zf.write(boot_path, "boot-spanish.teaa")
+            print(f"     + boot-spanish.teaa incluido dentro")
 
     print(f"  📦 Addon empaquetado: {output_path}")
     print(f"     Tamaño: {output_path.stat().st_size / 1024:.1f} KB")

@@ -10,6 +10,24 @@ Traducción completa al español (de España) de **Tales of Maj'Eyal 1.7.6**.
 - ✅ **Activación automática** — el español se selecciona desde Options → Language
 - ✅ **Idioma: español de España** — nada de modismos latinoamericanos
 
+## Notas técnicas
+
+### Claves con saltos de línea (`[[...]]` en el código fuente)
+
+Las descripciones de talentos en ToME4 se definen con bloques literales `[[...]]` que
+contienen **newlines reales** (0x0A) y **tabs reales** (0x09). El pipeline de traducción
+original escapaba estas secuencias como `\\n\\t\\t` (backslash literal + n/t), lo que
+provocaba que `_t()` no encontrara la clave al buscar un newline real (0x0A) y encontrara
+`\n` (0x5C+0x6E). El resultado era que las **descripciones se mostraban en inglés**.
+
+**Solución**: Se añadió `unescape_lua()` en `scripts/build_addon.py` que convierte los
+escapes Lua (`\n` → newline real, `\t` → tab real) **antes** de que `lua_escape()` los
+vuelva a escapar correctamente. Ahora las ~1.960 descripciones de talentos se muestran
+en español sin errores.
+
+Este problema afectaba a todas las traducciones existentes (chino, japonés, coreano,
+portugués) — ninguna incluye descripciones de talentos por la misma razón técnica.
+
 ## Archivos
 
 | Archivo             | Descripción                                             |
