@@ -1,6 +1,11 @@
 local _M = loadPrevious(...)
 
-if _M and _M.generateList then
+-- Si loadPrevious falla, devolver tabla vacia para evitar crash
+if not _M then
+	return {}
+end
+
+if _M.generateList then
 	local old_gen = _M.generateList
 	_M.generateList = function(self, actions)
 		old_gen(self, actions)
