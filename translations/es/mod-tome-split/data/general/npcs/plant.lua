@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("immovable", "immovable", "entity type")
-t("plants", "plants", "entity subtype")
-t("A not-so-strange growth on the dungeon floor.", "A not-so-strange growth on the dungeon floor.", "_t")
-t("giant venus flytrap", "giant venus flytrap", "entity name")
-t("This flesh-eating plant has grown to enormous proportions and seeks to quell its hunger.", "This flesh-eating plant has grown to enormous proportions and seeks to quell its hunger.", "_t")
+t("immovable", "extraíble", "entity type")
+t("plants", "plantas", "entity subtype")
+t("A not-so-strange growth on the dungeon floor.", "Un crecimiento no tan extraño en el suelo de la mazmorra.", "_t")
+t("giant venus flytrap", "de ventilación gigante", "entity name")
+t("This flesh-eating plant has grown to enormous proportions and seeks to quell its hunger.", "Esta planta de comer carne ha crecido a enormes proporciones y busca calmar su hambre.", "_t")
 t("treant", "treant", "entity name")
-t("A very strong near-sentient tree, which has become hostile to other living things.", "A very strong near-sentient tree, which has become hostile to other living things.", "_t")
-t("poison ivy", "poison ivy", "entity name")
-t("This harmless little plant makes you all itchy.", "This harmless little plant makes you all itchy.", "_t")
-t("honey tree", "honey tree", "entity name")
-t("As you approach it, you hear a high-pitched buzzing sound.", "As you approach it, you hear a high-pitched buzzing sound.", "_t")
+t("A very strong near-sentient tree, which has become hostile to other living things.", "Un árbol muy fuerte y cercano, que se ha vuelto hostil a otros seres vivos.", "_t")
+t("poison ivy", "hiedra venenosa", "entity name")
+t("This harmless little plant makes you all itchy.", "Esta pequeña planta inofensiva te hace picar.", "_t")
+t("honey tree", "árbol de miel", "entity name")
+t("As you approach it, you hear a high-pitched buzzing sound.", "A medida que te acercas, escuchas un sonido zumbido de alta presión.", "_t")
 

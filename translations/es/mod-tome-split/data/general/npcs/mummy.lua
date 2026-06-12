@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("undead", "undead", "entity type")
-t("mummy", "mummy", "entity subtype")
+t("undead", "no-muerto", "entity type")
+t("mummy", "mamá", "entity subtype")
 

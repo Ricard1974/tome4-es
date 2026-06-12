@@ -5,16 +5,16 @@
 -- Traductor: --
 
 t("humanoid", "humanoide", "entity type")
-t("human", "human", "entity subtype")
-t("human", "human", "entity name")
+t("human", "humanos", "entity subtype")
+t("human", "humanos", "entity name")
 t("thalore", "thalore", "entity name")
 t("thalore", "thalore", "entity subtype")
 t("shalore", "shalore", "entity name")
 t("shalore", "shalore", "entity subtype")
-t("halfling", "halfling", "entity name")
-t("halfling", "halfling", "entity subtype")
-t("dwarf", "dwarf", "entity name")
-t("dwarf", "dwarf", "entity subtype")
+t("halfling", "mediador", "entity name")
+t("halfling", "mediador", "entity subtype")
+t("dwarf", "enano", "entity name")
+t("dwarf", "enano", "entity subtype")
 t("giant", "gigante", "entity name")
-t("ogre", "ogre", "entity subtype")
+t("ogre", "ogro", "entity subtype")
 

@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("zigur", "zigur", "newLore category")
-t("Rules of the Ziguranth", "Rules of the Ziguranth", "_t")
-t("The Great Evil", "The Great Evil", "_t")
-t("The story of my salvation", "The story of my salvation", "_t")
+t("Rules of the Ziguranth", "Reglas del Ziguranth", "_t")
+t("The Great Evil", "El Gran Mal", "_t")
+t("The story of my salvation", "La historia de mi salvación", "_t")
 t("Purging Trap", "Purging Trap", "_t")
 

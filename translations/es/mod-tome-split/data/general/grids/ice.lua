@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("ice", "ice", "entity subtype")
-t("icy floor", "icy floor", "entity name")
-t("frozen water", "frozen water", "entity name")
+t("floor", "planta baja", "entity type")
+t("ice", "hielo", "entity subtype")
+t("icy floor", "suelo helado", "entity name")
+t("frozen water", "agua congelada", "entity name")
 

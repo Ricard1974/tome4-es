@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("angolwen", "angolwen", "newLore category")
-t("Lecture on Humility by Archmage Linaniil", "Lecture on Humility by Archmage Linaniil", "_t")
-t("Lecture on the nature of magic by Archmage Tarelion", "Lecture on the nature of magic by Archmage Tarelion", "_t")
-t("The spellblade", "The spellblade", "_t")
-t("Angolwen Fountain", "Angolwen Fountain", "_t")
+t("Lecture on Humility by Archmage Linaniil", "Conferencia sobre Humildad por Archmage Linaniil", "_t")
+t("Lecture on the nature of magic by Archmage Tarelion", "Conferencia sobre la naturaleza de la magia por Archmage Tarelion", "_t")
+t("The spellblade", "El hechizo", "_t")
+t("Angolwen Fountain", "Fuente de Angolwen", "_t")
 

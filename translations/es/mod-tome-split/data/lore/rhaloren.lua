@@ -5,6 +5,6 @@
 -- Traductor: --
 
 t("rhaloren", "rhaloren", "newLore category")
-t("letter (rhaloren camp)", "letter (rhaloren camp)", "_t")
-t("carefully preserved letter (rhaloren camp)", "carefully preserved letter (rhaloren camp)", "_t")
+t("letter (rhaloren camp)", "carta (campo rhaloren)", "_t")
+t("carefully preserved letter (rhaloren camp)", "carta cuidadosamente conservada (campo rhaloren)", "_t")
 

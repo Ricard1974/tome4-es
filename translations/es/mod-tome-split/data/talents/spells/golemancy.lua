@@ -12,7 +12,7 @@ t("Your golem is out of sight; you cannot establish direct control.", "Su golem 
 t("drolem", "drolem", "_t")
 t("Interact with the Golem", "Interactuar con el Golem", "talent name")
 t("Refit Golem", "Refit Gólem", "talent name")
-t("Golem", "Golem", "_t")
+t("Golem", "Gólem", "_t")
 t("%s (servant of %s)", " PH0   (servidor de   PH1  )", "tformat")
 t("Not enough space to refit!", "¡No hay suficiente espacio para adaptarse!", "logPlayer")
 t("refitting", "ajuste", "_t")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Keepsake", "Keepsake", "_t")
+t("Keepsake", "Recuerdo", "_t")
 t("You have begun to look for a way to overcome the curse that afflicts you.", "Has empezado a buscar una manera de superar la maldición que te aflige.", "_t")
 t("You have found a small iron acorn which you keep as a reminder of your past.", "Usted ha encontrado un pequeño acornio de hierro que usted mantiene como un recordatorio de su pasado.", "_t")
 t("You have destroyed the merchant caravan that you once considered family.", "Has destruido la caravana mercante que una vez considerabas familia.", "_t")

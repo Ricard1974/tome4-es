@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("cave", "cave", "entity subtype")
-t("cave floor", "cave floor", "entity name")
-t("wall", "wall", "entity type")
-t("cave walls", "cave walls", "entity name")
-t("grass", "grass", "entity subtype")
-t("huge loose rock", "huge loose rock", "entity name")
-t("This rock is loose, you think you can move it away.", "This rock is loose, you think you can move it away.", "_t")
-t("ladder to the next level", "ladder to the next level", "entity name")
-t("ladder to the previous level", "ladder to the previous level", "entity name")
-t("ladder to worldmap", "ladder to worldmap", "entity name")
+t("floor", "planta baja", "entity type")
+t("cave", "cueva", "entity subtype")
+t("cave floor", "planta baja", "entity name")
+t("wall", "pared", "entity type")
+t("cave walls", "murallas", "entity name")
+t("grass", "hierba", "entity subtype")
+t("huge loose rock", "enorme roca suelta", "entity name")
+t("This rock is loose, you think you can move it away.", "Esta roca está suelta, crees que puedes alejarla.", "_t")
+t("ladder to the next level", "escalera al siguiente nivel", "entity name")
+t("ladder to the previous level", "escalera al nivel anterior", "entity name")
+t("ladder to worldmap", "escalera a mapa mundial", "entity name")
 

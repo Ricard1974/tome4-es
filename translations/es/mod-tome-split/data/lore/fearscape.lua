@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("fearscape", "fearscape", "newLore category")
-t("a fearsome sight", "a fearsome sight", "_t")
-t("sacrificial altar", "sacrificial altar", "_t")
+t("fearscape", "el miedo", "newLore category")
+t("a fearsome sight", "una vista temerosa", "_t")
+t("sacrificial altar", "altar del sacrificio", "_t")
 

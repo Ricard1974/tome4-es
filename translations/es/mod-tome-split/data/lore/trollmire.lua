@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("trollmire", "trollmire", "newLore category")
-t("tattered paper scrap (trollmire)", "tattered paper scrap (trollmire)", "_t")
+t("tattered paper scrap (trollmire)", "tattered papel scrap (trollmire)", "_t")
 

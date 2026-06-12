@@ -5,9 +5,9 @@
 -- Traductor: --
 
 t("elemental", "elemental", "entity type")
-t("air", "air", "entity subtype")
+t("air", "aire", "entity subtype")
 t("gwelgoroth", "gwelgoroth", "entity name")
-t("Gwelgoroth are mighty air elementals, a pure incarnation of lightning and thunder.", "Gwelgoroth are mighty air elementals, a pure incarnation of lightning and thunder.", "_t")
-t("greater gwelgoroth", "greater gwelgoroth", "entity name")
-t("ultimate gwelgoroth", "ultimate gwelgoroth", "entity name")
+t("Gwelgoroth are mighty air elementals, a pure incarnation of lightning and thunder.", "Los glógoros son poderosos elementales de aire, una encarnación pura de rayos y truenos.", "_t")
+t("greater gwelgoroth", "mayor gwelgoroth", "entity name")
+t("ultimate gwelgoroth", "gwelgoroth", "entity name")
 

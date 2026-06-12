@@ -4,12 +4,12 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("bamboo floor", "bamboo floor", "entity subtype")
-t("bamboo hut floor", "bamboo hut floor", "entity name")
-t("wall", "wall", "entity type")
-t("bamboo hut", "bamboo hut", "entity subtype")
-t("bamboo wall", "bamboo wall", "entity name")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
+t("floor", "planta baja", "entity type")
+t("bamboo floor", "suelo bambú", "entity subtype")
+t("bamboo hut floor", "suelo de cabaña de bambú", "entity name")
+t("wall", "pared", "entity type")
+t("bamboo hut", "cabaña de bambú", "entity subtype")
+t("bamboo wall", "muro de bambú", "entity name")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
 

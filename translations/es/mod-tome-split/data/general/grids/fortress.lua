@@ -4,14 +4,14 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("floor", "floor", "entity subtype")
-t("floor", "floor", "entity name")
-t("wall", "wall", "entity type")
-t("wall", "wall", "entity name")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
-t("sealed door", "sealed door", "entity name")
-t("This door seems to be sealed.", "This door seems to be sealed.", "_t")
-t("This door seems to have been sealed off. You think you can open it.", "This door seems to have been sealed off. You think you can open it.", "_t")
+t("floor", "planta baja", "entity type")
+t("floor", "planta baja", "entity subtype")
+t("floor", "planta baja", "entity name")
+t("wall", "pared", "entity type")
+t("wall", "pared", "entity name")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
+t("sealed door", "puerta sellada", "entity name")
+t("This door seems to be sealed.", "Esta puerta parece estar sellada.", "_t")
+t("This door seems to have been sealed off. You think you can open it.", "Esta puerta parece haber sido sellada. Crees que puedes abrirlo.", "_t")
 

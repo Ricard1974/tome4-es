@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("undead", "undead", "entity type")
+t("undead", "no-muerto", "entity type")
 t("vampire", "vampiro", "entity subtype")
-t("These ancient cursed beings often take the form of a bat and attack their prey.", "These ancient cursed beings often take the form of a bat and attack their prey.", "_t")
-t("lesser vampire", "lesser vampire", "entity name")
-t("This vampire has only just begun its new life. It has not yet fathomed its newfound power, yet it still has a thirst for blood.", "This vampire has only just begun its new life. It has not yet fathomed its newfound power, yet it still has a thirst for blood.", "_t")
+t("These ancient cursed beings often take the form of a bat and attack their prey.", "Estos antiguos seres malditos a menudo toman la forma de un murciélago y atacan su presa.", "_t")
+t("lesser vampire", "vampiro menor", "entity name")
+t("This vampire has only just begun its new life. It has not yet fathomed its newfound power, yet it still has a thirst for blood.", "Este vampiro acaba de empezar su nueva vida. Aún no ha engordado su nuevo poder, pero todavía tiene sed de sangre.", "_t")
 t("vampire", "vampiro", "entity name")
-t("It is a humanoid with an aura of power. You notice a sharp set of front teeth.", "It is a humanoid with an aura of power. You notice a sharp set of front teeth.", "_t")
-t("master vampire", "master vampire", "entity name")
-t("It is a humanoid form dressed in robes. Power emanates from its chilling frame.", "It is a humanoid form dressed in robes. Power emanates from its chilling frame.", "_t")
-t("elder vampire", "elder vampire", "entity name")
-t("vampire lord", "vampire lord", "entity name")
-t("A foul wind chills your bones as this ghastly figure approaches.", "A foul wind chills your bones as this ghastly figure approaches.", "_t")
+t("It is a humanoid with an aura of power. You notice a sharp set of front teeth.", "Es un humanoide con un aura de poder. Te das cuenta de un set agudo de dientes delanteros.", "_t")
+t("master vampire", "maestro vampiro", "entity name")
+t("It is a humanoid form dressed in robes. Power emanates from its chilling frame.", "Es una forma humanoides vestida de túnicas. El poder emana de su enfriamiento.", "_t")
+t("elder vampire", "el viejo vampiro", "entity name")
+t("vampire lord", "lord vampiro", "entity name")
+t("A foul wind chills your bones as this ghastly figure approaches.", "Un viento sucio enfria tus huesos mientras esta figura se acerca.", "_t")
 

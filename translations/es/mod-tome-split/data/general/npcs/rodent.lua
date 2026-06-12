@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("vermin", "vermin", "entity type")
-t("rodent", "rodent", "entity subtype")
-t("giant white mouse", "giant white mouse", "entity name")
-t("giant brown mouse", "giant brown mouse", "entity name")
-t("giant white rat", "giant white rat", "entity name")
-t("giant brown rat", "giant brown rat", "entity name")
-t("giant rabbit", "giant rabbit", "entity name")
-t("Kill the wabbit, kill the wabbit, kill the wabbbbbiiiiiit.", "Kill the wabbit, kill the wabbit, kill the wabbbbbiiiiiit.", "_t")
-t("giant crystal rat", "giant crystal rat", "entity name")
-t("Instead of fur, this rat has crystals growing on its back, which provide extra protection.", "Instead of fur, this rat has crystals growing on its back, which provide extra protection.", "_t")
-t("giant grey mouse", "giant grey mouse", "entity name")
-t("giant grey rat", "giant grey rat", "entity name")
+t("vermin", "alimaña", "entity type")
+t("rodent", "roedor", "entity subtype")
+t("giant white mouse", "gigante blanco ratón", "entity name")
+t("giant brown mouse", "ratón marrón gigante", "entity name")
+t("giant white rat", "rata blanca gigante", "entity name")
+t("giant brown rat", "rata marrón gigante", "entity name")
+t("giant rabbit", "conejo gigante", "entity name")
+t("Kill the wabbit, kill the wabbit, kill the wabbbbbiiiiiit.", "Mata al wabbit, mata al wabbit, mata al wabbbiiiiiit.", "_t")
+t("giant crystal rat", "rata de cristal gigante", "entity name")
+t("Instead of fur, this rat has crystals growing on its back, which provide extra protection.", "En lugar de piel, esta rata tiene cristales creciendo en su espalda, que proporcionan protección adicional.", "_t")
+t("giant grey mouse", "ratón gris gigante", "entity name")
+t("giant grey rat", "rata gris gigante", "entity name")
 

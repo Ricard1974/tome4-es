@@ -4,14 +4,14 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("icecave", "icecave", "entity subtype")
-t("ice cave floor", "ice cave floor", "entity name")
-t("wall", "wall", "entity type")
-t("ice cave walls", "ice cave walls", "entity name")
-t("breakable ice wall", "breakable ice wall", "entity name")
-t("broken ice wall", "broken ice wall", "entity name")
-t("ladder to the next level", "ladder to the next level", "entity name")
-t("ladder to the previous level", "ladder to the previous level", "entity name")
-t("ladder to worldmap", "ladder to worldmap", "entity name")
+t("floor", "planta baja", "entity type")
+t("icecave", "cueva de hielo", "entity subtype")
+t("ice cave floor", "pista de hielo", "entity name")
+t("wall", "pared", "entity type")
+t("ice cave walls", "paredes de la cueva de hielo", "entity name")
+t("breakable ice wall", "muro de hielo roto", "entity name")
+t("broken ice wall", "muro de hielo roto", "entity name")
+t("ladder to the next level", "escalera al siguiente nivel", "entity name")
+t("ladder to the previous level", "escalera al nivel anterior", "entity name")
+t("ladder to worldmap", "escalera a mapa mundial", "entity name")
 

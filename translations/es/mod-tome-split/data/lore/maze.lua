@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("maze", "maze", "newLore category")
-t("diary (the maze)", "diary (the maze)", "_t")
-t("the perfect killing device", "the perfect killing device", "_t")
+t("maze", "laberinto", "newLore category")
+t("diary (the maze)", "diario (el laberinto)", "_t")
+t("the perfect killing device", "el perfecto dispositivo de asesinato", "_t")
 

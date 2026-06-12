@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("void", "void", "entity subtype")
-t("void", "void", "entity name")
-t("void", "void", "entity type")
-t("wall", "wall", "entity type")
-t("rift", "rift", "entity subtype")
-t("crack in spacetime", "crack in spacetime", "entity name")
-t("rocks", "rocks", "entity subtype")
-t("floating rocks", "floating rocks", "entity name")
+t("floor", "planta baja", "entity type")
+t("void", "vacío", "entity subtype")
+t("void", "vacío", "entity name")
+t("void", "vacío", "entity type")
+t("wall", "pared", "entity type")
+t("rift", "grieta", "entity subtype")
+t("crack in spacetime", "grieta en el espacio-tiempo", "entity name")
+t("rocks", "rocas", "entity subtype")
+t("floating rocks", "rocas flotantes", "entity name")
 

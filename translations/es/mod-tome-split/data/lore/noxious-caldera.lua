@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("dogroth caldera", "dogroth caldera", "newLore category")
-t("tattered paper scrap", "tattered paper scrap", "_t")
+t("tattered paper scrap", "pedazo de papel tattered", "_t")
 

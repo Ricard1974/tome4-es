@@ -4,10 +4,10 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("vermin", "vermin", "entity type")
-t("worms", "worms", "entity subtype")
-t("white worm mass", "white worm mass", "entity name")
-t("green worm mass", "green worm mass", "entity name")
-t("carrion worm mass", "carrion worm mass", "entity name")
-t("%s exudes a corrupted gas as it dies.", "%s exudes a corrupted gas as it dies.", "logSeen")
+t("vermin", "alimaña", "entity type")
+t("worms", "gusanos", "entity subtype")
+t("white worm mass", "masa de gusano blanco", "entity name")
+t("green worm mass", "masa de gusano verde", "entity name")
+t("carrion worm mass", "masa de gusano carriona", "entity name")
+t("%s exudes a corrupted gas as it dies.", " PH0  exude un gas corrupto mientras muere.", "logSeen")
 

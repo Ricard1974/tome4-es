@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("slime", "slime", "entity subtype")
-t("slime floor", "slime floor", "entity name")
-t("wall", "wall", "entity type")
-t("slime wall", "slime wall", "entity name")
-t("previous level", "previous level", "entity name")
-t("next level", "next level", "entity name")
-t("slime door", "slime door", "entity name")
-t("open slime door", "open slime door", "entity name")
+t("floor", "planta baja", "entity type")
+t("slime", "limo", "entity subtype")
+t("slime floor", "suelo de limo", "entity name")
+t("wall", "pared", "entity type")
+t("slime wall", "pared", "entity name")
+t("previous level", "nivel anterior", "entity name")
+t("next level", "siguiente nivel", "entity name")
+t("slime door", "puerta de deslizamiento", "entity name")
+t("open slime door", "puerta abierta", "entity name")
 

@@ -4,13 +4,13 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("ruined dungeon", "ruined dungeon", "newLore category")
-t("clue (ruined dungeon)", "clue (ruined dungeon)", "_t")
-t("infinite dungeon (ruined dungeon)", "infinite dungeon (ruined dungeon)", "_t")
-t("infinite dungeon", "infinite dungeon", "newLore category")
-t("The Hunter and the Hunted chapter 1", "The Hunter and the Hunted chapter 1", "_t")
-t("The Hunter and the Hunted chapter 2", "The Hunter and the Hunted chapter 2", "_t")
-t("The Hunter and the Hunted chapter 3", "The Hunter and the Hunted chapter 3", "_t")
-t("The Hunter and the Hunted chapter 4", "The Hunter and the Hunted chapter 4", "_t")
-t("The Hunter and the Hunted chapter 5", "The Hunter and the Hunted chapter 5", "_t")
+t("ruined dungeon", "mazmorra arruinada", "newLore category")
+t("clue (ruined dungeon)", "pista (dungeon cerrado)", "_t")
+t("infinite dungeon (ruined dungeon)", "mazmorra infinita", "_t")
+t("infinite dungeon", "calabozo infinito", "newLore category")
+t("The Hunter and the Hunted chapter 1", "El Cazador y la Caza capítulo 1", "_t")
+t("The Hunter and the Hunted chapter 2", "El cazador y la caza capítulo 2", "_t")
+t("The Hunter and the Hunted chapter 3", "El Hunter y el Hunted capítulo 3", "_t")
+t("The Hunter and the Hunted chapter 4", "El cazador y la caza capítulo 4", "_t")
+t("The Hunter and the Hunted chapter 5", "El Cazador y la Caza capítulo 5", "_t")
 

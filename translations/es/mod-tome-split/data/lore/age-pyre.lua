@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("age of pyre", "age of pyre", "newLore category")
-t("Atamathon, the giant golem", "Atamathon, the giant golem", "_t")
+t("age of pyre", "edad de pire", "newLore category")
+t("Atamathon, the giant golem", "Atamathon, el gigante golem", "_t")
 

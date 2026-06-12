@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("kor'pul", "kor'pul", "newLore category")
-t("journal page (kor'pul)", "journal page (kor'pul)", "_t")
+t("journal page (kor'pul)", "(kor'pul)", "_t")
 

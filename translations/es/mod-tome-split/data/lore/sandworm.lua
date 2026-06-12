@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("sandworm lair", "sandworm lair", "newLore category")
-t("song of the sands", "song of the sands", "_t")
+t("song of the sands", "canción de las arenas", "_t")
 

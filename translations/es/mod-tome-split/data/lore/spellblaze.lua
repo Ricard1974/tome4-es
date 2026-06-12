@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("spellblaze", "spellblaze", "newLore category")
-t("draft letter (mark of the spellblaze)", "draft letter (mark of the spellblaze)", "_t")
+t("spellblaze", "hechizoblaze", "newLore category")
+t("draft letter (mark of the spellblaze)", "proyecto de carta (marca del ortografía)", "_t")
 

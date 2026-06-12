@@ -4,14 +4,14 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("rocks", "rocks", "entity subtype")
-t("exit to the worldmap", "exit to the worldmap", "entity name")
-t("previous level", "previous level", "entity name")
-t("next level", "next level", "entity name")
-t("floor", "floor", "entity name")
-t("wall", "wall", "entity type")
-t("wall", "wall", "entity name")
-t("door", "door", "entity name")
-t("open door", "open door", "entity name")
+t("floor", "planta baja", "entity type")
+t("rocks", "rocas", "entity subtype")
+t("exit to the worldmap", "salida al worldmap", "entity name")
+t("previous level", "nivel anterior", "entity name")
+t("next level", "siguiente nivel", "entity name")
+t("floor", "planta baja", "entity name")
+t("wall", "pared", "entity type")
+t("wall", "pared", "entity name")
+t("door", "puerta", "entity name")
+t("open door", "puerta abierta", "entity name")
 

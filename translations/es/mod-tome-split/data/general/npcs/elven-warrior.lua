@@ -6,11 +6,11 @@
 
 t("humanoid", "humanoide", "entity type")
 t("shalore", "shalore", "entity subtype")
-t("elven guard", "elven guard", "entity name")
-t("An elven guard.", "An elven guard.", "_t")
-t("mean looking elven guard", "mean looking elven guard", "entity name")
-t("An elven guard, scarred and sullen.", "An elven guard, scarred and sullen.", "_t")
-t("elven warrior", "elven warrior", "entity name")
-t("An elven warrior, clad in heavy armour.", "An elven warrior, clad in heavy armour.", "_t")
-t("elven elite warrior", "elven elite warrior", "entity name")
+t("elven guard", "guardia élfico", "entity name")
+t("An elven guard.", "Un guardia de Elven.", "_t")
+t("mean looking elven guard", "mirando guardia elven", "entity name")
+t("An elven guard, scarred and sullen.", "Un guardia de Elven, asustado y hinchado.", "_t")
+t("elven warrior", "elven guerrero", "entity name")
+t("An elven warrior, clad in heavy armour.", "Un guerrero elven, cargado de armadura pesada.", "_t")
+t("elven elite warrior", "elven el guerrero elite", "entity name")
 

@@ -170,6 +170,10 @@ def main():
             ("Trampas", "data/general/traps"),
             ("Eventos", "data/general/events"),
             ("Logros", "data/achievements"),
+            ("Lore", "data/lore"),
+            ("Suelos", "data/general/grids"),
+            ("NPCs", "data/general/npcs"),
+            ("Nacimiento", "data/birth"),
         ]
 
     for title, section_path in sections:

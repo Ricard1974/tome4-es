@@ -4,15 +4,15 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("sand", "sand", "entity subtype")
-t("sand", "sand", "entity name")
-t("dune", "dune", "entity type")
-t("sand dune", "sand dune", "entity name")
-t("solidified sand dune", "solidified sand dune", "entity name")
-t("wall", "wall", "entity type")
-t("tree", "tree", "entity name")
-t("exit to the worldmap", "exit to the worldmap", "entity name")
-t("way to the previous level", "way to the previous level", "entity name")
-t("way to the next level", "way to the next level", "entity name")
+t("floor", "planta baja", "entity type")
+t("sand", "arena", "entity subtype")
+t("sand", "arena", "entity name")
+t("dune", "duna", "entity type")
+t("sand dune", "duna de arena", "entity name")
+t("solidified sand dune", "duna de arena solidificada", "entity name")
+t("wall", "pared", "entity type")
+t("tree", "árbol", "entity name")
+t("exit to the worldmap", "salida al worldmap", "entity name")
+t("way to the previous level", "hasta el nivel anterior", "entity name")
+t("way to the next level", "camino al siguiente nivel", "entity name")
 

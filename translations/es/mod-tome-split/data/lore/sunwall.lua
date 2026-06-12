@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("history of the Sunwall", "history of the Sunwall", "newLore category")
-t("Loremaster Verutir's note", "Loremaster Verutir's note", "_t")
+t("history of the Sunwall", "historia del Sunwall", "newLore category")
+t("Loremaster Verutir's note", "Nota de Loremaster Verutir", "_t")
 

@@ -5,12 +5,12 @@
 -- Traductor: --
 
 t("humanoid", "humanoide", "entity type")
-t("orc", "orc", "entity subtype")
-t("orc summoner", "orc summoner", "entity name")
-t("A fierce orc attuned to the wilds.", "A fierce orc attuned to the wilds.", "_t")
-t("orc grand summoner", "orc grand summoner", "entity name")
-t("orc master wyrmic", "orc master wyrmic", "entity name")
-t("A fierce soldier-orc highly trained in the discipline of dragons.", "A fierce soldier-orc highly trained in the discipline of dragons.", "_t")
-t("orc mage-hunter", "orc mage-hunter", "entity name")
-t("An orc clad in massive armour. Magic seems to die down all around him.", "An orc clad in massive armour. Magic seems to die down all around him.", "_t")
+t("orc", "orco", "entity subtype")
+t("orc summoner", "invocador orco", "entity name")
+t("A fierce orc attuned to the wilds.", "Un feroz orc attuned a los salvajes.", "_t")
+t("orc grand summoner", "gran invocador orco", "entity name")
+t("orc master wyrmic", "maestro wyrmic", "entity name")
+t("A fierce soldier-orc highly trained in the discipline of dragons.", "Un feroz soldado-orc altamente entrenado en la disciplina de los dragones.", "_t")
+t("orc mage-hunter", "cazamagos orco", "entity name")
+t("An orc clad in massive armour. Magic seems to die down all around him.", "Un orc clad en armadura masiva. La magia parece morir a su alrededor.", "_t")
 

@@ -4,14 +4,14 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
-t("snowy_grass", "snowy_grass", "entity subtype")
-t("snowy grass", "snowy grass", "entity name")
-t("wall", "wall", "entity type")
-t("winter tree", "winter tree", "entity name")
-t("tall thick tree", "tall thick tree", "entity name")
-t("old road", "old road", "entity name")
-t("exit to the worldmap", "exit to the worldmap", "entity name")
-t("way to the previous level", "way to the previous level", "entity name")
-t("way to the next level", "way to the next level", "entity name")
+t("floor", "planta baja", "entity type")
+t("snowy_grass", "snowy grass", "entity subtype")
+t("snowy grass", "hierba nevada", "entity name")
+t("wall", "pared", "entity type")
+t("winter tree", "árbol de invierno", "entity name")
+t("tall thick tree", "alto árbol grueso", "entity name")
+t("old road", "antigua carretera", "entity name")
+t("exit to the worldmap", "salida al worldmap", "entity name")
+t("way to the previous level", "hasta el nivel anterior", "entity name")
+t("way to the next level", "camino al siguiente nivel", "entity name")
 

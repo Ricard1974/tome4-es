@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Tutorial Adventurer", "Tutorial Adventurer", "birth descriptor name")
-t("Adventurers have a generic talent set to teach to young ones.", "Adventurers have a generic talent set to teach to young ones.", "_t")
+t("Tutorial Adventurer", "Aventurero Tutorial", "birth descriptor name")
+t("Adventurers have a generic talent set to teach to young ones.", "Los aventureros tienen un talento genérico para enseñar a los jóvenes.", "_t")
 

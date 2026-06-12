@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("arena", "arena", "newLore category")
-t("Arena for dummies", "Arena for dummies", "_t")
+t("Arena for dummies", "Arena para muñecos", "_t")
 

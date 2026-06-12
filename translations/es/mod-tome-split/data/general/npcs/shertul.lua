@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("horror", "horror", "entity type")
-t("sher'tul", "sher'tul", "entity subtype")
+t("sher'tul", "ella no va", "entity subtype")
 

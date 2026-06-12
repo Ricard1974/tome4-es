@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("None", "None", "birth descriptor name")
-t("Your race cannot select a class; it has its own powers.", "Your race cannot select a class; it has its own powers.", "_t")
+t("None", "Ninguno", "birth descriptor name")
+t("Your race cannot select a class; it has its own powers.", "Su raza no puede seleccionar una clase; tiene sus propios poderes.", "_t")
 

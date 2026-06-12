@@ -4,16 +4,16 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("floor", "floor", "entity type")
+t("floor", "planta baja", "entity type")
 t("lava", "lava", "entity subtype")
-t("lava floor", "lava floor", "entity name")
+t("lava floor", "suelo de lava", "entity name")
 t("#Source# burns #Target#!", "#Source# burns #Target#!", "logCombat")
-t("wall", "wall", "entity type")
-t("lava wall", "lava wall", "entity name")
-t("molten_lava", "molten_lava", "entity subtype")
-t("molten lava", "molten lava", "entity name")
-t("cave", "cave", "entity subtype")
-t("ladder to the next level", "ladder to the next level", "entity name")
-t("ladder to the previous level", "ladder to the previous level", "entity name")
-t("ladder to worldmap", "ladder to worldmap", "entity name")
+t("wall", "pared", "entity type")
+t("lava wall", "muro de lava", "entity name")
+t("molten_lava", "molten lava", "entity subtype")
+t("molten lava", "lava fundida", "entity name")
+t("cave", "cueva", "entity subtype")
+t("ladder to the next level", "escalera al siguiente nivel", "entity name")
+t("ladder to the previous level", "escalera al nivel anterior", "entity name")
+t("ladder to worldmap", "escalera a mapa mundial", "entity name")
 

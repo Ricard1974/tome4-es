@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("tannen's tower", "tannen's tower", "newLore category")
-t("Welcome to your cell", "Welcome to your cell", "_t")
-t("Personal note (1)", "Personal note (1)", "_t")
-t("Personal note (2)", "Personal note (2)", "_t")
-t("Demon Orders", "Demon Orders", "_t")
+t("tannen's tower", "torre de tannen", "newLore category")
+t("Welcome to your cell", "Bienvenido a tu celda", "_t")
+t("Personal note (1)", "Nota personal (1)", "_t")
+t("Personal note (2)", "Nota personal (2)", "_t")
+t("Demon Orders", "Ordenes demonio", "_t")
 

@@ -5,11 +5,11 @@
 -- Traductor: --
 
 t("humanoid", "humanoide", "entity type")
-t("orc", "orc", "entity subtype")
-t("orc fighter", "orc fighter", "entity name")
-t("An orc clad in massive armour, wielding a shield and a deadly axe.", "An orc clad in massive armour, wielding a shield and a deadly axe.", "_t")
-t("orc elite fighter", "orc elite fighter", "entity name")
-t("orc berserker", "orc berserker", "entity name")
-t("An orc clad in massive armour, wielding a huge axe.", "An orc clad in massive armour, wielding a huge axe.", "_t")
-t("orc elite berserker", "orc elite berserker", "entity name")
+t("orc", "orco", "entity subtype")
+t("orc fighter", "luchador orco", "entity name")
+t("An orc clad in massive armour, wielding a shield and a deadly axe.", "Un orc clad en armadura masiva, con un escudo y un hacha mortal.", "_t")
+t("orc elite fighter", "luchador de élite orco", "entity name")
+t("orc berserker", "oc berserker", "entity name")
+t("An orc clad in massive armour, wielding a huge axe.", "Un orc clad en armadura masiva, con un hacha enorme.", "_t")
+t("orc elite berserker", "berserker de élite orco", "entity name")
 

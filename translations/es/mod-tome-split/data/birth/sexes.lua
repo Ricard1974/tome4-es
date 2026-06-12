@@ -4,9 +4,9 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Female", "Female", "birth descriptor name")
-t("You are a female of the species.", "You are a female of the species.", "_t")
-t("There is no in-game difference between the two sexes.", "There is no in-game difference between the two sexes.", "_t")
-t("Male", "Male", "birth descriptor name")
-t("You are a male of the species.", "You are a male of the species.", "_t")
+t("Female", "Mujer", "birth descriptor name")
+t("You are a female of the species.", "Eres una hembra de la especie.", "_t")
+t("There is no in-game difference between the two sexes.", "No hay diferencia entre los dos sexos.", "_t")
+t("Male", "Hombre", "birth descriptor name")
+t("You are a male of the species.", "Eres un macho de la especie.", "_t")
 

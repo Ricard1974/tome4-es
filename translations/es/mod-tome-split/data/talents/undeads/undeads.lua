@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("undead", "undead", "talent category")
+t("undead", "no-muerto", "talent category")
 t("base", "base", "talent type")
 t("Undead's innate abilities.", "Las habilidades innatas de Undead.", "_t")
 t("ghoul", "ghoul", "talent type")
