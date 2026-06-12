@@ -11,6 +11,6 @@ t("linen cloak", "capa de lino", "entity name")
 t("linen", "lino", "entity short_name")
 t("cashmere cloak", "coágulo de cacheo", "entity name")
 t("cashmere", "cachemira", "entity short_name")
-t("elven-silk cloak", "elven-silk cloak", "entity name")
+t("elven-silk cloak", "capa de seda élfica", "entity name")
 t("e.silk", "seda élfica", "entity short_name")
 

@@ -42,7 +42,7 @@ t("Your negative mana regeneration rate is unaffected by the staff.", "Su tasa n
 t("Another mana surge is currently active.", "Otro aumento de maná está activo.", "logPlayer")
 t("Your nonexistant mana regeneration rate is unaffected by the staff.", "Su tasa de regeneración de maná no existente no es afectada por el personal.", "logPlayer")
 t(" of greater warding", "of greater warding", "entity name")
-t("g. warding", "g. warding", "entity keyword")
+t("g. warding", "g. guardia", "entity keyword")
 t(" of invocation", "of invocation", "entity name")
 t("invocation", "invocación", "entity keyword")
 t("conjure elemental energy in a radius %d cone, dealing %0.2f to %0.2f %s damage", "conjure la energía elemental en un radio   PH0                                 daño", "tformat")

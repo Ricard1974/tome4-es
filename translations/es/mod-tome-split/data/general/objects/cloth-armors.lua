@@ -15,6 +15,6 @@ t("cashmere robe", "cachemira túnica", "entity name")
 t("cashmere", "cachemira", "entity short_name")
 t("silk robe", "túnica de seda", "entity name")
 t("silk", "seda", "entity short_name")
-t("elven-silk robe", "elven-silk robe", "entity name")
+t("elven-silk robe", "túnica de seda élfica", "entity name")
 t("e.silk", "seda élfica", "entity short_name")
 

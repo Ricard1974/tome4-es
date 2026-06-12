@@ -7,7 +7,7 @@
 t("floor", "planta baja", "entity type")
 t("lava", "lava", "entity subtype")
 t("lava floor", "suelo de lava", "entity name")
-t("#Source# burns #Target#!", "#Source# burns #Target#!", "logCombat")
+t("#Source# burns #Target#!", "¡#Source# quema a #Target#!", "logCombat")
 t("wall", "pared", "entity type")
 t("lava wall", "muro de lava", "entity name")
 t("molten_lava", "molten lava", "entity subtype")
