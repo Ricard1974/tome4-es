@@ -1,31 +1,26 @@
 ------------------------------------------------
-section "mod-boot/data/birth/descriptors.lua"
+-- section "mod-boot/data/birth/descriptors.lua"
 
 
 -- new text
---[==[
 t("base", "base", "birth descriptor name")
 t("Destroyer", "Destructor", "birth descriptor name")
 t("Acid-maniac", "Ácido-maníaco", "birth descriptor name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/damage_types.lua"
+-- section "mod-boot/data/damage_types.lua"
 
 
 -- new text
---[==[
 t("Kill!", "¡Matar!", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/general/grids/basic.lua"
+-- section "mod-boot/data/general/grids/basic.lua"
 
 
 -- new text
---[==[
 t("floor", "suelo", "entity type")
 t("floor", "suelo", "entity subtype")
 t("floor", "suelo", "entity name")
@@ -33,56 +28,48 @@ t("wall", "muro", "entity type")
 t("wall", "muro", "entity name")
 t("door", "puerta", "entity name")
 t("open door", "puerta abierta", "entity name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/general/grids/forest.lua"
+-- section "mod-boot/data/general/grids/forest.lua"
 
 
 -- new text
---[==[
 t("floor", "suelo", "entity type")
 t("grass", "hierba", "entity subtype")
 t("grass", "hierba", "entity name")
 t("wall", "muro", "entity type")
 t("tree", "árbol", "entity name")
 t("flower", "flor", "entity name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/general/grids/underground.lua"
+-- section "mod-boot/data/general/grids/underground.lua"
 
 
 -- new text
---[==[
 t("wall", "muro", "entity type")
 t("underground", "subterráneo", "entity subtype")
 t("crystals", "cristales", "entity name")
 t("floor", "suelo", "entity type")
 t("floor", "suelo", "entity name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/general/grids/water.lua"
+-- section "mod-boot/data/general/grids/water.lua"
 
 
 -- new text
---[==[
 t("floor", "suelo", "entity type")
 t("water", "agua", "entity subtype")
 t("deep water", "agua profunda", "entity name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/general/npcs/canine.lua"
+-- section "mod-boot/data/general/npcs/canine.lua"
 
 
 -- new text
---[==[
 t("animal", "animal", "entity type")
 t("canine", "canino", "entity subtype")
 t("wolf", "lobo", "entity name")
@@ -93,30 +80,26 @@ t("warg", "huargo", "entity name")
 t("It is a large wolf with eyes full of cunning.", "Es un lobo grande con ojos llenos de astucia.", "_t")
 t("fox", "zorro", "entity name")
 t("The quick brown fox jumps over the lazy dog.", "El rápido zorro marrón salta sobre el perro perezoso.", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/general/npcs/skeleton.lua"
+-- section "mod-boot/data/general/npcs/skeleton.lua"
 
 
 -- new text
---[==[
 t("undead", "no-muerto", "entity type")
 t("skeleton", "esqueleto", "entity subtype")
 t("degenerated skeleton warrior", "guerrero esqueleto degenerado", "entity name")
 t("skeleton warrior", "guerrero esqueleto", "entity name")
 t("skeleton mage", "mago esqueleto", "entity name")
 t("armoured skeleton warrior", "guerrero esqueleto acorazado", "entity name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/general/npcs/troll.lua"
+-- section "mod-boot/data/general/npcs/troll.lua"
 
 
 -- new text
---[==[
 t("giant", "gigante", "entity type")
 t("troll", "trol", "entity subtype")
 t("forest troll", "trol del bosque", "entity name")
@@ -128,15 +111,13 @@ t("This huge troll wields a massive spear and has a disturbingly intelligent loo
 t("mountain troll", "trol de montaña", "entity name")
 t("A large and athletic troll with an extremely tough and warty hide.", "Un trol grande y atlético de piel extremadamente dura y verrugosa.", "_t")
 t("mountain troll thunderer", "trol montañés atronador", "entity name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/talents.lua"
+-- section "mod-boot/data/talents.lua"
 
 
 -- new text
---[==[
 t("misc", "varios", "talent category")
 t("Kick", "Patada", "talent name")
 t("Acid Spray", "Rociada ácida", "talent name")
@@ -146,40 +127,34 @@ t("Fireflash", "Destello ígneo", "talent name")
 t("Lightning", "Relámpago", "talent name")
 t("Sunshield", "Escudo solar", "talent name")
 t("Flameshock", "Descarga ígnea", "talent name")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/timed_effects.lua"
+-- section "mod-boot/data/timed_effects.lua"
 
 
 -- new text
---[==[
 t("Burning from acid", "Quemadura por ácido", "_t")
 t("#Target# is covered in acid!", "¡#Target# está cubierto de ácido!", "_t")
 t("+Acid", "+Ácido", "_t")
 t("#Target# is free from the acid.", "#Target# está libre del ácido.", "_t")
 t("-Acid", "-Ácido", "_t")
 t("Sunshield", "Escudo solar", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/data/zones/dungeon/zone.lua"
+-- section "mod-boot/data/zones/dungeon/zone.lua"
 
 
 -- new text
---[==[
 t("Forest", "Bosque", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/class/Game.lua"
+-- section "mod-boot/mod/class/Game.lua"
 
 
 -- new text
---[==[
 t("Welcome to T-Engine and the Tales of Maj'Eyal", "Bienvenido a T-Engine y Tales of Maj'Eyal", "_t")
 t([[#GOLD#"Tales of Maj'Eyal"#WHITE# is the main game, you can also install more addons or modules by going to https://te4.org/
 
@@ -281,27 +256,23 @@ t("Profile created!", "¡Perfil creado!", "_t")
 t("Profile creation failed!", "¡Error al crear perfil!", "_t")
 t("Creation failed: %s (you may also register on https://te4.org/)", "Error al crear: %s (también puedes registrarte en https://te4.org/)", "tformat")
 t("Try again in in a few moments, or try online at https://te4.org/", "Inténtalo de nuevo en unos momentos, o prueba online en https://te4.org/", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/class/Player.lua"
+-- section "mod-boot/mod/class/Player.lua"
 
 
 -- new text
---[==[
 t("%s available", "%s disponible", "tformat")
 t("#00ff00#Talent %s is ready to use.", "#00ff00#Talento %s listo para usar.", "log")
 t("LEVEL UP!", "¡SUBIR DE NIVEL!", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/Addons.lua"
+-- section "mod-boot/mod/dialogs/Addons.lua"
 
 
 -- new text
---[==[
 t("Configure Addons", "Configurar addons", "_t")
 t("You can get new addons at #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", "Puedes conseguir nuevos addons en #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#", "_t")
 t(" and #LIGHT_BLUE##{underline}#Te4.org DLCs#{normal}#", " y #LIGHT_BLUE##{underline}#Te4.org DLCs#{normal}#", "_t")
@@ -321,15 +292,13 @@ t("#LIGHT_GREEN#Auto: Active", "#LIGHT_GREEN#Auto: Activo", "_t")
 t("#LIGHT_RED#Auto: Incompatible", "#LIGHT_RED#Auto: Incompatible", "_t")
 t("Addon Version", "Versión del addon", "_t")
 t("Game Version", "Versión del juego", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/Credits.lua"
+-- section "mod-boot/mod/dialogs/Credits.lua"
 
 
 -- new text
---[==[
 t("Project Lead", "Director del proyecto", "_t")
 t("Lead Coder", "Programador principal", "_t")
 t("World Builders", "Constructores del mundo", "_t")
@@ -347,15 +316,13 @@ t("Korean Translation", "Traducción al coreano", "_t")
 t("Japanese Translation", "Traducción al japonés", "_t")
 t("The Community", "La comunidad", "_t")
 t("Others", "Otros", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/FirstRun.lua"
+-- section "mod-boot/mod/dialogs/FirstRun.lua"
 
 
 -- new text
---[==[
 t("Welcome to Tales of Maj'Eyal", "Bienvenido a Tales of Maj'Eyal", "_t")
 t("Register now!", "¡Regístrate ahora!", "_t")
 t("Login existing account", "Iniciar sesión existente", "_t")
@@ -393,15 +360,13 @@ This includes, but is not limited to:
 If you disable this option you can always re-activate it in the Online category of the Game Options menu later on.]], "_t")
 t("Cancel", "Cancelar", "_t")
 t("#RED#Disable all!", "#RED#¡Desactivar todo!", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/LoadGame.lua"
+-- section "mod-boot/mod/dialogs/LoadGame.lua"
 
 
 -- new text
---[==[
 t("Load Game", "Cargar partida", "_t")
 t("Show older versions", "Mostrar versiones antiguas", "_t")
 t("Ignore unloadable addons", "Ignorar addons no cargables", "_t")
@@ -434,15 +399,13 @@ t("No data available for this game version.", "No hay datos para esta versión."
 t("Downloading old game data: #LIGHT_GREEN#", "Descargando datos antiguos: #LIGHT_GREEN#", "_t")
 t("Old game data for %s correctly installed. You can now play.", "Datos antiguos para %s instalados. Ya puedes jugar.", "tformat")
 t("Failed to install.", "Error al instalar.", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/MainMenu.lua"
+-- section "mod-boot/mod/dialogs/MainMenu.lua"
 
 
 -- new text
---[==[
 t("Main Menu", "Menú principal", "_t")
 t("New Game", "Nueva partida", "_t")
 t("Load Game", "Cargar partida", "_t")
@@ -541,15 +504,13 @@ t("Your password is too short", "Tu contraseña es demasiado corta", "_t")
 t("Login...", "Iniciando sesión...", "_t")
 t("Logging in your account, please wait...", "Iniciando sesión, espera...", "_t")
 t("Steam client not found.", "Cliente Steam no encontrado.", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/NewGame.lua"
+-- section "mod-boot/mod/dialogs/NewGame.lua"
 
 
 -- new text
---[==[
 t("New Game", "Nueva partida", "_t")
 t("Show all versions", "Mostrar todas las versiones", "_t")
 t("Show incompatible", "Mostrar incompatibles", "_t")
@@ -564,15 +525,13 @@ t("There is already a character with this name, do you want to overwrite it?", "
 t("No", "No", "_t")
 t("Yes", "Sí", "_t")
 t("This game is not compatible with your version of T-Engine, you can still try it but it might break.", "Este juego no es compatible con tu version de T-Engine, puedes probarlo pero podria romperse.", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/Profile.lua"
+-- section "mod-boot/mod/dialogs/Profile.lua"
 
 
 -- new text
---[==[
 t("Player Profile", "Perfil del jugador", "_t")
 t("Logout", "Cerrar sesión", "_t")
 t("You are logged in", "Has iniciado sesión", "_t")
@@ -581,15 +540,13 @@ t("Log out", "Cerrar sesión", "_t")
 t("Cancel", "Cancelar", "_t")
 t("Login", "Iniciar sesión", "_t")
 t("Create Account", "Crear cuenta", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/ProfileLogin.lua"
+-- section "mod-boot/mod/dialogs/ProfileLogin.lua"
 
 
 -- new text
---[==[
 t("Online profile ", "Perfil online ", "_t")
 t("Username: ", "Usuario: ", "_t")
 t("Password: ", "Contraseña: ", "_t")
@@ -610,15 +567,13 @@ t("Email", "Email", "_t")
 t("Your email seems invalid", "Tu email parece inválido", "_t")
 t("Age Check", "Verificación de edad", "_t")
 t("You need to be 16 years old or more or to have parental authorization to play this game.", "Necesitas 16 años o más, o autorización parental para jugar.", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/ProfileSteamRegister.lua"
+-- section "mod-boot/mod/dialogs/ProfileSteamRegister.lua"
 
 
 -- new text
---[==[
 t("Steam User Account", "Cuenta de usuario Steam", "_t")
 t([[Welcome to #GOLD#Tales of Maj'Eyal#LAST#.
 To enjoy all the features the game has to offer it is #{bold}#highly#{normal}# recommended that you register your steam account.
@@ -645,15 +600,13 @@ t("Registering on https://te4.org/, please wait...", "Registrando en https://te4
 t("Steam client not found.", "Cliente Steam no encontrado.", "_t")
 t("Error", "Error", "_t")
 t("Username or Email already taken, please select an other one.", "Usuario o Email ya en uso, elige otro.", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/UpdateAll.lua"
+-- section "mod-boot/mod/dialogs/UpdateAll.lua"
 
 
 -- new text
---[==[
 t("Update all game modules", "Actualizar todos los módulos", "_t")
 t([[All those components will be updated:
 ]], [[All those components will be updated:
@@ -671,15 +624,13 @@ t([[There was an error while downloading:
 t("Downloading: ", "Descargando: ", "_t")
 t("Update", "Actualizar", "_t")
 t("All updates installed, the game will now restart", "Todas las actualizaciones instaladas, el juego se reiniciará", "_t")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/dialogs/ViewHighScores.lua"
+-- section "mod-boot/mod/dialogs/ViewHighScores.lua"
 
 
 -- new text
---[==[
 t("View High Scores", "Ver altas puntuaciones", "_t")
 t("Game Module", "Módulo del juego", "_t")
 t("Version", "Versión", "_t")
@@ -694,34 +645,29 @@ t([[#{bold}##GOLD#%s(%s)#GREEN# High Scores#WHITE##{normal}#
 ]], [[#{bold}##GOLD#%s(%s)#GREEN# High Scores#WHITE##{normal}#
 
 ]], "tformat")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/init.lua"
+-- section "mod-boot/mod/init.lua"
 
 
 -- new text
---[==[
 t("Tales of Maj'Eyal Main Menu", "Menú principal de Tales of Maj'Eyal", "init.lua long_name")
 t([[Bootmenu!
 ]], [[Bootmenu!
 ]], "init.lua description")
---]==]
 
 
 ------------------------------------------------
-section "mod-boot/mod/load.lua"
+-- section "mod-boot/mod/load.lua"
 
 
 -- new text
---[==[
 t("Strength", "Fuerza", "stat name")
 t("str", "Fue", "stat short_name")
 t("Dexterity", "Destreza", "stat name")
 t("dex", "Des", "stat short_name")
 t("Constitution", "Constitución", "stat name")
 t("con", "Con", "stat short_name")
---]==]
 
 
