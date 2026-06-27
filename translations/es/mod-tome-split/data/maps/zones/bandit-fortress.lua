@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#rng# the Guard", "#rng# the Guard", "_t")
+t("#rng# the Guard", "#rng# la Guardia", "_t")
 t("#rng# the Thug", "#rng# the Thug", "_t")
 t("Bandit Leader #rng#", "Bandit Leader #rng#", "_t")
 t("scroll", "pergamino", "_t")

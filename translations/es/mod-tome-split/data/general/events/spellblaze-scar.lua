@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("spellblaze scar", "cicatriz de ortografía", "_t")
-t("%s (spellblaze aura)", "%s  (spellblaze aura)", "tformat")
+t("%s (spellblaze aura)", "%s (spellblaze aura)", "tformat")
 

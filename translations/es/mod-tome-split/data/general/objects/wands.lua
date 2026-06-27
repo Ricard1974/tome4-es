@@ -7,7 +7,7 @@
 t("charm", "encanto", "entity type")
 t("wand", "varita", "entity subtype")
 t("wand", "varita", "_t")
-t("Magical wands are made by powerful Alchemists and Archmagi to store spells. Anybody can use them to release the spells.", "Las varitas mágicas son hechas por poderosos alquimistas y Archmagi para almacenar hechizos. Cualquiera puede usarlos para liberar los hechizos.", "_t")
+t("Magical wands are made by powerful Alchemists and Archmagi to store spells. Anybody can use them to release the spells.", "Las varitas mágicas son hechas por poderosos alquimistas y Archmagi para almacenar hechizos. Cualquiera puedes usarlos para liberar los hechizos.", "_t")
 t("elm wand", "olmo varita", "entity name")
 t("elm", "olmo", "entity short_name")
 t("ash wand", "fresno", "entity name")

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#rng# the Guardian", "#rng# the Guardian", "_t")
+t("#rng# the Guardian", "#rng# The Guardian", "_t")
 

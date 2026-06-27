@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Prodigies: %s", "Prodigies:  %s ", "tformat")
+t("Prodigies: %s", "Prodigies: %s", "tformat")
 t(" Evolutions are special prodigies specific to a class or race. Only one evolution can be choosen, if any are available at all.", "Las Evoluciones son prodigios especiales específicos para una clase o raza. Sólo se puede elegir una evolución, si hay alguna disponible en absoluto.", "_t")
 t("#{bold}##GOLD#Prodigies#{normal}#", "Prodigies {normal}", "_t")
 t("#{bold}##LIGHT_STEEL_BLUE#Evolutions#{normal}#", "################################################################################################################################################################################################################################################################", "_t")

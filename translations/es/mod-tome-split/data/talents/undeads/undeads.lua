@@ -16,5 +16,5 @@ t("Vampire's innate abilities.", "Las habilidades innatas de Vampire.", "_t")
 t("lich", "lichón", "talent type")
 t("Liches innate abilities.", "Lame habilidades innatas.", "_t")
 t("Knowledge of the Past", "Conocimiento del pasado", "talent name")
-t("You concentrate for a moment to recall some of your memories as a living being and look for knowledge to identify rare objects.", "Usted se concentra por un momento para recordar algunos de sus recuerdos como un ser vivo y buscar conocimiento para identificar objetos raros.", "tformat")
+t("You concentrate for a moment to recall some of your memories as a living being and look for knowledge to identify rare objects.", "Tú se concentra por un momento para recordar algunos de sus recuerdos como un ser vivo y buscar conocimiento para identificar objetos raros.", "tformat")
 

@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("So it would seem. What is going on here?", "Así parece. ¿Qué está pasando aquí?", "_t")
-t("Slavers? This is so wrong! [attack]", "¿Esclavos? ¡Esto está tan mal! [Ataque]", "_t")
+t("So it would seem. What is going on here?", "Así parece. ¿Qué estás pasando aquí?", "_t")
+t("Slavers? This is so wrong! [attack]", "¿Esclavos? ¡Esto estás tan mal! [Ataque]", "_t")
 t("You think so? Die.", "¿Tú crees? Muere.", "_t")
 t("Game? I like playing, what's this about?", "¿Juego? Me gusta jugar, ¿de qué se trata?", "_t")
 t("What if I lose?", "¿Y si pierdo?", "_t")

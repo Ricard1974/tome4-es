@@ -6,7 +6,7 @@
 
 t("cursed", "maldito", "talent category")
 t("slaughter", "matanza", "talent type")
-t("Your weapon yearns for its next victim.", "Tu arma anhela por su próxima víctima.", "_t")
+t("Your weapon yearns for its next victim.", "Tu arma anhela por tu próxima víctima.", "_t")
 t("endless hunt", "caza interminable", "talent type")
 t("Each day, you lift your weary body and begin the unending hunt.", "Cada día, levantas tu cuerpo cansado y comienzas la caza interminable.", "_t")
 t("strife", "conflicto", "talent type")
@@ -28,7 +28,7 @@ t("Summon shadows from the darkness to aid you.", "Invoca sombras de la oscurida
 t("punishments", "castigos", "talent type")
 t("Your hate becomes punishment in the minds of your foes.", "Tu odio se convierte en castigo en la mente de tus enemigos.", "_t")
 t("one with shadows", "uno con sombras", "talent type")
-t("Harness your shadows to their full potential.", "Saque sus sombras a su potencial completo.", "_t")
+t("Harness your shadows to their full potential.", "Saque sus sombras a tu potencial completo.", "_t")
 t("advanced shadowmancy", "avanzada sombra", "talent type")
 t("Gain more direct control over your shadows with physical damage talents.", "Obtenga un control más directo sobre sus sombras con talentos de daño físico.", "_t")
 t("gestures", "gestos", "talent type")

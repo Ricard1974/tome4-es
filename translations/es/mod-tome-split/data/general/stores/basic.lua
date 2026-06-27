@@ -27,6 +27,6 @@ t("rare goods", "bienes raros", "entity name")
 t("library", "biblioteca", "entity name")
 t("armour smith", "herrero de armaduras", "entity name")
 t("shady library", "shady biblioteca", "entity name")
-t("gladiator's wares", "las guerras del gladiador", "entity name")
+t("gladiator's wares", "las mercancías del gladiador", "entity name")
 t("staves", "bastones", "entity name")
 

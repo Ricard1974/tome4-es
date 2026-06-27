@@ -34,7 +34,7 @@ t("Attack diagonally left and down", "Ataque diagonal izquierda y abajo", "_t")
 t("Attack diagonally right and down", "Ataque diagonalmente derecho y abajo", "_t")
 t("Toggle UI display", "Toggle UI display", "_t")
 t("Locks tooltip in place", "Cerraduras herramientatip en el lugar", "_t")
-t("Locks tooltip in place while comparing items", "Cierre el alcance de la herramienta en su lugar al comparar los elementos", "_t")
+t("Locks tooltip in place while comparing items", "Cierre el alcance de la herramienta en tu lugar al comparar los elementos", "_t")
 t("Toggle automatic talent usage", "Toggle uso de talento automático", "_t")
 t("Toggle automatic accept target option", "Toggle automatic accept target opción", "_t")
 

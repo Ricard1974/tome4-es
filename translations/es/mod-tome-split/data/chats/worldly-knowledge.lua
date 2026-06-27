@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("[%s (at mastery %0.2f)]", "[ %s  (en mastery  %0.2f  )]", "tformat")
+t("[%s (at mastery %0.2f)]", "[ %s (en mastery %0.2f )]", "tformat")
 t("Learn which category?", "¿Aprenda qué categoría?", "_t")
 

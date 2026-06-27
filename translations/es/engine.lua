@@ -901,7 +901,7 @@ t("Display resolution.", "Resolución de pantalla.", "_t")
 t("#GOLD##{bold}#Resolution#WHITE##{normal}#", "#GOLD##{bold}#Resolución#WHITE##{normal}#", "_t")
 t("If you have a very high DPI screen you may want to raise this value. Requires a restart to take effect.#WHITE#", "Si tienes una pantalla de alto DPI, sube este valor. Requiere reiniciar.#WHITE#", "_t")
 t("#GOLD##{bold}#Screen Zoom#WHITE##{normal}#", "#GOLD##{bold}#Zoom de pantalla#WHITE##{normal}#", "_t")
-t("Enter Zoom %", "Enter Zoom %", "_t")
+t("Enter Zoom %", "Introducir Zoom %", "_t")
 t("From 50 to 400", "De 50 a 400", "_t")
 t([[Request this display refresh rate.
 Set it lower to reduce CPU load, higher to increase interface responsiveness.#WHITE#]], [[Request this display refresh rate.
@@ -930,7 +930,7 @@ t([[Apply a global scaling to all fonts.
 Applies after restarting the game]], [[Apply a global scaling to all fonts.
 Applies after restarting the game]], "_t")
 t("#GOLD##{bold}#Font Scale#WHITE##{normal}#", "#GOLD##{bold}#Escala de fuente#WHITE##{normal}#", "_t")
-t("Font Scale %", "Font Scale %", "_t")
+t("Font Scale %", "Escala de fuentes %", "_t")
 t("From 50 to 300", "De 50 a 300", "_t")
 t([[Activates framebuffers.
 This option allows for some special graphical effects.
@@ -1126,7 +1126,7 @@ t([[#{bold}##GOLD#Event#WHITE##{normal}#: Once you have purchased an event you w
 To activate it you will need to have your online events option set to "all" (which is the default value).]], [[#{bold}##GOLD#Event#WHITE##{normal}#: Once you have purchased an event you will be able to trigger it at any later date, on whichever character you choose.
 To activate it you will need to have your online events option set to "all" (which is the default value).]], "_t")
 t("#{bold}##GOLD#Non Immediate#WHITE##{normal}#: This events adds new content that you have to find by exploration. If you die before finding it, there can be no refunds.", "#{bold}##GOLD#No inmediato#WHITE##{normal}#: Anyade contenido que debes encontrar explorando. Si mueres antes, no hay reembolso.", "_t")
-t("#{bold}##GOLD#Once per Character#WHITE##{normal}#: This event can only be received #{bold}#once per character#{normal}#. Usualy because it adds a new zone or effect to the game that would not make sense to duplicate.", "#{bold}##GOLD#Once per Character#WHITE##{normal}#: This event can only be received #{bold}#once per character#{normal}#. Usualy because it adds a new zone or effect to the game that would not make sense to duplicate.", "_t")
+t("#{bold}##GOLD#Once per Character#WHITE##{normal}#: This event can only be received #{bold}#once per character#{normal}#. Usualy because it adds a new zone or effect to the game that would not make sense to duplicate.", "#{bold}##GOLD#Una vez por personaje#WHITE##{normal}#: Este evento solo puede recibirse #{bold}#una vez por personaje#{normal}#. Normalmente porque añade una nueva zona o efecto al juego que no tendría sentido duplicar.", "_t")
 t([[#{bold}##GOLD#Shimmer Pack#WHITE##{normal}#: Once purchased the game will automatically install the shimmer pack to your game and enable it for your current character too (you will still need to use the Mirror of Reflection to switch them on).
 #LIGHT_GREEN#Bonus perk:#LAST# purchasing any shimmer pack will also give your characters a portable Mirror of Reflection to be able to change your appearance anywhere, anytime!]], [[#{bold}##GOLD#Shimmer Pack#WHITE##{normal}#: Once purchased the game will automatically install the shimmer pack to your game and enable it for your current character too (you will still need to use the Mirror of Reflection to switch them on).
 #LIGHT_GREEN#Bonus perk:#LAST# purchasing any shimmer pack will also give your characters a portable Mirror of Reflection to be able to change your appearance anywhere, anytime!]], "_t")

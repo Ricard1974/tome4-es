@@ -4,11 +4,11 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("High Sun Paladin Aeryn appears next to you!", "El Alto Sol Paladin Aeryn aparece junto a usted!", "logPlayer")
+t("High Sun Paladin Aeryn appears next to you!", "El Alto Sol Paladin Aeryn aparece junto a tú!", "logPlayer")
 t("Spare me the small talk. I am here to stop you!", "Ahórrame la pequeña charla. ¡Estoy aquí para detenerte!", "_t")
 t("Why are you doing all that? You were supposed to help people!", "¿Por qué haces todo eso? ¡Se suponía que debías ayudar a la gente!", "_t")
 t("So you have decided to become the threat yourselves?", "¿Así que habéis decidido convertiros en la amenaza?", "_t")
-t("Us? Ah, no, we are merely instruments for the Master. We have planned for His return.", "¿Nosotros? No, somos meramente instrumentos para el Maestro. Hemos planeado su regreso.", "_t")
+t("Us? Ah, no, we are merely instruments for the Master. We have planned for His return.", "¿Nosotros? No, somos meramente instrumentos para el Maestro. Hemos planeado tu regreso.", "_t")
 t("And 'He' would be...?", "¿Y él sería...?", "_t")
 t("I *WILL* stop you! The world will not end today!", "¡Te detengo! ¡El mundo no terminará hoy!", "_t")
 t("High Sun Paladin Aeryn", "Alto Paladin Solar Aeryn", "_t")

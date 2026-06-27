@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("Charred Scar", "Scar cargado", "_t")
-t("Hurry down south while the sun-paladins are holding off the orcs. Make their sacrifice worth it!", "Apúrate hacia el sur mientras los sun-paladins están sosteniendo los orcos. ¡Haz que su sacrificio valga la pena!", "_t")
+t("Hurry down south while the sun-paladins are holding off the orcs. Make their sacrifice worth it!", "Apúrate hacia el sur mientras los sun-paladins están sosteniendo los orcos. ¡Haz que tu sacrificio valga la pena!", "_t")
 

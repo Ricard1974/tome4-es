@@ -28,7 +28,7 @@ t("Enhanced melee combat through the dark arts.", "Un combate mejorado a través
 t("blood", "sangre", "talent type")
 t("Harness the power of blood, both your own and your foes'.", "Saque el poder de la sangre, tanto el tuyo como el de tus enemigos.", "_t")
 t("blight", "plaga", "talent type")
-t("Bring corruption and decay to all who oppose you.", "Trae corrupción y decadencia a todos los que se oponen a usted.", "_t")
+t("Bring corruption and decay to all who oppose you.", "Trae corrupción y decadencia a todos los que se oponen a tú.", "_t")
 t("Shadowflame", "Shadowflame", "talent type")
 t("Harness the power of the demonic shadowflame.", "Harness el poder del rayo de sombra demoníaco.", "_t")
 t("rot", "#", "talent type")

@@ -12,7 +12,7 @@ t("and integrated into the crystaline structure", "integrado en la estructura cr
 t("Have you heard, the old forest seems to have been claimed by a new evil!", "¿Has oído que el viejo bosque parece haber sido reclamado por un nuevo mal!", "_t")
 t("treant", "treant", "entity subtype")
 t("Wrathroot", "Wrathroot", "entity name")
-t("The ancient grey willow tree, ruler of the Old Forest. He despises trespassers in his territory.", "El antiguo sauce gris, gobernante del Bosque Antiguo. Desprecia a los transgresores en su territorio.", "_t")
+t("The ancient grey willow tree, ruler of the Old Forest. He despises trespassers in his territory.", "El antiguo sauce gris, gobernante del Bosque Antiguo. Desprecia a los transgresores en tu territorio.", "_t")
 t("and digested by treants", "y digerido por los tragantes", "_t")
 t("cute little bunny", "lindo conejito", "entity name")
 t("It looks at you with cute little eyes before jumping at you with razor sharp teeth.", "Te mira con lindos ojos pequeños antes de saltarte con dientes afilados de afeitar.", "_t")

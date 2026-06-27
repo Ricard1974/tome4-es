@@ -20,15 +20,15 @@ El addon portugués incluye también traducciones de addons externos
 
 | Métrica               |     Chino |   Japonés |   Coreano | Portugués |      **Español** |
 | --------------------- | --------: | --------: | --------: | --------: | ---------------: |
-| Total `t()` calls     |    21.868 |    22.409 |    21.898 |    30.628 |       **22.183** |
-| `tformat` (total)     |     2.794 |     2.826 |     2.825 |     3.812 |        **3.668** |
+| Total `t()` calls     |    21.868 |    22.409 |    21.898 |    30.628 |       **22.604** |
+| `tformat` (total)     |     2.794 |     2.826 |     2.825 |     3.812 |        **3.647** |
 | `tformat` con `\n`    |     **0** |     **0** |     **0** |     **0** |     **🔥 1.960** |
 | `tformat` con `[[ ]]` |     1.149 |     1.170 |     1.162 |     1.594 |            **0** |
-| `_t` tag (total)      |     9.910 |    10.358 |     9.902 |    14.373 |        **9.336** |
+| `_t` tag (total)      |     9.910 |    10.358 |     9.902 |    14.373 |        **9.241** |
 | `_t` con `[[ ]]`      |       929 |       782 |       962 |     1.268 |            **0** |
 | `tooltip` tag         |         0 |         0 |         0 |         0 |            **0** |
-| Tamaño archivo locale |  2.817 KB |  3.024 KB |  3.168 KB |  6.289 KB |     **3.191 KB** |
-| Engine locale         | integrado | integrado | integrado |         — | **640 entradas** |
+| Tamaño archivo locale |  2.817 KB |  3.024 KB |  3.168 KB |  6.289 KB |     **815 KB** |
+| Engine locale         | integrado | integrado | integrado |         — | **637 entradas** |
 
 ## Características del addon
 
@@ -44,6 +44,8 @@ El addon portugués incluye también traducciones de addons externos
 | `overload` keybinds         |      ❌      |   ❌    |   ❌    |     ✅     |      ❌      |
 | `boot` addon menú principal | ✅ (interno) |   ✅    |   ✅    |     ✅     |      ✅      |
 | `tooltip` tag               |      ❌      |   ❌    |   ❌    |     ❌     |      ❌      |
+| Protección de placeholders  |      ❌      |   ❌    |   ❌    |     ❌     |  **✅ v2**   |
+ | Corrección de calidad       |      ❌      |   ❌    |   ❌    |     ❌     |  **✅ 3.499**|
 
 ## Observaciones clave
 
@@ -85,7 +87,15 @@ personalizados. Esto es significativo porque indica que para conseguir
 traducciones completas y correctas puede ser necesario modificar la
 renderización, no solo el archivo de locale.
 
-### 5. Estilo `[[ ]]` vs `"..."`
+### 5. Traducción de interfaz de usuario
+
+En esta sesión se tradujeron las **96 cadenas restantes de interfaz** que no tenían
+format specifiers (`%d`, `%s`, `%f`): menús, submenús, opciones, atajos de teclado,
+diálogos de depuración, textos de eventos y creación de personaje. Quedan sin traducir
+~1.400 cadenas que corresponden a nombres de entidades (PNJ, objetos, talentos) que
+están en la lista `NO_TRANSLATE` y no deben traducirse.
+
+### 7. Estilo `[[ ]]` vs `"..."`
 
 Los demás idiomas usan `[[ ... ]]` (brackets largos de Lua) para strings
 multilínea; nosotros usamos `"..."` con escapes `\\n\\t\\t` porque
@@ -109,3 +119,16 @@ return ([[texto]]):tformat(args)
 El extractor busca `t()` calls en archivos de datos, no dentro de
 código Lua incrustado en funciones. Esta es la razón por la que ningún
 idioma tiene descripciones de talentos traducidas.
+
+### 8. Protección de placeholders y corrección de calidad
+
+**Somos el único locale que implementa protección de placeholders**
+frente a LibreTranslate. Los problemas encontrados y sus soluciones:
+
+| Problema | Ocurrencias | Causa | Solución |
+|----------|:-----------:|-------|----------|
+| Tags de color rotas `#LIGHT GREEN#` | 540 | Regex `#[A-Za-z0-9]+#` no incluía `_` | Ampliado a `#[A-Z_]+#` + `#[a-f0-9]{6}#` |
+| Variables `#Source#` perdidas | 83 | Confundidas con tags de color | Nuevo grupo `#[A-Z][a-z]+#` protegido como `§GV§` |
+| `%s` con espacios dobles | 1.596 | LT añade espacios alrededor | `restore_placeholders()` limpia con regex |
+| Traducciones erróneas (ej: "guerras" por "wares") | 31 | LT alucina con homófonos | Diccionario `SPECIFIC_FIXES` español→español |
+| Palabras duplicadas | 10 | LT repite palabras | Función `fix_duplicated_words()` |

@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("font of life", "fuente de vida", "_t")
-t("%s (life aura)", "%s  (life aura)", "tformat")
+t("%s (life aura)", "%s (life aura)", "tformat")
 

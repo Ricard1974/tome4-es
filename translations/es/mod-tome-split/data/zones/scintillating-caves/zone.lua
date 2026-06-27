@@ -6,5 +6,5 @@
 
 t("Scintillating Caves", "Cuevas centelleantes", "_t")
 t("Caves...", "Cuevas...", "_t")
-t("As you enter the caves you notice the magic here has distorted the land, making sharp angles and turns.", "Mientras entras en las cuevas notas que la magia aquí ha distorsionado la tierra, haciendo ángulos agudos y giros.", "_t")
+t("As you enter the caves you notice the magic here has distorted the land, making sharp angles and turns.", "Mientras entras en las cuevas notas que la magia aquí ha distorsionado la tierra, haciendo ángulos agudos y turnos.", "_t")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class Option: #LIGHT_GREEN#Drolem", "Nueva opción de clase: #LIGHT GREEN#Drolem", "_t")
+t("New Class Option: #LIGHT_GREEN#Drolem", "Nueva opción de clase: #LIGHT_GREEN#Drolem", "_t")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Lore found: #0080FF#%s", "Lore found: #0080FF#%s ", "tformat")
+t("Lore found: #0080FF#%s", "Lore found: #0080FF#%s", "tformat")
 

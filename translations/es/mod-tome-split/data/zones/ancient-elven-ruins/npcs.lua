@@ -12,7 +12,7 @@ t("and raised as a soulless shuffling mummy", "y criado como una momia sin alma"
 t("ancient elven mummy", "antigua madre de elven", "entity name")
 t("An animated corpse in mummy wrappings.", "Un cuerpo animado en envolturas de momia.", "_t")
 t("animated mummy wrappings", "envoltorios de momia animados", "entity name")
-t("An animated set of mummy wrappings, without a corpse inside; it seems like it cannot move.", "Un conjunto animado de envolturas de momia, sin un cadáver dentro; parece que no puede moverse.", "_t")
+t("An animated set of mummy wrappings, without a corpse inside; it seems like it cannot move.", "Un conjunto animado de envolturas de momia, sin un cadáver dentro; parece que no puedes moverse.", "_t")
 t("rotting mummy", "mamá podrida", "entity name")
 t("A rotting animated corpse in mummy wrappings.", "Un cuerpo animado envolvente de momia.", "_t")
 t("greater mummy", "mayor mamá", "entity name")

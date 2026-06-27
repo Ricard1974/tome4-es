@@ -13,5 +13,5 @@ t("A large black cat, slender and muscular.", "Un gato negro grande, delgado y m
 t("tiger", "tigre", "entity name")
 t("A truly magnificent beast, with fur striped black and yellow.", "Una bestia verdaderamente magnífica, con piel rayada negra y amarilla.", "_t")
 t("sabertooth tiger", "tigre sabletoth", "entity name")
-t("This cat is simply enormous, and has fangs with the size and sharpness of short swords.", "Este gato es simplemente enorme, y tiene colmillos con el tamaño y la nitidez de espadas cortas.", "_t")
+t("This cat is simply enormous, and has fangs with the size and sharpness of short swords.", "Este gato es simplemente enorme, y tienes colmillos con el tamaño y la nitidez de espadas cortas.", "_t")
 

@@ -15,5 +15,5 @@ t("Crush! Destroy! Maim!", "¡Crush! ¡Destruir! ¡Mami!", "_t")
 t("ogre pounder", "ogro litro", "entity name")
 t("This ogre closes in fast on you, arms open for the hug of death.", "Este ogro se cierra rápidamente sobre ti, brazos abiertos para el abrazo de la muerte.", "_t")
 t("ogre rune-spinner", "ogro rune-spinner", "entity name")
-t("A towering ogre guard, her skin covered in runes and arcane designs.", "Una imponente guardia de ogro, su piel cubierta de runas y diseños arcanos.", "_t")
+t("A towering ogre guard, her skin covered in runes and arcane designs.", "Una imponente guardia de ogro, tu piel cubierta de runas y diseños arcanos.", "_t")
 

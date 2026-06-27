@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Mindslayer (Psionic)", "Nueva clase: #LIGHT GREEN#Mindslayer (Psionic)", "_t")
+t("New Class: #LIGHT_GREEN#Mindslayer (Psionic)", "Nueva clase: #LIGHT_GREEN#Mindslayer (Psionic)", "_t")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New game difficulty mode: #LIGHT_GREEN#Madness", "Nuevo modo de dificultad de juego: #LIGHT GREEN#Madness", "_t")
+t("New game difficulty mode: #LIGHT_GREEN#Madness", "Nuevo modo de dificultad de juego: #LIGHT_GREEN#Madness", "_t")
 

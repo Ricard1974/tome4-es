@@ -15,7 +15,7 @@ t("Losgoroth are mighty void elementals, native to the void between the stars; t
 t("monstrous losgoroth", "monstruosa perdida", "entity name")
 t("Zemekkys, Grand Keeper of Reality", "Zemekkys, Gran Guardián de la Realidad", "entity name")
 t("shalore", "shalore", "entity subtype")
-t("A timeless elf stands before you. Even though his age is impossible to determine, you feel he has seen many things.", "Un elfo atemporal está delante de ti. Aunque su edad es imposible de determinar, sientes que ha visto muchas cosas.", "_t")
+t("A timeless elf stands before you. Even though his age is impossible to determine, you feel he has seen many things.", "Un elfo atemporal estás delante de ti. Aunque tu edad es imposible de determinar, sientes que ha visto muchas cosas.", "_t")
 t("horror", "horror", "entity type")
 t("temporal", "temporal", "entity subtype")
 t("Temporal Defiler", "Temporal Profanador", "entity name")

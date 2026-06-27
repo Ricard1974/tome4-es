@@ -6,7 +6,7 @@
 
 t("Well, you seemed to need help.", "Bueno, parecías necesitar ayuda.", "_t")
 t("So I could rip your throat myself!", "¡Así que podría arrancarte la garganta!", "_t")
-t("What is the Way, and what are you?", "¿Cuál es el camino, y qué eres?", "_t")
+t("What is the Way, and what are you?", "¿Cuál eres el camino, y qué eres?", "_t")
 t("The Way is enlightenment, peace and protection. I am a Yeek. I came through this tunnel to explore this part of the world that was closed to us for centuries.", "El Camino es iluminación, paz y protección. Soy un Yeek. Pasé por este túnel para explorar esta parte del mundo que nos fue cerrada durante siglos.", "_t")
 t("Can you tell me more about the Way?", "¿Puedes contarme más sobre el Camino?", "_t")
 t("Select the party member to receive the mental shield:", "Seleccione el miembro del partido para recibir el escudo mental:", "_t")

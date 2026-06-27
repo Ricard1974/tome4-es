@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Cursed (Afflicted)", "Nueva clase: #LIGHT GREEN#Cursed (Afligido)", "_t")
+t("New Class: #LIGHT_GREEN#Cursed (Afflicted)", "Nueva clase: #LIGHT_GREEN#Cursed (Afligido)", "_t")
 

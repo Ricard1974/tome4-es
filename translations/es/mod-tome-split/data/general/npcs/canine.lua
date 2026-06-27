@@ -13,7 +13,7 @@ t("Larger than a normal wolf, it prowls and snaps at you.", "Más grande que un 
 t("dire wolf", "lobo terrible", "entity name")
 t("Easily as big as a horse, this wolf menaces you with its claws and fangs.", "Grande como un caballo, este lobo te amenaza con sus garras y colmillos.", "_t")
 t("white wolf", "lobo blanco", "entity name")
-t("A large and muscled wolf from the northern wastes. Its breath is cold and icy, and its fur coated in frost.", "Un lobo grande y musculoso de los residuos del norte. Su aliento es frío y helado, y su piel recubierto de helada.", "_t")
+t("A large and muscled wolf from the northern wastes. Its breath is cold and icy, and its fur coated in frost.", "Un lobo grande y musculoso de los residuos del norte. Tu aliento es frío y helado, y tu piel recubierto de helada.", "_t")
 t("warg", "huargo", "entity name")
 t("It is a large wolf with eyes full of cunning.", "Es un lobo grande con ojos llenos de astucia.", "_t")
 t("fox", "zorro", "entity name")

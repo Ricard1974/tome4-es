@@ -12,5 +12,5 @@ t("You are exploring, press any key to stop.", "Estás explorando, presiona cual
 t("checked door", "puerta cerrada", "_t")
 t("at %s", "%s", "tformat")
 t("at object (diggable)", "at objeto (diggable)", "_t")
-t("the path is blocked", "el camino está bloqueado", "_t")
+t("the path is blocked", "el camino estás bloqueado", "_t")
 

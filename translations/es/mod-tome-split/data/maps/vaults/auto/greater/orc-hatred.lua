@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Something in the floor clicks ominously.", "Algo en el piso hace clic ominosamente.", "logPlayer")
+t("Something in the floor clicks ominously.", "Algo en el piso haces clic ominosamente.", "logPlayer")
 

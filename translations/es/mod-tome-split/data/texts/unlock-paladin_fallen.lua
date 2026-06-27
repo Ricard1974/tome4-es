@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class Evolution: #LIGHT_GREEN#Fallen (Sun Paladin)", "Nueva evolución de clase: #LIGHT GREEN#Fallen (Sun Paladin)", "_t")
+t("New Class Evolution: #LIGHT_GREEN#Fallen (Sun Paladin)", "Nueva evolución de clase: #LIGHT_GREEN#Fallen (Sun Paladin)", "_t")
 

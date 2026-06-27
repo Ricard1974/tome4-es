@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Resonating Diamond", "Diamante resonante", "entity name")
-t("You cannot bring yourself to drop the %s", "No puedes traerte a ti mismo para dejar caer el  %s", "logPlayer")
+t("You cannot bring yourself to drop the %s", "No puedes traerte a ti mismo para dejar caer el %s", "logPlayer")
 t("misc", "varios", "entity type")
 t("misc", "varios", "entity subtype")
 t("Blood-Runed Athame", "Athame de sangre", "entity name")

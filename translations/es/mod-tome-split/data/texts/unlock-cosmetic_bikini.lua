@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Cosmetic Option: #LIGHT_GREEN#Bikini and Mankini", "Nueva opción cosmética: #LIGHT GREEN#Bikini y Mankini", "_t")
+t("New Cosmetic Option: #LIGHT_GREEN#Bikini and Mankini", "Nueva opción cosmética: #LIGHT_GREEN#Bikini y Mankini", "_t")
 

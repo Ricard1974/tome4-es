@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New game campaign: #LIGHT_GREEN#The Arena: Challenge of the Master", "Nueva campaña de juego: #LIGHT GREEN#The Arena: Challenge of the Master", "_t")
+t("New game campaign: #LIGHT_GREEN#The Arena: Challenge of the Master", "Nueva campaña de juego: #LIGHT_GREEN#The Arena: Challenge of the Master", "_t")
 

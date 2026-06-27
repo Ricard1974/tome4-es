@@ -12,8 +12,8 @@ t("Woven through with fell magics of undeath, these bindings suck the light and 
 t("A complementing item would be your crowning glory.", "Un elemento complementario sería tu gloria coronadora.", "_t")
 t("Crown of Eternal Night", "Corona de la noche eterna", "entity name")
 t("blackened crown", "corona negra", "_t")
-t("This crown looks useless, yet you can feel it is woven with fell magics of undeath. Maybe it has a use.", "Esta corona parece inútil, pero puedes sentir que está tejida con magias caídas de la muerte. Tal vez tenga un uso.", "_t")
+t("This crown looks useless, yet you can feel it is woven with fell magics of undeath. Maybe it has a use.", "Esta corona parece inútil, pero puedes sentir que estás tejida con magias caídas de la muerte. Tal vez tenga un uso.", "_t")
 t("You need to find something to bind its powers.", "Necesitas encontrar algo para atar sus poderes.", "_t")
-t("#ANTIQUE_WHITE#The Crown of Eternal Night seems to react with the Bindings, you feel tremendous dark power.", "#ANTIQUE WHITE#La Corona de la Noche Eterna parece reaccionar con los Bindings, te sientes tremendo poder oscuro.", "logSeen")
-t("#ANTIQUE_WHITE#The powerful darkness aura you felt wanes away.", "#ANTIQUE WHITE#El poderoso aura de la oscuridad que sentiste vanes lejos.", "logPlayer")
+t("#ANTIQUE_WHITE#The Crown of Eternal Night seems to react with the Bindings, you feel tremendous dark power.", "#ANTIQUE_WHITE#La Corona de la Noche Eterna parece reaccionar con los Bindings, te sientes tremendo poder oscuro.", "logSeen")
+t("#ANTIQUE_WHITE#The powerful darkness aura you felt wanes away.", "#ANTIQUE_WHITE#El poderoso aura de la oscuridad que sentiste vanes lejos.", "logPlayer")
 

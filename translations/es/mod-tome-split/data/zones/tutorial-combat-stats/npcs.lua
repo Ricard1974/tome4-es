@@ -15,7 +15,7 @@ t("It is a large wolf with eyes full of cunning, only 3 times bigger than a norm
 t("Orc", "Orco", "entity name")
 t("Quick-healing orc", "Orc de curación rápida", "entity name")
 t("Robe-clad elf", "Robe-clad elf", "entity name")
-t("An elf that looks as though he spends a good amount of his time wiggling his fingers and chanting.", "Un elfo que parece como si pasara una buena cantidad de su tiempo metiendo sus dedos y cantando.", "_t")
+t("An elf that looks as though he spends a good amount of his time wiggling his fingers and chanting.", "Un elfo que parece como si pasara una buena cantidad de tu tiempo metiendo sus dedos y cantando.", "_t")
 t("Stubborn orc", "Stubborn orc", "entity name")
 t("Obstinate orc", "Obstinate orc", "entity name")
 t("Pushy orc", "Oreja de empuje", "entity name")

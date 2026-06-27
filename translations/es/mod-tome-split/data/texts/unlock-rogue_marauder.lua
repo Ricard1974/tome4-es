@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Marauder (Rogue)", "Nueva clase: #LIGHT GREEN#Marauder (Rogue)", "_t")
+t("New Class: #LIGHT_GREEN#Marauder (Rogue)", "Nueva clase: #LIGHT_GREEN#Marauder (Rogue)", "_t")
 

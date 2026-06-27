@@ -12,7 +12,7 @@ t("A nearly translucent spider hatchling.", "Una araña casi translúcida.", "_t
 t("orb spinner", "girandorbe", "entity name")
 t("A large brownish arachnid, its fangs drip with a strange fluid.", "Un gran arachnid marrón, sus colmillos gotean con un líquido extraño.", "_t")
 t("orb weaver", "tejedor de orbes", "entity name")
-t("A large brownish arachnid spinning its web.  It doesn't look pleased that you've disturbed its work.", "Un gran arachnid marrón girando su web. No parece complacido que hayas perturbado su trabajo.", "_t")
+t("A large brownish arachnid spinning its web.  It doesn't look pleased that you've disturbed its work.", "Un gran arachnid marrón girando tu web. No parece complacido que hayas perturbado tu trabajo.", "_t")
 t("fate spinner", "destino spinner", "entity name")
 t("Easily as big as a horse, this giant spider menaces at you with claws and fangs.", "Fácilmente tan grande como un caballo, esta gigantesca araña amenaza contigo con garras y colmillos.", "_t")
 t("fate weaver", "el destino", "entity name")

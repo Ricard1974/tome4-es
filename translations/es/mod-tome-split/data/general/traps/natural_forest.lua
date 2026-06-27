@@ -15,5 +15,5 @@ t("%s resists!", "%s resiste!", "logSeen")
 t("poison vine", "venenoso", "entity name")
 t("A poisonous vine strikes at @Target@!", "¡Una vid venenosa en @Target@!", "_t")
 t("venomous vine", "vid venenosa", "_t")
-t("A motile vine that strikes out for %s%d#LAST# %s damage.", "Una vid fútil que daña  %s                                                                   .%d%s", "tformat")
+t("A motile vine that strikes out for %s%d#LAST# %s damage.", "Una vid fútil que daña %s.%d%s", "tformat")
 

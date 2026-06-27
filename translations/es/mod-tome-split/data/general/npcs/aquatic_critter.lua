@@ -17,5 +17,5 @@ t("A huge, elongated sea-green reptile, it looks old and impenetrable.", "Un eno
 t("squid", "calamares", "entity name")
 t("Darting its many tentacles toward you, it tries to lock you down.", "Derribando sus muchos tentáculos hacia ti, intenta encerrarte.", "_t")
 t("ink squid", "calamar de tinta", "entity name")
-t("Darting its many tentacles toward you, it tries to blind you with its murky ink.", "Acariciando sus muchos tentáculos hacia ti, intenta cegarte con su tenue tinta.", "_t")
+t("Darting its many tentacles toward you, it tries to blind you with its murky ink.", "Acariciando sus muchos tentáculos hacia ti, intenta cegarte con tu tenue tinta.", "_t")
 

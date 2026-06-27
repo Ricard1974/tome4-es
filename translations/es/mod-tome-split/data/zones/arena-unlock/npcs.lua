@@ -12,6 +12,6 @@ t("halfling slinger", "slinger a medias", "entity name")
 t("halfling", "mediador", "entity subtype")
 t("A Halfling slinger. He seems adept at combat.", "Un eslinger medio. Parece adepto en el combate.", "_t")
 t("arcane blade", "arcane hoja", "entity name")
-t("A Human Arcane Blade. His body shows multiple scars from battle.", "Una espada de Arcane Humana. Su cuerpo muestra múltiples cicatrices de la batalla.", "_t")
+t("A Human Arcane Blade. His body shows multiple scars from battle.", "Una espada de Arcane Humana. Tu cuerpo muestra múltiples cicatrices de la batalla.", "_t")
 t("Cornac rogue", "Cornaco pícaro", "_t")
 

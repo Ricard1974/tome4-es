@@ -10,5 +10,5 @@ t("lovely umbrella", "hermoso paraguas", "entity name")
 t("picnic basket", "cesta de picnic", "entity name")
 t("grass", "hierba", "entity subtype")
 t("exit to the worldmap", "salida al worldmap", "entity name")
-t("You have not finished your romantic time at the beach.", "Usted no ha terminado su tiempo romántico en la playa.", "log")
+t("You have not finished your romantic time at the beach.", "Tú no ha terminado tu tiempo romántico en la playa.", "log")
 

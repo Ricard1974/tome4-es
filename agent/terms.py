@@ -1239,6 +1239,8 @@ FORCED_TERMS = {
     "energy": "energía",
     # Palabras comunes del juego
     "damage": "daño",
+    "stamina": "resistencia",
+    "Stamina": "Resistencia",
     "talent": "talento",
     "spell": "hechizo",
     "level": "nivel",
@@ -1260,3 +1262,193 @@ FORCED_TERMS = {
     "weapon": "arma",
     "shield": "escudo",
 }
+
+POST_PROCESS = [
+    # ──────────────────────────────────────────────────────────────────
+    # CORRECCIONES DE "USTED" → "TÚ" (formal → informal)
+    # ToME usa "tú" como estándar español. LibreTranslate tiende a "usted".
+    # ──────────────────────────────────────────────────────────────────
+    # Pronombres y posesivos
+    (r"\bUsted\b", "Tú"),
+    (r"\busted\b", "tú"),
+    (r"\bTu\b(?=\s+[a-z])", "Tu"),  # "Tu puedes" no debe cambiar, pero cuidado
+    (
+        r"\btu\b(?=\s+(?:puedes|tienes|eres|estás|has|haz|sé))",
+        "tú",
+    ),  # "tu puedes" → "tú puedes"
+    # Genérico: "su <sustantivo>" → "tu <sustantivo>"
+    (r"\bsu\b(?=\s+[a-záéíóúñ])", "tu"),
+    (r"\bSu\b(?=\s+[a-záéíóúñ])", "Tu"),
+    (r"\bsuy[oa]s?\b", "tuyo"),
+    (
+        r"\ble\b(?=\s+(?:afecta|otorga|daña|causa|inflige|concede|aplica|reduce|aumenta|otorgar))",
+        "te",
+    ),
+    (
+        r"\bLe\b(?=\s+(?:afecta|otorga|daña|causa|inflige|concede|aplica|reduce|aumenta))",
+        "Te",
+    ),
+    (
+        r"\bse\b(?=\s+(?:aplica|activa|reduce|convierte|vuelve|vuelva|encuentra|encuentre|considera|consideren))",
+        "se",
+    ),  # solo cuando es reflexivo válido
+    # Verbos conjugados en 3ª persona → 2ª persona (usted → tú)
+    (
+        r"\bpuede\b(?=\s+(?:ser|tener|usar|hacer|atacar|lanzar|invocar|afectar|curar|dañar|infligir|otorgar|aumentar|reducir|absorber|proteger|mejorar|activar))",
+        "puedes",
+    ),
+    (r"\btiene\b(?=\s+(?:un|una|el|la|los|las|que|la capacidad))", "tienes"),
+    (
+        r"\b(?:Él|Ella)\b\s+(?:puede|tiene|hace|está|va|usa|ataca|lanza)",
+        "",
+    ),  # quitar "Él/Ella" donde es genérico
+    # Casos especiales de verbos
+    (
+        r"\b(?:hace|hace que)\b(?=\s+(?:que|un|una|el|la))",
+        lambda m: {"hace que": "hace que", "hace": "hace"}[m.group(0)],
+    ),  # mantener
+    (
+        r"\bestá\b(?=\s+(?:bajo|siendo|en|dentro|afectado|marcado|bendecido|maldito|paralizado|congelado|aturdido|envenenado|ralentizado))",
+        "estás",
+    ),
+    (r"\bes\b(?=\s+(?:un|una|el|la|muy|bastante|poco|el|más))", "eres"),
+    (r"\bEres\b", "Eres"),
+    # ──────────────────────────────────────────────────────────────────
+    # CORRECCIONES DE TRADUCCIÓN LITERAL ERRÓNEA DE LIBRETRANSLATE
+    # ──────────────────────────────────────────────────────────────────
+    # "armour" → "armadura" (LT a veces da "amor")
+    (r"\bamor\b", "armadura"),
+    (r"\bAmor\b", "Armadura"),
+    # "caster" → "lanzador" (LT: "castra")
+    (r"\bcastra\b", "lanzador"),
+    # "spell" → "hechizo" (LT: "sortilegio")
+    (r"\bsortilegio\b", "hechizo"),
+    (r"\bSortilegio\b", "Hechizo"),
+    # "summoned" → "invocado" (LT: "citado")
+    (r"\bcitado\b(?=\s+(?:un|una|por|el|la))", "invocado"),
+    # "turns" → "turnos" (LT: "giros")
+    (r"\bgiros\b", "turnos"),
+    # "chance" → "probabilidad" (contextos no traducidos)
+    (r"\bchance\b", "probabilidad"),
+    (r"\bChance\b", "Probabilidad"),
+    # ──────────────────────────────────────────────────────────────────
+    # TÉRMINOS DE JUEGO QUE LT MALTRADUCE SISTEMÁTICAMENTE
+    # ──────────────────────────────────────────────────────────────────
+    # Daño
+    (r"\bdañar\b", "daño"),
+    (r"\bDañar\b", "Daño"),
+    # Body/Health
+    (r"\bcuerpo a cuerpo\b", "cuerpo a cuerpo"),
+    # "focus" / "rate"
+    (r"\btasa\b", "tasa"),
+    # Preposiciones incorrectas
+    (r"resistencia por\b", "resistencia a"),
+    (r"inmunidad por\b", "inmunidad a"),
+    (r"daño por\b", "daño a"),
+    (r"penetración por\b", "penetración a"),
+    # Artículos incorrectos
+    (r"\bel armadura\b", "la armadura"),
+    (r"\bun armadura\b", "una armadura"),
+    (r"\bun daño\b", "un daño"),
+    (r"\bun hechizo\b", "un hechizo"),
+    (r"\bun arma\b", "un arma"),
+    # Pointos → puntos
+    (r"\bpointos\b", "puntos"),
+    # ──────────────────────────────────────────────────────────────────
+    # MEJORAS DE FLUIDEZ EN ESPAÑOL
+    # ──────────────────────────────────────────────────────────────────
+    # "the" traducido como artículo extra
+    (r"\bel enemigo\b", "al enemigo"),
+    (r"\bla víctima\b", "a la víctima"),
+    (r"\b(el|la) atacante\b", lambda m: m.group(1) + " atacante"),
+    # "estacking" → "apilamiento"
+    (r"\bestacking\b", "apilamiento"),
+    # "del enemigo" cuando es posesivo válido
+    (r"\bdel objetivo\b", "del objetivo"),
+    # "de daño" redundante
+    (r"\bde daño de\b", "de daño de"),
+    # Plurales incorrectos
+    (r"poderes\b", "poderes"),
+    (r"hechizos\b", "hechizos"),
+    # "golpes" como verbo → "golpea" (LT: "hits" → "golpes" sustantivo)
+    (r"@\w+@\s+golpes\s+@\w+@", lambda m: m.group(0).replace(" golpes ", " golpea ")),
+    # "daños" → "daño" cuando va tras número (daño computado, singular en juegos)
+    (r"\b(\d+)\s+daños\b", r"\1 daño"),
+    (r"\bdaños\b(?=\s+(?:!|\.|,|$|por|de|a|en|con))", "daño"),
+    # "Trata" → "Inflige" (LT: "Deals X damage" → "Trata X daño" en vez de "Inflige")
+    (
+        r"\bTrata\s+(?:el|un|la|una)\s+\d+",
+        lambda m: m.group(0).replace("Trata", "Inflige"),
+    ),
+    (
+        r"\btrata\s+(?:el|un|la|una)\s+\d+",
+        lambda m: m.group(0).replace("trata", "inflige"),
+    ),
+    # ──────────────────────────────────────────────────────────────────
+    # NOMBRES DE ESTADÍSTICAS EN INGLÉS SUELTOS
+    # (cogidos por LT cuando aparecen en mitad de frase sin contexto)
+    # ──────────────────────────────────────────────────────────────────
+    (r"\bmelee\b", "cuerpo a cuerpo"),
+    (r"\bMelee\b", "Cuerpo a cuerpo"),
+    (r"\bmelea\b", "cuerpo a cuerpo"),  # LT mangla "melee" → "melea"
+    (r"\bMelea\b", "Cuerpo a cuerpo"),
+    (r"\branged\b", "a distancia"),
+]
+
+# Añadir también tu/usted extra para verbos comunes
+_VERB_TU = {
+    "puede": "puedes",
+    "tiene": "tienes",
+    "está": "estás",
+    "hace": "haces",
+    "va": "vas",
+    "usa": "usas",
+    "ataca": "atacas",
+    "lanza": "lanzas",
+    "invoca": "invocas",
+    "cura": "curas",
+    "otorga": "otorgas",
+    "concede": "concedes",
+    "aplica": "aplicas",
+    "reduce": "reduces",
+    "aumenta": "aumentas",
+    "crea": "creas",
+    "convierte": "conviertes",
+    "absorbe": "absorbes",
+    "gana": "ganas",
+    "pierde": "pierdes",
+}
+
+# Generar patrones de verbos para POST_PROCESS
+# Convierte 3ª persona (él/ella/usted) a 2ª persona (tú)
+# Excluye casos impersonales con "se"
+# Caso 1: verbo seguido de palabra (más común en frases)
+for _v_formal, _v_tu in _VERB_TU.items():
+    POST_PROCESS.append(
+        (
+            rf"\b{_v_formal}\b(?!\s+(?:usted|él|ella|ellos|ellas))(?=\s+(?:un|una|el|la|los|las|que|al|del|por|con|sin|su|tu|mi|tus|mis|sus|todo|toda|todos|todas|más|menos|muy|bastante|poco|este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas|\d+|[a-záéíóúñ]+))",
+            _v_tu,
+        )
+    )
+
+# Caso 2: verbo al final de frase (".", "!", "?") o final de cadena
+for _v_formal, _v_tu in _VERB_TU.items():
+    POST_PROCESS.append((rf"\b{_v_formal}\b(?=[.!?]|$)", _v_tu))
+
+# Caso 3a: "[Ss]e + (le/te/nos) + verbo en 2ª persona" → revertir a 3ª persona (impersonal)
+for _v_formal, _v_tu in _VERB_TU.items():
+    POST_PROCESS.append(
+        (
+            rf"\b[Ss]e\s+(?:le|te|nos|me|os|la|lo|las|los)\s+{_v_tu}\b",
+            lambda m, f=_v_formal: m.group(0).rsplit(" ", 1)[0] + " " + f,
+        )
+    )
+
+# Caso 3b: "[Ss]e + verbo en 2ª persona" (directo, sin pronombre intermedio)
+for _v_formal, _v_tu in _VERB_TU.items():
+    POST_PROCESS.append(
+        (
+            rf"\b[Ss]e\s+{_v_tu}\b",
+            lambda m, f=_v_formal: m.group(0).rsplit(" ", 1)[0] + " " + f,
+        )
+    )

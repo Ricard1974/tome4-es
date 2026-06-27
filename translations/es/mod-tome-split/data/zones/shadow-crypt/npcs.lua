@@ -11,5 +11,5 @@ t("As your shade dies, the magical veil protecting the stairs out vanishes.", "M
 t("#GREY#The #Source# looks deep into your eyes. You feel torn apart!", "#GREY# The #Source# looks deep into your eyes. ¡Te sientes destrozado!", "logCombat")
 t("Ra'kk kor merk ZUR!!!", "Ra'kk kor merk ZUR!!!", "_t")
 t("FOR THE WAY! Die cultist!", "¡Por el camino! ¡Muere culto!", "_t")
-t("#PURPLE#The #Source# looks afraid, he did not plan on his creation turning against him!", "#PURPLE#The #Source# se ve asustado, no planeó su creación girando contra él!", "logCombat")
+t("#PURPLE#The #Source# looks afraid, he did not plan on his creation turning against him!", "#PURPLE#The #Source# se ve asustado, no planeó tu creación girando contra él!", "logCombat")
 

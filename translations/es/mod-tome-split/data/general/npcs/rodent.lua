@@ -13,7 +13,7 @@ t("giant brown rat", "rata marrón gigante", "entity name")
 t("giant rabbit", "conejo gigante", "entity name")
 t("Kill the wabbit, kill the wabbit, kill the wabbbbbiiiiiit.", "Mata al wabbit, mata al wabbit, mata al wabbbiiiiiit.", "_t")
 t("giant crystal rat", "rata de cristal gigante", "entity name")
-t("Instead of fur, this rat has crystals growing on its back, which provide extra protection.", "En lugar de piel, esta rata tiene cristales creciendo en su espalda, que proporcionan protección adicional.", "_t")
+t("Instead of fur, this rat has crystals growing on its back, which provide extra protection.", "En lugar de piel, esta rata tienes cristales creciendo en tu espalda, que proporcionan protección adicional.", "_t")
 t("giant grey mouse", "ratón gris gigante", "entity name")
 t("giant grey rat", "rata gris gigante", "entity name")
 

@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("slimey pool", "piscina delgada", "_t")
-t("%s (slimey)", "%s  (slimey)", "tformat")
+t("%s (slimey)", "%s (slimey)", "tformat")
 

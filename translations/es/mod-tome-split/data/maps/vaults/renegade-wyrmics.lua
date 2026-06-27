@@ -6,8 +6,8 @@
 
 t("#rng# the Herald", "#rng# the Herald", "_t")
 t("Beastmaster #rng#", "Beastmaster", "_t")
-t("#rng# the Flame Terror", "#rng# the Flame Terror", "_t")
+t("#rng# the Flame Terror", "§#rng# § the Flame Terror", "_t")
 t("#rng# the Storm Terror", "#rng# the Storm Terror", "_t")
-t("#rng# the Frozen Terror", "#rng# the Frozen Terror", "_t")
+t("#rng# the Frozen Terror", "#rng# el terror congelado", "_t")
 t("#rng# the Caustic Terror", "#rng# the Caustic Terror", "_t")
 

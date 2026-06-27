@@ -20,5 +20,5 @@ t("The Way sent you?", "¿El Camino te envió?", "_t")
 t("You.. saved me?", "Tú... ¿me salvaste?", "_t")
 t("Yeek Wayist", "Yeek Wayist", "entity name")
 t("yeek", "yeek", "entity subtype")
-t("This creature is about as tall as a halfling. It is covered in white silky fur and has a disproportionate head. The weirdest thing about it though, its weapon simply floats in front of it.", "Esta criatura es tan alta como mediana. Está cubierto de piel sedosa blanca y tiene una cabeza desproporcionada. La cosa más rara de ella, sin embargo, su arma simplemente flota delante de ella.", "_t")
+t("This creature is about as tall as a halfling. It is covered in white silky fur and has a disproportionate head. The weirdest thing about it though, its weapon simply floats in front of it.", "Esta criatura es tan alta como mediana. Está cubierto de piel sedosa blanca y tienes una cabeza desproporcionada. La cosa más rara de ella, sin embargo, tu arma simplemente flota delante de ella.", "_t")
 

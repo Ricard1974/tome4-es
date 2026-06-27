@@ -14,5 +14,5 @@ t("It is a ghostly form with eyes that haunt you.", "Es una forma fantasmal con 
 t("barrow wight", "espectro túmulo", "entity name")
 t("It is a ghostly nightmare of an entity.", "Es una pesadilla fantasmal de una entidad.", "_t")
 t("emperor wight", "emperador wight", "entity name")
-t("Your life force is torn from your body as this powerful unearthly being approaches.", "Su fuerza de vida es arrancada de su cuerpo mientras este poderoso ser se acerca.", "_t")
+t("Your life force is torn from your body as this powerful unearthly being approaches.", "Tu fuerza de vida es arrancada de tu cuerpo mientras este poderoso ser se acerca.", "_t")
 

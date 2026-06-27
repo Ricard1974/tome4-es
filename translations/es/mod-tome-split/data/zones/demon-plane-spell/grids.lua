@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("#Source# burns #Target#!", "¡#Source# quema a #Target#!", "logCombat")
-t("#Source# heals #Target#!", "#Source# heals #Target#!", "logCombat")
+t("#Source# heals #Target#!", "#Source# cura #Target#!", "logCombat")
 

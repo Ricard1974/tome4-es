@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s (necrotic air)", "%s  (aire neurótico)", "tformat")
+t("%s (necrotic air)", "%s (aire neurótico)", "tformat")
 

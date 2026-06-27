@@ -12,5 +12,5 @@ t("I need to prepare myself. I will be back soon.", "Necesito prepararme. Volver
 t("I am ready. Send me. I will not let the good people of Derth down.", "Estoy listo. Envíame. No defraudaré a la buena gente de Derth.", "_t")
 t("Good luck to thee. Thou hast the blessings of Angolwen.", "Buena suerte para ti. Tienes las bendiciones de Angolwen.", "_t")
 t("Thank you.", "Gracias.", "_t")
-t("I see the storm is calmed.  Take this rune as a token of my appreciation.", "Veo que la tormenta está calmada. Toma esta runa como muestra de mi aprecio.", "_t")
+t("I see the storm is calmed.  Take this rune as a token of my appreciation.", "Veo que la tormenta estás calmada. Toma esta runa como muestra de mi aprecio.", "_t")
 

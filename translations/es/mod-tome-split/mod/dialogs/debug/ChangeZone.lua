@@ -6,5 +6,5 @@
 
 t("DEBUG -- Change Zone", "DEBUG -- Zona de cambio", "_t")
 t("Zone: %s", "Zona:%s", "tformat")
-t("Level %s-%s", "Nivel  %s     %s", "tformat")
+t("Level %s-%s", "Nivel %s %s", "tformat")
 

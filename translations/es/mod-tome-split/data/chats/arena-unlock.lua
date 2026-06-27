@@ -12,7 +12,7 @@ t("I don't have time for games, Cornac.", "No tengo tiempo para juegos, Cornac."
 t("We'll see. [Leave]", "Ya veremos. [Leave]", "_t")
 t("Sounds like fun. I'm ready!", "Suena divertido. ¡Estoy listo!", "_t")
 t("Wait. I am not ready yet.", "Espera. Aún no estoy listo.", "_t")
-t("#LIGHT_GREEN#*The man quietly walks away, after making you a gesture to follow him*", "#LIGHT GREEN#*El hombre se aleja tranquilamente, después de hacerte un gesto para seguirlo*", "_t")
+t("#LIGHT_GREEN#*The man quietly walks away, after making you a gesture to follow him*", "#LIGHT_GREEN#*El hombre se aleja tranquilamente, después de hacerte un gesto para seguirlo*", "_t")
 t("[Follow him]", "[Síguelo]", "_t")
 t("Get ready!", "¡Prepárate!", "_t")
 t("Defeat all three enemies!", "¡Derrota a los tres enemigos!", "_t")

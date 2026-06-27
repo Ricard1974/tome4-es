@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Deep Bellow excavation report %d", "Informe de excavación profunda de Bellow  %d ", "tformat")
+t("Deep Bellow excavation report %d", "Informe de excavación profunda de Bellow %d", "tformat")
 t("A paper scrap.", "Un trozo de papel.", "_t")
 t("letter to Rolf (3)", "carta a Rolf (3)", "entity name")
 t("letter to Weisman (4)", "carta a Weisman (4)", "entity name")

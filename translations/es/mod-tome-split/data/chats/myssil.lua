@@ -10,5 +10,5 @@ t("Protector, I have dispatched the Tempest as you commanded.", "Protector, he e
 t("Farewell, Protector.", "Adiós, Protector.", "_t")
 t("You can count on me, Protector.", "Puedes contar conmigo, Protector.", "_t")
 t("Thank you, Protector.", "Gracias, Protector.", "_t")
-t("#00FF00#You gain the fungus talents school and your Mana Clash is enhanced.", "#00FF00# Ganas la escuela de talentos de hongos y tu Mana Clash está mejorada.", "logPlayer")
+t("#00FF00#You gain the fungus talents school and your Mana Clash is enhanced.", "#00FF00# Ganas la escuela de talentos de hongos y tu Mana Clash estás mejorada.", "logPlayer")
 

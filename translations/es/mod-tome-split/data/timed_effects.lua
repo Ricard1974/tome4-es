@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s from %s", "%s  de  %s ", "tformat")
+t("%s from %s", "%s de %s", "tformat")
 

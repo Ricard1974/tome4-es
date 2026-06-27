@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("Pyromancer", "Piromante", "achievement name")
-t("Unlocked Archmage class and did over one million fire damage (with any item/talent/class).", "Clase de Archmage desbloqueado e hizo más de un millón de daños al fuego (con cualquier artículo/talent/clase).", "_t")
+t("Unlocked Archmage class and did over one million fire damage (with any item/talent/class).", "Clase de Archmage desbloqueado e hizo más de un millón de daño al fuego (con cualquier artículo/talent/clase).", "_t")
 t("Cryomancer", "Criomante", "achievement name")
 t("Unlocked Archmage class and did over one million cold damage (with any item/talent/class).", "Clase de Archmage desbloqueado e hizo más de un millón de daños fríos (con cualquier artículo/talent/clase).", "_t")
 t("Lichform", "Forma de Lich", "achievement name")

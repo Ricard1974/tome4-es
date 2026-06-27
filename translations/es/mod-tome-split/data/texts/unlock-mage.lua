@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Archmage", "Nueva clase: #LIGHT GREEN#Archmage", "_t")
+t("New Class: #LIGHT_GREEN#Archmage", "Nueva clase: #LIGHT_GREEN#Archmage", "_t")
 

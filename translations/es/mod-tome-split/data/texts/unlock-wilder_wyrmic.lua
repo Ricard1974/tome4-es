@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Class: #LIGHT_GREEN#Wyrmic (Wilder)", "Nueva clase: #LIGHT GREEN#Wyrmic (Wilder)", "_t")
+t("New Class: #LIGHT_GREEN#Wyrmic (Wilder)", "Nueva clase: #LIGHT_GREEN#Wyrmic (Wilder)", "_t")
 

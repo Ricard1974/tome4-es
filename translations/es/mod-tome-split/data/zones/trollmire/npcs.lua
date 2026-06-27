@@ -19,5 +19,5 @@ t("and clobbered into soup", "y clobbered into soup", "_t")
 t("humanoid", "humanoide", "entity type")
 t("human", "humanos", "entity subtype")
 t("Aluin the Fallen", "Aluin the Fallen", "entity name")
-t("His once-shining armour now dull and bloodstained, this Sun Paladin has given in to despair.", "Su armadura de un solo resplandor ahora aburrida y manchada de sangre, este Sun Paladin ha dado lugar a la desesperación.", "_t")
+t("His once-shining armour now dull and bloodstained, this Sun Paladin has given in to despair.", "Tu armadura de un solo resplandor ahora aburrida y manchada de sangre, este Sun Paladin ha dado lugar a la desesperación.", "_t")
 

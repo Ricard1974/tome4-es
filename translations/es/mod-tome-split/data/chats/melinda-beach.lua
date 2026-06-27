@@ -5,5 +5,5 @@
 -- Traductor: --
 
 t("#LIGHT_GREEN#[Lean closer and kiss her]#WHITE#", "#LIGHT GREEN # [Lean más cerca y besarla]#", "_t")
-t("#LIGHT_GREEN#[Continue...]#WHITE#", "#LIGHT GREEN# [Continúe...] #WHITE#", "_t")
+t("#LIGHT_GREEN#[Continue...]#WHITE#", "#LIGHT_GREEN# [Continúe...] #WHITE#", "_t")
 

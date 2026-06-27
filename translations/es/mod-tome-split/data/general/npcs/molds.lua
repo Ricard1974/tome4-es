@@ -17,5 +17,5 @@ t("green mold", "molde verde", "entity name")
 t("A strange sickly green growth on the dungeon floor.", "Un extraño crecimiento en el suelo de la mazmorra.", "_t")
 t("undead", "no-muerto", "entity type")
 t("Z'quikzshl the skeletal mold", "Z'quikzshl el molde esquelético", "entity name")
-t("Steeped in fungal malevolence, this mold refused to die.  How a mold becomes a skeleton, though, is beyond you.  Are those its own bones, or the bones of hapless adventurers?", "Este molde se negó a morir. Cómo un molde se convierte en un esqueleto, sin embargo, está más allá de ti. ¿Son sus propios huesos, o los huesos de los aventureros del abismo?", "_t")
+t("Steeped in fungal malevolence, this mold refused to die.  How a mold becomes a skeleton, though, is beyond you.  Are those its own bones, or the bones of hapless adventurers?", "Este molde se negó a morir. Cómo un molde se convierte en un esqueleto, sin embargo, estás más allá de ti. ¿Son sus propios huesos, o los huesos de los aventureros del abismo?", "_t")
 

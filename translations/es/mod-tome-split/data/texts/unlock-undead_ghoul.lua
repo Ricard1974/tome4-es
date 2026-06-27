@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("New Race: #LIGHT_GREEN#Ghoul (Undead)", "Nueva carrera: #LIGHT GREEN#Ghoul (Undead)", "_t")
+t("New Race: #LIGHT_GREEN#Ghoul (Undead)", "Nueva carrera: #LIGHT_GREEN#Ghoul (Undead)", "_t")
 

@@ -6,5 +6,5 @@
 
 t("Behavior: %s", "Comportamiento:%s", "tformat")
 t("default", "por defecto", "_t")
-t("Action radius: %d", "Radio de acción:  %d ", "tformat")
+t("Action radius: %d", "Radio de acción: %d", "tformat")
 

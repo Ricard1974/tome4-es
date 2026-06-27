@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#GOLD#PLACED LESSER VAULT: %s", "#GOLD#PLACED LESSER VAULT:  %s", "log")
+t("#GOLD#PLACED LESSER VAULT: %s", "#GOLD#PLACED LESSER VAULT: %s", "log")
 

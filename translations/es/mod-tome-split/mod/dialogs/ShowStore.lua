@@ -9,5 +9,5 @@ t("Inventory", "Inventario", "_t")
 t("Category", "Categoría", "_t")
 t("Price", "Precio", "_t")
 t("Store", "Store", "_t")
-t(" (pays up to %0.2f gold, Your Gold: %0.2f)", "(paga hasta  %0.2f   oro, tu oro:  %0.2f  )", "tformat")
+t(" (pays up to %0.2f gold, Your Gold: %0.2f)", "(paga hasta %0.2f oro, tu oro: %0.2f )", "tformat")
 

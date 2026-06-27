@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s (whistling vortex)", "%s  (Whistling vortex)", "tformat")
+t("%s (whistling vortex)", "%s (Whistling vortex)", "tformat")
 
