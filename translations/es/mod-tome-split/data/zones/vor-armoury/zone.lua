@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Vor Armoury", "Vor Armoury", "_t")
+t("Vor Armoury", "Armería Vor", "_t")
 

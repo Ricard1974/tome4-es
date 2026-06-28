@@ -59,6 +59,6 @@ t("earthen vines", "vides de tierra", "talent type")
 t("Control the stone itself and bring it alive in the form of dreadful vines.", "Controla la piedra misma y la trae viva en forma de viñas terribles.", "_t")
 t("dwarven nature", "naturaleza enana", "talent type")
 t("Learn to harness the innate power of your race.", "Aprende a aprovechar el poder innato de tu carrera.", "_t")
-t("#PINK#You can manage a maximum of %d summons at any time. You need %d Cunning to increase your limit.", "#PINK#Tú puedes manejar un máximo de %d citaciones en cualquier momento. Necesitas %d Cunning para aumentar tu límite.", "logPlayer")
+t("#PINK#You can manage a maximum of %d summons at any time. You need %d Cunning to increase your limit.", "#PINK#Tú puedes manejar un máximo de %d citaciones en cualquier momento. Necesitas %d Astucia para aumentar tu límite.", "logPlayer")
 t("Summon", "Invocar", "_t")
 

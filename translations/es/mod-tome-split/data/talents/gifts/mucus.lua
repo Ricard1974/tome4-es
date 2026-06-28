@@ -37,5 +37,5 @@ t("Your mucus is brought to near sentience.
 t("You temporarily merge with your mucus, cleansing yourself of %d physical or magical detrimental effects.
 \n\t\tYou can then reemerge on any tile within sight and range that is also covered by mucus.
 \n\t\tThis is quick, performed in only %d%% of the normal time, but you must be in contact with your mucus.", "Te fusionas temporalmente con tu moco, depurándote de los efectos perjudiciales físicos o mágicos.
-\n\t\tUsted puedes entonces resurgir en cualquier baldosa dentro de la vista y rango que también estás cubierto por moco.
-\n\t\tEsto es rápido, realizado en sólo %d% del tiempo normal, pero debe estar en contacto con tu moco.", "tformat")
+\\n\\t\\tUsted puedes entonces resurgir en cualquier baldosa dentro de la vista y rango que también estás cubierto por moco.
+\\n\\t\\tEsto es rápido, realizado en sólo %d% del tiempo normal, pero debe estar en contacto con tu moco. %d", "tformat")

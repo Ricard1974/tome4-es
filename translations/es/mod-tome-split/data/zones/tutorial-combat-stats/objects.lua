@@ -8,7 +8,7 @@ t("Boots of Physical Save (+10)", "Botas de ahorro físico (+10)", "entity name"
 t("Dried-up old boots.", "Botas viejas secas.", "_t")
 t("Fine boots that increase your Physical Save by 10.", "Botas finas que aumentan tu ahorro físico en 10.", "_t")
 t("Amulet of Mindpower (+3)", "Amuleto de la fuerza mental (+3)", "entity name")
-t("Glittering amulet.", "Glittering amulet.", "_t")
+t("Glittering amulet.", "Amuleto brillante.", "_t")
 t("A beautiful amulet that increases your Mindpower by 3.", "Un hermoso amuleto que aumentas tu poder mental por 3.", "_t")
 t("Helmet of Accuracy (+6)", "Casco de Precisión (+6)", "entity name")
 t("Hard-looking helmet.", "Casco de aspecto duro.", "_t")

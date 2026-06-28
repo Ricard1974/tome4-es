@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Elven Ruins", "Elven Ruins", "_t")
+t("Elven Ruins", "Ruinas Élficas", "_t")
 

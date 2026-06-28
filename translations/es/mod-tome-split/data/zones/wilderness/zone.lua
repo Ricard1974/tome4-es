@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("World of Eyal", "World of Eyal", "_t")
+t("World of Eyal", "Mundo de Eyal", "_t")
 t("Eyal", "Eyal", "_t")
 

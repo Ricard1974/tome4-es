@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Old Forest", "Old Forest", "_t")
+t("Old Forest", "Bosque Antiguo", "_t")
 

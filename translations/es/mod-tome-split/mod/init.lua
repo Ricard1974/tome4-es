@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Tales of Maj'Eyal: Age of Ascendancy", "Tales of Maj'Eyal: Age of Ascendancy", "init.lua long_name")
+t("Tales of Maj'Eyal: Age of Ascendancy", "Tales of Maj'Eyal: Era de Ascendencia", "_t")
 t("Though magic is still shunned in Maj'Eyal, rumours abound of secret havens of mages.", "Aunque la magia todavía estás removida en Maj'Eyal, los rumores abundan en paraísos secretos de magos.", "init.lua load_tips")
 t("The Rush talent lets you close in on an enemy quickly and daze them, disabling them whilst you hack down their friends.", "El talento de Rush te permite acercarte rápidamente a un enemigo y desgarrarlos, desactivarlos mientras hackeas a sus amigos.", "init.lua load_tips")
 t("Stunning an opponent slows down their movement and reduces their damage output, giving you the opportunity to tactically reposition or finish them off at less risk.", "Impresionante un oponente ralentiza tu movimiento y reduces tu salida de daño, dándole la oportunidad de reposición táctica o acabar con ellos en menos riesgo.", "init.lua load_tips")

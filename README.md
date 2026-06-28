@@ -4,16 +4,17 @@ Traducción completa al español (de España) de **Tales of Maj'Eyal 1.7.6**.
 
 ## Características
 
-- ✅ **~22.604 strings traducidos** (93,7%) — interfaz, talentos, objetos, diálogos, lore, menús
+- ✅ **~21.414 strings traducidos** (94,9%) — interfaz, talentos, objetos, diálogos, lore, menús
 - ✅ **Descripciones de talentos traducidas** — las traducciones más completas disponibles, ningún otro idioma las incluye
 - ✅ **Menú principal en español** — incluye `boot-spanish.teaa`
 - ✅ **Placeholders protegidos** — `%d`, `%s`, `#Source#`, `#LIGHT_GREEN#` no se dañan al traducir
 - ✅ **Idioma: español de España** — nada de modismos latinoamericanos
 - ✅ **Interfaz de usuario traducida** — menús, opciones, atajos de teclado, diálogos de depuración
+- ✅ **Sin corrupción** — 0 líneas con `#####`, 0 errores de formato, 0 spanglish visible
 
 ## Calidad
 
-Se han aplicado **~3.500 correcciones automáticas** sobre las traducciones generadas por IA,
+Se han aplicado **~3.600 correcciones automáticas** sobre las traducciones generadas por IA,
 más correcciones manuales de traducciones incorrectas:
 
 | Problema | Corregidas |
@@ -27,8 +28,12 @@ más correcciones manuales de traducciones incorrectas:
 | Traducciones incorrectas específicas | 31 |
 | Palabras duplicadas | 10 |
 | Traducciones de interfaz corregidas manualmente (color tags, placeholders corruptos) | 27 |
+| Formato `%d`/`%s`/`%0.2f` restaurados en traducciones | 90 |
+| Spanglish corregido (atributos, efectos, términos UI) | ~40 |
+| Líneas corruptas con `#####` reparadas | 13 |
 
-El script de corrección está en `scripts/fix_quality.py`. La protección de placeholders se hace en `agent/translator.py`.
+Los scripts de corrección son `scripts/fix_quality.py`, `scripts/fix_format_specifiers.py` y `scripts/fix_spanglish.py`.
+La protección de placeholders se hace en `agent/translator.py`.
 El script de traducción de interfaz es `agent/translate_ui.py`.
 
 ## Notas técnicas
@@ -92,8 +97,11 @@ python3 agent/translate_all.py
 
 # 2. Aplicar correcciones de calidad sobre lo traducido
 python3 scripts/fix_quality.py
+python3 scripts/fix_format_specifiers.py  # restaura %d/%s perdidos
+python3 scripts/fix_spanglish.py          # corrige spanglish visible
 
 # 3. Mergear a mod-tome.lua y construir addon
+python3 scripts/merge_sections.py
 python3 scripts/build_addon.py --package
 ```
 

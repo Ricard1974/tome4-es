@@ -5,7 +5,7 @@
 -- Traductor: --
 
 t("#LIGHT_STEEL_BLUE#%s (Class Evolution)", "#LIGHT_STEEL_BLUE# %s (Class Evolution)", "tformat")
-t("#SANDY_BROWN#%s (Race Evolution)", "#SANDY_BROWN#%s (Race Evolution)", "tformat")
+t("#SANDY_BROWN#%s (Race Evolution)", "#SANDY_BROWN#%s (Evolución de Raza)", "_t")
 t("a spell", "un hechizo", "_t")
 t("a mind power", "un poder mental", "_t")
 t("a nature gift", "un regalo de naturaleza", "_t")

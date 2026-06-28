@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Gorbat Pride", "Gorbat Pride", "_t")
+t("Gorbat Pride", "Orgullo Gorbat", "_t")
 

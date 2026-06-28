@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shimmer Demo", "Shimmer Demo", "_t")
+t("Shimmer Demo", "Demostración de Brillo", "_t")
 t("#GREY#[Invisible]", "#GREY#[Invisible]", "_t")
 

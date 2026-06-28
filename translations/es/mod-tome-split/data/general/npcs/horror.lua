@@ -18,7 +18,7 @@ t("#AQUAMARINE#As %s falls all its eyes fall to the ground!", "#AQUAMARINE#As %s
 t("eldritch eye", "ojo de goteo", "entity name")
 t("A small bloodshot eye floats here.", "Un pequeño ojo de sangre flota aquí.", "_t")
 t("#AQUAMARINE#As #Source# falls #Target# seems to weaken!", "#AQUAMARINE#Como #Source# cae #Target# parece debilitarse!", "logCombat")
-t("+Blind", "+Blind", "_t")
+t("+Blind", "+Ceguera", "_t")
 t("%s is blinded by the loss of all its eyes.", "%s estás cegado por la pérdida de todos sus ojos.", "logSeen")
 t("luminous horror", "horror luminoso", "entity name")
 t("A lanky humanoid shape composed of yellow light.", "Una forma humanoide láctea compuesta de luz amarilla.", "_t")

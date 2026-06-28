@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ritches Tunnels", "Ritches Tunnels", "_t")
+t("Ritches Tunnels", "Túneles Ritch", "_t")
 

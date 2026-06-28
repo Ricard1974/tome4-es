@@ -31,7 +31,7 @@ t("#LIGHT_RED#WARNING! Rej Arkatis, the master of the arena, appears!!!", "#LIGH
 t("%s the Master of Arena", "%s el Maestro de Arena", "tformat")
 t("#LIGHT_RED#WARNING! %s, the master of the arena, appears!!!", "#LIGHT_RED#WARNING! %s, el maestro de la arena, aparece!!!", "log")
 t("OVERKILL", "SOBREMATAR", "_t")
-t("#LIGHT_GREEN#Your powerful attack completely obliterates #WHITE#%s#LIGHT_GREEN#!", "#LIGHT_GREEN# Your powerful attack completely obliterates #WHITE#%s #LIGHT_GREEN#!", "log")
+t("#LIGHT_GREEN#Your powerful attack completely obliterates #WHITE#%s#LIGHT_GREEN#!", "#LIGHT_GREEN# Your powerful ataque completely obliterates #WHITE#%s #LIGHT_GREEN#!", "log")
 t("#LIGHT_GREEN#The audience cheers!", "¡La audiencia anima!", "log")
 t("#LIGHT_GREEN#You destroy #WHITE#%s#LIGHT_GREEN# in a single blow!", "#LIGHT_GREEN# You destroy #WHITE# %s #LIGHT_GREEN# in a single blow!", "log")
 t("#LIGHT_GREEN#Your score multiplier increases by #WHITE#%d#LIGHT_GREEN#!", "#LIGHT GREEN #Tu multiplicador de puntuación aumentas por #WHITE#%d #LIGHT_GREEN#!", "log")

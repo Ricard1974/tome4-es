@@ -11,7 +11,7 @@ t("Fan of Knives", "Fan de Knives", "talent name")
 t("Fan of Knives", "Fan de Knives", "_t")
 t("Precise Aim", "Precise Apuntar", "talent name")
 t("Quickdraw", "Desenfunde Rapido", "talent name")
-t("Quickdraw Knife", "Quickdraw Knife", "_t")
+t("Quickdraw Knife", "Cuchillo de Sacado Rápido", "_t")
 t("Venomous Throw", "Venomous Lanzar", "talent name")
 t("Venomous Throw", "Venomous Lanzar", "_t")
 

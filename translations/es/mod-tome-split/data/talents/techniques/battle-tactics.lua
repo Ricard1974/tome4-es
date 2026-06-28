@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Greater Weapon Focus", "Greater Weapon Enfoque", "talent name")
+t("Greater Weapon Focus", "Greater Weapon Focus", "talent name")
 t("Step Up", "Sube", "talent name")
 t("Bleeding Edge", "Sangrante Filo", "talent name")
 t("True Grit", "Cierto Grit", "talent name")

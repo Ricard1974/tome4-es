@@ -382,7 +382,7 @@ Requires addons: %s
 
 %s]], "tformat")
 t("You can simply grab an older version of the game from where you downloaded it.", "Puedes descargar una versión anterior desde donde descargaste el juego.", "_t")
-t("You can downgrade the version by selecting it in the Steam's \"Beta\" properties of the game.", "You can downgrade the version by selecting it in the Steam's \"Beta\" properties of the game.", "_t")
+t("You can downgrade the version by selecting it in the Steam's \"Beta\" properties of the game.", "Puedes bajar la versión seleccionándola en las propiedades \"Beta\" del juego en Steam.", "_t")
 t("Original game version not found", "Versión original no encontrada", "_t")
 t([[This savefile was created with game version %s. You can try loading it with the current version if you wish but it is recommended you play it with the old version to ensure compatibility
 %s]], [[This savefile was created with game version %s. You can try loading it with the current version if you wish but it is recommended you play it with the old version to ensure compatibility

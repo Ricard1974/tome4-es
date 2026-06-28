@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Lost Dwarven Kingdom of Reknor", "Lost Dwarven Kingdom of Reknor", "_t")
+t("Lost Dwarven Kingdom of Reknor", "Reino Enano Perdido de Reknor", "_t")
 

@@ -13,7 +13,7 @@ t("Try to extract gems from which metallic item?", "Trate de extraer gemas de qu
 t("Extract magical gems from metal weapons and armours. At this skill level you can work with metals of at maximum tier %d.", "Extraiga gemas mágicas de armas de metal y armaduras. En este nivel de habilidad puedes trabajar con metales de nivel máximo %d.", "tformat")
 t("Imbue Item", "Imbuir Item", "talent name")
 t("Imbue which armour?", "¿En qué armadura?", "_t")
-t("imbue %s", "imbue %s", "tformat")
+t("imbue %s", "imbuir %s", "_t")
 t("You imbue your %s with %s.", "Inventas tu %s con %s.", "logPlayer")
 t("body armour, a belt, or a head piece", "armadura del cuerpo, un cinturón o una pieza de la cabeza", "_t")
 t("a body armour", "una armadura corporal", "_t")

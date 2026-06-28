@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Southern Beach", "Southern Beach", "_t")
+t("Southern Beach", "Playa del Sur", "_t")
 t("Look over there!", "¡Mira ahí!", "_t")
 t("#DARK_GREEN#Melinda begins to glow with an eerie aura!", "#DARK GREEN #Melinda comienza a brillar con un aura ebria!", "say")
 

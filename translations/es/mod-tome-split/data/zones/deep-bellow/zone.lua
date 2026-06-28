@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("The Deep Bellow", "The Deep Bellow", "_t")
+t("The Deep Bellow", "El Rugido Profundo", "_t")
 

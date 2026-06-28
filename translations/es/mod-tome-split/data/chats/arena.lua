@@ -22,5 +22,5 @@ t("Wealth and glory!!!", "La riqueza y la gloria!!!", "_t")
 t("WEALTH!! AND!! GLORYYYYY!!", "¡SALUD! ¡Y! ¡GLORYYYY!", "_t")
 t("I won't need to save chicks from cults anymore!", "¡Ya no necesito salvar chicas de cultos!", "_t")
 t("I hereby stand victorious, awaiting future challenges!", "Por la presente estoy victorioso, esperando desafíos futuros!", "_t")
-t("#LIGHT_GREEN#*dance*", "#LIGHT_GREEN#*dance*", "_t")
+t("#LIGHT_GREEN#*dance*", "#LIGHT_GREEN#*baila*", "_t")
 

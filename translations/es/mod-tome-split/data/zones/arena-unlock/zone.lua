@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Derth (Southeast)", "Derth (Southeast)", "_t")
+t("Derth (Southeast)", "Derth (Sureste)", "_t")
 

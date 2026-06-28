@@ -7,7 +7,7 @@
 t("Thread Walk", "Thread Caminar", "talent name")
 t("You require a weapon to use this talent.", "Necesitas un arma para usar este talento.", "logPlayer")
 t("The spell fizzles!", "¡El hechizo brilla!", "logSeen")
-t("range %d", "range %d", "logPlayer")
+t("range %d", "alcance %d", "_t")
 t("You cannot use Thread Walk without an appropriate weapon!", "¡No puedes usar Thread Walk sin un arma adecuada!", "logPlayer")
 t("Blended Threads", "Blended Hilos", "talent name")
 t("Thread the Needle", "Lee la aguja", "talent name")

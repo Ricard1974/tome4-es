@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Illusory Castle", "Illusory Castle", "_t")
+t("Illusory Castle", "Castillo Ilusorio", "_t")
 

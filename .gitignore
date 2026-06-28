@@ -21,3 +21,6 @@ translations/extracted-text/md5s.cfg
 
 # i18n logs
 i18n.log
+
+# Backups
+*.bak

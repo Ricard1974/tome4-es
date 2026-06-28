@@ -9,7 +9,7 @@ t("#LIGHT_BLUE#Your cosmic cycle expands.", "Tu ciclo cósmico se expande.", "lo
 t("#LIGHT_RED#Your cosmic cycle contracts.", "Tus contratos de ciclo cósmico.", "logPlayer")
 t("Polarity Shift", "Polarity Desplazar", "talent name")
 t("You must have Cosmic Cycle active to use this talent.", "Debes tener el Ciclo Cósmico activo para usar este talento.", "logPlayer")
-t("Polarity Bolt", "Polarity Bolt", "_t")
+t("Polarity Bolt", "Rayo de Polaridad", "_t")
 t("Reverse Causality", "Carácter inverso", "talent name")
 t("Epoch", "Epoca", "talent name")
 t("%s resists the blindness!", "%s resiste la ceguera!", "logSeen")

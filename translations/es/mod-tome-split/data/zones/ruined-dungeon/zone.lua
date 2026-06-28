@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Ruined Dungeon", "Ruined Dungeon", "_t")
+t("Ruined Dungeon", "Mazmorra en Ruinas", "_t")
 t("#rng# the Guardian", "#rng# The Guardian", "_t")
 t("Guardian", "Guardian", "_t")
 t("You can hear a magical trigger firing off.", "Puedes oír un disparador mágico.", "_t")

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#rng# the Witherer", "#rng# the Witherer", "_t")
+t("#rng# the Witherer", "#rng# el Marchitador", "_t")
 

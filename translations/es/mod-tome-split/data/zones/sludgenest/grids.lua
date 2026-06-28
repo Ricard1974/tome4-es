@@ -9,7 +9,7 @@ t("This pedestal looks old, you can see the shape of an orb carved on it.", "Est
 t("orb pedestal (dragon)", "pedestal de orbe (dragón)", "entity name")
 t("#rng# the Fearsome", "El miedo", "_t")
 t("orb pedestal (undeath)", "orb pedestal (muerte)", "entity name")
-t("#rng# the Neverdead", "#rng# the Neverdead", "_t")
+t("#rng# the Neverdead", "#rng# el No-Muerto", "_t")
 t("orb pedestal (elements)", "orb pedestal (elementos)", "entity name")
 t("#rng# the Silent Death", "La muerte silenciosa", "_t")
 t("orb pedestal (destruction)", "orb pedestal (destrucción)", "entity name")

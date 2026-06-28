@@ -7,7 +7,7 @@
 t("Ungolë", "Ungolë", "entity name")
 t("A huge spider, shrouded in darkness, her red glowing eyes darting to fix on you. She looks hungry.", "Una araña enorme, deslumbrada en la oscuridad, sus ojos rojos brillantes se atrevieron a arreglarte. Tiene hambre.", "_t")
 t("and devoured alongside a Sun Paladin", "y devorado junto a un Sun Paladin", "_t")
-t("Sun Paladin Rashim", "Sun Paladin Rashim", "_t")
+t("Sun Paladin Rashim", "Paladín Solar Rashim", "_t")
 t("xhaiak", "xhaiak", "entity subtype")
 t("xhaiak arachnomancer", "araenomante xhaiak", "entity name")
 t("A strange looking humanoid spiderkin, its body half covered by a light flowing robe. It looks like tiny spiders are crawling on his skin.", "Una extraña araña humanoides, tu cuerpo medio cubierto por una bata de luz que fluye. Parece que las pequeñas arañas se arrastran sobre tu piel.", "_t")

@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Tales of the Spellblaze", "Tales of the Spellblaze", "achievement name")
+t("Tales of the Spellblaze", "Cuentos del Hechizo Llameante", "_t")
 t("Learned the eight chapters of the Spellblaze Chronicles.", "Aprendió los ocho capítulos de las Crónicas de Spellblaze.", "_t")
 t("The Legend of Garkul", "La leyenda de Garkul", "achievement name")
 t("Learned the five chapters of the Legend of Garkul.", "Aprendió los cinco capítulos de la Leyenda de Garkul.", "_t")

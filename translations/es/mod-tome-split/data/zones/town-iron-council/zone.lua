@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Iron Council", "Iron Council", "_t")
+t("Iron Council", "Consejo de Hierro", "_t")
 

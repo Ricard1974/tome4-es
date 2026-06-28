@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Debug -- Grant/Alter Quest", "Debug -- Grant/Alter Quest", "_t")
+t("Debug -- Grant/Alter Quest", "Debug -- Conceder/Alterar Misión", "_t")
 

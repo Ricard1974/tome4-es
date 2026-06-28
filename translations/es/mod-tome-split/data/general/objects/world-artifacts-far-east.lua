@@ -37,7 +37,7 @@ t("#GOLD#%s draws power from the spilt blood!", "#GOLD# %s dibuja el poder de la
 t("Dawn's Blade", "Dawn's Hoja", "entity name")
 t("shining longsword", "espada larga brillante", "_t")
 t("Said to have been forged in the earliest days of the Sunwall, this longsword shines with the light of daybreak, capable of banishing all shadows.", "Dijo que habían sido forjados en los primeros días del Sunwall, esta larga palabra brilla con la luz del amanecer, capaz de desterrar todas las sombras.", "_t")
-t("invoke dawn, inflicting %0.2f light damage in radius %d (based on Magic) and lighting the area within radius %d", "invocar al amanecer, infligir %0.2f daño ligero en radio %d (basado en Magic) e iluminar el área dentro del radio %d", "tformat")
+t("invoke dawn, inflicting %0.2f light damage in radius %d (based on Magic) and lighting the area within radius %d", "invocar al amanecer, infligir %0.2f daño ligero en radio %d (basado en Magia) e iluminar el área dentro del radio %d", "tformat")
 t("%s raises %s and sends out a burst of light!", "%s levanta %s y envía una explosión de luz!", "logSeen")
 t("#GOLD#You feel a swell of positive energy!", "#GOLD#¡Sientes una oleada de energía positiva!", "logPlayer")
 t("If the sun doesn't set, dawn's power lasts forever.", "Si el sol no se pone, el poder del amanecer dura para siempre.", "_t")

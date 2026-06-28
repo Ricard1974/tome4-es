@@ -14,7 +14,7 @@ t("#Target# repels an attack from #Source#.", "#Target# repele un ataque de #Sou
 t("#Target# evades #Source#.", "#Target# esquiva a #Source#.", "logCombat")
 t("%s(%d parried#LAST#)", "%s( parried#LAST#)%d", "tformat")
 t("%s(%d gestured#LAST#)", "¿Por qué%s%d", "tformat")
-t("#{bold}##Source# performs a melee critical strike against #Target#!#{normal}#", "#####Source# performs a cuerpo a cuerpo critical strike against #Target# ###{normal}#", "logCombat")
+t("#{bold}##Source# performs a melee critical strike against #Target#!#{normal}#", "#{bold}##Source# realiza un golpe crítico cuerpo a cuerpo contra #Target#!#{normal}#", "logCombat")
 t("#Source# misses #Target#.", "#Source# falla a #Target#.", "logCombat")
 t("The shattering blow creates a shockwave!", "¡El golpe destrozado creas una onda de choque!", "logSeen")
 t("#F53CBE#You revel in attacking a weakened foe! (+%d hate)", "#F53CBE# You revel in attacking a weakened foe! (+ %d Odio)", "logPlayer")

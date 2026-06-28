@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Combat Trainer #rng#", "Combat Trainer #rng#", "_t")
+t("Combat Trainer #rng#", "Entrenador de Combate #rng#", "_t")
 

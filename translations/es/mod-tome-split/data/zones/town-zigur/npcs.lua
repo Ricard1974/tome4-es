@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Grand Corruptor", "Grand Corruptor", "entity name")
+t("Grand Corruptor", "Gran Corruptor", "_t")
 t("An Elven corruptor, drawn to these blighted lands.", "Un corruptor Elven, atraído a estas tierras desoladas.", "_t")
 t("Protector Myssil", "Protector Myssil", "entity name")
 t("halfling", "mediador", "entity subtype")

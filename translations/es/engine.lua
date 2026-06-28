@@ -930,7 +930,7 @@ t([[Apply a global scaling to all fonts.
 Applies after restarting the game]], [[Apply a global scaling to all fonts.
 Applies after restarting the game]], "_t")
 t("#GOLD##{bold}#Font Scale#WHITE##{normal}#", "#GOLD##{bold}#Escala de fuente#WHITE##{normal}#", "_t")
-t("Font Scale %", "Escala de fuentes %", "_t")
+t("Font Scale %", "Escala de fuente %", "_t")
 t("From 50 to 300", "De 50 a 300", "_t")
 t([[Activates framebuffers.
 This option allows for some special graphical effects.
@@ -1405,10 +1405,10 @@ t("Game installation successful. Have fun!", "Instalación completada. ¡Diviér
 
 
 -- new text
-t("%dth", "%dth", "_t")
+t("%dth", "%dº", "_t")
 t("%dst", "%do", "_t")
 t("%dnd", "%da", "_t")
-t("%drd", "%drd", "_t")
+t("%drd", "%dº", "_t")
 t("an ", "un ", "_t")
 t("a ", "un ", "_t")
 t("she", "ella", "_t")

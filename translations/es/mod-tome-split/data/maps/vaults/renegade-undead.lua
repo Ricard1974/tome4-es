@@ -4,8 +4,8 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Grand Necromancer #rng#", "Grand Necromancer #rng#", "_t")
-t("Inquisitor #rng#", "Inquisitor #rng#", "_t")
+t("Grand Necromancer #rng#", "Gran Nigromante #rng#", "_t")
+t("Inquisitor #rng#", "Inquisidor #rng#", "_t")
 t("#rng# the Tortured Mass", "#rng# la Misa Torturada", "_t")
 t("Tortured Mass #rng#", "Misa torturada", "_t")
 

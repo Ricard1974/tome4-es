@@ -6,6 +6,6 @@
 
 t("Poltergeist %s", "Poltergeist %s", "tformat")
 t("Animated %s", "Animados %s", "tformat")
-t("Moving %s", "Moving %s", "tformat")
+t("Moving %s", "Moviendo %s", "_t")
 t("Poltergeist's %s", "Poltergeist %s", "tformat")
 

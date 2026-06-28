@@ -10,7 +10,7 @@ t("The Grand Corruptor died during the attack before he had time to teach you hi
 t("The defenders of Zigur were crushed, the Ziguranth scattered and weakened.", "Los defensores de Zigur fueron aplastados, el Ziguranth esparcido y debilitado.", "_t")
 t("In the aftermath you turned against the Grand Corruptor and dispatched him.", "Después se volvió contra el Gran Corruptor y lo despachó.", "_t")
 t("Select the party member to receive the hexes generic talent tree:", "Seleccione el miembro del partido para recibir el árbol de talento genérico hexes:", "_t")
-t("Grand Corruptor", "Grand Corruptor", "_t")
+t("Grand Corruptor", "Gran Corruptor", "_t")
 t("#LIGHT_GREEN#The Grand Corruptor gazes upon you. You feel knowledge flowing in your mind. You can now train some corruption powers.", "El Gran Corredor te mira. Tú siente conocimiento fluyendo en tu mente. Ahora puedes entrenar algunos poderes de corrupción.", "_t")
 t("Victory is mine!", "¡La victoria es mía!", "_t")
 t("While you were in the Far East, the Grand Corruptor was busy in Maj'Eyal.", "Mientras estabas en el Lejano Oriente, el Gran Corruptor estaba ocupado en Maj'Eyal.", "_t")

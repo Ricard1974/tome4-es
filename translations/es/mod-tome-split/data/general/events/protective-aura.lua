@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("%s (protective aura)", "%s (protective aura)", "tformat")
+t("%s (protective aura)", "%s (aura protectora)", "_t")
 

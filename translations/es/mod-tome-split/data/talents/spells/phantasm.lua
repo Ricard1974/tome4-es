@@ -6,7 +6,7 @@
 
 t("Illuminate", "Iluminar", "talent name")
 t("Phantasmal Shield", "Phantasmal Escudo", "talent name")
-t("#YELLOW#(%d ignored)#LAST#", "################################################################################################################################################################################################################################################################%d", "tformat")
+t("#YELLOW#(%d ignored)#LAST#", "#YELLOW#(%d ignorado)#LAST#", "_t")
 t("Invisibility", "Invisibilidad", "talent name")
 t("Mirror Image", "Imagen del espejo", "talent name")
 t("You cannot summon; you are suppressed!", "¡No puedes invocar; estás reprimido!", "logPlayer")

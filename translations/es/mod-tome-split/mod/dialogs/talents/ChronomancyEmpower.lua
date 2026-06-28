@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Empower", "Empower", "_t")
+t("Empower", "Potenciar", "_t")
 t("", "", "_t")
 t("Talent", "Talento", "_t")
 t("#{bold}#Choose a talent#{normal}#", "Escoge un talento", "_t")

@@ -6,7 +6,7 @@
 
 t("Soul Rot", "Podredumbre del alma", "talent name")
 t("Dark Portal", "Portal oscuro", "talent name")
-t("Vimsense", "Vimsense", "talent name")
+t("Vimsense", "Sensor de Vim", "_t")
 t("Leech", "Drenar", "talent name")
 t("Each time a creature affected by vimsense hurts you, you regain %0.2f vim and %0.2f health.", "Cada vez que una criatura afectada por vimsense te haces daño, recuperas %0.2f vim y %0.2f salud.", "tformat")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Paradox Plane", "Paradox Plane", "_t")
+t("Paradox Plane", "Plano de la Paradoja", "_t")
 

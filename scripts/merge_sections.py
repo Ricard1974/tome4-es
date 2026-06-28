@@ -116,7 +116,10 @@ def merge_sections():
             content = f.read()
 
         # Extraer solo las líneas t()
-        t_calls = re.findall(r't\(("[^"]*",\s*"[^"]*",\s*"[^"]*")\)', content)
+        t_calls = re.findall(
+            r't\((\"(?:[^"\\]|\\.)*\",\s*\"(?:[^"\\]|\\.)*\",\s*\"(?:[^"\\]|\\.)*\")\)',
+            content,
+        )
         if not t_calls:
             continue
 

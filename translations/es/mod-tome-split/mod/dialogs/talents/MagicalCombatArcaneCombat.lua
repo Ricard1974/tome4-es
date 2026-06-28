@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Arcane Combat", "Arcane Combat", "_t")
+t("Arcane Combat", "Combate Arcano", "_t")
 t("", "", "_t")
 t("Talent", "Talento", "_t")
 t("Random spells", "Deletreos aleatorios", "_t")

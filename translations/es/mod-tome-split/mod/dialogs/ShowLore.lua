@@ -4,7 +4,7 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Lore", "Lore", "_t")
+t("Lore", "Saber", "_t")
 t("Search: ", "Buscar:", "_t")
 t("", "", "_t")
 t("Category", "Categoría", "_t")

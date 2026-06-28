@@ -5,8 +5,8 @@
 -- Traductor: --
 
 t("Temporal Rift", "Robo temporal", "_t")
-t("Temporal Rift: Lumberjack village", "Temporal Rift: Lumberjack village", "_t")
-t("Temporal Rift: Daikara", "Temporal Rift: Daikara", "_t")
+t("Temporal Rift: Lumberjack village", "Brecha Temporal: Aldea Leñadora", "_t")
+t("Temporal Rift: Daikara", "Brecha Temporal: Daikara", "_t")
 t("Temporal Rift: Lake of Nur", "Temporal Rift: Lago de Nur", "_t")
 t("Space and time distort and lose meaning as you pass through the rift. This place is alien.", "El espacio y el tiempo distorsionan y pierden significado a medida que pasa por el borde. Este lugar es extraño.", "_t")
 t("This looks like Maj'Eyal's forest but it looks strangely distorted, beware...", "Esto parece el bosque de Maj'Eyal pero parece extrañamente distorsionado, ten cuidado...", "_t")

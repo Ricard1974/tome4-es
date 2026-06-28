@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Rhaloren Camp", "Rhaloren Camp", "_t")
+t("Rhaloren Camp", "Campamento Rhaloren", "_t")
 

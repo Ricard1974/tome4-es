@@ -17,5 +17,5 @@ t("Zemekkys points to the location of Briagh's lair on your map.", "Zemekkys apu
 t("#VIOLET#Zemekkys starts to draw runes on the floor using the athame and gem dust.", "#VIOLET#Zemekkys comienza a dibujar runas en el suelo usando el athame y el polvo de gema.", "logPlayer")
 t("#VIOLET#The whole area starts to shake!", "#VIOLET # ¡Todo el área comienza a sacudirse!", "logPlayer")
 t("#VIOLET#Zemekkys says: 'The portal is done!'", "#VIOLET#Zemekkys dice: 'El portal estás hecho!'", "logPlayer")
-t("High Chronomancer Zemekkys", "High Chronomancer Zemekkys", "_t")
+t("High Chronomancer Zemekkys", "Alto Cronomante Zemekkys", "_t")
 

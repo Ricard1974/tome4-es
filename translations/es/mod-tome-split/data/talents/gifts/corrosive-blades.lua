@@ -19,9 +19,9 @@ t("You gain %d%% Acid resistance.
 \n\t\tWhen you deal Nature damage to a creature, you gain a %0.1f%% bonus to Acid damage for %d turns.
 \n\t\tThis damage bonus will improve up to 4 times (no more than once each turn) with later Nature damage you do, up to a maximum of %0.1f%%.
 \n\t\tThe resistance and damage increase improve with your Mindpower.", "Ganas la resistencia a los ácidos.
-\n\t\tCuando tú trata daño de la naturaleza a una criatura, tú ganas un %0.1f% bonus a daño ácido por %d vueltas.
-\n\t\tEste bono de daño mejorará hasta 4 veces (no más de una vez cada vuelta) con posterior daño de la naturaleza que tú hace, hasta un máximo de %0.1f%.
-\n\t\tEl aumento de resistencia y daño mejora con tu poder mental.", "tformat")
+\\n\\t\\tCuando tú trata daño de la naturaleza a una criatura, tú ganas un %0.1f% bonus a daño ácido por %d vueltas.
+\\n\\t\\tEste bono de daño mejorará hasta 4 veces (no más de una vez cada vuelta) con posterior daño de la naturaleza que tú hace, hasta un máximo de %0.1f%.
+\\n\\t\\tEl aumento de resistencia y daño mejora con tu poder mental. %0.1f", "tformat")
 t("You focus on a target zone of radius 2 to make up to %d corrosive seeds appear.
 \n\t\tThe first seed will appear at the center of the target zone, while others will appear at random spots.
 \n\t\tEach seed lasts %d turns and will explode when a hostile creature walks over it, knocking the creature back and dealing %0.1f Acid damage within radius 1.

@@ -13,7 +13,7 @@ t("???", "??", "_t")
 t("Escort the %s to the recall portal on level %s.", "Escort the %s al portal de memoria a nivel %s.", "tformat")
 t("#LIGHT_RED#%s is dead, quest failed!", "#LIGHT RED # estás muerto, la búsqueda falló!%s", "logPlayer")
 t("something", "algo", "_t")
-t("Recall Portal", "Recall Portal", "_t")
+t("Recall Portal", "Portal de Retorno", "_t")
 t("%s of %s", "%s de %s", "tformat")
 t("Escort: %s (level %s)", "Escort: %s (level %s )", "tformat")
 

@@ -6,5 +6,5 @@
 
 t("#rng# the Archer", "#rng# el Arquero", "_t")
 t("Warbear #rng#", "Warbear", "_t")
-t("Elite Combat Trainer #rng#", "Elite Combat Trainer #rng#", "_t")
+t("Elite Combat Trainer #rng#", "Entrenador de Combate de Élite #rng#", "_t")
 

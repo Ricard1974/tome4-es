@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Slazish Fens", "Slazish Fens", "_t")
+t("Slazish Fens", "Pantanos Slazish", "_t")
 

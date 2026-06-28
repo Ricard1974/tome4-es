@@ -14,6 +14,6 @@ t("human myth of creation", "mito humano de la creación", "entity name")
 t("Myth of creation of the humans.", "Mito de creación de los humanos.", "_t")
 t("a logical analysis of creation, by philosopher Smythen", "un análisis lógico de la creación, por el filósofo Smythen", "entity name")
 t("Myth of creation of the halflings.", "Mito de creación de las medias.", "_t")
-t("Tale of the Moonsisters", "Tale of the Moonsisters", "entity name")
+t("Tale of the Moonsisters", "Cuento de las Hermanas Lunares", "_t")
 t("The creation of Eyal's moons.", "La creación de lunas de Eyal.", "_t")
 

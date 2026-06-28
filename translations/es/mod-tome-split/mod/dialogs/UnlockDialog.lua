@@ -4,6 +4,6 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("#VIOLET#Option unlocked: %s", "#VIOLET#Option unlocked: %s", "logPlayer")
+t("#VIOLET#Option unlocked: %s", "#VIOLET#Opción desbloqueada: %s", "_t")
 t("Option unlocked: %s", "Opción abierta: %s", "tformat")
 

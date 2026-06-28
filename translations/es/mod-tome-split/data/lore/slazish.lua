@@ -6,6 +6,6 @@
 
 t("slazish fens", "pantanos Slazish", "newLore category")
 t("conch (1)", "caracola (1)", "_t")
-t("conch (2)", "conch (2)", "_t")
-t("conch (3)", "conch (3)", "_t")
+t("conch (2)", "caracola (2)", "_t")
+t("conch (3)", "caracola (3)", "_t")
 

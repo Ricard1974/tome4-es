@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("[attack Krogar]", "[Attack Krogar]", "_t")
+t("[attack Krogar]", "[Ataque Krogar]", "_t")
 

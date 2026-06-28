@@ -66,7 +66,7 @@ t("Harness the power of magical staves.", "Atraer el poder de los palomas mágic
 t("golem", "gólem", "talent category")
 t("fighting", "luchando", "talent type")
 t("Golem melee capacity.", "Golem cuerpo a cuerpo capacity.", "_t")
-t("Golem arcane capacity.", "Golem arcane capacity.", "_t")
+t("Golem arcane capacity.", "Capacidad arcana del Gólem.", "_t")
 t("golem", "gólem", "talent type")
 t("Golem basic capacity.", "Capacidad básica de Golem.", "_t")
 t("drolem", "drolem", "talent type")
@@ -106,5 +106,5 @@ t("Summon stony spikes imbued with various powers.", "Apuntas picantes de limón
 t("deeprock", "profunda", "talent type")
 t("Harness the power of the world to turn into a Deeprock Form.", "Harness el poder del mundo para convertirse en una forma Deeprock.", "_t")
 t("#GREY#%s can not be healed this way!", "#GREY # no puedes ser curado de esta manera!%s", "logSeen")
-t("Necrotic Minion", "Necrotic Minion", "_t")
+t("Necrotic Minion", "Esbirro Necrótico", "_t")
 

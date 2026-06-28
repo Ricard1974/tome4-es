@@ -6,7 +6,7 @@
 
 t("Lobby Portal", "Lobby Portal", "entity name")
 t("This portal will bring you back to the Tutorial Lobby.", "Este portal te llevará de vuelta al vestíbulo Tutorial.", "_t")
-t("Tutorial Lobby Portal", "Tutorial Lobby Portal", "_t")
+t("Tutorial Lobby Portal", "Portal del Vestíbulo Tutorial", "_t")
 t("Enter the portal back to the lobby?", "¿Introducir el portal de vuelta al vestíbulo?", "_t")
 t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back in the lobby.", "#VIOLET# Entras en el portal giratorio y en el enlace de un ojo estás de vuelta en el vestíbulo.", "logPlayer")
 t("Stay", "Quédate", "_t")

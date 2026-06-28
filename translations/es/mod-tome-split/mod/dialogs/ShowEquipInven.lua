@@ -6,7 +6,7 @@
 
 t("Inventory", "Inventario", "_t")
 t("Main Set", "Juego principal", "_t")
-t("Off Set", "Off Set", "_t")
+t("Off Set", "Fuera de Lugar", "_t")
 t("Tooltip %s", "Herramienta %s", "log")
 t("locked", "cerrado", "_t")
 t("unlocked", "abierta", "_t")

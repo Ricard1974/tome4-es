@@ -5,10 +5,10 @@
 -- Traductor: --
 
 t("Points left: #00FF00#%d#WHITE#", "Puntos a la izquierda:%d", "_t")
-t("Stat", "Stat", "_t")
+t("Stat", "Estadística", "_t")
 t("Value", "Valor", "_t")
 t("Spellpower", "Poder de hechizo", "_t")
-t("Spellcrit", "Spellcrit", "_t")
+t("Spellcrit", "Crítico de Hechizo", "_t")
 t("Not enough stat points", "No hay suficientes puntos de atributo", "_t")
 t("You have no stat points left!", "¡No te quedan puestos!", "_t")
 t("Stat is at the maximum", "Stat estás al máximo", "_t")

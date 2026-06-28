@@ -7,7 +7,7 @@
 t("Empty Hand", "Mano vacía", "talent name")
 t("Unarmed Mastery", "Maestría sin armas", "talent name")
 t("Unified Body", "Cuerpo unificado", "talent name")
-t("Your mastery of unarmed combat unifies your body. Increases your Strength by %d based on Cunning and your Constitution by %d based on Dexterity.", "Tu dominio del combate desarmado unifica tu cuerpo. Aumenta tu fuerza por %d basado en Cunning y tu Constitución por %d basado en la Dexteridad.", "tformat")
+t("Your mastery of unarmed combat unifies your body. Increases your Strength by %d based on Cunning and your Constitution by %d based on Dexterity.", "Tu dominio del combate desarmado unifica tu cuerpo. Aumenta tu fuerza por %d basado en Astucia y tu Constitución por %d basado en la Dexteridad.", "tformat")
 t("Heightened Reflexes", "Reflexos alisados", "talent name")
 t("When you're targeted by a projectile, your global speed is increased by %d%% for 1 turn.  Taking any action other than movement will break the effect.", "Cuando estás dirigido por un proyectil, tu velocidad global se incrementa en %d %% por 1 vuelta. Tomar cualquier acción que no sea movimiento romperá el efecto.", "tformat")
 t("Reflex Defense", "Reflex Defensa", "talent name")

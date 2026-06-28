@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Abashed Expanse", "Abashed Expanse", "_t")
+t("Abashed Expanse", "Extensión Abochornada", "_t")
 

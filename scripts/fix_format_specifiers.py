@@ -1,101 +1,97 @@
 #!/usr/bin/env python3
 """
-Corrige format specifiers rotos en traducciones.
-
-Cuando el número o tipo de %d/%s/%f difiere entre original y traducción,
-revierte la traducción al original inglés para evitar crashes en el juego.
+Fix: Restaura format specifiers perdidos en traducciones de archivos split.
+Para cada t() donde la traducción perdió %d, %s o %0.2f, los añade al final.
+Esto evita errores de Lua (crash por mismatch de argumentos).
 """
 
 import re
-import sys
 from pathlib import Path
-from collections import defaultdict
 
 SPLIT_DIR = Path(__file__).parent.parent / "translations" / "es" / "mod-tome-split"
 
+T_PATTERN = re.compile(
+    r"t\(\s*"
+    r'("[^"\\]*(?:\\.?[^"\\]*)*")'  # orig
+    r"\s*,\s*"
+    r'("[^"\\]*(?:\\.?[^"\\]*)*")'  # trans
+    r"\s*,\s*"
+    r'("[^"\\]*(?:\\.?[^"\\]*)*")'  # ctx
+    r"\s*\)"
+)
 
-def get_specifiers(text):
-    """Extrae format specifiers en orden: [(spec, type), ...]"""
-    specs = []
-    for m in re.finditer(r"(?<!%)%[0-9+.\-]*([dsf])", text):
-        specs.append((m.group(0), m.group(1)))
-    return specs
+
+def fmt_specifiers(s):
+    """Extrae especificadores de formato (%d, %s, %0.2f, etc.) de un string."""
+    return re.findall(r"%[0-9.]*[dfs]", s)
+
+
+def process_file(fpath):
+    """Procesa un archivo .lua, arreglando format specifiers en t() calls."""
+    original_content = fpath.read_text("utf-8")
+    content = original_content
+    fixes = 0
+
+    for m in T_PATTERN.finditer(content):
+        orig_str = m.group(1)
+        trans_str = m.group(2)
+        ctx_str = m.group(3)
+
+        orig_raw = orig_str[1:-1]
+        trans_raw = trans_str[1:-1]
+        ctx_raw = ctx_str[1:-1]
+
+        orig_fmt = fmt_specifiers(orig_raw)
+        trans_fmt = fmt_specifiers(trans_raw)
+
+        if len(orig_fmt) == len(trans_fmt):
+            continue
+        if len(orig_fmt) < len(trans_fmt):
+            continue
+
+        # Missing specifiers - append at end of translation
+        missing = orig_fmt[len(trans_fmt) :]
+        fixed_trans = trans_raw + "".join(" " + f for f in missing)
+
+        # Escapar el string para Lua
+        escaped = fixed_trans.replace("\\", "\\\\").replace('"', '\\"')
+
+        old = content[m.start(2) : m.end(2)]
+        new = f'"{escaped}"'
+        content = content[: m.start(2)] + new + content[m.end(2) :]
+        fixes += 1
+
+    if fixes > 0:
+        fpath.write_text(content, "utf-8")
+    return fixes
 
 
 def main():
-    dry_run = "--dry-run" in sys.argv
-
     print("=" * 60)
-    print(f"  CORRECTOR DE FORMAT SPECIFIERS{' (SIMULACION)' if dry_run else ''}")
+    print("  FIX FORMAT SPECIFIERS (split files)")
     print("=" * 60)
 
-    total_fixed = 0
-    total_files = 0
-    file_fixes = defaultdict(list)
+    if not SPLIT_DIR.exists():
+        print(f"  ERROR: {SPLIT_DIR} no encontrado")
+        return
 
-    for fpath in sorted(SPLIT_DIR.rglob("*.lua")):
-        with open(fpath, encoding="utf-8") as f:
-            content = f.read()
-            original_content = content
+    files = sorted(SPLIT_DIR.rglob("*.lua"))
+    total_fixes = 0
+    fixed_files = 0
 
-        for m in re.finditer(r't\("([^"]+)",\s*"([^"]+)",\s*"([^"]+)"\)', content):
-            full = m.group(0)
-            original = m.group(1)
-            translation = m.group(2)
-            type_ = m.group(3)
+    for fpath in files:
+        fixes = process_file(fpath)
+        if fixes > 0:
+            rel = fpath.relative_to(SPLIT_DIR)
+            print(f"  ✏️  [{rel}] {fixes} specifiers restaurados")
+            total_fixes += fixes
+            fixed_files += 1
 
-            # Extraer format specifiers
-            orig_specs = get_specifiers(original)
-            trans_specs = get_specifiers(translation)
-
-            # Verificar que coincidan número y tipo
-            if len(orig_specs) != len(trans_specs):
-                # Diferente número: revertir a inglés
-                old_pattern = f't("{original}", "{translation}", "{type_}")'
-                new_pattern = f't("{original}", "{original}", "{type_}")'
-                if old_pattern in content:
-                    content = content.replace(old_pattern, new_pattern)
-                    file_fixes[fpath].append(
-                        (original[:40], translation[:40], "count_mismatch")
-                    )
-                continue
-
-            # Verificar tipos en el mismo orden
-            for i, ((o_spec, o_type), (t_spec, t_type)) in enumerate(
-                zip(orig_specs, trans_specs)
-            ):
-                if o_type != t_type:
-                    old_pattern = f't("{original}", "{translation}", "{type_}")'
-                    new_pattern = f't("{original}", "{original}", "{type_}")'
-                    if old_pattern in content:
-                        content = content.replace(old_pattern, new_pattern)
-                        file_fixes[fpath].append(
-                            (
-                                original[:40],
-                                translation[:40],
-                                f"type_mismatch:{o_type}->{t_type}",
-                            )
-                        )
-                    break
-
-        if content != original_content and not dry_run:
-            with open(fpath, "w", encoding="utf-8") as f:
-                f.write(content)
-
-    for fpath, fixes in sorted(file_fixes.items()):
-        rel = fpath.relative_to(SPLIT_DIR)
-        print(f"  {'[SIM]' if dry_run else '  ✓'} {rel}: {len(fixes)} revertidas")
-        total_fixed += len(fixes)
-        total_files += 1
-
+    print()
     print(
-        f"\n  📊 TOTAL: {total_files} archivos, {total_fixed} cadenas revertidas a inglés"
+        f"  📊 {fixed_files} archivos modificados, {total_fixes} specifiers restaurados"
     )
-
-    if dry_run:
-        print("\n  💡 Ejecuta sin --dry-run para aplicar")
-
-    return total_fixed
+    print(f"  ✅ Hecho")
 
 
 if __name__ == "__main__":

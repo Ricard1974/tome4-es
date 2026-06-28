@@ -19,7 +19,7 @@ t("Be lucky already (at least +5 luck)", "Ya tengas suerte (al menos +5 de suert
 t("Every day is your lucky day! You gain a permanent +40 luck bonus and 10%% to move out of the way of every attack.", "¡Todos los días son tu día de suerte! Ganas un bono permanente +40 de suerte y un 10%% para salir del camino de cada ataque.", "tformat")
 t("Unbreakable Will", "Unbreakable Voluntad", "talent name")
 t("#LIGHT_BLUE#%s's unbreakable will shrugs off the effect!", "#LIGHT_BLUE# %s El irrompible testamento arrancará el efecto!", "logSeen")
-t("Spell Feedback", "Spell Feedback", "talent name")
+t("Spell Feedback", "Retroalimentación de Hechizo", "_t")
 t("Antimagic", "Antimagia", "_t")
 t("#LIGHT_BLUE##Source# punishes #Target# for casting a spell!", "#LIGHT_BLUE##Source# castiga #Target# por lanzar un hechizo!", "logCombat")
 t("Mental Tyranny", "mental", "talent name")

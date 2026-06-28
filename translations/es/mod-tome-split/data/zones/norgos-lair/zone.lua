@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Norgos Lair", "Norgos Lair", "_t")
+t("Norgos Lair", "Guarida de Norgos", "_t")
 

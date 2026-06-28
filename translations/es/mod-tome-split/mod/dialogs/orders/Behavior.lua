@@ -6,9 +6,9 @@
 
 t("Set behavior: %s", "Comportamiento de conjunto: %s", "tformat")
 t("%s behavior set to %s.", "%s Comportamiento establecido para %s.", "logPlayer")
-t("Default", "Default", "_t")
+t("Default", "Por Defecto", "_t")
 t("Melee", "Cuerpo a cuerpo", "_t")
 t("Ranged", "Rango", "_t")
-t("Tank", "Tank", "_t")
-t("Standby", "Standby", "_t")
+t("Tank", "Tanque", "_t")
+t("Standby", "Espera", "_t")
 

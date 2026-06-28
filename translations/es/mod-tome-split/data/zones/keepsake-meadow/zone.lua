@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Tranquil Meadow", "Tranquil Meadow", "_t")
+t("Tranquil Meadow", "Prado Tranquilo", "_t")
 

@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Grushnak Pride", "Grushnak Pride", "_t")
+t("Grushnak Pride", "Orgullo Grushnak", "_t")
 

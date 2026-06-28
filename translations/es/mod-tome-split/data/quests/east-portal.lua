@@ -18,6 +18,6 @@ t("", "", "_t")
 t("#LIGHT_GREEN#* The portal to the Far East is now functional and can be used to go back.#WHITE#", "#LIGHT GREEN # El portal al Lejano Oriente es ahora funcional y se puede utilizar para regresar. #WHITE#", "_t")
 t("Tannen points to the location of Telmur on your map.", "Tannen apunta a la ubicación de Telmur en tu mapa.", "logPlayer")
 t("A portal appears in the center of the tower!", "¡Un portal aparece en el centro de la torre!", "_t")
-t("Meranas, Herald of Angolwen", "Meranas, Herald of Angolwen", "_t")
+t("Meranas, Herald of Angolwen", "Meranas, Heraldo de Angolwen", "_t")
 t("#VIOLET#You enter the swirling portal and in the blink of an eye you are back in Last Hope.", "#VIOLET# Entras en el portal giratorio y en el abrir y cerrar de ojos estás de vuelta en Last Hope.", "logPlayer")
 

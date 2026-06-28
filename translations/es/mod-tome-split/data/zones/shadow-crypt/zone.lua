@@ -4,5 +4,5 @@
 -- Ultima actualizacion: --
 -- Traductor: --
 
-t("Shadow Crypt", "Shadow Crypt", "_t")
+t("Shadow Crypt", "Cripta Sombría", "_t")
 

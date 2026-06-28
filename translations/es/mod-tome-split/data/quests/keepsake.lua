@@ -29,7 +29,7 @@ t("#VIOLET#You have a marker to the entrance of Kyless' cave!", "¡Tienes un mar
 t("#VIOLET#You have found the entrance to Kyless' cave!", "¡Has encontrado la entrada a la cueva de Kyless!", "logPlayer")
 t("#VIOLET#You have found the entrance to a vault!", "¡Has encontrado la entrada a una bóveda!", "logPlayer")
 t("#VIOLET#The shadows have noticed you!", "¡Las sombras te han notado!", "logPlayer")
-t("A Second Vault", "A Second Vault", "_t")
+t("A Second Vault", "Una Segunda Bóveda", "_t")
 t("You recognize this door as the entrance to a second vault. There are some scuffling noises and heavy breathing coming from the other side of the door.", "Reconoces esta puerta como la entrada a una segunda bóveda. Hay algunos ruidos hinchables y una respiración pesada que viene del otro lado de la puerta.", "_t")
 t("#VIOLET#You have found Kyless. You must destroy him.", "Has encontrado a Kyless. Debes destruirlo.", "logPlayer")
 t("Death of Kyless", "Muerte de Kyless", "_t")

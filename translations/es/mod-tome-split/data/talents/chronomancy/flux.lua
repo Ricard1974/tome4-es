@@ -11,8 +11,8 @@ t("#LIGHT_BLUE#(%d converted)#LAST#", "#LIGHT_BLUE#( %d convertido)#", "tformat"
 t("Attenuate", "Atenuar", "talent name")
 t("Twist Fate", "Twist Destino", "talent name")
 t("You must have a twisted anomaly to cast this spell.", "Debes tener una anomalía torcida para lanzar este hechizo.", "logPlayer")
-t("#STEEL_BLUE#Casts %s.", "#STEEL_BLUE#Casts %s.", "logPlayer")
-t("#STEEL_BLUE#Targeting %s", "#STEEL_BLUE#Targeting %s", "saySimple")
+t("#STEEL_BLUE#Casts %s.", "#STEEL_BLUE#Lanza %s.", "_t")
+t("#STEEL_BLUE#Targeting %s", "#STEEL_BLUE#Apuntando %s", "_t")
 t("#STEEL_BLUE#You take control of %s.", "Tomas el control de %s.", "logPlayer")
 
 t("Create an anomaly, reducing your Paradox by %d.  This spell will never produce a major anomaly.\n\t\tInduced Anomalies may not be held by Twist Fate, nor do they cause held anomalies to trigger.  However upon learning Twist Fate you may target Induced Anomalies.\n\t\tThe Paradox reduction will increase with your Spellpower.", "Cree una anomalía, reduciendo su Paradoja por %d. Este hechizo nunca producirá una anomalía importante.\nLas anomalías inducidas no pueden ser mantenidas por la Fata Twist, ni causan que las anomalías sostenidas desencadenan. Sin embargo al aprender Twist Fate tú puedes apuntar anomalías inducidas.\nLa reducción de Paradoja aumentará con tu poder de Spellpower.", "tformat")
