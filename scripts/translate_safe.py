@@ -12,7 +12,6 @@ Uso: python3 scripts/translate_safe.py
 
 import re
 from pathlib import Path
-import sys
 
 TRANS_DIR = Path(__file__).parent.parent / "translations" / "es"
 

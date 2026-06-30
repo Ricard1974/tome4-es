@@ -248,12 +248,12 @@ def main():
         dry_run = True
 
     mode = " [SIMULACIÓN]" if dry_run else ""
-    print(f"=" * 60)
+    print("=" * 60)
     print(f"  CORRECCIÓN DE CALIDAD{mode}")
-    print(f"=" * 60)
+    print("=" * 60)
 
     # Construir tags de color válidas
-    print(f"\n  📋 Analizando tags de color válidas...")
+    print("\n  📋 Analizando tags de color válidas...")
     valid_tags = build_valid_tags()
     print(f"     {len(valid_tags)} tags de color encontradas en originales")
 
@@ -357,7 +357,7 @@ def main():
 
     # Resumen
     print(f"\n  {'=' * 56}")
-    print(f"  RESUMEN DE CORRECCIONES")
+    print("  RESUMEN DE CORRECCIONES")
     print(f"  {'=' * 56}")
 
     categories = [
@@ -385,11 +385,11 @@ def main():
     print(f"  Archivos modificados: {len(file_changes)}")
 
     if dry_run and total_fixes > 0:
-        print(f"\n  💡 Ejecuta sin --dry-run para aplicar")
+        print("\n  💡 Ejecuta sin --dry-run para aplicar")
     elif not dry_run and total_fixes > 0:
-        print(f"\n  ✅ Correcciones aplicadas")
-        print(f"  💡 Ejecuta ahora: python3 scripts/merge_sections.py")
-        print(f"     Luego:         python3 scripts/build_addon.py --package")
+        print("\n  ✅ Correcciones aplicadas")
+        print("  💡 Ejecuta ahora: python3 scripts/merge_sections.py")
+        print("     Luego:         python3 scripts/build_addon.py --package")
 
 
 if __name__ == "__main__":

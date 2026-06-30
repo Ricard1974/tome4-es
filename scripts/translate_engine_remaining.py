@@ -200,7 +200,7 @@ def main():
     # Mostrar cuántas quedan
     with open(ENGINE_FILE) as f:
         content = f.read()
-    remaining = len(re.findall(r't\("[^"]*",\s*"([^"]*)",', content))
+    len(re.findall(r't\("[^"]*",\s*"([^"]*)",', content))
     untranslated = 0
     for line in content.split("\n"):
         m = re.match(r't\("([^"]*)",\s*"([^"]*)",', line)

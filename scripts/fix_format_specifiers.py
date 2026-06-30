@@ -39,7 +39,7 @@ def process_file(fpath):
 
         orig_raw = orig_str[1:-1]
         trans_raw = trans_str[1:-1]
-        ctx_raw = ctx_str[1:-1]
+        ctx_str[1:-1]
 
         orig_fmt = fmt_specifiers(orig_raw)
         trans_fmt = fmt_specifiers(trans_raw)
@@ -56,7 +56,7 @@ def process_file(fpath):
         # Escapar el string para Lua
         escaped = fixed_trans.replace("\\", "\\\\").replace('"', '\\"')
 
-        old = content[m.start(2) : m.end(2)]
+        content[m.start(2) : m.end(2)]
         new = f'"{escaped}"'
         content = content[: m.start(2)] + new + content[m.end(2) :]
         fixes += 1
@@ -91,7 +91,7 @@ def main():
     print(
         f"  📊 {fixed_files} archivos modificados, {total_fixes} specifiers restaurados"
     )
-    print(f"  ✅ Hecho")
+    print("  ✅ Hecho")
 
 
 if __name__ == "__main__":

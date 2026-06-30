@@ -4,7 +4,7 @@ Traducción completa al español (de España) de **Tales of Maj'Eyal 1.7.6**.
 
 ## Características
 
-- ✅ **~21.414 strings traducidos** (94,9%) — interfaz, talentos, objetos, diálogos, lore, menús
+- ✅ **~22.647 strings traducidos** (96%) — interfaz, talentos, objetos, diálogos, lore, menús
 - ✅ **Descripciones de talentos traducidas** — las traducciones más completas disponibles, ningún otro idioma las incluye
 - ✅ **Menú principal en español** — incluye `boot-spanish.teaa`
 - ✅ **Placeholders protegidos** — `%d`, `%s`, `#Source#`, `#LIGHT_GREEN#` no se dañan al traducir
@@ -48,8 +48,21 @@ provocaba que `_t()` no encontrara la clave al buscar un newline real (0x0A) y e
 
 **Solución**: Se añadió `unescape_lua()` en `scripts/build_addon.py` que convierte los
 escapes Lua (`\n` → newline real, `\t` → tab real) **antes** de que `lua_escape()` los
-vuelva a escapar correctamente. Ahora las ~1.960 descripciones de talentos se muestran
+vuelva a escapar correctamente. Ahora las ~1.293 descripciones de talentos se muestran
 en español sin errores.
+
+### Formato `[[...]]` perdido en el build
+
+El build script original solo extraía `t("clave", "valor", "tipo")` con comillas dobles,
+ignorando 54 entradas activas que usaban `t([[clave]], [[valor]], "tipo")` con corchetes
+largos. **Corregido**: ahora `extract_t_calls()` maneja ambos formatos, añadiendo esas
+54 entradas (más 22 de archivos comentados) al addon final.
+
+### Escaneo de faltantes en código fuente
+
+Se escaneó el código fuente del juego (`tome-1.7.6.team`, 1.782 archivos .lua) en busca
+de llamadas `_()` sin entrada `t()` correspondiente. Se encontraron y añadieron **15
+strings faltantes** (efectos de estado y mensajes de combate).
 
 Este problema afectaba a todas las traducciones existentes (chino, japonés, coreano,
 portugués) — ninguna incluye descripciones de talentos por la misma razón técnica.

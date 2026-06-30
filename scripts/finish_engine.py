@@ -180,11 +180,6 @@ DICT = {
     "itself": "sí mismo",
     "%s...": "%s...",
     "%s %s %s.": "%s %s %s.",
-    "Player": "Jugador",
-    "message": "mensaje",
-    "something": "algo",
-    "a ": "un ",
-    "an ": "un ",
 }
 
 

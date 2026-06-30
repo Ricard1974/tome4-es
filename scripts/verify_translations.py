@@ -24,7 +24,6 @@ from collections import defaultdict
 # Añadir agent al path
 sys.path.insert(0, str(Path(__file__).parent.parent / "agent"))
 
-from terms import FORCED_TERMS
 
 TRANS_DIR = Path(__file__).parent.parent / "translations" / "es"
 SPLIT_DIR = TRANS_DIR / "mod-tome-split"
@@ -122,7 +121,7 @@ def scan_all():
     untranslated_count = 0
     spanglish_count = 0
     usted_count = 0
-    stats_en = defaultdict(int)
+    defaultdict(int)
 
     for fpath in sorted(SPLIT_DIR.rglob("*.lua")):
         rel_path = fpath.relative_to(SPLIT_DIR)
@@ -181,7 +180,7 @@ def main():
 
     print(f"\n  Archivos: {len(list(SPLIT_DIR.rglob('*.lua')))}")
     print(f"  Cadenas t(): {report['total_calls']}")
-    print(f"\n  📊 RESUMEN:")
+    print("\n  📊 RESUMEN:")
     print(f"     Sin traducir:   {report['untranslated']}")
     print(f"     Spanglish:      {report['spanglish']}")
     print(f"     'Usted' formal: {report['usted']}")

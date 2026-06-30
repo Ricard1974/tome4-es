@@ -289,8 +289,6 @@ DICT = {
     "Something": "Algo",
     "Frozen!": "¡Congelado!",
     "Resist!": "¡Resiste!",
-    "confusion": "confusión",
-    "stun": "aturdimiento",
     "orc spirit": "espíritu orco",
     "An orc clad in massive armour, wielding a huge axe.": "Un orco con armadura masiva, empuñando un hacha enorme.",
     "Garkul Spirit": "Espíritu de Garkul",

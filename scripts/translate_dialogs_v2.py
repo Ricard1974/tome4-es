@@ -5,7 +5,6 @@ Cubre: CharacterSheet, GameOptions, LevelupDialog, UseTalents,
 Birther, DeathDialog, MapMenu, Donation y más.
 """
 
-import re
 from pathlib import Path
 
 DIALOGS = (
@@ -93,7 +92,6 @@ DICT = {
     "Current value: ": "Valor actual: ",
     "Base value: ": "Valor base: ",
     "Stat gives:": "El atributo da:",
-    "Inscriptions": "Inscripciones",
     # ====== USE TALENTS ======
     "Active": "Activo",
     "%s turns": "%s turnos",

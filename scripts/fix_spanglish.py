@@ -75,7 +75,7 @@ def process_file(fpath):
 
         orig = orig_str[1:-1]
         trans = trans_str[1:-1]
-        ctx = ctx_str[1:-1]
+        ctx_str[1:-1]
 
         if orig == trans and len(orig) > 2:
             continue

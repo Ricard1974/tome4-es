@@ -937,3 +937,9 @@ t("Devourer Stance", "Postura Devoradora", "_t")
 t("The target is storing up healing energy, currently %d", "El objetivo es almacenar energía curativa, actualmente %d", "tformat")
 t("The target is redirecting energy, adding %d gravity damage to their attacks.%s", "El objetivo estás redireccionando energía, agregando %d daño de gravedad a sus ataques. %s", "tformat")
 
+
+-- missing strings detected by source scan
+t("Any attacks doing more than %d%% of your life is reduced to %d%%.", "Cualquier ataque que haga mas del %d%% de tu vida se reduce a un %d%%.", "_t")
+t("Cold resistance reduced by %d%%, movement speed reduced by %d%%.", "Resistencia al frio reducida en un %d%%, velocidad de movimiento reducida en un %d%%.", "_t")
+t("The target is poisoned, taking %0.2f blight damage per turn and decreasing all heals received by %d%%.", "El objetivo esta envenenado, recibiendo %0.2f de dano de plaga por turno y reduciendo todas las curaciones recibidas en un %d%%.", "_t")
+t("The target's defenses have been breached, reducing armor hardiness, stun, pin, blindness, and confusion immunity by 50%%.", "Las defensas del objetivo han sido violadas, reduciendo la dureza de armadura y las inmunidades a aturdimiento, immovilizacion, ceguera y confusion en un 50%%.", "_t")

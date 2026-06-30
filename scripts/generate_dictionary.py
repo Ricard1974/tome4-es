@@ -184,7 +184,6 @@ def generate_dictionary():
         "golem": "gólem",
         "construct": "constructo",
         "elemental": "elemental",
-        "golem": "gólem",
         "eye": "ojo",
         "floating eye": "ojo flotante",
         "gelatinous cube": "cubo gelatinoso",

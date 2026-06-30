@@ -7,7 +7,6 @@ Uso: python3 scripts/split_sections.py
 """
 
 import re
-import os
 from pathlib import Path
 import sys
 
@@ -71,8 +70,8 @@ def split_mod_tome():
             f.write(
                 f"-- Estado: {'✅ Traducido' if any('traducido' in block or 'translated' in block for block in [section_content]) else '⏳ Pendiente'}\n"
             )
-            f.write(f"-- Ultima actualizacion: --\n")
-            f.write(f"-- Traductor: --\n")
+            f.write("-- Ultima actualizacion: --\n")
+            f.write("-- Traductor: --\n")
             f.write("\n")
             for t_call in t_calls:
                 f.write(f"t({t_call})\n")
@@ -149,7 +148,7 @@ def print_stats():
             cat = parts[0]
         by_category[cat] = by_category.get(cat, 0) + t_count
 
-    print(f"\n📊 ESTADÍSTICAS DEL SPLIT")
+    print("\n📊 ESTADÍSTICAS DEL SPLIT")
     print(f"   Archivos: {total_files}")
     print(f"   Cadenas:  {total_strings}")
     print()

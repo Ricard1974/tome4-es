@@ -6,7 +6,6 @@ Son cadenas repetitivas y fáciles de traducir.
 Uso: python3 scripts/translate_engine.py
 """
 
-import re
 from pathlib import Path
 
 TRANS_DIR = Path(__file__).parent.parent / "translations" / "es"

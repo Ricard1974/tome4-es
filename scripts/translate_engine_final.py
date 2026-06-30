@@ -117,7 +117,6 @@ DICT = {
     "#LIGHT_RED#Online profile disabled(switching to offline profile) due to %s.": "#LIGHT_RED#Perfil online desactivado(cambiando a offline) por %s.",
     "#YELLOW#Connection to online server established.": "#YELLOW#Conexión al servidor establecida.",
     "#YELLOW#Connection to online server lost, trying to reconnect.": "#YELLOW#Conexión al servidor perdida, reconectando.",
-    "#YELLOW#Error report sent, thank you.": "#YELLOW#Informe de error enviado, gracias.",
     # === Vistas de criaturas ===
     "#GREEN#%s#WHITE# appears to be neutral": "#GREEN#%s#WHITE# parece neutral",
     "#GREEN#%s#WHITE# appears to be friendly": "#GREEN#%s#WHITE# parece amistoso",
@@ -155,8 +154,6 @@ DICT = {
     "%s appears.": "%s aparece.",
     "%s disappears.": "%s desaparece.",
     "%s enters the level.": "%s entra al nivel.",
-    # === Estado de cadenas cortas ===
-    "???": "???",
     "Missing!": "¡Falta!",
     "Unknown!": "¡Desconocido!",
     "active": "activo",

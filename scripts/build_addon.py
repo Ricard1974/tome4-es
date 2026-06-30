@@ -37,14 +37,45 @@ FILE_MAP = {
 def extract_t_calls(content):
     """
     Extrae todas las llamadas t() del contenido.
-    Busca t("original", "traducción", "tipo") dentro y fuera de bloques.
+
+    Soporta dos formatos:
+      - t("key", "val", "type")    — comillas dobles (Lua escapa \\n, \\", etc.)
+      - t([[key]], [[val]], "type") — corchetes largos (saltos de línea literales)
+
+    El tercer argumento (type) se admite en ambos formatos: "type" o [[type]].
+
+    Devuelve lista de tuplas (original, translation, type_, from_long_bracket).
     """
     t_calls = []
-    # Buscar todas las llamadas t()
-    pattern = r't\(\s*"((?:[^"\\]|\\.)*)"\s*,\s*"((?:[^"\\]|\\.)*)"\s*,\s*"((?:[^"\\]|\\.)*)"\s*\)'
-    for match in re.finditer(pattern, content):
-        original, translation, type_ = match.group(1), match.group(2), match.group(3)
-        t_calls.append((original, translation, type_))
+
+    # Patrón 1: t("original", "traducción", "tipo") — comillas dobles
+    pattern_dq = (
+        r"t\(\s*"
+        r'"((?:[^"\\]|\\.)*)"\s*,\s*'  # key entre comillas dobles
+        r'"((?:[^"\\]|\\.)*)"\s*,\s*'  # val entre comillas dobles
+        r'(?:"([^"]*)"|\[\[([^\]]*)\]\])'  # type: "tipo" o [[tipo]]
+        r"\s*\)"
+    )
+    for match in re.finditer(pattern_dq, content):
+        original, translation = match.group(1), match.group(2)
+        type_ = match.group(3) or (match.group(4) or "")
+        t_calls.append((original, translation, type_, False))
+
+    # Patrón 2: t([[original]], [[traducción]], "tipo") — corchetes largos
+    # El contenido entre [[...]] NO tiene escapes Lua, pero puede contener ] individual.
+    # Buscamos el ]] de cierre más cercano (no puede haber ]] dentro del contenido válido).
+    pattern_lb = (
+        r"t\(\s*"
+        r"\[\[(.*?)\]\]\s*,\s*"  # key entre [[...]]
+        r"\[\[(.*?)\]\]\s*,\s*"  # val entre [[...]]
+        r'(?:"([^"]*)"|\[\[([^\]]*)\]\])'  # type: "tipo" o [[tipo]]
+        r"\s*\)"
+    )
+    for match in re.finditer(pattern_lb, content, re.DOTALL):
+        original, translation = match.group(1), match.group(2)
+        type_ = match.group(3) or (match.group(4) or "")
+        t_calls.append((original, translation, type_, True))
+
     return t_calls
 
 
@@ -109,13 +140,18 @@ def convert_file(src_path, dest_path, mode="a"):
         return 0
 
     with open(dest_path, mode, encoding="utf-8") as f:
-        for original, translation, type_ in t_calls:
-            # Primero des-escapar secuencias Lua (\n → newline real, \t → tab real, etc.)
-            # Luego re-escapar correctamente para el locale final
-            unescaped_original = unescape_lua(original)
-            unescaped_translation = unescape_lua(translation)
-            escaped_original = lua_escape(unescaped_original)
-            escaped_translation = lua_escape(unescaped_translation)
+        for original, translation, type_, from_long_bracket in t_calls:
+            if from_long_bracket:
+                # [[...]]: contenido literal, sin escapes Lua.
+                # Solo re-escapar para el formato de salida con comillas dobles.
+                escaped_original = lua_escape(original)
+                escaped_translation = lua_escape(translation)
+            else:
+                # t("..."): des-escapar secuencias Lua (\n → real), luego re-escapar.
+                unescaped_original = unescape_lua(original)
+                unescaped_translation = unescape_lua(translation)
+                escaped_original = lua_escape(unescaped_original)
+                escaped_translation = lua_escape(unescaped_translation)
             f.write(f't("{escaped_original}", "{escaped_translation}", "{type_}")\n')
 
     return len(t_calls)
@@ -233,7 +269,7 @@ def package_addon():
         # Incluir boot-spanish.teaa dentro del .teaa principal
         if boot_path.exists():
             zf.write(boot_path, "boot-spanish.teaa")
-            print(f"     + boot-spanish.teaa incluido dentro")
+            print("     + boot-spanish.teaa incluido dentro")
 
     print(f"  📦 Addon empaquetado: {output_path}")
     print(f"     Tamaño: {output_path.stat().st_size / 1024:.1f} KB")

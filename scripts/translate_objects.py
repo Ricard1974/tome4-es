@@ -47,7 +47,6 @@ DICT = {
     "digger": "excavadora",
     "tool": "herramienta",
     "lore": "texto histórico",
-    "gem": "gema",
     "light": "luz",
     "lites": "luces",
     "ammo": "munición",
@@ -67,12 +66,7 @@ DICT = {
     "feet": "pies",
     "head": "cabeza",
     "hands": "manos",
-    "belt": "cinturón",
     "jewelry": "joyería",
-    # === Combat talents ===
-    "axe": "hacha",
-    "sword": "espada",
-    "mace": "maza",
     # === Short names (material abbreviations) ===
     "iron": "hierro",
     "steel": "acero",
@@ -196,13 +190,6 @@ DICT = {
     "Magical wands.": "Varitas mágicas.",
     "Magical scrolls.": "Pergaminos mágicos.",
     "Gems to socket into items.": "Gemas para engarzar en objetos.",
-    # === Misc ===
-    "potion": "poción",
-    "weapon": "arma",
-    "armor": "armadura",
-    "feet": "pies",
-    "hands": "manos",
-    "head": "cabeza",
 }
 
 

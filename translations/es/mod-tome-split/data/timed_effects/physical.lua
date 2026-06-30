@@ -797,3 +797,12 @@ t("+Brutalized", "+Brutalizado", "_t")
 t("#Target# is not brutalized anymore.", "#Target# ya no es brutalizado.", "_t")
 t("-Brutalized", "-Brutalizado", "_t")
 
+
+-- missing strings detected by source scan
+t(" %d%% chance to fail talents.", " %d%% de probabilidad de fallar talentos.", "_t")
+t(" with a %d%% chance to counterattack", " con un %d%% de probabilidad de contraatacar", "_t")
+t("Has a %d%% chance to counter attack with a defensive throw when avoiding a melee attack, possibly throwing the target to the ground and stunning it. (%0.1f throws remaining)", "Tiene un %d%% de probabilidad de contraatacar con un lanzamiento defensivo al esquivar un ataque cuerpo a cuerpo, posiblemente derribando y aturdiendo al objetivo. (%0.1f lanzamientos restantes)", "_t")
+t("Increases attack speed by %d%%, grants infinite ammo, and causes all marking shots to have a 100%% increased chance to mark.", "Aumenta la velocidad de ataque en un %d%%, concede municion infinita, y hace que todos los disparos de marca tengan un 100%% mas de probabilidad de marcar.", "_t")
+t("Movement is %d%% faster.", "El movimiento es un %d%% mas rapido.", "_t")
+t("The target is stunned, reducing damage by 50%%, putting 3 random talents on cooldown and reducing movement speed by 50%%.  While stunned talents cooldown twice as slow.", "El objetivo esta aturdido, reduciendo el dano un 50%%, poniendo 3 talentos aleatorios en enfriamiento y reduciendo la velocidad de movimiento un 50%%.  Mientras esta aturdido, los talentos se enfrian el doble de lento.", "_t")
+t("Turn into pure lightning, moving %d%% faster. It also increases your lightning resistance by 100%% and your physical resistance by 30%%.", "Te conviertes en relampago puro, moviendote un %d%% mas rapido. Tambien aumenta tu resistencia al relampago en un 100%% y tu resistencia fisica en un 30%%.", "_t")

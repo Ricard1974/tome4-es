@@ -163,7 +163,6 @@ DICT = {
     "Mind Blast": "Explosión mental",
     "Mental": "Mental",
     "Psionic": "Psiónico",
-    "Telekinetic": "Telequinético",
     "Telekinesis": "Telequinesis",
     "Mind Control": "Control mental",
     "Psychic": "Psíquico",
@@ -179,7 +178,6 @@ DICT = {
     "Paranoia": "Paranoia",
     "Despair": "Desesperación",
     "Madness": "Locura",
-    "Rampage": "Rabia",
     "Predator": "Depredador",
     "Stalk": "Acechar",
     # === Prodigios ===

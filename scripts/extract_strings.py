@@ -71,7 +71,7 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=1)
 
     print(f"  Total cadenas únicas: {len(all_strings)}")
-    print(f"  Por archivo:")
+    print("  Por archivo:")
     for fname, count in sorted(file_strings.items(), key=lambda x: -x[1]):
         print(f"    {fname}: {count}")
     print(f"\n  Guardado en: {OUTPUT}")

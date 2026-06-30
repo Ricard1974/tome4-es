@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Traduce TODOS los nombres de talentos y objetos."""
 
-import re
 from pathlib import Path
 
 BASE = Path(__file__).parent.parent

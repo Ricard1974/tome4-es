@@ -9,7 +9,6 @@ Uso: python3 scripts/install_locale.py /ruta/al/juego
 import shutil
 import zipfile
 import sys
-import os
 from pathlib import Path
 
 GAME_DIR = (
@@ -140,8 +139,8 @@ def main():
         shutil.copy2(teae, teae.with_suffix(".teae.bak"))
         install_to_teae(teae, "es")
 
-    print(f"\n  ✅ Instalación completa")
-    print(f"  Para restaurar los archivos originales, elimina los .bak")
+    print("\n  ✅ Instalación completa")
+    print("  Para restaurar los archivos originales, elimina los .bak")
 
 
 if __name__ == "__main__":

@@ -1930,27 +1930,24 @@ t("A protective shield forms around you that lasts for up to %d turns and negate
 -- section "mod-tome/data/talents/celestial/other.lua"
 
 -- new text
-t("Glyph of Explosion", "Glifo of Explosion", "talent name")
+t("Glyph of Explosion", "Glifo de Explosión", "talent name")
 t("You somehow fail to set the corrosive seed.", "De alguna manera no puedes establecer la semilla corrosiva.", "logPlayer")
 t("glyph of explosion", "glifo de explosión", "_t")
 t("trap", "trampa", "_t")
-t("Explodes (radius 1) for %d light damage.", "Explodes (radius 1) por %d daño ligero.", "tformat")
+t("Explodes (radius 1) for %d light damage.", "Explosiona (radio 1) por %d de daño de luz.", "tformat")
 t("test glyph", "glifo de prueba", "tformat")
-t("Glyph of Paralysis", "Glifo of Paralysis", "talent name")
+t("Glyph of Paralysis", "Glifo de Parálisis", "talent name")
 t("glyph of paralysis", "glifo de parálisis", "_t")
-t("Dazes for %d turns.", "Dazes para giras %d.", "tformat")
-t("Glyph of Repulsion", "Glifo of Repulsion", "talent name")
+t("Dazes for %d turns.", "Aturde durante %d turnos.", "tformat")
+t("Glyph of Repulsion", "Glifo de Repulsión", "talent name")
 t("glyph of repulsion", "glifo de repulsión", "_t")
-t("Deals %d physical damage, knocking the target back.", "Tratos %d daño físico, devolviendo el objetivo.", "tformat")
-t("Glyph of Fatigue", "Glifo of Fatigue", "talent name")
+t("Deals %d physical damage, knocking the target back.", "Inflige %d de daño físico, repeliendo al objetivo.", "tformat")
+t("Glyph of Fatigue", "Glifo de Fatiga", "talent name")
 t("glyph of fatigue", "glifo de fatiga", "_t")
-t("Slows (%d%%) for 5 turns.", "Lentas (%d %%) por 5 vueltas.", "tformat")
-t("You bind light in a glyph on the floor. All enemies walking over the glyph will be dazed for %d turns.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.", "Ata la luz en un glifo en el suelo. Todos los enemigos que caminan sobre el glifo serán aturdidos por turnos de %d.\\nEl glifo eres una trampa oculta (detección de %d y potencia de desarma %d basado en su Magia) y dura para turnos %d.", "tformat")
-t("Explodes (radius 1) for %d light damage.]]\n--[[\t\t\t):tformat(engine.interface.ActorTalents.damDesc(self, engine.DamageType.LIGHT, self.dam))\n\t\t\tend,\n\t\t\tcanTrigger = function(self, x, y, who)\n\t\t\t\tif who:reactionToward(self.summoner) < 0 then return mod.class.Trap.canTrigger(self, x, y, who) end\n\t\t\t\treturn false\n\t\t\tend,\n\t\t\ttriggered = function(self, x, y, who)\n\t\t\t\tself:project({type=\"ball\", x=x,y=y, radius=1}, x, y, engine.DamageType.LIGHT, self.dam, {type=\"light\"})\n\t\t\t\tgame.level.map:particleEmitter(x, y, 1, \"sunburst\", {radius=1, x=x, y=y})\n\t\t\t\treturn true\n\t\t\tend,\n\t\t\ttemporary = t.getDuration(self, t),\n\t\t\tx = tx, y = ty,\n\t\t\tdisarm_power = math.floor(t.trapPower(self,t) * 0.8),\n\t\t\tdetect_power = math.floor(t.trapPower(self,t) * 0.8),\n\t\t\tinc_damage = table.clone(self.inc_damage or {}, true),\n\t\t\tresists_pen = table.clone(self.resists_pen or {}, true),\n\t\t\tcanAct = false,\n\t\t\tenergy = {value=0},\n\t\t\tact = function(self)\n\t\t\t\tself:useEnergy()\n\t\t\t\tself.temporary = self.temporary - 1\n\t\t\t\tif self.temporary <= 0 then\n\t\t\t\t\tif game.level.map(self.x, self.y, engine.Map.TRAP) == self then game.level.map:remove(self.x, self.y, engine.Map.TRAP) end\n\t\t\t\t\tgame.level:removeEntity(self)\n\t\t\t\tend\n\t\t\tend,\n\t\t\tsummoner = self,\n\t\t\tsummoner_gain_exp = true,\n\t\t}\n\t\tgame.level:addEntity(trap)\n\t\ttrap:identify(true)\n\t\ttrap:setKnown(self, true)\n\t\tgame.zone:addEntity(game.level, trap, \"trap\", spot.x, spot.y)\n\t\tgame:playSoundNear(self, \"talents/heal\")\n\t\treturn true end\n\tend,\n\tinfo = function(self, t)\n\t\tlocal damage = t.getDamage(self, t)\n\t\tlocal duration = t.getDuration(self, t)\n\t\treturn ([[You bind light in a glyph on the floor. All enemies walking over the glyph will trigger an explosion of light that does %0.2f damage to everyone within 1 tile.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.\n\t\tThe damage will increase with your Spellpower.]]\n--[[\t):\n\t\ttformat(damDesc(self, DamageType.LIGHT, damage), t.trapPower(self, t)*0.8, t.trapPower(self, t)*0.8, duration)\n\tend,\n}\n]=]\n\nnewTalent{\n\tname = \"Glyph of Fatigue\",\n\ttype = {\"celestial/other\", 4},\n\trequire = divi_req_high4,\n\trandom_ego = \"attack\",\n\tpoints = 5,\n\tcooldown = 20,\n\tpositive = -10,\n\tno_energy = true,\n\ttactical = { DISABLE = {slow = 1.5} },\n--\trequires_target = true,\n\trange = function(self, t) return math.floor(self:combatTalentScale(t, 1, 5, \"log\")) end,\n\tgetSlow = function(self, t) return self:combatTalentLimit(t, 1, 0.20, 0.35) end, -- Limit <100% slow\n\tgetDuration = function(self, t) return math.floor(self:combatTalentScale(t, 6, 10)) end, -- Duration of glyph\n\ttrapPower = function(self,t) return math.max(1,self:combatScale(self:getTalentLevel(t) * self:getMag(15, true), 0, 0, 75, 75)) end, -- Used to determine detection and disarm power, about 75 at level 50\n\ttarget = function(self, t) return {type=\"hit\", nowarning=true, range=self:getTalentRange(t), nolock=true, talent=t} end,\n\taction = function(self, t)\n\t\tlocal tg = self:getTalentTarget(t)\n\t\tlocal tx, ty = self:trapGetGrid(t, tg)\n\t\tif not (tx and ty) then return end\n\n\t\tlocal dam = t.getSlow(self, t)\n\t\tlocal trap = Trap.new{\n\t\t\tname = _t\"glyph of fatigue\",\n\t\t\ttype = \"elemental\", id_by_type=true, unided_name = _t\"trap\",\n\t\t\tdisplay = '^', color=colors.GOLD, image = \"trap/trap_glyph_fatigue_01_64.png\",\n\t\t\tfaction = self.faction,\n\t\t\tdam = dam,\n\t\t\tdesc = function(self)\n\t\t\t\treturn ([[Slows (%d%%) for 5 turns.", "Explodes (radius 1) por daños de luz %d.]]\\n--[ ):tformat(engine.interface.ActorTalents.damDesc(self, engine. DamageType.LIGHT, self.dam))\\nFin,\\ncanTrigger = función(self, x, y, who)\\nsi quién:reactionToward(self.summoner) 0 entonces devolver mod.class. Trap.canTrigger(self, x, y, who) end\\ndevolver falso\\nFin,\\nactivado = función(self, x, y, who)\\nauto:proyecto({type=\\\"ball\\\", x=x,y=y, radius=1}, x, y, motor. DamageType.LIGHT, self.dam, {type=\\\"light\\\"})\\njuego.level.map:particleEmitter(x, y, 1, \\\"sunburst\\\", {radius=1, x=x, y=y})\\nretorno verdadero\\nFin,\\ntemporal = t.getDuration(self, t),\\nx = tx, y = ty,\\ndisarm power = math.floor(t.trapPower(self,t) * 0.8),\\ndetect power = math.floor(t.trapPower(self,t) * 0.8),\\ninc damage = table.clone(self.inc damage or {}, true),\\nresists pen = table.clone(self.resists pen or {}, true),\\npuede actuar = falso,\\nenergía = {valor=0},\\nact = function(self)\\nauto:useEnergy()\\nself.temporary = self.temporary\\nsi es autotemporal\\nsi juego.level.map(self.x, self.y, engine.Map.TRAP) == self then game.level.map:remove(self.x, self.y, engine.Map.TRAP) end\\njuego.level:removeEntity(self)\\nfinal\\nFin,\\nConvocador = yo,\\nsummoner gain exp = true,\\n}\\njuego.level:addEntity(trap)\\ntrap:identify(true)\\ntrampa:setKnown(self, true)\\njuego.zona:addEntity(game.level, trap, \\\"trap\\\", spot.x, spot.y)\\njuego:playSoundNear(self, \\\"talents/heal\\\")\\nretorno verdadero final\\nFin,\\ninfo = función(self, t)\\ndaño local = t.getDamage(self, t)\\nduración local = t.getDuration(self, t)\\n([Ata la luz en un glifo en el suelo. Todos los enemigos caminando sobre el glifo desencadenarán una explosión de luz que daña a todos dentro de 1 baldosa.\\nEl glifo es una trampa oculta (detección de %d y potencia de desarma %d basado en su Magic) y dura para giros %d.\\nEl daño aumentará con su Spellpower.]]\\n- [[ ]\\ntformat(damDesc(self, DamageType.LIGHT, damage), t.trapPower(self, t)*0.8, t.trapPower(self, t)*0.8, duration)\\nFin,\\n}\\n]=\\n\\nNewTalent{\\nnombre = \\\"Glyph of Fatigue\\\",\\ntipo = {\\\"celestial/other\\\", 4},\\nRequiere = divi req high4,\\nrandom ego = \\\"ataque\\\",\\npuntos = 5,\\nrefrigeración = 20,\\npositivo = -10,\\nno energía = verdadero,\\ntáctico = { DISABLE = {bajo = 1,5},\\n-- requires target = true,\\nrango = función(self, t) retorno math.floor(self:combatTalentScale(t, 1, 5, \\\"log\\\") final,\\ngetSlow = función (self, t) volver a sí mismo:combatTalentLimit(t, 1, 0.20, 0.35) final, -- Limite 0100% lento\\ngetDuration = función(self, t) devolver math.floor(self:combatTalentScale(t, 6, 10))) end, -- Duración del glifo\\ntrapPower = función(self,t) devolver math.max(1,self:combatScale(self:getTalentLevel(t) * self:getMag(15, true), 0, 0, 75, 75))) end, -- Usado para determinar la detección y el desarmo poder, alrededor de 75 a nivel 50\\ntarget = function(self, t) return {type=\\\"hit\\\", nowarning=true, range=self:getTalentRange(t), nolock=true, talent=t} end,\\nacción = función(self, t)\\nlocal tg = self:getTalentTarget(t)\\ntx local, ty = self:trapGetGrid(t, tg)\\nsi no (tx y ty) entonces retorno final\\n\\nlocal dam = t.getSlow(self, t)\\ntrampa local = Trap.new{\\nnombre = t\\\"glyph de fatiga\\\",\\ntipo = \\\"elemental\\\", id by type=true, unided name = t\\\"trap\\\",\\ndisplay = '^', color=colores. GOLD, image = \\\"trap/trap glyph fatigue 01 64.png\\\",\\nfacciones = autofacción,\\ndam = dam,\\ndesc = función(self)\\n([Slows (%d %%) para 5 vueltas. %d", "tformat")
-t("You bind light in a glyph on the floor. All enemies walking over the glyph will be dazed for %d turns.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.", "Ata la luz en un glifo en el suelo. Todos los enemigos que caminan sobre el glifo serán aturdidos por turnos de %d.\\nEl glifo eres una trampa oculta (detección de %d y potencia de desarma %d basado en su Magia) y dura para turnos %d.", "tformat")
-t("You bind light in a glyph on the floor. All enemies walking over the glyph will be dazed for %d turns.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.", "Ata la luz en un glifo en el suelo. Todos los enemigos que caminan sobre el glifo serán aturdidos por turnos de %d.\\nEl glifo eres una trampa oculta (detección de %d y potencia de desarma %d basado en su Magia) y dura para turnos %d.", "tformat")
-t("You bind light in a glyph on the floor. All enemies walking over the glyph will be hit by a blast that does %0.2f physical damage and knocks them back.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.\n\t\tThe damage will increase with your Spellpower.", "Ata la luz en un glifo en el suelo. Todos los enemigos que caminan sobre el glifo serán golpeados por una explosión que haces daño físico %0.2f y los golpea de vuelta. El glifo eres una trampa oculta (%d detección y %d poder de desarma basado en su Magia) y dura para %d turnos.\n\t\t El daño aumentará con tu poder de pago.", "tformat")
-t("You bind light in a glyph on the floor. All enemies walking over the glyph will be slowed by %d%% for 5 turns.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.", "Ata la luz en un glifo en el suelo. Todos los enemigos caminando sobre el glifo serán ralentizados por %d %% por 5 vueltas.\\nEl glifo eres una trampa oculta (detección de %d y potencia de desarma %d basado en su Magia) y dura para turnos %d.", "tformat")
+t("Slows (%d%%) for 5 turns.", "Ralentiza (%d%%) durante 5 turnos.", "tformat")
+t("You bind light in a glyph on the floor. All enemies walking over the glyph will be dazed for %d turns.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.", "Ata la luz en un glifo en el suelo. Todos los enemigos que caminan sobre el glifo serán aturdidos durante %d turnos.\nEl glifo es una trampa oculta (detección %d y potencia de desarme %d basada en tu Magia) y dura %d turnos.", "tformat")
+t("You bind light in a glyph on the floor. All enemies walking over the glyph will be hit by a blast that does %0.2f physical damage and knocks them back.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.\n\t\tThe damage will increase with your Spellpower.", "Ata la luz en un glifo en el suelo. Todos los enemigos que caminan sobre el glifo serán golpeados por una explosión que inflige %0.2f de daño físico y los repele.\nEl glifo es una trampa oculta (detección %d y potencia de desarme %d basada en tu Magia) y dura %d turnos.\nEl daño aumentará con tu Poder de Hechizo.", "tformat")
+t("You bind light in a glyph on the floor. All enemies walking over the glyph will be slowed by %d%% for 5 turns.\n\t\tThe glyph is a hidden trap (%d detection and %d disarm power based on your Magic) and lasts for %d turns.", "Ata la luz en un glifo en el suelo. Todos los enemigos que caminan sobre el glifo serán ralentizados un %d%% durante 5 turnos.\nEl glifo es una trampa oculta (detección %d y potencia de desarme %d basada en tu Magia) y dura %d turnos.", "tformat")
 
 ------------------------------------------------
 -- section "mod-tome/data/talents/celestial/radiance.lua"
@@ -4330,121 +4327,15 @@ t("A wave of natural energies flow around you in a radius of %d.  All creatures 
 -- section "mod-tome/data/talents/gifts/higher-draconic.lua"
 
 -- new text
-t("Prismatic Slash", "Prismático Slash", "talent name")
-t("Venomous Breath", "Venomous Aliento", "talent name")
-t("@Source@ breathes venom!", "@Source@ respira veneno!", "_t")
-t("Wyrmic Guile", "Wyrmic Guile", "talent name")
-t("Chromatic Fury", "Chromatic Furia", "talent name")
-t("Unleash raw, chaotic elemental damage upon your enemy.
-\n\t\tYou strike your enemy for %d%% weapon damage in one of blinding sand, disarming acid, freezing and slowing ice, dazing lightning or stunning flames, with equal odds.
-\n\t\tAdditionally, you will cause a burst that deals %0.2f of that damage to creatures in radius %d, regardless of if you hit with the blow.
-\n\t\tLevels in Prismatic Slash increase your Physical and Mental attack speeds by %d%%.
-\n
-\n\t\tThis talent will also attack with your shield, if you have one equipped.", "Uneash crudo, caótico daño elemental sobre tu enemigo.
-\n\t\tYou strike your enemy for %d% weapon damage in one of blinding sand, disarming acid, freeze and slowing ice, dazing lightning or impressive flames, with equal odds.
-\n\t\tAdditionally, tú causará una explosión que trata %0.2f de ese daño a las criaturas en el radio %d, independientemente de si tú golpeó con el golpe.
-\n\t\t\tLevels in Prismatic Slash increase your Physical and Mental attack speeds by %d%.
-\n
-\n\t\tEste talento también atacará con tu escudo, si tienes uno equipado.", "tformat")
-t("You breathe crippling poison in a frontal cone of radius %d. Any target caught in the area will take %0.2f nature damage each turn for 6 turns.
-\n\t\tThe poison also gives enemies a %d%% chance to fail actions more complicated than basic attacks and movement, while it is in effect.
-\n\t\tThe damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
-\n\t\tEach point in Venomous Breath also increases your nature resistance by 3%%, and your nature damage by 4%%.]] ):tformat(self:getTalentRadius(t), damDesc(self, DamageType.NATURE, t.getDamage(self,t)/6), effect)
-\n\tend,
-\n}
-\n
-\nnewTalent{
-\n\tname = \"Wyrmic Guile\",
-\n\ttype = {\"wild-gift/higher-draconic\", 3},
-\n\trequire = gifts_req_high3,
-\n\tpoints = 5,
-\n\tmode = \"passive\",
-\n\tresistKnockback = function(self, t) return self:combatTalentLimit(t, 1, .2, .5) end, -- Limit < 100%
-\n\tresistBlindStun = function(self, t) return self:combatTalentLimit(t, 1, .1, .25) end, -- Limit < 100%
-\n\tpassives = function(self, t, p)
-\n\t\tself:talentTemporaryValue(p, \"knockback_immune\", t.resistKnockback(self, t))
-\n\t\tself:talentTemporaryValue(p, \"stun_immune\", t.resistBlindStun(self, t))
-\n\t\tself:talentTemporaryValue(p, \"blind_immune\", t.resistBlindStun(self, t))
-\n\tend,
-\n\tinfo = function(self, t)
-\n\t\treturn ([[You have mastered your draconic nature.
-\n\t\tYou gain %d%% knockback resistance, and your blindness and stun resistances are increased by %d%%.", "Respira veneno desgarrador en un cono frontal de %d radio. Cualquier objetivo atrapado en la zona tomará daño de la naturaleza %0.2f cada turno por 6 vueltas.\nEl veneno también da a los enemigos una %d %% oportunidad de fallar acciones más complicadas que los ataques y movimientos básicos, mientras que está en efecto.\nEl daño aumentará con su fuerza, y la probabilidad crítica se basa en su tasa de criminalidad mental.\nCada punto en el aliento venenoso también aumenta su resistencia a la naturaleza por 3%%, y su daño natural por 4%%.]]:tformat(self:getTalentRadius(t), damDesc(self, DamageType.NATURE, t.getDamage(self,t)/6), efecto)\nFin,\n}\n\nNewTalent{\nnombre = \"Guía Jurídica\",\ntipo = {\"gift-gift/higher-draconic\", 3},\nRequiere = regalos req high3,\npuntos = 5,\nmodo = \"pasivo\",\nresistKnockback = función (self, t) volverse a sí mismo:combatTalentLimit(t, 1, .2, .5) final, -- Limite\nresistBlindStun = función(self, t) volverse a sí mismo:combatTalentLimit(t, 1, .1, .25) final, -- Limite\npasivos = función(self, t, p)\nauto:talentoTemporaryValue(p, \"knockback immune\", t.resistKnockback(self, t)))\nauto:talentoTemporarioValue(p, \"stun immune\", t.resistBlindStun(self, t)))\nauto:talentoTemporarioValue(p, \"blind immune\", t.resistBlindStun(self, t)))\nFin,\ninfo = función(self, t)\nretorno ([Usted ha dominado su naturaleza dracónica.\nGanas resistencia a golpes %d %%, y tus cegueras y resistencias a aturdimientos se incrementan por %d %%.", "tformat")
-t("Unleash raw, chaotic elemental damage upon your enemy.
-\n\t\tYou strike your enemy for %d%% weapon damage in one of blinding sand, disarming acid, freezing and slowing ice, dazing lightning or stunning flames, with equal odds.
-\n\t\tAdditionally, you will cause a burst that deals %0.2f of that damage to creatures in radius %d, regardless of if you hit with the blow.
-\n\t\tLevels in Prismatic Slash increase your Physical and Mental attack speeds by %d%%.
-\n
-\n\t\tThis talent will also attack with your shield, if you have one equipped.", "Uneash crudo, caótico daño elemental sobre tu enemigo.
-\n\t\tYou strike your enemy for %d% weapon damage in one of blinding sand, disarming acid, freeze and slowing ice, dazing lightning or impressive flames, with equal odds.
-\n\t\tAdditionally, tú causará una explosión que trata %0.2f de ese daño a las criaturas en el radio %d, independientemente de si tú golpeó con el golpe.
-\n\t\t\tLevels in Prismatic Slash increase your Physical and Mental attack speeds by %d%.
-\n
-\n\t\tEste talento también atacará con tu escudo, si tienes uno equipado.", "tformat")
-t("You breathe crippling poison in a frontal cone of radius %d. Any target caught in the area will take %0.2f nature damage each turn for 6 turns.
-\n\t\tThe poison also gives enemies a %d%% chance to fail actions more complicated than basic attacks and movement, while it is in effect.
-\n\t\tThe damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
-\n\t\tEach point in Venomous Breath also increases your nature resistance by 3%%, and your nature damage by 4%%.]] ):tformat(self:getTalentRadius(t), damDesc(self, DamageType.NATURE, t.getDamage(self,t)/6), effect)
-\n\tend,
-\n}
-\n
-\nnewTalent{
-\n\tname = \"Wyrmic Guile\",
-\n\ttype = {\"wild-gift/higher-draconic\", 3},
-\n\trequire = gifts_req_high3,
-\n\tpoints = 5,
-\n\tmode = \"passive\",
-\n\tresistKnockback = function(self, t) return self:combatTalentLimit(t, 1, .2, .5) end, -- Limit < 100%
-\n\tresistBlindStun = function(self, t) return self:combatTalentLimit(t, 1, .1, .25) end, -- Limit < 100%
-\n\tpassives = function(self, t, p)
-\n\t\tself:talentTemporaryValue(p, \"knockback_immune\", t.resistKnockback(self, t))
-\n\t\tself:talentTemporaryValue(p, \"stun_immune\", t.resistBlindStun(self, t))
-\n\t\tself:talentTemporaryValue(p, \"blind_immune\", t.resistBlindStun(self, t))
-\n\tend,
-\n\tinfo = function(self, t)
-\n\t\treturn ([[You have mastered your draconic nature.
-\n\t\tYou gain %d%% knockback resistance, and your blindness and stun resistances are increased by %d%%.", "Respira veneno desgarrador en un cono frontal de %d radio. Cualquier objetivo atrapado en la zona tomará daño de la naturaleza %0.2f cada turno por 6 vueltas.\nEl veneno también da a los enemigos una %d %% oportunidad de fallar acciones más complicadas que los ataques y movimientos básicos, mientras que está en efecto.\nEl daño aumentará con su fuerza, y la probabilidad crítica se basa en su tasa de criminalidad mental.\nCada punto en el aliento venenoso también aumenta su resistencia a la naturaleza por 3%%, y su daño natural por 4%%.]]:tformat(self:getTalentRadius(t), damDesc(self, DamageType.NATURE, t.getDamage(self,t)/6), efecto)\nFin,\n}\n\nNewTalent{\nnombre = \"Guía Jurídica\",\ntipo = {\"gift-gift/higher-draconic\", 3},\nRequiere = regalos req high3,\npuntos = 5,\nmodo = \"pasivo\",\nresistKnockback = función (self, t) volverse a sí mismo:combatTalentLimit(t, 1, .2, .5) final, -- Limite\nresistBlindStun = función(self, t) volverse a sí mismo:combatTalentLimit(t, 1, .1, .25) final, -- Limite\npasivos = función(self, t, p)\nauto:talentoTemporaryValue(p, \"knockback immune\", t.resistKnockback(self, t)))\nauto:talentoTemporarioValue(p, \"stun immune\", t.resistBlindStun(self, t)))\nauto:talentoTemporarioValue(p, \"blind immune\", t.resistBlindStun(self, t)))\nFin,\ninfo = función(self, t)\nretorno ([Usted ha dominado su naturaleza dracónica.\nGanas resistencia a golpes %d %%, y tus cegueras y resistencias a aturdimientos se incrementan por %d %%.", "tformat")
-t("You have gained the full power of the various drakes throughout the world, and have become both resistant and attuned to physical, fire, cold, lightning, acid, nature, blight, and darkness damage.
-\n\t\tYour resistance to these elements is increased by %0.1f%% and all damage you deal with them is increased by %0.1f%% with %0.1f%% resistance penetration.
-\n
-\n\t\tLearning this talent will add a Willpower bonus to your breath talent damage with the same scaling as Strength, effectively doubling it when the stats are equal.", "Tú ha ganado el pleno poder de los diversos drakes en todo el mundo, y se han vuelto resistentes y atestados a los daños físicos, de fuego, fríos, relámpagos, ácido, naturaleza, luz y oscuridad.\nSu resistencia a estos elementos se incrementa por %0.1f %% y todo el daño que tú enfrenta con ellos se aumenta por %0.1f %% con la penetración de resistencia %0.1f %%.\n\nAprender este talento añadirá una bonificación de Willpower a tu daño de talento respiratorio con el mismo escalado que Fuerza, duplicando eficazmente cuando las estadísticas son iguales.", "tformat")
-t("Unleash raw, chaotic elemental damage upon your enemy.
-\n\t\tYou strike your enemy for %d%% weapon damage in one of blinding sand, disarming acid, freezing and slowing ice, dazing lightning or stunning flames, with equal odds.
-\n\t\tAdditionally, you will cause a burst that deals %0.2f of that damage to creatures in radius %d, regardless of if you hit with the blow.
-\n\t\tLevels in Prismatic Slash increase your Physical and Mental attack speeds by %d%%.
-\n
-\n\t\tThis talent will also attack with your shield, if you have one equipped.", "Uneash crudo, caótico daño elemental sobre tu enemigo.
-\n\t\tYou strike your enemy for %d% weapon damage in one of blinding sand, disarming acid, freeze and slowing ice, dazing lightning or impressive flames, with equal odds.
-\n\t\tAdditionally, tú causará una explosión que trata %0.2f de ese daño a las criaturas en el radio %d, independientemente de si tú golpeó con el golpe.
-\n\t\t\tLevels in Prismatic Slash increase your Physical and Mental attack speeds by %d%.
-\n
-\n\t\tEste talento también atacará con tu escudo, si tienes uno equipado.", "tformat")
-t("You breathe crippling poison in a frontal cone of radius %d. Any target caught in the area will take %0.2f nature damage each turn for 6 turns.
-\n\t\tThe poison also gives enemies a %d%% chance to fail actions more complicated than basic attacks and movement, while it is in effect.
-\n\t\tThe damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
-\n\t\tEach point in Venomous Breath also increases your nature resistance by 3%%, and your nature damage by 4%%.]] ):tformat(self:getTalentRadius(t), damDesc(self, DamageType.NATURE, t.getDamage(self,t)/6), effect)
-\n\tend,
-\n}
-\n
-\nnewTalent{
-\n\tname = \"Wyrmic Guile\",
-\n\ttype = {\"wild-gift/higher-draconic\", 3},
-\n\trequire = gifts_req_high3,
-\n\tpoints = 5,
-\n\tmode = \"passive\",
-\n\tresistKnockback = function(self, t) return self:combatTalentLimit(t, 1, .2, .5) end, -- Limit < 100%
-\n\tresistBlindStun = function(self, t) return self:combatTalentLimit(t, 1, .1, .25) end, -- Limit < 100%
-\n\tpassives = function(self, t, p)
-\n\t\tself:talentTemporaryValue(p, \"knockback_immune\", t.resistKnockback(self, t))
-\n\t\tself:talentTemporaryValue(p, \"stun_immune\", t.resistBlindStun(self, t))
-\n\t\tself:talentTemporaryValue(p, \"blind_immune\", t.resistBlindStun(self, t))
-\n\tend,
-\n\tinfo = function(self, t)
-\n\t\treturn ([[You have mastered your draconic nature.
-\n\t\tYou gain %d%% knockback resistance, and your blindness and stun resistances are increased by %d%%.", "Respira veneno desgarrador en un cono frontal de %d radio. Cualquier objetivo atrapado en la zona tomará daño de la naturaleza %0.2f cada turno por 6 vueltas.\nEl veneno también da a los enemigos una %d %% oportunidad de fallar acciones más complicadas que los ataques y movimientos básicos, mientras que está en efecto.\nEl daño aumentará con su fuerza, y la probabilidad crítica se basa en su tasa de criminalidad mental.\nCada punto en el aliento venenoso también aumenta su resistencia a la naturaleza por 3%%, y su daño natural por 4%%.]]:tformat(self:getTalentRadius(t), damDesc(self, DamageType.NATURE, t.getDamage(self,t)/6), efecto)\nFin,\n}\n\nNewTalent{\nnombre = \"Guía Jurídica\",\ntipo = {\"gift-gift/higher-draconic\", 3},\nRequiere = regalos req high3,\npuntos = 5,\nmodo = \"pasivo\",\nresistKnockback = función (self, t) volverse a sí mismo:combatTalentLimit(t, 1, .2, .5) final, -- Limite\nresistBlindStun = función(self, t) volverse a sí mismo:combatTalentLimit(t, 1, .1, .25) final, -- Limite\npasivos = función(self, t, p)\nauto:talentoTemporaryValue(p, \"knockback immune\", t.resistKnockback(self, t)))\nauto:talentoTemporarioValue(p, \"stun immune\", t.resistBlindStun(self, t)))\nauto:talentoTemporarioValue(p, \"blind immune\", t.resistBlindStun(self, t)))\nFin,\ninfo = función(self, t)\nretorno ([Usted ha dominado su naturaleza dracónica.\nGanas resistencia a golpes %d %%, y tus cegueras y resistencias a aturdimientos se incrementan por %d %%.", "tformat")
-t("You have gained the full power of the various drakes throughout the world, and have become both resistant and attuned to physical, fire, cold, lightning, acid, nature, blight, and darkness damage.
-\n\t\tYour resistance to these elements is increased by %0.1f%% and all damage you deal with them is increased by %0.1f%% with %0.1f%% resistance penetration.
-\n
-\n\t\tLearning this talent will add a Willpower bonus to your breath talent damage with the same scaling as Strength, effectively doubling it when the stats are equal.", "Tú ha ganado el pleno poder de los diversos drakes en todo el mundo, y se han vuelto resistentes y atestados a los daños físicos, de fuego, fríos, relámpagos, ácido, naturaleza, luz y oscuridad.\nSu resistencia a estos elementos se incrementa por %0.1f %% y todo el daño que tú enfrenta con ellos se aumenta por %0.1f %% con la penetración de resistencia %0.1f %%.\n\nAprender este talento añadirá una bonificación de Willpower a tu daño de talento respiratorio con el mismo escalado que Fuerza, duplicando eficazmente cuando las estadísticas son iguales.", "tformat")
+t("Prismatic Slash", "Tajo Prismático", "talent name")
+t("Venomous Breath", "Aliento Venenoso", "talent name")
+t("@Source@ breathes venom!", "¡@Source@ respira veneno!", "_t")
+t("Wyrmic Guile", "Astucia Dracónica", "talent name")
+t("Chromatic Fury", "Furia Cromática", "talent name")
+t("Unleash raw, chaotic elemental damage upon your enemy.\n\t\tYou strike your enemy for %d%% weapon damage in one of blinding sand, disarming acid, freezing and slowing ice, dazing lightning or stunning flames, with equal odds.\n\t\tAdditionally, you will cause a burst that deals %0.2f of that damage to creatures in radius %d, regardless of if you hit with the blow.\n\t\tLevels in Prismatic Slash increase your Physical and Mental attack speeds by %d%%.\n\n\t\tThis talent will also attack with your shield, if you have one equipped.", "Libera daño elemental crudo y caótico sobre tu enemigo.\nGolpeas a tu enemigo con %d%% de daño de arma en uno de: arena cegadora, ácido desarmante, hielo que congela y ralentiza, relámpago aturdidor o llamas impactantes, con igual probabilidad.\nAdicionalmente, causarás una explosión que inflige %0.2f de ese daño a las criaturas en un radio %d, independientemente de si golpeas con el ataque.\nLos niveles en Tajo Prismático aumentan tu velocidad de ataque Físico y Mental en un %d%%.\n\nEste talento también atacará con tu escudo, si tienes uno equipado.", "tformat")
+t("You breathe crippling poison in a frontal cone of radius %d. Any target caught in the area will take %0.2f nature damage each turn for 6 turns.\n\t\tThe poison also gives enemies a %d%% chance to fail actions more complicated than basic attacks and movement, while it is in effect.\n\t\tThe damage will increase with your Strength, and the critical chance is based on your Mental crit rate.\n\t\tEach point in Venomous Breath also increases your nature resistance by 3%%, and your nature damage by 4%%.", "Respiras veneno paralizante en un cono frontal de radio %d. Cualquier objetivo atrapado en el área recibirá %0.2f de daño de naturaleza cada turno durante 6 turnos.\nEl veneno también da a los enemigos un %d%% de probabilidad de fallar acciones más complicadas que ataques básicos y movimiento, mientras esté en efecto.\nEl daño aumentará con tu Fuerza, y la probabilidad crítica se basa en tu tasa de crítico mental.\nCada punto en Aliento Venenoso también aumenta tu resistencia a la naturaleza en un 3%% y tu daño de naturaleza en un 4%%.", "tformat")
+t("You have mastered your draconic nature.\n\t\tYou gain %d%% knockback resistance, and your blindness and stun resistances are increased by %d%%.", "Has dominado tu naturaleza dracónica.\nGanas un %d%% de resistencia al retroceso, y tus resistencias a ceguera y aturdimiento aumentan un %d%%.", "tformat")
+t("You have gained the full power of the various drakes throughout the world, and have become both resistant and attuned to physical, fire, cold, lightning, acid, nature, blight, and darkness damage.\n\t\tYour resistance to these elements is increased by %0.1f%% and all damage you deal with them is increased by %0.1f%% with %0.1f%% resistance penetration.\n\n\t\tLearning this talent will add a Willpower bonus to your breath talent damage with the same scaling as Strength, effectively doubling it when the stats are equal.", "Has obtenido el poder completo de los diversos dragones del mundo, y te has vuelto resistente y sintonizado con el daño físico, de fuego, frío, relámpago, ácido, naturaleza, plaga y oscuridad.\nTu resistencia a estos elementos aumenta un %0.1f%% y todo el daño que infliges con ellos aumenta un %0.1f%% con un %0.1f%% de penetración de resistencia.\n\nAprender este talento añadirá una bonificación de Voluntad al daño de tu talento de aliento con la misma escala que Fuerza, duplicándolo efectivamente cuando las estadísticas sean iguales.", "tformat")
 
 ------------------------------------------------
 -- section "mod-tome/data/talents/gifts/malleable-body.lua"
@@ -6580,7 +6471,6 @@ t("Poisoned Spikes", "Poisoned Puas", "talent name")
 t("Eldritch Spikes", "Arcano Puas", "talent name")
 t("Impaling Spikes", "Impaling Puas", "talent name")
 t("Stony spikes erupt from the ground in a radius %d cone.\n\t\tCreatures caught in the area will be %scut for %0.1f Physical damage dealt over 6 turns.\n\t\tThe damage increases with your Spellpower, and the chance to apply the detrimental effect(s) improves with Spellpower or Physical Power, whichever is greater.", "Los picos falsos eruptos del suelo en un radio %d cone.\n\t\tLas criaturas atrapadas en el área serán corte %s para %0.1f El daño físico resolvió 6 vueltas.\n\t\tEl daño aumentas con tu poder de pago, y la oportunidad de aplicar el efecto(s) perjudicial mejora con la potencia de la carga o el poder físico, lo que sea mayor.", "tformat")
-t("Stony spikes erupt from the ground in a radius %d cone.\n\t\tCreatures caught in the area will be %scut for %0.1f Physical damage dealt over 6 turns.\n\t\tThe damage increases with your Spellpower, and the chance to apply the detrimental effect(s) improves with Spellpower or Physical Power, whichever is greater.", "Los picos falsos eruptos del suelo en un radio %d cone.\n\t\tLas criaturas atrapadas en el área serán corte %s para %0.1f El daño físico resolvió 6 vueltas.\n\t\tEl daño aumentas con tu poder de pago, y la oportunidad de aplicar el efecto(s) perjudicial mejora con la potencia de la carga o el poder físico, lo que sea mayor.", "tformat")
 t("Coats your stone spikes with insidious poison, dealing %0.1f total nature damage over 6 turns while reducing all healing by %d%%.\n\t\tThe damage increases with Spellpower and the chance to poison and healing reduction increases with either Spellpower or Physical Power, whichever is greater.", "Cocata tus picos de piedra con veneno insidioso, traficando %0.1f daño total de la naturaleza a lo largo de 6 vueltas al tiempo que reduces toda curación por %d %%.\nEl daño aumentas con el poder de lanzas y la oportunidad de envenenar y reducir la curación aumentas con el poder de la lanzas o el poder físico, lo que sea mayor.", "tformat")
 t("Imbues your stone spikes with arcane forces, dealing %0.1f Arcane damage and silencing each target hit for %d turns.\n\t\tThe damage increases with Spellpower and the chance to silence increases with either Spellpower or Physical Power, whichever is greater.", "Imbues your stone spikes with arcane forces, dealing %0.1f Arregla el daño y silenciar cada objetivo alcanzado por turnos de %d.\nEl daño aumentas con el poder de pago y la oportunidad de silenciar aumentas con el poder de voz o el poder físico, lo que sea mayor.", "tformat")
 t("Your stone spikes grow in length, instantly dealing %0.1f Physical damage and disarming targets hit for %d turns.\n\t\tThe damage increases with Spellpower and the chance to disarm increases with either Spellpower or Physical Power, whichever is greater.", "Tus picos de piedra crecen en longitud, al instante tratando %0.1f Daño físico y desarmar objetivos alcanzados por turnos %d.\nEl daño aumentas con el poder de la entrega y la posibilidad de desarmar aumentas con el poder de la palabra o el poder físico, lo que sea mayor.", "tformat")
@@ -6850,10 +6740,6 @@ t("Assemble", "Ensamblar", "talent name")
 t("A towering creature, made from the bones of dozens of dead bodies. It is covered by an unholy aura.", "Una criatura imponente, hecha de los huesos de docenas de cadáveres. Está cubierto por un aura impía.", "_t")
 t("A towering creature, made from the bones of hundreds of dead bodies. It is covered by an unholy aura.", "Una criatura imponente, hecha de los huesos de cientos de cadáveres. Está cubierto por un aura impía.", "_t")
 t("Lord of Skulls", "Lord de Skulls", "talent name")
-t("Call upon the battlefields of old, collecting bones, fusing them with souls, and forging them into skeletal minions.\n\t\tUp to %d skeleton warriors of level %d are summoned, and up to %d skeletons can be controlled at once.\n\t\tAt level 3 the summons become armoured skeletons warriors.\n\t\tAt level 5, for every 3 skeleton warriors, a skeleton mage or archer will also be created without costing any souls. If this makes you go over your skeleton limit, a normal skeleton will be removed and its soul refunded.\n\n\t\t#GREY##{italic}#Skeleton minions come in fewer numbers than ghoul minions but are generally more durable.#{normal}#", "Llamad a los campos de batalla de los viejos, coleccionando huesos, fusionándolos con almas, y forjandolos en picazones esqueléticos.\nHasta %d skeleton guerreros de nivel %d son convocados, y hasta %d esqueletos pueden ser controlados inmediatamente.\nA nivel 3 la citación se convierte en guerreros esqueletos blindados.\nA nivel 5, para cada 3 guerreros esqueletos, también se creará un mago esqueleto o arquero sin costar ninguna alma. Si esto te haces pasar por encima de tu límite de esqueleto, se eliminará un esqueleto normal y se devolverá tu alma.\n\n#GREY###{italic} #Los secuaces de esqueleto vienen en menos números que los secuaces de los glóbulos pero son generalmente más duraderos. ##{normal}#", "tformat")
-t("Any time one of your skeleton or bone giant dies, it shatters in radius %d, making any foe bleed for %0.2f physical damage over 5 turns.\n\t\tIf any other skeleton or bone giant minion is in the radius it will pickup some of the bones to enhance itself, increasing maximum and current life by %d, armour by %d and gain %0.2f physical melee retaliation for 20 turns.\n\t\tThis talent never works when you kill your own minions.", "Cada vez que uno de tus esqueletos o gigantes de hueso muere, se rompe en %d radius, haciendo que cualquier enemigo sangra por daño físico %0.2f en 5 vueltas.\nSi cualquier otro minión esqueleto o gigante óseo estás en el radio recogerá algunos de los huesos para mejorarse, aumentando la vida máxima y actual por %d, armadura por %d y ganar %0.2f retaliation física cuerpo a cuerpo por 20 vueltas.\nEste talento nunca funciona cuando matas a tus propios secuaces.", "tformat")
-t("Call upon the battlefields of old, collecting bones, fusing them with souls, and forging them into skeletal minions.\n\t\tUp to %d skeleton warriors of level %d are summoned, and up to %d skeletons can be controlled at once.\n\t\tAt level 3 the summons become armoured skeletons warriors.\n\t\tAt level 5, for every 3 skeleton warriors, a skeleton mage or archer will also be created without costing any souls. If this makes you go over your skeleton limit, a normal skeleton will be removed and its soul refunded.\n\n\t\t#GREY##{italic}#Skeleton minions come in fewer numbers than ghoul minions but are generally more durable.#{normal}#", "Llamad a los campos de batalla de los viejos, coleccionando huesos, fusionándolos con almas, y forjandolos en picazones esqueléticos.\nHasta %d skeleton guerreros de nivel %d son convocados, y hasta %d esqueletos pueden ser controlados inmediatamente.\nA nivel 3 la citación se convierte en guerreros esqueletos blindados.\nA nivel 5, para cada 3 guerreros esqueletos, también se creará un mago esqueleto o arquero sin costar ninguna alma. Si esto te haces pasar por encima de tu límite de esqueleto, se eliminará un esqueleto normal y se devolverá tu alma.\n\n#GREY###{italic} #Los secuaces de esqueleto vienen en menos números que los secuaces de los glóbulos pero son generalmente más duraderos. ##{normal}#", "tformat")
-t("Any time one of your skeleton or bone giant dies, it shatters in radius %d, making any foe bleed for %0.2f physical damage over 5 turns.\n\t\tIf any other skeleton or bone giant minion is in the radius it will pickup some of the bones to enhance itself, increasing maximum and current life by %d, armour by %d and gain %0.2f physical melee retaliation for 20 turns.\n\t\tThis talent never works when you kill your own minions.", "Cada vez que uno de tus esqueletos o gigantes de hueso muere, se rompe en %d radius, haciendo que cualquier enemigo sangra por daño físico %0.2f en 5 vueltas.\nSi cualquier otro minión esqueleto o gigante óseo estás en el radio recogerá algunos de los huesos para mejorarse, aumentando la vida máxima y actual por %d, armadura por %d y ganar %0.2f retaliation física cuerpo a cuerpo por 20 vueltas.\nEste talento nunca funciona cuando matas a tus propios secuaces.", "tformat")
 t("Call upon the battlefields of old, collecting bones, fusing them with souls, and forging them into skeletal minions.\n\t\tUp to %d skeleton warriors of level %d are summoned, and up to %d skeletons can be controlled at once.\n\t\tAt level 3 the summons become armoured skeletons warriors.\n\t\tAt level 5, for every 3 skeleton warriors, a skeleton mage or archer will also be created without costing any souls. If this makes you go over your skeleton limit, a normal skeleton will be removed and its soul refunded.\n\n\t\t#GREY##{italic}#Skeleton minions come in fewer numbers than ghoul minions but are generally more durable.#{normal}#", "Llamad a los campos de batalla de los viejos, coleccionando huesos, fusionándolos con almas, y forjandolos en picazones esqueléticos.\nHasta %d skeleton guerreros de nivel %d son convocados, y hasta %d esqueletos pueden ser controlados inmediatamente.\nA nivel 3 la citación se convierte en guerreros esqueletos blindados.\nA nivel 5, para cada 3 guerreros esqueletos, también se creará un mago esqueleto o arquero sin costar ninguna alma. Si esto te haces pasar por encima de tu límite de esqueleto, se eliminará un esqueleto normal y se devolverá tu alma.\n\n#GREY###{italic} #Los secuaces de esqueleto vienen en menos números que los secuaces de los glóbulos pero son generalmente más duraderos. ##{normal}#", "tformat")
 t("Any time one of your skeleton or bone giant dies, it shatters in radius %d, making any foe bleed for %0.2f physical damage over 5 turns.\n\t\tIf any other skeleton or bone giant minion is in the radius it will pickup some of the bones to enhance itself, increasing maximum and current life by %d, armour by %d and gain %0.2f physical melee retaliation for 20 turns.\n\t\tThis talent never works when you kill your own minions.", "Cada vez que uno de tus esqueletos o gigantes de hueso muere, se rompe en %d radius, haciendo que cualquier enemigo sangra por daño físico %0.2f en 5 vueltas.\nSi cualquier otro minión esqueleto o gigante óseo estás en el radio recogerá algunos de los huesos para mejorarse, aumentando la vida máxima y actual por %d, armadura por %d y ganar %0.2f retaliation física cuerpo a cuerpo por 20 vueltas.\nEste talento nunca funciona cuando matas a tus propios secuaces.", "tformat")
 t("Every army of undead minions needs its spearhead. To that end you combine 3 skeleton minions into a bone giant of level %d.\n\t\tThe minions used are selected from the weakest first, and a Lord of Skulls will never be used. \n\t\tAt level 3 an eternal bone giant is created instead.\n\t\tAt level 6 a heavy bone giant is created instead.\n\t\tOnly one bone giant may be active, and casting this spell while one already exists will destroy it and create a new one.", "Cada ejército de mineros muertos necesita tu cabeza de lanzas. A ese fin combinas 3 picantes esqueletos en un gigante óseo de %d nivel.\nLos secuaces utilizados son seleccionados de la primera más débil, y un Señor de Calaveras nunca será usado.\nEn el nivel 3 se crea un gigante eterno hueso.\nEn el nivel 6 se crea un gigante óseo pesado.\nSólo un gigante óseo puedes estar activo, y lanzar este hechizo mientras uno ya existe lo destruirá y creará uno nuevo.", "tformat")
@@ -9477,6 +9363,10 @@ t("gravity", "gravedad", "effect subtype")
 t("Devourer Stance", "Postura Devoradora", "_t")
 t("The target is storing up healing energy, currently %d", "El objetivo es almacenar energía curativa, actualmente %d", "tformat")
 t("The target is redirecting energy, adding %d gravity damage to their attacks.%s", "El objetivo estás redireccionando energía, agregando %d daño de gravedad a sus ataques. %s", "tformat")
+t("Any attacks doing more than %d%% of your life is reduced to %d%%.", "Cualquier ataque que haga mas del %d%% de tu vida se reduce a un %d%%.", "_t")
+t("Cold resistance reduced by %d%%, movement speed reduced by %d%%.", "Resistencia al frio reducida en un %d%%, velocidad de movimiento reducida en un %d%%.", "_t")
+t("The target is poisoned, taking %0.2f blight damage per turn and decreasing all heals received by %d%%.", "El objetivo esta envenenado, recibiendo %0.2f de dano de plaga por turno y reduciendo todas las curaciones recibidas en un %d%%.", "_t")
+t("The target's defenses have been breached, reducing armor hardiness, stun, pin, blindness, and confusion immunity by 50%%.", "Las defensas del objetivo han sido violadas, reduciendo la dureza de armadura y las inmunidades a aturdimiento, immovilizacion, ceguera y confusion en un 50%%.", "_t")
 
 ------------------------------------------------
 -- section "mod-tome/data/timed_effects/mental.lua"
@@ -9989,6 +9879,7 @@ t("+Vampire Mark", "Marca de Vampiro", "_t")
 t("#Target# is free from their doom.", "#Target# estás libre de tu condena.", "_t")
 t("-Vampire Mark", "-Marca Vampírica", "_t")
 t("Stalking %d/%d +%d", "Acechando %d/%d +%d", "_t")
+t("The target suffers %d%% spell failue.", "El objetivo sufre un %d%% de fallo de conjuro.", "_t")
 
 ------------------------------------------------
 -- section "mod-tome/data/timed_effects/other.lua"
@@ -10459,6 +10350,7 @@ t("An aura of death surrounds you.\n#CRIMSON#Penalty : #WHITE#Fear of Death: %+d
 t("Currently Twisted Anomaly: %s\n\n\t\t%s", "En la actualidad, Anomalía Twisted: %s\n\n%s", "tformat")
 t("Currently Twisted Anomaly: %s\n\n\t\t%s", "En la actualidad, Anomalía Twisted: %s\n\n%s", "tformat")
 t("Currently Twisted Anomaly: %s\n\n\t\t%s", "En la actualidad, Anomalía Twisted: %s\n\n%s", "tformat")
+t("The target's light has been drained, reducing light resistance by %d%% and damage by %d%%.", "La luz del objetivo ha sido drenada, reduciendo su resistencia a la luz en un %d%% y su dano en un %d%%.", "_t")
 
 ------------------------------------------------
 -- section "mod-tome/data/timed_effects/physical.lua"
@@ -11251,6 +11143,13 @@ t("#Target# is brutalized!", "#Target# es brutalizado!", "_t")
 t("+Brutalized", "+Brutalizado", "_t")
 t("#Target# is not brutalized anymore.", "#Target# ya no es brutalizado.", "_t")
 t("-Brutalized", "-Brutalizado", "_t")
+t(" %d%% chance to fail talents.", " %d%% de probabilidad de fallar talentos.", "_t")
+t(" with a %d%% chance to counterattack", " con un %d%% de probabilidad de contraatacar", "_t")
+t("Has a %d%% chance to counter attack with a defensive throw when avoiding a melee attack, possibly throwing the target to the ground and stunning it. (%0.1f throws remaining)", "Tiene un %d%% de probabilidad de contraatacar con un lanzamiento defensivo al esquivar un ataque cuerpo a cuerpo, posiblemente derribando y aturdiendo al objetivo. (%0.1f lanzamientos restantes)", "_t")
+t("Increases attack speed by %d%%, grants infinite ammo, and causes all marking shots to have a 100%% increased chance to mark.", "Aumenta la velocidad de ataque en un %d%%, concede municion infinita, y hace que todos los disparos de marca tengan un 100%% mas de probabilidad de marcar.", "_t")
+t("Movement is %d%% faster.", "El movimiento es un %d%% mas rapido.", "_t")
+t("The target is stunned, reducing damage by 50%%, putting 3 random talents on cooldown and reducing movement speed by 50%%.  While stunned talents cooldown twice as slow.", "El objetivo esta aturdido, reduciendo el dano un 50%%, poniendo 3 talentos aleatorios en enfriamiento y reduciendo la velocidad de movimiento un 50%%.  Mientras esta aturdido, los talentos se enfrian el doble de lento.", "_t")
+t("Turn into pure lightning, moving %d%% faster. It also increases your lightning resistance by 100%% and your physical resistance by 30%%.", "Te conviertes en relampago puro, moviendote un %d%% mas rapido. Tambien aumenta tu resistencia al relampago en un 100%% y tu resistencia fisica en un 30%%.", "_t")
 
 ------------------------------------------------
 -- section "mod-tome/data/timed_effects.lua"
@@ -23750,6 +23649,7 @@ t("This item will automatically be transmogrified when you leave the level.", "E
 t("This object's appearance was changed to %s", "La apariencia de este objeto se cambió a %s", "tformat")
 t(".", ".", "_t")
 t("Press <control> to compare", "Presione el dominio para comparar", "_t")
+t("%0.2f Encumbrance.", "%0.2f de Carga.", "_t")
 
 ------------------------------------------------
 -- section "mod-tome/mod/class/Party.lua"
@@ -24248,7 +24148,7 @@ t("Reset UI", "Restablecer IU", "_t")
 t("Reset all the interface?", "¿Reiniciar toda la interfaz?", "_t")
 t("Feedback", "Retroalimentación", "_t")
 t("Fortress Energy", "Energía de Fortaleza", "_t")
-t("Display/Hide resources", "Recursos de visualización/hide", "_t")
+t("Display/Hide resources", "Mostrar/Ocultar recursos", "_t")
 t("Toggle:", "Alternar:", "_t")
 t(" Right click to toggle resources bars visibility", "Haga clic derecho para cambiar la visibilidad de las barras de recursos", "_t")
 t("Score[1st]: %d", "Puntuación[1st]: %d", "tformat")
@@ -24258,22 +24158,22 @@ t("[Boss]", "[Jefe]", "_t")
 t("[Final]", "[Final]", "_t")
 t("Wave(TOP) %d %s", "Ola(SUPERIOR) %d %s", "_t")
 t("Wave %d %s", "Ola %d %s", "_t")
-t("Bonus: %d (x%.1f)", "Bono: %d (x %.1f )", "tformat")
+t("Bonus: %d (x%.1f)", "Bono: %d (x%.1f)", "tformat")
 t(" VS", "VS", "_t")
 t("Rank: ", "Rank:", "_t")
-t("Saving... %d%%", "Salvando.. %d", "tformat")
-t("%s reduced the duration of this effect by %d turns, from %d to %d.", "%s redujo la duración de este efecto por %d vueltas, desde %d a %d.", "tformat")
+t("Saving... %d%%", "Guardando... %d%%", "tformat")
+t("%s reduced the duration of this effect by %d turns, from %d to %d.", "%s redujo la duración de este efecto en %d turnos, de %d a %d.", "tformat")
 t(" --- Right click to cancel early.", "- Haga clic derecho para cancelar temprano.", "_t")
 t("Really cancel %s?", "¿De verdad cancelar %s?", "tformat")
-t(" Turns remaining: %s", "Resultado restante: %s", "tformat")
+t(" Turns remaining: %s", " Turnos restantes: %s", "tformat")
 t("Lvl %d", "Nv %d", "_t")
 t("Show character infos", "Mostrar información de carácter", "_t")
 t("Click to assign stats and talents!", "Haga clic para asignar estadísticas y talentos!", "_t")
-t("Show available cosmetic & fun microtransation", "Mostrar cosmética disponible & divertida microtransición", "_t")
+t("Show available cosmetic & fun microtransation", "Mostrar cosmética y microtransacciones", "_t")
 t("Left click to use", "Haga clic izquierdo para usar", "_t")
 t("Right click to configure", "Haga clic derecho para configurar", "_t")
 t("Press 'm' to setup", "Presione 'm' para configurar", "_t")
-t("Unbind %s", "Unbind%s", "tformat")
+t("Unbind %s", "Desvincular %s", "tformat")
 t("Remove this object from your hotkeys?", "¿Retirar este objeto de tus hotkeys?", "_t")
 t("Left mouse to show known talents", "Ratón izquierdo para mostrar talentos conocidos", "_t")
 t("Left mouse to show message/chat log.", "Ratón izquierdo para mostrar mensaje/chat log.", "_t")
@@ -24283,7 +24183,7 @@ t("Unlock all interface elements so they can be moved and resized.", "Desbloquea
 t("Lock all interface elements so they can not be moved nor resized.", "Cierre todos los elementos de interfaz para que no se puedan mover ni cambiar de tamaño.", "_t")
 t("Clicking will open#LIGHT_BLUE##{italic}#%s#WHITE##{normal}# in your browser", "Hacer clic abrirá#LIGHT_BLUE###{italic}# %s#WHITE##{normal}# en tu navegador", "_t")
 t("Donator", "Donante", "_t")
-t("Developer", "Desarrollado", "_t")
+t("Developer", "Desarrollador", "_t")
 t("Moderator / Helper", "Moderador / Ayudante", "_t")
 t("Recurring Donator", "Donador recurrente", "_t")
 t("Playing: ", "Jugando:", "_t")
@@ -24291,10 +24191,10 @@ t("Game: ", "Juego:", "_t")
 t("Clicking will open ", "El clic se abrirá", "_t")
 t("Show chat user", "Mostrar usuario de chat", "_t")
 t("Whisper", "Susurro", "_t")
-t("Ignore", "Ignoro", "_t")
-t("Ignore user", "Usuario de diagnóstico", "_t")
+t("Ignore", "Ignorar", "_t")
+t("Ignore user", "Ignorar usuario", "_t")
 t("Really ignore all messages from: %s", "Realmente ignorar todos los mensajes de: %s", "tformat")
-t("Report user for bad behavior", "Informe usuario para mala conducta", "_t")
+t("Report user for bad behavior", "Reportar usuario por mal comportamiento", "_t")
 t("Reason to report: %s", "Razón para informar: %s", "tformat")
 t("Reason", "Razón", "_t")
 t("#VIOLET#", "#VIOLET#", "log")
@@ -24648,14 +24548,14 @@ t("From 1 to 4", "De 1 a 4", "_t")
 t("When you activate a hotkey, either by keyboard or click a visual feedback will appear over it in the hotkeys bar.#WHITE#", "Al activar una tecla rápida aparecerá un feedback visual.#WHITE#", "_t")
 t("#GOLD##{bold}#Visual hotkeys feedback#WHITE##{normal}#", "#GOLD##{bold}#Feedback visual de teclas#WHITE##{normal}#", "_t")
 t("When the player or an NPC uses a talent shows a quick popup with the talent's icon and name over its head.#WHITE#", "Cuando el jugador o un NPC utiliza un talento muestra un popup rápido con el icono del talento y el nombre sobre tu cabeza. #WHITE#", "_t")
-t("#GOLD##{bold}#Talents activations map display#WHITE##{normal}#", "#GOLD###{bold} #Talents activations map display #WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Talents activations map display#WHITE##{normal}#", "#GOLD##{bold}#Mostrar activaciones en mapa#WHITE##{normal}#", "_t")
 t("Size of the icons in the hotkeys toolbar.#WHITE#", "Tamaño de los iconos en la barra de teclas.#WHITE#", "_t")
-t("#GOLD##{bold}#Icons hotkey toolbar icon size#WHITE##{normal}#", "#GOLD###{bold}#Icons hotkey toolbar icono de tamaño #WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Icons hotkey toolbar icon size#WHITE##{normal}#", "#GOLD##{bold}#Tamaño de iconos de barra#WHITE##{normal}#", "_t")
 t("Icons size", "Tamaño de iconos", "_t")
 t("From 32 to 64", "De 32 a 64", "_t")
 t("#GOLD##{bold}#Always show lore popup#WHITE##{normal}#", "#GOLD##{bold}#Mostrar popup de lore#WHITE##{normal}#", "_t")
 t("If disabled items with activations will not be auto-added to your hotkeys, you will need to manually drag them from the inventory screen.#WHITE#", "Si los elementos deshabilitados con activaciones no serán autoadvertidos a sus teclas calientes, necesitará arrastrarlos manualmente desde la pantalla del inventario. #WHITE#", "_t")
-t("#GOLD##{bold}#Always add objects to hotkeys#WHITE##{normal}#", "#GOLD###{bold}# Siempre añadir objetos a hotkeys #WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Always add objects to hotkeys#WHITE##{normal}#", "#GOLD##{bold}#Siempre añadir objetos a teclas#WHITE##{normal}#", "_t")
 t("#GOLD##{bold}#Tactical overlay#WHITE##{normal}#", "#GOLD##{bold}#Superposición táctica#WHITE##{normal}#", "_t")
 t("Combined Small", "Combinado pequeño", "_t")
 t("Combined Big", "Combinado grande", "_t")
@@ -24685,7 +24585,7 @@ t("When you do a mouse gesture (right click + drag) a color coded trail is displ
 t("#GOLD##{bold}#Display mouse gesture trails#WHITE##{normal}#", "#GOLD##{bold}#Estelas de gestos#WHITE##{normal}#", "_t")
 t("If enabled new quests and quests updates will display a big popup, if not a simple line of text will fly on the screen.#WHITE#", "Si se activan nuevas misiones y actualizaciones de misiones mostrarán un gran popup, si no una línea simple de texto volará en la pantalla. #WHITE#", "_t")
 t("#GOLD##{bold}#Big Quest Popups#WHITE##{normal}#", "#GOLD##{bold}#Popups grandes de misiones#WHITE##{normal}#", "_t")
-t("Enable the WASD movement keys. Can be used to move diagonaly by pressing two directions at once.#WHITE#", "Hable las teclas de movimiento WASD. Se puede utilizar para mover diagonalmente pulsando dos direcciones a la vez. #WHITE#", "_t")
+t("Enable the WASD movement keys. Can be used to move diagonaly by pressing two directions at once.#WHITE#", "Habilita las teclas WASD. Se puede utilizar para mover en diagonal pulsando dos direcciones a la vez.#WHITE#", "_t")
 t("#GOLD##{bold}#Enable WASD movement keys#WHITE##{normal}#", "#GOLD##{bold}#Teclas WASD#WHITE##{normal}#", "_t")
 t("Sharpen Visuals, set to 0 to disable.#WHITE#", "Nitidez visual, 0 para desactivar.#WHITE#", "_t")
 t("#GOLD##{bold}#Sharpen Visuals#WHITE##{normal}#", "#GOLD##{bold}#Nitidez visual#WHITE##{normal}#", "_t")
@@ -24695,7 +24595,7 @@ t("Defines the distance from the screen edge at which scrolling will start. If s
 t("#GOLD##{bold}#Scroll distance#WHITE##{normal}#", "#GOLD##{bold}#Distancia de desplazamiento#WHITE##{normal}#", "_t")
 t("Scroll distance", "Distancia de desplazamiento", "_t")
 t("From 1 to 50", "De 1 a 50", "_t")
-t("If you lose more than this percentage of life in a turn, a warning will display and all key/mouse input will be ignored for 2 seconds to prevent mistakes.#WHITE#", "Si pierdes más que este porcentaje de vida en un turno, aparecerá una advertencia y toda la entrada clave/museo será ignorada durante 2 segundos para evitar errores. #WHITE#", "_t")
+t("If you lose more than this percentage of life in a turn, a warning will display and all key/mouse input will be ignored for 2 seconds to prevent mistakes.#WHITE#", "Si pierdes más de este porcentaje de vida en un turno, aparecerá una advertencia y toda entrada de teclado/ratón se ignorará durante 2 segundos.#WHITE#", "_t")
 t("#GOLD##{bold}#Life Lost Warning#WHITE##{normal}#", "#GOLD##{bold}#Aviso de poca vida#WHITE##{normal}#", "_t")
 t("Life lost percentage (out of max life)", "Porcentaje de vida perdida (sobre el máximo)", "_t")
 t("From 1 to 99 (100 to disable)", "De 1 a 99 (100 para desactivar)", "_t")
@@ -24710,24 +24610,24 @@ t("Enables mouse targeting. If disabled mouse movements will not change the targ
 t("#GOLD##{bold}#Mouse targeting#WHITE##{normal}#", "#GOLD##{bold}#Apuntado con raton#WHITE##{normal}#", "_t")
 t("#GOLD##{bold}#Auto-accept target#WHITE##{normal}#", "#GOLD##{bold}#Auto-aceptar objetivo#WHITE##{normal}#", "_t")
 t("New games begin with some talent points auto-assigned.#WHITE#", "Nuevos juegos comienzan con algunos puntos de talento auto-asignados. #WHITE#", "_t")
-t("#GOLD##{bold}#Auto-assign talent points at birth#WHITE##{normal}#", "#GOLD###{bold}#Auto-assign talent points at birth#WHITE#{normal}#", "_t")
+t("#GOLD##{bold}#Auto-assign talent points at birth#WHITE##{normal}#", "#GOLD##{bold}#Auto-asignar talentos al crear personaje#WHITE##{normal}#", "_t")
 t("Always rest to full before auto-exploring.#WHITE#", "Descansar siempre al maximo antes de autoexplorar.#WHITE#", "_t")
-t("#GOLD##{bold}#Rest before auto-explore#WHITE##{normal}#", "#GOLD###{bold}#Rest before auto-explore #WHITE##{normal}#", "_t")
-t("When swapping an item with a tinker attached, swap the tinker to the newly worn item automatically.#WHITE#", "Al cambiar un artículo con un tinker adjunto, cambiar el tinker al elemento recién usado automáticamente. #WHITE#", "_t")
-t("#GOLD##{bold}#Swap tinkers#WHITE##{normal}#", "#GOLD###{bold}#Swap tinkers #WHITE## {normal}", "_t")
-t("Configure the chat filters to select what kind of messages to see.#WHITE#", "Configure los filtros de chat para seleccionar qué tipo de mensajes ver. #WHITE#", "_t")
-t("#GOLD##{bold}#Chat message filters#WHITE##{normal}#", "#GOLD###{bold} ##Chat message filters#", "_t")
+t("#GOLD##{bold}#Rest before auto-explore#WHITE##{normal}#", "#GOLD##{bold}#Descansar antes de autoexplorar#WHITE##{normal}#", "_t")
+t("When swapping an item with a tinker attached, swap the tinker to the newly worn item automatically.#WHITE#", "Al cambiar un objeto con un tinker acoplado, pasar el tinker al nuevo objeto automáticamente.#WHITE#", "_t")
+t("#GOLD##{bold}#Swap tinkers#WHITE##{normal}#", "#GOLD##{bold}#Intercambiar tinkers#WHITE##{normal}#", "_t")
+t("Configure the chat filters to select what kind of messages to see.#WHITE#", "Configura los filtros de chat para seleccionar qué mensajes ver.#WHITE#", "_t")
+t("#GOLD##{bold}#Chat message filters#WHITE##{normal}#", "#GOLD##{bold}#Filtros de mensajes de chat#WHITE##{normal}#", "_t")
 t("select to configure", "seleccionar para configurar", "_t")
 t("Deaths", "Muertes", "_t")
 t("Object & Creatures links", "Enlaces de objetos y criaturas", "_t")
-t("Configure the chat ignore filter.#WHITE#", "Configure el filtro ignorar el chat", "_t")
-t("#GOLD##{bold}#Chat ignore list#WHITE##{normal}#", "#GOLD###{bold} #Chat ignore list #WHITE### {normal}#", "_t")
+t("Configure the chat ignore filter.#WHITE#", "Configura el filtro de ignorados del chat.#WHITE#", "_t")
+t("#GOLD##{bold}#Chat ignore list#WHITE##{normal}#", "#GOLD##{bold}#Lista de ignorados#WHITE##{normal}#", "_t")
 t("Configure the chat channels to listen to.#WHITE#", "Configura los canales de chat para escuchar.#WHITE#", "_t")
-t("#GOLD##{bold}#Chat channels#WHITE##{normal}#", "#GOLD###{bold}#Chat channels #WHITE### {normal}#", "_t")
-t("#GOLD##{bold}#Open links in external browser#WHITE##{normal}#", "#GOLD###{bold}# Open links in external browser#WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Discord's Rich Presence#WHITE##{normal}#", "La presencia rica de la discordia..", "_t")
-t("#GOLD##{bold}#Upload characters sheets to the online vault#WHITE##{normal}#", "#GOLD###{bold} #Subir hojas de caracteres a la bóveda en línea #WHITE##{normal}#", "_t")
-t("#GOLD##{bold}#Allow online events#WHITE##{normal}#", "#GOLD###{bold}##Allow online events# #WHITE## {normal}#", "_t")
+t("#GOLD##{bold}#Chat channels#WHITE##{normal}#", "#GOLD##{bold}#Canales de chat#WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Open links in external browser#WHITE##{normal}#", "#GOLD##{bold}#Abrir enlaces en navegador externo#WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Discord's Rich Presence#WHITE##{normal}#", "#GOLD##{bold}#Presencia de Discord#WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Upload characters sheets to the online vault#WHITE##{normal}#", "#GOLD##{bold}#Subir hojas a la bóveda en línea#WHITE##{normal}#", "_t")
+t("#GOLD##{bold}#Allow online events#WHITE##{normal}#", "#GOLD##{bold}#Permitir eventos en línea#WHITE##{normal}#", "_t")
 t("all", "todos", "_t")
 t("technical help only", "asistencia técnica solamente", "_t")
 t("#GOLD##{bold}#Disable all connectivity#WHITE##{normal}#", "Desactiva toda conectividad", "_t")
@@ -26552,6 +26452,7 @@ t("#CRIMSON#The crowd yells: 'LOSER!'", "#CRIMSON# La multitud grita: 'LOSER'", 
 t("#LIGHT_GREEN#As you touch the orb your will fills the slave's body. You take full control of his actions!", "#LIGHT_GREEN# Mientras tocas el orbe tu voluntad llena el cuerpo del esclavo. ¡Tomas todo el control de sus acciones!", "log")
 t("#CRIMSON#A new foe appears in the ring of blood!", "¡Un nuevo enemigo aparece en el anillo de sangre!", "log")
 t("#LIGHT_BLUE#The Blood Master hands you the %s.", "#LIGHT_BLUE#The Blood Master te da el %s.", "logPlayer")
+t("#CRIMSON#The crowd yells: 'BLOOOODDD!'", "#CRIMSON#La multitud grita: 'SAAAANGRE!'", "_t")
 
 ------------------------------------------------
 -- section "mod-tome/data/quests/shertul-fortress.lua"

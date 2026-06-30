@@ -75,7 +75,7 @@ def main():
     dry_run = "--dry-run" in sys.argv
 
     print("=" * 60)
-    print(f"  BATCH FIX POST - Aplicando POST_PROCESS a traducciones existentes")
+    print("  BATCH FIX POST - Aplicando POST_PROCESS a traducciones existentes")
     print(f"  {len(COMPILED)} patrones compilados{' (SIMULACION)' if dry_run else ''}")
     print("=" * 60)
 

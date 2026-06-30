@@ -514,3 +514,6 @@ t("#Target# is free from their doom.", "#Target# estás libre de tu condena.", "
 t("-Vampire Mark", "-Marca Vampírica", "_t")
 
 t("Stalking %d/%d +%d", "Acechando %d/%d +%d", "_t")
+
+-- missing strings detected by source scan
+t("The target suffers %d%% spell failue.", "El objetivo sufre un %d%% de fallo de conjuro.", "_t")

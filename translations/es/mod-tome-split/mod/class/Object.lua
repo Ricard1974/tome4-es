@@ -319,3 +319,6 @@ t("This object's appearance was changed to %s", "La apariencia de este objeto se
 t(".", ".", "_t")
 t("Press <control> to compare", "Presione el dominio para comparar", "_t")
 
+
+-- missing strings detected by source scan
+t("%0.2f Encumbrance.", "%0.2f de Carga.", "_t")

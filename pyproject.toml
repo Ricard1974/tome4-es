@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=75.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "tome4-es"
+version = "1.0.0"
+description = "Traducción al español de Tales of Maj'Eyal (ToME4)"
+readme = "README.md"
+license = { text = "GPL-3.0" }
+requires-python = ">=3.10"
+
+[project.optional.dependencies]
+dev = [
+    "ruff>=0.5.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "UP", "N"]
+ignore = ["F601"]

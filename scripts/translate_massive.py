@@ -315,7 +315,6 @@ DICT = {
     "Slow": "Lento",
     "Haste": "Celeridad",
     "Regeneration": "Regeneración",
-    "Shield": "Escudo",
     "Stealth": "Sigilo",
     "Invisibility": "Invisibilidad",
 }
@@ -441,7 +440,7 @@ def translate_all(dry_run=False):
             if count > 0:
                 print(f"     ✓ {count} cadenas traducidas")
             else:
-                print(f"     - sin cambios")
+                print("     - sin cambios")
             total_count += count
 
     print(f"\n  {'~' if dry_run else ''}Total: {total_count} cadenas procesadas")

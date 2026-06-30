@@ -150,7 +150,6 @@ DICT = {
     "spell": "hechizo",
     "Spell": "Hechizo",
     "cunning": "astucia",
-    "Cunning": "Astucia",
     "wild gift": "don salvaje",
     "Wild gift": "Don salvaje",
     "psionic": "psiónico",
@@ -216,7 +215,6 @@ DICT = {
     "Rank": "Rango",
     "Name": "Nombre",
     "Level": "Nivel",
-    "Race": "Raza",
     "Class": "Clase",
     "Score": "Puntuación",
     "Died on": "Muerto en",
@@ -236,7 +234,6 @@ DICT = {
     "healing": "curación",
     "Healing": "Curación",
     "poison": "veneno",
-    "Poison": "Veneno",
     "stun": "aturdimiento",
     "Stun": "Aturdimiento",
     "confusion": "confusión",
@@ -295,7 +292,6 @@ DICT = {
     "Fireflash": "Destello ígneo",
     "Sunshield": "Escudo solar",
     "Flameshock": "Descarga ígnea",
-    "Sunshield": "Escudo solar",
     "Forest": "Bosque",
     # === UI ===
     "Welcome to T-Engine and the Tales of Maj'Eyal": "Bienvenido a T-Engine y Tales of Maj'Eyal",
@@ -347,15 +343,11 @@ DICT = {
     "Contributors": "Contribuidores",
     "Testing": "Pruebas",
     "Thanks": "Agradecimientos",
-    # === Addons y versiones ===
-    "Addon": "Addon",
     "#LIGHT_GREEN#Manual: Active": "#LIGHT_GREEN#Manual: Activo",
     "#LIGHT_RED#Manual: Disabled": "#LIGHT_RED#Manual: Desactivado",
     "#LIGHT_GREEN#Auto: Active": "#LIGHT_GREEN#Auto: Activo",
     "#LIGHT_RED#Auto: Incompatible": "#LIGHT_RED#Auto: Incompatible",
     "Game Version": "Versión del juego",
-    "Game Module": "Módulo del juego",
-    ", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#": ", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#",
     "Original game version not found": "Versión original no encontrada",
     "Run with newer version": "Ejecutar con versión reciente",
     "Developer Mode": "Modo desarrollador",
@@ -420,10 +412,6 @@ DICT = {
     "Error!": "¡Error!",
     "Exit": "Salir",
     "Create": "Crear",
-    "Addons": "Addons",
-    "Addon": "Addon",
-    # === Formulario de registro ===
-    "Email": "Email",
     "Email: ": "Email: ",
     "Password: ": "Contraseña: ",
     "Password again: ": "Contraseña de nuevo: ",
@@ -445,24 +433,15 @@ DICT = {
     "This game is not compatible with your version of T-Engine, you can sti": "Este juego no es compatible con tu versión de T-Engine, puedes ",
     "You can simply grab an older version of the game from where you downlo": "Puedes descargar una versión anterior desde donde descargaste ",
     "Accept to receive #{bold}#very infrequent#{normal}# (a few per year) m": "Acepto recibir #{bold}#poco frecuentes#{normal}# (unas pocas al año)",
-    # === Créditos (adicionales) ===
-    "Community Managers": "Community Managers",
     "Others": "Otros",
     # === Descargas ===
     "Downloading: ": "Descargando: ",
     "Disable animated background": "Desactivar fondo animado",
-    "No": "No",
     # === NPC descriptions restantes ===
     "Green-skinned and ugly, this massive humanoid glares at you, clenching": "De piel verde y horrible, este enorme humanoide te mira fijamente",
-    "A large and muscled wolf from the northern wastes. Its breath is cold ": "Un lobo grande y musculoso de los páramos del norte. Su aliento es frío ",
     "A giant troll with scabrous black skin. With a shudder, you notice the": "Un trol gigante de piel escamosa. Con un escalofrío notas los",
-    "This huge troll wields a massive spear and has a disturbingly intellig": "Este enorme trol empuña una lanza masiva y tiene una inteligencia",
     # === Títulos ===
     "Tales of Maj'Eyal Main Menu": "Menú principal de Tales of Maj'Eyal",
-    # === Resto ===
-    ", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#": ", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#",
-    "base": "base",
-    "animal": "animal",
     # === Últimas cadenas ===
     "A large and muscled wolf from the northern wastes. Its breath is cold and icy and its fur ": "Un lobo grande y musculoso de los páramos del norte. Su aliento es frío y helado y su pelaje ",
     "Green-skinned and ugly, this massive humanoid glares at you, clenching wart-covered green ": "De piel verde y horrible, este enorme humanoide te mira fijamente, apretando sus puños ",
@@ -482,17 +461,6 @@ DICT = {
     "Accept to receive #{bold}#very infrequent#{normal}# (a few per year) mails about important": "Acepto recibir #{bold}#poco frecuentes#{normal}# (unas pocas al año) sobre importantes ",
     "You at least 16 years old, or have parental authorization to play the game.": "Tienes al menos 16 años, o autorización parental para jugar.",
     "You need to be 16 years old or more or to have parental authorization to play this game.": "Necesitas 16 años o más, o autorización parental para jugar.",
-    "#LIGHT_RED#Auto: Incompatible": "#LIGHT_RED#Auto: Incompatible",
-    "Error": "Error",
-    "Email": "Email",
-    "Email: ": "Email: ",
-    "Email: ": "Email: ",
-    "No": "No",
-    "base": "base",
-    "Addon": "Addon",
-    "Addons": "Addons",
-    "Community Managers": "Community Managers",
-    ", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#": ", #LIGHT_BLUE##{underline}#Te4.org Addons#{normal}#",
 }
 
 

@@ -27,9 +27,60 @@ class:bindHook("ToME:load", function()
 	end
 end)
 
--- Mostrar diálogo informativo solo la primera vez
+-- Traducir contenido de lore/scrolls (el texto, no solo los titulos)
 class:bindHook("ToME:run", function(self, data)
-	-- Verificar que game y config existen antes de acceder
+	-- NOTA: esto se ejecuta DESPUES de que todas las traducciones se hayan cargado
+	-- y el locale "es" ya esta activo. Gettext estara disponible como _() o _t()
+	
+	-- Determinar funcion de traduccion disponible
+	local T = type(_) == "function" and _ or (type(_t) == "function" and _t) or nil
+	
+	-- Si no hay funcion _(), intentar obtener I18N directamente
+	if not T then
+		local ok, I18N = pcall(require, "engine.I18N")
+		if ok and I18N then
+			T = function(text) return I18N.gettext(I18N, text) end
+		else
+			print("[ToME4-es] ERROR: No se puede traducir lore - I18N no disponible")
+			return
+		end
+	end
+	
+	-- Traducir textos de lore en game.lore_db (textos de scrolls, libros, etc.)
+	if game and game.lore_db then
+		local count = 0
+		for id, lore in pairs(game.lore_db) do
+			if lore.text and type(lore.text) == "string" then
+				local translated = T(lore.text)
+				if translated and translated ~= lore.text then
+					lore.text = translated
+					count = count + 1
+				end
+			end
+		end
+		if count > 0 then
+			print("[ToME4-es] " .. count .. " textos de lore traducidos")
+		end
+	end
+	
+	-- Traducir textos de dialogos de eventos especiales
+	if game and game.dialog_db then
+		local count = 0
+		for id, dialog in pairs(game.dialog_db) do
+			if dialog.text and type(dialog.text) == "string" then
+				local translated = T(dialog.text)
+				if translated and translated ~= dialog.text then
+					dialog.text = translated
+					count = count + 1
+				end
+			end
+		end
+		if count > 0 then
+			print("[ToME4-es] " .. count .. " textos de dialogo traducidos")
+		end
+	end
+	
+	-- Mostrar diálogo informativo solo la primera vez
 	if not game or not config or not config.settings then
 		return
 	end

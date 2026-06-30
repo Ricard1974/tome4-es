@@ -20,15 +20,15 @@ El addon portugués incluye también traducciones de addons externos
 
 | Métrica               |     Chino |   Japonés |   Coreano | Portugués |      **Español** |
 | --------------------- | --------: | --------: | --------: | --------: | ---------------: |
-| Total `t()` calls     |    21.868 |    22.409 |    21.898 |    30.628 |       **22.604** |
-| `tformat` (total)     |     2.794 |     2.826 |     2.825 |     3.812 |        **3.647** |
-| `tformat` con `\n`    |     **0** |     **0** |     **0** |     **0** |     **🔥 1.960** |
+| Total `t()` calls     |    21.868 |    22.409 |    21.898 |    30.628 |       **22.647** |
+| `tformat` (total)     |     2.794 |     2.826 |     2.825 |     3.812 |        **2.685** |
+| `tformat` con `\n`    |     **0** |     **0** |     **0** |     **0** |     **🔥 1.293** |
 | `tformat` con `[[ ]]` |     1.149 |     1.170 |     1.162 |     1.594 |            **0** |
-| `_t` tag (total)      |     9.910 |    10.358 |     9.902 |    14.373 |        **9.241** |
+| `_t` tag (total)      |     9.910 |    10.358 |     9.902 |    14.373 |       **10.034** |
 | `_t` con `[[ ]]`      |       929 |       782 |       962 |     1.268 |            **0** |
 | `tooltip` tag         |         0 |         0 |         0 |         0 |            **0** |
-| Tamaño archivo locale |  2.817 KB |  3.024 KB |  3.168 KB |  6.289 KB |     **815 KB** |
-| Engine locale         | integrado | integrado | integrado |         — | **637 entradas** |
+| Tamaño archivo locale |  2.817 KB |  3.024 KB |  3.168 KB |  6.289 KB |    **3.173 KB** |
+| Engine locale         | integrado | integrado | integrado |         — |  **673 entradas** |
 
 ## Características del addon
 
@@ -89,11 +89,14 @@ renderización, no solo el archivo de locale.
 
 ### 5. Traducción de interfaz de usuario
 
-En esta sesión se tradujeron las **96 cadenas restantes de interfaz** que no tenían
-format specifiers (`%d`, `%s`, `%f`): menús, submenús, opciones, atajos de teclado,
-diálogos de depuración, textos de eventos y creación de personaje. Quedan sin traducir
-~1.400 cadenas que corresponden a nombres de entidades (PNJ, objetos, talentos) que
-están en la lista `NO_TRANSLATE` y no deben traducirse.
+Se tradujeron todos los archivos de interfaz de addons externos:
+- **Items Vault**: 67 cadenas (100%) — orbe, transferencias, errores, lista
+- **Addon Developer**: 103 cadenas (97%) — subida, Steam Workshop, herramientas de traducción
+- **Remote Designer**: 4 cadenas (100%) — activar/desactivar
+- **Engine**: 673 cadenas (95%) — diálogos, opciones, mensajes del sistema
+- **Mod-boot**: 284 cadenas (97%) — menú principal, addons, perfil
+
+Tras escaneo del código fuente del juego, se añadieron **15 strings faltantes** (efectos de estado y mensajes de combate que el extractor i18n original no capturó). Quedan ~849 de `mod-tome.lua` que son nombres propios, IDs internos y formatos — casi todos iguales en ambos idiomas y sin necesidad de traducción.
 
 ### 7. Estilo `[[ ]]` vs `"..."`
 
@@ -106,7 +109,7 @@ ese formato.
 string en memoria. Cambiar a `[[ ]]` sería solo cosmético y no aporta
 ningún beneficio funcional. Pendiente como mejora estética menor.
 
-### 6. Limitación del Translation Toolbox
+### 6. Limitación del Translation Toolbox y del build script
 
 La herramienta oficial de extracción de textos (`Translation Toolbox`)
 **no extrae** los strings de dentro de funciones `info(self, t)` en
@@ -119,6 +122,12 @@ return ([[texto]]):tformat(args)
 El extractor busca `t()` calls en archivos de datos, no dentro de
 código Lua incrustado en funciones. Esta es la razón por la que ningún
 idioma tiene descripciones de talentos traducidas.
+
+Además, el build script original solo extraía `t("clave", "valor", "tipo")`
+con comillas dobles, ignorando 54 entradas activas que usaban `t([[clave]], [[valor]], "tipo")`
+con corchetes largos (principalmente en `engine.lua` y `mod-boot.lua`).
+**El build script se actualizó** para extraer ambos formatos, añadiendo
+esas 54 entradas al addon final.
 
 ### 8. Protección de placeholders y corrección de calidad
 

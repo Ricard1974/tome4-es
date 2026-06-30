@@ -184,7 +184,6 @@ ENGINE_TRANSLATIONS = {
     "#YELLOW#Connection to online server established.": "#YELLOW#Conexión al servidor establecida.",
     "#YELLOW#Connection to online server lost, trying to reconnect.": "#YELLOW#Conexión al servidor perdida, reconectando.",
     "#YELLOW#Error report sent, thank you.": "#YELLOW#Informe de error enviado, gracias.",
-    "#YELLOW#-- connecting to server... --": "#YELLOW#-- conectando al servidor... --",
     # === Keybinds (adicionales) ===
     "Press a key (escape to cancel, backspace to remove) for: %s": "Pulsa una tecla (escape para cancelar, retroceso para quitar) para: %s",
     "Press a key for: %s": "Pulsa una tecla para: %s",
@@ -241,7 +240,6 @@ ENGINE_TRANSLATIONS = {
     "Armor": "Armadura",
     "Defense": "Defensa",
     "Accuracy": "Precisión",
-    "Damage": "Daño",
     "Range": "Alcance",
     "Speed": "Velocidad",
     "Power": "Poder",

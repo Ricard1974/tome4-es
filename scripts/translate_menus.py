@@ -4,7 +4,6 @@ Traduce menús principales y pantalla de personaje.
 Cubre todo lo que ve el jugador en los menús principales y la ficha de personaje.
 """
 
-import re
 from pathlib import Path
 
 BOOT_LOCALE = (

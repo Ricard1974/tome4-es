@@ -10,8 +10,6 @@ Uso: python3 scripts/translate_all.py
 """
 
 import re
-import json
-import sys
 from pathlib import Path
 
 TRANS_DIR = Path(__file__).parent.parent / "translations" / "es"
@@ -274,7 +272,6 @@ EN_ES = {
     "wurms": "gusanos",
     "wyrm": "dragón",
     "wyrms": "dragones",
-    "elemental": "elemental",
     "elementals": "elementales",
     "golem": "gólem",
     "golems": "gólems",
@@ -396,7 +393,6 @@ EN_ES = {
     "Pink": "Rosa",
     "slate": "pizarra",
     "Slate": "Pizarra",
-    "dark": "oscuro",
     "Dark": "Oscuro",
     "light": "claro",
     "Light": "Claro",
@@ -409,8 +405,6 @@ EN_ES = {
     "Iron": "Hierro",
     "steel": "acero",
     "Steel": "Acero",
-    "bronze": "bronce",
-    "Bronze": "Bronce",
     "copper": "cobre",
     "Copper": "Cobre",
     "gold": "oro",
@@ -448,8 +442,6 @@ EN_ES = {
     # Partes del cuerpo
     "head": "cabeza",
     "face": "cara",
-    "eye": "ojo",
-    "eyes": "ojos",
     "hair": "pelo",
     "beard": "barba",
     "skin": "piel",
@@ -628,9 +620,6 @@ EN_ES = {
     "sits": "se sienta",
     "lie": "yacer",
     "lies": "yace",
-    "sleep": "dormir",
-    "sleeps": "duerme",
-    "sleeping": "durmiendo",
     "wake": "despertar",
     "wakes": "despierta",
     "eat": "comer",
@@ -773,7 +762,6 @@ EN_ES = {
     "happy": "feliz",
     "angry": "enfadado",
     "calm": "tranquilo",
-    "wild": "salvaje",
     "savage": "salvaje",
     "huge": "enorme",
     "large": "grande",
@@ -872,10 +860,7 @@ EN_ES = {
     "more": "más",
     "less": "menos",
     "most": "la mayoría",
-    "some": "algunos",
-    "any": "cualquier",
     "each": "cada",
-    "every": "cada",
     "both": "ambos",
     "either": "cualquiera",
     "neither": "ninguno",
@@ -910,9 +895,6 @@ EN_ES = {
     "among": "entre",
     "since": "desde",
     "until": "hasta",
-    # Palabras de UI
-    "you": "tú",
-    "your": "tu",
     "you are": "estás",
     "you have": "tienes",
     "you can": "puedes",
@@ -1163,7 +1145,6 @@ PHRASES = {
     "Skeleton mage": "Mago esqueleto",
     "Skeleton warrior": "Guerrero esqueleto",
     "Armoured skeleton warrior": "Guerrero esqueleto acorazado",
-    "Ghoul": "Ghul",
     "Ghast": "Ghast",
     "Ghoulking": "Rey ghul",
     "Lich": "Liche",
@@ -1359,8 +1340,8 @@ def translate_file(fpath):
                 continue
 
             # Detectar placeholders y códigos de color
-            has_color = bool(re.search(r"#[A-Z_]+", original))
-            has_format = bool(re.search(r"%[sd]", original))
+            bool(re.search(r"#[A-Z_]+", original))
+            bool(re.search(r"%[sd]", original))
 
             translation = translate_text(original)
 

@@ -17,3 +17,6 @@ t("#CRIMSON#A new foe appears in the ring of blood!", "¡Un nuevo enemigo aparec
 t("#CRIMSON#The crowd yells: 'BLOOOODDD!'", "La multitud grita: "¡BLOOOODDD!"", "log")
 t("#LIGHT_BLUE#The Blood Master hands you the %s.", "#LIGHT_BLUE#The Blood Master te da el %s.", "logPlayer")
 
+
+-- missing strings detected by source scan
+t("#CRIMSON#The crowd yells: 'BLOOOODDD!'", "#CRIMSON#La multitud grita: 'SAAAANGRE!'", "_t")

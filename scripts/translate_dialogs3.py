@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Traduce CharacterSheet, GameOptions, LevelupDialog y UseTalents."""
 
-import re
 from pathlib import Path
 
 BASE = Path(__file__).parent.parent

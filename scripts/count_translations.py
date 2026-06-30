@@ -6,7 +6,6 @@ Analiza los archivos generados por Translation Toolbox y muestra estadísticas.
 Uso: python3 scripts/count_translations.py [--detallado]
 """
 
-import os
 import re
 import sys
 from pathlib import Path
@@ -24,7 +23,7 @@ def analyze_file(filepath):
     sections = re.findall(r'^section\s+"([^"]+)"', content, re.MULTILINE)
 
     # Contar entradas t() - pueden estar dentro o fuera de bloques --[==[
-    all_t_calls = re.findall(r't\(("[^"]*"\s*,\s*"[^"]*"\s*,\s*"[^"]*")\)', content)
+    re.findall(r't\(("[^"]*"\s*,\s*"[^"]*"\s*,\s*"[^"]*")\)', content)
 
     # Strings traducidos: fuera de bloques --[==[, o dentro de bloques marcados como "translated"
     translated = 0
@@ -38,8 +37,6 @@ def analyze_file(filepath):
             continue
 
         # Detectar si es "new text" o "translated text"
-        is_new = "-- new text" in block
-        is_translated = "-- translated text" in block
 
         # Encontrar todas las t() en este bloque
         t_calls = re.findall(r't\(("[^"]*"\s*,\s*"[^"]*"\s*,\s*"[^"]*")\)', block)
@@ -152,12 +149,12 @@ def main():
 
     # Consejos
     print("  💡 CONSEJOS:")
-    print(f"     Para traducir, edita los archivos en translations/es/")
-    print(f"     Cambia el segundo parámetro de t() por la traducción:")
-    print(f'       t("original", "TRADUCCIÓN", "tipo")')
+    print("     Para traducir, edita los archivos en translations/es/")
+    print("     Cambia el segundo parámetro de t() por la traducción:")
+    print('       t("original", "TRADUCCIÓN", "tipo")')
     print()
-    print(f"     Luego usa 'Rearrange translation files' en el juego")
-    print(f"     para actualizar los archivos en ~/.t-engine/4.0/tome/user-i18n/es/")
+    print("     Luego usa 'Rearrange translation files' en el juego")
+    print("     para actualizar los archivos en ~/.t-engine/4.0/tome/user-i18n/es/")
     print()
 
 

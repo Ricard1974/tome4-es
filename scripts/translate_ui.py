@@ -5,7 +5,6 @@ Cubre: engine, CharacterSheet, GameOptions, LevelupDialog,
 UseTalents, DeathDialog, Birther, MapMenu, Donation.
 """
 
-import re
 from pathlib import Path
 
 BASE = Path(__file__).parent.parent
