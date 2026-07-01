@@ -7,7 +7,7 @@
 t("<Scroll mode, press direction keys to scroll, press again to exit>", "■Modo de desplazamiento, teclas de dirección de prensa para desplazarse, presionar de nuevo para salir", "_t")
 t("Main character", "Carácter principal", "_t")
 t("Character Creation ( %s unlocked options)", "Creación de caracteres ( %s opciones desbloqueadas)", "tformat")
-t("Welcome to #LIGHT_BLUE#Tales of Maj'Eyal", "Bienvenido a #LIGHT_BLUE#Tales de Maj'Eyal", "_t")
+t("Welcome to #LIGHT_BLUE#Tales of Maj'Eyal", "Bienvenido a #LIGHT_BLUE#Tales of Maj'Eyal", "_t")
 t("%s the %s %s", "¿Por qué%s%s%s", "tformat")
 t("#LIGHT_RED#You may not change level so soon after a kill (%d game turns left to wait)!", "#LIGHT_RED#Tú no puedes cambiar el nivel tan pronto después de un asesinato ( %d juego gira a la izquierda a esperar)!", "logPlayer")
 t("#LIGHT_RED#You may not change level without your own body!", "#LIGHT RED #No puedes cambiar de nivel sin tu propio cuerpo!", "logPlayer")

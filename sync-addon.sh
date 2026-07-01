@@ -13,18 +13,15 @@ if [ ! -d "$WIN_ADDONS" ]; then
     exit 1
 fi
 
-echo "🗑️  Limpiando addon anterior..."
+echo "🗑️  Limpiando addon anterior (directorio + .teaa)..."
 rm -rf "$WIN_ADDONS/tome-spanish" 2>/dev/null
-
-echo "📦 Copiando addon (directorio)..."
-cp -r "$WSL_DIR/tome-spanish" "$WIN_ADDONS/tome-spanish"
+rm -f "$WIN_ADDONS/tome-spanish.teaa"
 
 echo "📦 Copiando addon (.teaa)..."
 cp "$WSL_DIR/tome-spanish.teaa" "$WIN_ADDONS/tome-spanish.teaa"
 
-if [ -d "$WIN_ADDONS/tome-spanish" ] && [ -f "$WIN_ADDONS/tome-spanish.teaa" ]; then
+if [ -f "$WIN_ADDONS/tome-spanish.teaa" ]; then
     echo "✅ Addon sincronizado correctamente"
-    echo "   📁 $WIN_ADDONS/tome-spanish"
     echo "   📦 $WIN_ADDONS/tome-spanish.teaa"
     echo ""
     echo "📋 Próximos pasos:"

@@ -4,7 +4,7 @@ Traducción completa al español (de España) de **Tales of Maj'Eyal 1.7.6**.
 
 ## Características
 
-- ✅ **~22.647 strings traducidos** (96%) — interfaz, talentos, objetos, diálogos, lore, menús
+- ✅ **~22.657 strings traducidos** (96%) — interfaz, talentos, objetos, diálogos, lore, menús
 - ✅ **Descripciones de talentos traducidas** — las traducciones más completas disponibles, ningún otro idioma las incluye
 - ✅ **Menú principal en español** — incluye `boot-spanish.teaa`
 - ✅ **Placeholders protegidos** — `%d`, `%s`, `#Source#`, `#LIGHT_GREEN#` no se dañan al traducir
@@ -29,7 +29,7 @@ más correcciones manuales de traducciones incorrectas:
 | Palabras duplicadas | 10 |
 | Traducciones de interfaz corregidas manualmente (color tags, placeholders corruptos) | 27 |
 | Formato `%d`/`%s`/`%0.2f` restaurados en traducciones | 90 |
-| Spanglish corregido (atributos, efectos, términos UI) | ~40 |
+| Spanglish corregido (atributos, efectos, términos UI, descripciones de talentos) | 208 |
 | Líneas corruptas con `#####` reparadas | 13 |
 
 Los scripts de corrección son `scripts/fix_quality.py`, `scripts/fix_format_specifiers.py` y `scripts/fix_spanglish.py`.

@@ -14,7 +14,7 @@ t("This potent elixir can give insights into martial combat to those unlucky eno
 t("%s quaffs the %s!", "¡%s bebe %s!", "_t")
 t("#VIOLET#You seem to understand the basic martial pratices. (Combat Training talents unlocked)", "#VIOLET# Pareces entender las prácticas marciales básicas. (Combat Formación talentos desbloqueados)", "logPlayer")
 t("#VIOLET#You seem to now know how to properly use a bow or a sling.", "#VIOLET#Ahora pareces saber cómo usar correctamente un arco o un sling.", "logPlayer")
-t("#VIOLET#Images of yourself beating people with a stick spring into your mind. (Staff Combat category can be bought)", "#VIOLET #Images of you beating people with a stick spring into your mind. (Se puede comprar la categoría de combate de personal)", "logPlayer")
+t("#VIOLET#Images of yourself beating people with a stick spring into your mind. (Staff Combat category can be bought)", "#VIOLET#Imágenes de ti mismo golpeando gente con un bastón surgen en tu mente. (Se puede comprar la categoría de Combate con Bastón)...", "logPlayer")
 t("#VIOLET#You suddenly understand how to channel your mental force through mindstars. (Mindstar Mastery category can be bought)", "#VIOLET#De repente entiendes cómo canalizar tu fuerza mental a través de las estrellas mentales. (Mindstar Mastery categoría se puede comprar)", "logPlayer")
 t("#VIOLET#It seems you already knew all the elixir could teach you.", "#VIOLET# Parece que ya sabías que todo el elixir podía enseñarte.", "logPlayer")
 t("Antimagic Wyrm Bile Extract", "Extracto Antimagic Wyrm Bile", "entity name")

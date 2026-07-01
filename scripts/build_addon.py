@@ -29,6 +29,7 @@ FILE_MAP = {
     "tome-addon-dev.lua": LOCALE_DIR / "es.lua",
     "tome-items-vault.lua": LOCALE_DIR / "es.lua",
     "tome-remote-designer.lua": LOCALE_DIR / "es.lua",
+    "_append.lua": LOCALE_DIR / "es.lua",  # Entradas adicionales (no en split sections)
     "mod-example.lua": None,  # Ignorar
     "mod-example_realtime.lua": None,  # Ignorar
 }

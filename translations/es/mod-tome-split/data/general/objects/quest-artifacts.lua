@@ -48,7 +48,7 @@ t("You found a Rod of Recall. You can use it to quickly get out of your current 
 t("chest", "pecho", "entity type")
 t("sher'tul", "ella no vas", "entity subtype")
 t("Transmogrification Chest", "Chest de transmogrificación", "entity name")
-t("transmogrify all the items in your chest at once (also done automatically when you change level)", "transmogrify all the items in your chest at once (también made automatically when you change level)", "_t")
+t("transmogrify all the items in your chest at once (also done automatically when you change level)", "transmuta todos los objetos en tu cofre de una vez (también se hace automáticamente cuando cambias de nivel)...", "_t")
 t("Transmogrification Chest", "Chest de transmogrificación", "_t")
 t("Make the Transmogrification Chest the default item's destroyer?", "Hacer la Transmogrificación ¿Preparar el destructor del elemento predeterminado?", "_t")
 t("You do not have any items to transmogrify in your chest or on the floor.", "Tú no tienes ningún artículo para transmogrificar en tu pecho o en el suelo.", "_t")

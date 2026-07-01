@@ -48,7 +48,7 @@ t("A sling with an inscription on its handle: 'May the wielder be granted cunnin
 t("When dropping below 30% max HP, you gain 20% attack speed, lose 100% fatigue, and your shots don't consume ammo for 5 turns. 30 turns cd.", "Al bajar por debajo del 30% max HP, tú ganas 20% velocidad de ataque, perder 100% fatiga, y sus disparos no consumen munición por 5 vueltas. 30 vueltas cd.", "_t")
 t("Orc Feller", "Orco Feller", "entity name")
 t("shining dagger", "brillante daga", "_t")
-t("During the invasion of Eldoral the Halfling Rogue Herah is said to have slain over one hundred orcs while defending a group of refugees.", "During the invasion of Eldoral the Halfling Rogue Herah is said to have slain over one hundred orcs while defending a group of refugees.", "_t")
+t("During the invasion of Eldoral the Halfling Rogue Herah is said to have slain over one hundred orcs while defending a group of refugees.", "Durante la invasión de Eldoral, se dice que la Halfling Rogue Herah mató a más de cien orcos mientras defendía a un grupo de refugiados.", "_t")
 t("#LIGHT_BLUE#Herah's guile and luck is with you, her successor!", "#LIGHT BLUE #El engaño y la suerte de Herah están contigo, ¡tu sucesor!", "logPlayer")
 t("Nature's Vengeance", "La venganza de la naturaleza", "entity name")
 t("thick wooden mace", "gruesa maza de madera", "_t")

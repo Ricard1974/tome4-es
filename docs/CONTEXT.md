@@ -11,7 +11,7 @@ Traducción al español (de España) de **Tales of Maj'Eyal 1.7.6**.
 Un addon que se instala en `game/addons/` del juego.
 
 **Archivos resultantes:**
-- `tome-spanish.teaa` — addon principal (1.582 KB, 22.647 cadenas)
+- `tome-spanish.teaa` — addon principal (1.6 MB, 22.657 cadenas)
 - `boot-spanish.teaa` — menú principal (15 KB, incluido dentro del principal en el build)
 
 **Repo**: https://github.com/Ricard1974/tome4-es  

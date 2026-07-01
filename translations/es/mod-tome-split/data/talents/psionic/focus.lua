@@ -6,7 +6,7 @@
 
 t("Mindlash", "Latigazo mental", "talent name")
 t("Pyrokinesis", "Pirokinesis", "talent name")
-t("Telekinetically energize the matter of all foes within %d squares at the molecular level, setting them ablaze. This does %0.1f fire damage over six turns.", "Telekinetically energize the matter of all foes within %d squares at the molecular level, setting them ablaze. Esto haces daño al fuego en seis turnos.%0.1f", "tformat")
+t("Telekinetically energize the matter of all foes within %d squares at the molecular level, setting them ablaze. This does %0.1f fire damage over six turns.", "Energiza telequinéticamente la materia de todos los enemigos dentro de %d casillas a nivel molecular, incendiándolos. Esto inflige %0.1f de daño de fuego durante seis turnos.", "tformat")
 t("Brain Storm", "Brain Tormenta", "talent name")
 t("Iron Will", "Iron Voluntad", "talent name")
 t("#ORCHID#%s has recovered!", "¡Se ha recuperado!%s", "logSeen")

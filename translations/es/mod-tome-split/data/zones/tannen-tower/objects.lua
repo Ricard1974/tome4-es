@@ -17,6 +17,6 @@ t("Orb of Many Ways", "Orb of Many Ways", "entity name")
 t("swirling orb", "orbe giratorio", "_t")
 t("activate a portal", "activar un portal", "_t")
 t("There is no portal to activate here.", "No hay portal para activar aquí.", "logPlayer")
-t("tattered paper scrap", "pedazo de papel tattered", "entity name")
+t("tattered paper scrap", "recorte de papel viejo", "entity name")
 t("A paper scrap, left by Tannen.", "Un trozo de papel, dejado por Tannen.", "_t")
 

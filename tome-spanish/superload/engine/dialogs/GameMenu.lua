@@ -13,14 +13,14 @@ if _M.generateList then
 		for _, item in ipairs(self.list) do
 			if item[1] == "Resume" then item[1] = "Reanudar"
 			elseif item[1] == "Language" then item[1] = "Idioma"
-			elseif item[1] == "Key Bindings" then item[1] = "Teclas"
-			elseif item[1] == "Video Options" then item[1] = "Opciones de video"
-			elseif item[1] == "Display Resolution" then item[1] = "Resolucion de pantalla"
-			elseif item[1] == "Show Achievements" then item[1] = "Ver logros"
+			elseif item[1] == "Key Bindings" then item[1] = "Asignación de teclas"
+			elseif item[1] == "Video Options" then item[1] = "Opciones de vídeo"
+			elseif item[1] == "Display Resolution" then item[1] = "Resolución de pantalla"
+			elseif item[1] == "Show Achievements" then item[1] = "Mostrar logros"
 			elseif item[1] == "Audio Options" then item[1] = "Opciones de audio"
 			elseif item[1] == "Developer Mode" then item[1] = "Modo desarrollador"
 			elseif item[1] == "Save Game" then item[1] = "Guardar partida"
-			elseif item[1] == "Main Menu" then item[1] = "Menu principal"
+			elseif item[1] == "Main Menu" then item[1] = "Menú principal"
 			elseif item[1] == "Exit Game" then item[1] = "Salir del juego"
 			end
 		end
