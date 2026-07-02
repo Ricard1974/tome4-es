@@ -102,6 +102,38 @@ python3 scripts/build_addon.py --package
 
 Los archivos `tome-spanish.teaa` y `boot-spanish.teaa` se generarán en la raíz del proyecto.
 
+### Subir el addon a te4.org
+
+Para publicar el addon en el sitio oficial de ToME4:
+
+1. **Preparar las carpetas** (no los archivos `.teaa`):
+   ```bash
+   # Copiar las carpetas del addon al directorio de addons del juego
+   cp -r tome-spanish /mnt/c/games/t-engine4-windows-1.7.6/game/addons/
+   cp -r boot-spanish /mnt/c/games/t-engine4-windows-1.7.6/game/addons/
+   ```
+
+2. **Configurar el juego**:
+   - Abre ToME4
+   - Ve a **Options → Developer mode → Yes**
+   - Ve a **Options → Addons** y activa **"Addon Developer"**
+
+3. **Crear personaje y subir**:
+   - Crea un personaje nuevo con el addon de traducción activado
+   - Entra al juego y presiona **Ctrl+A** para abrir el menú debug
+   - Selecciona **"Addon Developer"**
+   - Elige **"Publish the addon to the te4.org website"**
+   - El juego empaquetará y subirá el addon automáticamente
+
+4. **Datos del addon**:
+   - **Name**: `Spanish Translation for ToME`
+   - **Short name**: `spanish`
+   - **Author**: `Ricard1974`
+   - **Version**: `1.2.0`
+   - **Tags**: `spanish, translation, español`
+
+**Nota importante**: No uses los archivos `.teaa` para subir. El juego necesita las carpetas con la estructura completa (init.lua, data/, hooks/, superload/).
+
 ### Flujo completo de traducción (con protección de placeholders)
 
 ```bash

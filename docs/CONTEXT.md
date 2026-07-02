@@ -275,6 +275,9 @@ Si retomas este proyecto, carga estos skills:
 
 | Commit | Descripción |
 |--------|-------------|
+| `21989a6` | Bump version to 1.2.0 |
+| `5715fd8` | Corregidas 208 entradas spanglish + paths de locale |
+| `19bfb27` | Actualización masiva — build, docs, scripts |
 | `8919199` | Depuración completa de errores en traducciones |
 | `2bc292c` | Traducidas 96 cadenas de interfaz + 27 correcciones manuales |
 | `9fab2cd` | Licencia GPL v2+ |
@@ -285,6 +288,64 @@ Si retomas este proyecto, carga estos skills:
 | `3283121` | 186 `%%` reparados en mod-tome.lua |
 | `7c12e7f` | 2.247 placeholders `%s`/`%d` reparados |
 | `97f7b24` | Traducción completa 91.8% (18.950/20.641) |
+
+---
+
+## 13. Publicación del addon en te4.org
+
+### Requisitos previos
+- Cuenta en te4.org
+- ToME4 instalado (Steam, GOG o standalone)
+- Addon compilado y probado localmente
+
+### Proceso de subida
+
+**IMPORTANTE**: Para subir a te4.org se usan las **carpetas**, NO los archivos `.teaa`.
+
+1. **Copiar carpetas al directorio de addons**:
+   ```bash
+   # Desde WSL
+   cp -r tome-spanish /mnt/c/games/t-engine4-windows-1.7.6/game/addons/
+   cp -r boot-spanish /mnt/c/games/t-engine4-windows-1.7.6/game/addons/
+   ```
+
+2. **Configurar el juego**:
+   - Options → Developer mode → Yes
+   - Options → Addons → Activar "Addon Developer"
+
+3. **Crear personaje y subir**:
+   - Crear personaje nuevo con el addon activado
+   - Entrar al juego → Ctrl+A → Addon Developer
+   - Seleccionar "Publish the addon to the te4.org website"
+
+4. **Datos del addon**:
+   - Name: `Spanish Translation for ToME`
+   - Short name: `spanish`
+   - Author: `Ricard1974`
+   - Version: `1.2.0`
+   - Tags: `spanish, translation, español`
+
+### Estructura de carpetas requerida
+```
+tome-spanish/
+├── init.lua
+├── data/
+│   └── locales/
+│       ├── es.lua
+│       └── engine/
+│           └── es.lua
+├── hooks/
+│   └── load.lua
+└── superload/
+    └── engine/
+        └── dialogs/
+            └── GameMenu.lua
+```
+
+### Notas
+- El juego empaqueta automáticamente al subir
+- No mezclar carpetas y archivos `.teaa` del mismo addon (causa conflictos)
+- Para actualizar: repetir el proceso con la nueva versión
 
 ---
 
